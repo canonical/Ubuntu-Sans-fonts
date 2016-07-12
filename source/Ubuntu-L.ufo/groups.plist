@@ -1250,7 +1250,7 @@
 		<array>
 			<string>Phi</string>
 		</array>
-		<key>public.kern1.GRK_Pi_UC</key>
+		<key>public.kern1.GRK_Pi_UC_FIRST</key>
 		<array>
 			<string>Pi</string>
 		</array>
@@ -1826,12 +1826,6 @@
 			<string>cdotaccent</string>
 			<string>ccaron</string>
 			<string>uni023C</string>
-		</array>
-		<key>public.kern1.LAT_d_LC_FIRST</key>
-		<array>
-			<string>d</string>
-			<string>dcaron</string>
-			<string>dcroat</string>
 		</array>
 		<key>public.kern1.LAT_dcaron_LC_FIRST</key>
 		<array>
@@ -2922,10 +2916,6 @@
 		<key>public.kern2.GRK_Phi_UC</key>
 		<array>
 			<string>Phi</string>
-		</array>
-		<key>public.kern2.GRK_Pi_UC</key>
-		<array>
-			<string>Pi</string>
 		</array>
 		<key>public.kern2.GRK_Psi_UC</key>
 		<array>
