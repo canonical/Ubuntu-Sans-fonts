@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="2">
+	<unicode hex="00C6"/>
+	<advance width="915"/>
+	<outline>
+		<contour>
+			<point x="876" y="0" type="line"/>
+			<point x="876" y="59" type="line"/>
+			<point x="532" y="59" type="line"/>
+			<point x="532" y="335" type="line"/>
+			<point x="814" y="335" type="line"/>
+			<point x="814" y="393" type="line"/>
+			<point x="532" y="393" type="line"/>
+			<point x="532" y="634" type="line"/>
+			<point x="850" y="634" type="line"/>
+			<point x="850" y="693" type="line"/>
+			<point x="433" y="693" type="line"/>
+			<point x="290" y="496"/>
+			<point x="151" y="285"/>
+			<point x="6" y="0" type="curve"/>
+			<point x="76" y="0" type="line"/>
+			<point x="108" y="64"/>
+			<point x="142" y="127"/>
+			<point x="177" y="190" type="curve"/>
+			<point x="464" y="190" type="line"/>
+			<point x="464" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="464" y="637" type="curve"/>
+			<point x="464" y="248" type="line"/>
+			<point x="210" y="248" type="line"/>
+			<point x="288" y="384"/>
+			<point x="372" y="514"/>
+		</contour>
+	</outline>
+	<guideline x="532"/>
+	<guideline y="634"/>
+</glyph>

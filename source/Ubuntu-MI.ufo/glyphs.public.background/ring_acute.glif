@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ring_acute" format="2">
+	<outline>
+		<contour>
+			<point x="250" y="929" type="line"/>
+			<point x="94" y="848" type="line"/>
+			<point x="120" y="790" type="line"/>
+			<point x="284" y="852" type="line"/>
+		</contour>
+		<contour>
+			<point x="286" y="679" type="curve" smooth="yes"/>
+			<point x="286" y="739"/>
+			<point x="240" y="774"/>
+			<point x="189" y="774" type="curve" smooth="yes"/>
+			<point x="137" y="774"/>
+			<point x="92" y="739"/>
+			<point x="92" y="679" type="curve" smooth="yes"/>
+			<point x="92" y="618"/>
+			<point x="137" y="583"/>
+			<point x="189" y="583" type="curve" smooth="yes"/>
+			<point x="240" y="583"/>
+			<point x="286" y="618"/>
+		</contour>
+		<contour>
+			<point x="232" y="679" type="curve" smooth="yes"/>
+			<point x="232" y="650"/>
+			<point x="212" y="633"/>
+			<point x="189" y="633" type="curve" smooth="yes"/>
+			<point x="166" y="633"/>
+			<point x="145" y="650"/>
+			<point x="145" y="679" type="curve" smooth="yes"/>
+			<point x="145" y="707"/>
+			<point x="166" y="724"/>
+			<point x="189" y="724" type="curve" smooth="yes"/>
+			<point x="212" y="724"/>
+			<point x="232" y="707"/>
+		</contour>
+	</outline>
+</glyph>
