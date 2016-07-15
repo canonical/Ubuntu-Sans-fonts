@@ -670,10 +670,8 @@ feature dnom { # Denominators
 	} dnom_text;
  language AZE ; # Azeri
  language TRK ; # Turkish
- language MOL ; # Moldavian
- language ROM ; # Romanian
  language CRT ; # Crimean Tatar
- 
+
  script grek; # Greek
  		lookup dnom_text;
  script cyrl; # Cyrillic
@@ -684,7 +682,7 @@ feature dnom { # Denominators
 } dnom;
 
 feature sups { # Superscript
- # Latin
+ script latn; # Latin
  lookup sups_text{
 	sub @FIG_DFLT by @FIG_SUPS;
 	sub @FIG_ALT by @FIG_SUPS;
@@ -694,10 +692,8 @@ feature sups { # Superscript
  } sups_text;
  language AZE ; # Azeri
  language TRK ; # Turkish
- language MOL ; # Moldavian
- language ROM ; # Romanian
  language CRT ; # Crimean Tatar
- 
+
  script grek; # Greek
  		lookup sups_text;
  script cyrl; # Cyrillic
@@ -708,7 +704,7 @@ feature sups { # Superscript
 } sups;
 
 feature subs { # Subscripts
-# Latin
+ script latn; # Latin
 lookup sub1 {
 	sub @FIG_DFLT by @FIG_SINF;
 	sub @FIG_ALT by @FIG_SINF;
@@ -718,10 +714,8 @@ lookup sub1 {
 } sub1;
  language AZE ; # Azeri
  language TRK ; # Turkish
- language MOL ; # Moldavian
- language ROM ; # Romanian
  language CRT ; # Crimean Tatar
- 
+
  script grek; # Greek
  		lookup sub1;
  script cyrl; # Cyrillic
@@ -731,7 +725,7 @@ lookup sub1 {
 } subs;
 
 feature sinf { # Scientific Inferiors
-# Latin
+ script latn; # Latin
 lookup sin1 {
 	sub @FIG_DFLT by @FIG_SINF;
 	sub @FIG_ALT by @FIG_SINF;
@@ -741,10 +735,8 @@ lookup sin1 {
 } sin1;
  language AZE ; # Azeri
  language TRK ; # Turkish
- language MOL ; # Moldavian
- language ROM ; # Romanian
  language CRT ; # Crimean Tatar
- 
+
  script grek; # Greek
  		lookup sin1;
  script cyrl; # Cyrillic
@@ -755,7 +747,7 @@ lookup sin1 {
 } sinf;
 
 feature frac { # Fractions
- # Latin
+ script latn; # Latin
 lookup frac12 {
 	sub [slash uni2215] by fraction;
 } frac12;
@@ -826,7 +818,7 @@ lookup frac15 {
 } frac;
 
 feature case { # Case-Sensitive Forms
- # Latin
+ script latn; # Latin
 	lookup case_add {
 		sub dotlessj by J;
 		sub longs by S;
@@ -847,11 +839,11 @@ feature case { # Case-Sensitive Forms
 	lookup case_dflt;
  language SRB ; # Serbian
  language MKD ; # Macedonian
- language BGR ; # Bulgarian 
 } case;
 
 feature liga { # Standard Ligatures
  # Latin
+ script latn; # Latin
 	sub f f i by f_f_i;
 	sub f f l by f_f_l;
 	sub f f by f_f;
@@ -859,8 +851,6 @@ feature liga { # Standard Ligatures
 	sub f l by f_l;
  language AZE ; # Azeri
  language TRK ; # Turkish
- language MOL ; # Moldavian
- language ROM ; # Romanian
  language CRT ; # Crimean Tatar
  script grek; # Greek
 	sub f f i by f_f_i;
@@ -874,12 +864,9 @@ feature liga { # Standard Ligatures
 	sub f f by f_f;
 	sub f i by f_i;
 	sub f l by f_l;
- language SRB ; # Serbian
- language MKD ; # Macedonian
 } liga;
 
 feature ss01 { # Greek Stylistic Alternates
- # Latin
 lookup salt01 {
 	sub @AlphaSub by @AlphaSub.alt;
 } salt01;
@@ -899,33 +886,20 @@ lookup salt03;
 
 } ss01;
 
-feature ss02 {
-  sub ampersand by ampersand.001;
-} ss02;
-
 feature salt { # Stylistic Alternates
- # Latin
 lookup salt01;
-#	sub @AlphaSub by @AlphaSub.alt; 
-
 lookup salt02;
-#	sub @EtaSub by @EtaSub.alt;
-
-
 lookup salt03;
-#	sub @OmegaSub by @OmegaSub.alt;
-
 
  script grek; # Greek
 lookup salt01;
 lookup salt02;
 lookup salt03;
 
-
 } salt;
 
 feature kern { # Kerning
- # Latin
+ script latn; # Latin
  lookup kern10 {
    enum pos @_LAT_f_LC_FIRST ibreve 42;
    enum pos @_LAT_f_LC_FIRST imacron 31;
