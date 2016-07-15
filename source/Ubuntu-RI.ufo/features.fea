@@ -1,40 +1,639 @@
+@_CYR_afii10017_UC = [afii10017 uni04D0 uni04D2];
+@_CYR_afii10018_UC_FIRST = [afii10018 uni0462 uni0494];
+@_CYR_afii10019_UC_FIRST = [afii10019 afii10025 uni0498 uni04DE];
+@_CYR_afii10020_UC_FIRST = [afii10020 afii10052 afii10050 uni0492 uni04F6];
+@_CYR_afii10021_UC = [afii10021];
+@_CYR_afii10022_UC_FIRST = [afii10022 afii10023 uni0400 uni04D6];
+@_CYR_afii10028_UC_FIRST = [afii10028 afii10061 uni049A uni049C uni049E uni04A0 afii10024 uni0496 uni04C1 uni04DC];
+@_CYR_afii10030_UC_FIRST = [afii10030];
+@_CYR_afii10031_UC_FIRST = [afii10031 afii10026 afii10027 afii10029 uni040D uni04E2 uni04E4 afii10042 afii10045 uni04C0 afii10055 afii10056 afii10145 afii10033 uni04CF uni04F8];
+@_CYR_afii10032_UC_FIRST = [afii10032 afii10048 uni0472 uni04E6 uni04E8 uni04EA];
+@_CYR_afii10034_UC_FIRST = [afii10034];
+@_CYR_afii10035_UC = [afii10035 afii10053 uni04AA];
+@_CYR_afii10036_UC_FIRST = [afii10036 uni04AC uni04A4];
+@_CYR_afii10037_UC_FIRST = [afii10037 afii10062 uni04EE uni04F0 uni04F2];
+@_CYR_afii10038_UC = [afii10038];
+@_CYR_afii10039_UC = [afii10039 uni04B2];
+@_CYR_afii10040_UC_FIRST = [afii10040 afii10043 uni048A uni04A2 uni04B4 uni04B6 uni04C9 uni04CD];
+@_CYR_afii10041_UC_FIRST = [afii10041 uni04B8 uni04CB uni04F4];
+@_CYR_afii10046_UC_FIRST = [afii10046 afii10058 afii10044 afii10059 uni048C uni04A6];
+@_CYR_afii10047_UC = [afii10047 uni04EC];
+@_CYR_afii10049_UC = [afii10049];
+@_CYR_afii10051_UC = [afii10051];
+@_CYR_afii10054_UC = [afii10054];
+@_CYR_afii10057_UC_FIRST = [afii10057 uni04C7];
+@_CYR_afii10060_UC = [afii10060];
+@_CYR_afii10065_LC_FIRST = [afii10065 uni04D1 uni04D3 afii10069.locl.ita];
+@_CYR_afii10066_LC_FIRST = [afii10066 afii10066.locl];
+@_CYR_afii10067_LC = [afii10067];
+@_CYR_afii10068_LC_FIRST = [afii10068 afii10100 uni0493 uni04F7];
+@_CYR_afii10069_LC = [afii10069];
+@_CYR_afii10070_LC = [afii10070 afii10071 uni0450 uni04D7];
+@_CYR_afii10072_LC = [afii10072 uni0497 uni04C2 uni04DD];
+@_CYR_afii10073_LC = [afii10073 uni0499 uni04DF uni04ED];
+@_CYR_afii10074_LC_FIRST = [afii10074 afii10075 afii10090 uni045D afii10193 afii10081.locl.ita uni04E3 uni04E5 afii10084.locl.ita];
+@_CYR_afii10076_LC = [afii10076 afii10109 uni049B uni049D uni049F uni04A1];
+@_CYR_afii10077_LC_FIRST = [afii10077];
+@_CYR_afii10078_LC_FIRST = [afii10078];
+@_CYR_afii10079_LC_FIRST = [afii10079 afii10093 uni04F9 afii10089 uni04CC];
+@_CYR_afii10080_LC_FIRST = [afii10080 uni0473 uni04E7 uni04E9 uni04EB];
+@_CYR_afii10081_LC_FIRST = [afii10081 afii10084];
+@_CYR_afii10082_LC = [afii10082 uni048F];
+@_CYR_afii10083_LC = [afii10083 uni04AB];
+@_CYR_afii10085_LC_FIRST = [afii10085 afii10110 uni04EF uni04F1 uni04F3];
+@_CYR_afii10086_LC = [afii10086];
+@_CYR_afii10087_LC = [afii10087 uni04B3];
+@_CYR_afii10088_LC_FIRST = [afii10088 afii10091 uni048B uni04A3 uni04B7 uni04C6 uni04CA uni04CE uni04B5];
+@_CYR_afii10092_LC_FIRST = [afii10092 afii10094 afii10106 afii10107 uni048D];
+@_CYR_afii10095_LC = [afii10095];
+@_CYR_afii10096_LC = [afii10096];
+@_CYR_afii10097_LC = [afii10097];
+@_CYR_afii10098_LC_FIRST = [afii10098];
+@_CYR_afii10099_LC = [afii10099];
+@_CYR_afii10101_LC = [afii10101];
+@_CYR_afii10102_LC = [afii10102];
+@_CYR_afii10103_LC = [afii10103 afii10104 afii10068.locl.ita];
+@_CYR_afii10105_LC = [afii10105];
+@_CYR_afii10108_LC = [afii10108];
+@_CYR_uni0463_LC = [uni0463];
+@_CYR_uni0474_UC_FIRST = [uni0474];
+@_CYR_uni0475_LC_FIRST = [uni0475];
+@_CYR_uni0495_LC_FIRST = [uni0495];
+@_CYR_uni04A7_LC_FIRST = [uni04A7];
+@_CYR_uni04A8_UC = [uni04A8];
+@_CYR_uni04A9_LC = [uni04A9];
+@_CYR_uni04AE_UC = [uni04AE uni04B0];
+@_CYR_uni04AF_LC = [uni04AF uni04B1];
+@_CYR_uni04BA_UC = [uni04BA];
+@_CYR_uni04BB_LC = [uni04BB];
+@_CYR_uni04BC_UC = [uni04BC uni04BE];
+@_CYR_uni04BD_LC = [uni04BD uni04BF];
+@_CYR_uni04C3_UC = [uni04C3];
+@_CYR_uni04C4_LC_FIRST = [uni04C4];
+@_CYR_uni04D4_UC = [uni04D4];
+@_CYR_uni04D5_LC = [uni04D5];
+@_CYR_uni04D8_UC = [uni04D8 uni04DA];
+@_CYR_uni04D9_LC = [uni04D9 uni04DB];
+@_CYR_uni04E0_UC = [uni04E0];
+@_CYR_uni04E1_LC = [uni04E1];
+@_FIG_eightALT = [eight.alt];
+@_FIG_fiveALT = [five.alt];
+@_FIG_fourALT = [four.alt];
+@_FIG_nineALT = [nine.alt];
+@_FIG_oneALT = [one.alt];
+@_FIG_sevenALT = [seven.alt];
+@_FIG_sixALT = [six.alt];
+@_FIG_threeALT = [three.alt];
+@_FIG_twoALT = [two.alt];
+@_FIG_zeroALT = [zero.alt];
+@_FIG_zeroDFLT = [zero];
+@_GRK_Alpha_UC_FIRST = [Alpha Alphatonos uni1F08 uni1F09 uni1F0A uni1F0B uni1F0C uni1F0D uni1F0E uni1F0F uni1FB8 uni1FB9 uni1FBA uni1FBB uni1F88.alt uni1F89.alt uni1F8A.alt uni1F8B.alt uni1F8C.alt uni1F8D.alt uni1F8E.alt uni1F8F.alt];
+@_GRK_Beta_UC = [Beta];
+@_GRK_Chi_UC = [Chi];
+@_GRK_Delta_UC = [uni0394];
+@_GRK_Epsilon_UC_FIRST = [Epsilon Epsilontonos uni1F18 uni1F19 uni1F1A uni1F1B uni1F1C uni1F1D uni1FC8 uni1FC9];
+@_GRK_Eta_UC_FIRST = [Eta Etatonos uni1F28 uni1F29 uni1F2A uni1F2B uni1F2C uni1F2D uni1F2E uni1F2F uni1FCA uni1FCB uni1F98.alt uni1F99.alt uni1F9A.alt uni1F9B.alt uni1F9C.alt uni1F9D.alt uni1F9E.alt uni1F9F.alt];
+@_GRK_Gamma_UC = [Gamma];
+@_GRK_Iota_UC_FIRST = [Iota Iotatonos Iotadieresis uni1F38 uni1F39 uni1F3A uni1F3B uni1F3C uni1F3D uni1F3E uni1F3F uni1FD8 uni1FD9 uni1FDA uni1FDB];
+@_GRK_Kappa_UC = [Kappa];
+@_GRK_Lambda_UC = [Lambda];
+@_GRK_Mu_UC = [Mu];
+@_GRK_Nu_UC = [Nu];
+@_GRK_Omega_UC_FIRST = [Omega Omegatonos uni1F68 uni1F69 uni1F6A uni1F6B uni1F6C uni1F6D uni1F6E uni1F6F uni1FFA uni1FFB uni1FFC.alt uni1FA8.alt uni1FA9.alt uni1FAA.alt uni1FAB.alt uni1FAC.alt uni1FAD.alt uni1FAE.alt uni1FAF.alt];
+@_GRK_Omicron_UC_FIRST = [Omicron Omicrontonos uni1F48 uni1F49 uni1F4A uni1F4B uni1F4C uni1F4D uni1FF8 uni1FF9];
+@_GRK_Phi_UC = [Phi];
+@_GRK_Pi_UC = [Pi];
+@_GRK_Psi_UC = [Psi];
+@_GRK_Rho_UC = [Rho uni1FEC];
+@_GRK_Sigma_UC = [Sigma];
+@_GRK_Tau_UC = [Tau];
+@_GRK_Theta_UC = [Theta];
+@_GRK_Upsilon_UC_FIRST = [Upsilon Upsilontonos Upsilondieresis uni1F59 uni1F5B uni1F5D uni1F5F uni1FE8 uni1FE9 uni1FEA uni1FEB];
+@_GRK_Xi_UC = [Xi];
+@_GRK_Zeta_UC = [Zeta];
+@_GRK_alpha_LC = [alpha alphatonos uni1F00 uni1F01 uni1F02 uni1F03 uni1F04 uni1F05 uni1F06 uni1F07 uni1F70 uni1F71 uni1F80 uni1F81 uni1F82 uni1F83 uni1F84 uni1F85 uni1F86 uni1F87 uni1FB0 uni1FB1 uni1FB2 uni1FB3 uni1FB4 uni1FB6 uni1FB7];
+@_GRK_beta_LC = [beta];
+@_GRK_chi_LC = [chi];
+@_GRK_delta_LC = [delta];
+@_GRK_epsilon_LC = [epsilon epsilontonos uni1F10 uni1F11 uni1F12 uni1F13 uni1F14 uni1F15 uni1F72 uni1F73];
+@_GRK_eta_LC = [eta etatonos uni1F20 uni1F21 uni1F22 uni1F23 uni1F24 uni1F25 uni1F26 uni1F27 uni1F74 uni1F75 uni1F90 uni1F91 uni1F92 uni1F93 uni1F94 uni1F95 uni1F96 uni1F97 uni1FC2 uni1FC3 uni1FC4 uni1FC6 uni1FC7];
+@_GRK_gamma_LC = [gamma];
+@_GRK_iota_LC_FIRST = [iota iotatonos iotadieresis iotadieresistonos uni1F88 uni1F89 uni1F8A uni1F8B uni1F8C uni1F8D uni1F8E uni1F8F uni1F98 uni1F99 uni1F9A uni1F9B uni1F9C uni1F9D uni1F9E uni1F9F uni1FA8 uni1FA9 uni1FAA uni1FAB uni1FAC uni1FAD uni1FAE uni1FAF uni1FBC uni1FCC uni1FFC uni1F30 uni1F31 uni1F32 uni1F33 uni1F34 uni1F35 uni1F36 uni1F37 uni1F76 uni1F77 uni1FD0 uni1FD1 uni1FD2 uni1FD3 uni1FD6 uni1FD7];
+@_GRK_kappa_LC = [kappa];
+@_GRK_lambda_LC = [lambda];
+@_GRK_mu_LC = [uni03BC];
+@_GRK_nu_LC = [nu];
+@_GRK_omega_LC = [omega omegatonos uni1F60 uni1F61 uni1F62 uni1F63 uni1F64 uni1F65 uni1F66 uni1F67 uni1F7C uni1F7D uni1FA0 uni1FA1 uni1FA2 uni1FA3 uni1FA4 uni1FA5 uni1FA6 uni1FA7 uni1FF2 uni1FF3 uni1FF4 uni1FF6 uni1FF7];
+@_GRK_omicron_LC = [omicron omicrontonos uni1F40 uni1F41 uni1F42 uni1F43 uni1F44 uni1F45 uni1F78 uni1F79];
+@_GRK_phi_LC = [phi];
+@_GRK_pi_LC = [pi];
+@_GRK_psi_LC = [psi];
+@_GRK_rho_LC = [rho uni1FE4 uni1FE5];
+@_GRK_sigma1_LC = [sigma1];
+@_GRK_sigma_LC = [sigma];
+@_GRK_tau_LC = [tau];
+@_GRK_theta_LC = [theta];
+@_GRK_upsilon_LC = [upsilon upsilontonos upsilondieresis upsilondieresistonos uni1F50 uni1F51 uni1F52 uni1F53 uni1F54 uni1F55 uni1F56 uni1F57 uni1F7A uni1F7B uni1FE0 uni1FE1 uni1FE2 uni1FE3 uni1FE6 uni1FE7];
+@_GRK_xi_LC = [xi];
+@_GRK_zeta_LC = [zeta];
+@_LAT_A_UC_FIRST = [A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek uni01CD uni01DE uni01E0 Aringacute uni0200 uni0202 uni0226 uni023A uni0245];
+@_LAT_B_UC_FIRST = [B uni0181 uni0243];
+@_LAT_C_UC_FIRST = [C Ccedilla Cacute Ccircumflex Cdotaccent Ccaron uni023B];
+@_LAT_D_UC_FIRST = [D Eth Dcroat Dcaron uni0189 uni018A];
+@_LAT_E_UC_FIRST = [E Egrave Eacute Ecircumflex Edieresis Emacron Ebreve Edotaccent Eogonek Ecaron AE OE uni01E2 AEacute uni0204 uni0206 uni0228 uni0246];
+@_LAT_F_UC_FIRST = [F uni0191];
+@_LAT_G_UC_FIRST = [G Gcircumflex Gbreve Gdotaccent Gcommaaccent uni01E4 Gcaron uni01F4];
+@_LAT_H_UC_FIRST = [H Hcircumflex Hbar uni021E];
+@_LAT_I_UC_FIRST = [I Igrave Iacute Icircumflex Idieresis Itilde Imacron Ibreve Iogonek Idotaccent uni01CF uni0208 uni020A];
+@_LAT_J_UC_FIRST = [J Jcircumflex IJ uni01C7 uni01CA Eng];
+@_LAT_K_UC = [K Kcommaaccent kgreenlandic.case uni0198 uni01E8];
+@_LAT_L_UC_FIRST = [L Lacute Lcommaaccent Lcaron Ldot Lslash];
+@_LAT_M_UC = [M];
+@_LAT_N_UC_FIRST = [N Ntilde Nacute Ncommaaccent Ncaron napostrophe.case uni019D uni01F8];
+@_LAT_O_UC_FIRST = [O Ograve Oacute Ocircumflex Otilde Odieresis Oslash Omacron Obreve Ohungarumlaut uni0186 uni018F uni019F uni01D1 uni01EA uni01EC Oslashacute uni020C uni020E uni022A uni022C uni022E uni0230];
+@_LAT_P_UC_FIRST = [P uni01A4];
+@_LAT_Q_UC = [Q];
+@_LAT_R_UC_FIRST = [R Racute Rcommaaccent Rcaron uni01A6 uni0210 uni0212 uni024C];
+@_LAT_S_UC = [S Sacute Scircumflex Scedilla Scaron Scommaaccent];
+@_LAT_T_UC_FIRST = [T Tcaron Tbar uni021A uni01AC uni01AE uni0162];
+@_LAT_Thorn_UC = [Thorn];
+@_LAT_U_UC_FIRST = [U Ugrave Uacute Ucircumflex Udieresis Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek uni01D3 uni01D5 uni01D7 uni01D9 uni01DB uni0214 uni0216];
+@_LAT_V_UC = [V uni0194];
+@_LAT_W_UC = [W Wcircumflex Wgrave Wacute Wdieresis];
+@_LAT_X_UC = [X];
+@_LAT_Y_UC_FIRST = [Y Yacute Ycircumflex Ydieresis Ygrave uni01B3 uni0232 uni024E];
+@_LAT_Z_UC_FIRST = [Z Zacute Zdotaccent Zcaron uni01C4 uni01F1 uni0224];
+@_LAT_a_LC_FIRST = [a agrave aacute acircumflex atilde adieresis aring amacron abreve aogonek uni01CE uni01DF uni01E1 aringacute uni0201 uni0203 uni0227];
+@_LAT_b_LC_FIRST = [b uni0238];
+@_LAT_bar = [bar];
+@_LAT_c_LC_FIRST = [c ccedilla cacute ccircumflex cdotaccent ccaron uni023C];
+@_LAT_d_LC_FIRST = [d dcroat];
+@_LAT_dcaron_LC_FIRST = [dcaron lcaron];
+@_LAT_e_LC_FIRST = [e egrave eacute ecircumflex edieresis emacron ebreve edotaccent eogonek ecaron ae oe uni01E3 aeacute uni0205 uni0207 uni0229 uni0247];
+@_LAT_eng_LC = [eng];
+@_LAT_eth_LC = [eth];
+@_LAT_f_LC_FIRST = [f f_f florin longs];
+@_LAT_g_LC_FIRST = [g gcircumflex gbreve gdotaccent gcommaaccent uni01E5 gcaron uni01F5];
+@_LAT_germandbls_LC = [germandbls];
+@_LAT_h_LC_FIRST = [h hcircumflex hbar uni021F];
+@_LAT_i_LC_FIRST = [i igrave iacute icircumflex idieresis itilde imacron ibreve iogonek dotlessi fi f_i f_f_i i.locl uni01D0 uni0209 uni020B];
+@_LAT_j_LC_FIRST = [j jcircumflex dotlessj ij uni01C8 uni01C9 uni01CB uni01CC uni01F0];
+@_LAT_k_LC_FIRST = [k kcommaaccent kgreenlandic uni0199 uni01E9];
+@_LAT_l_LC_FIRST = [l lacute lcommaaccent ldot lslash fl f_l f_f_l];
+@_LAT_n_LC_FIRST = [n m ntilde nacute ncommaaccent ncaron napostrophe uni019E uni01F9];
+@_LAT_o_LC_FIRST = [o ograve oacute ocircumflex otilde odieresis oslash omacron obreve ohungarumlaut uni01D2 uni01DD uni01EB uni01ED oslashacute uni020D uni020F uni022B uni022D uni022F uni0231];
+@_LAT_p_LC_FIRST = [p uni01A5 uni0239];
+@_LAT_periodcentered = [periodcentered uni2219];
+@_LAT_q_LC_FIRST = [q];
+@_LAT_r_LC = [r racute rcommaaccent rcaron uni0211 uni0213];
+@_LAT_s_LC_FIRST = [s sacute scircumflex scedilla scaron scommaaccent uni023F];
+@_LAT_t_LC_FIRST = [t tcaron tbar uni021B uni01AB uni01AD uni0163];
+@_LAT_thorn_LC = [thorn];
+@_LAT_u_LC_FIRST = [u ugrave uacute ucircumflex udieresis utilde umacron ubreve uring uhungarumlaut uogonek uni01D4 uni01D6 uni01D8 uni01DA uni01DC uni01F6 uni0215 uni0217];
+@_LAT_v_LC = [v];
+@_LAT_w_LC = [w wcircumflex wgrave wacute wdieresis];
+@_LAT_x_LC = [x];
+@_LAT_y_LC_FIRST = [y yacute ydieresis ycircumflex ygrave uni0233 uni024F];
+@_LAT_z_LC_FIRST = [z zacute zdotaccent zcaron uni01B6 uni01C5 uni01C6 uni01F2 uni01F3 uni0225];
+@_MIS_Ohorn_FIRST = [Ohorn];
+@_MIS_uni0182_FIRST = [uni0182];
+@_MIS_uni0183_FIRST = [uni0183];
+@_MIS_uni0185_FIRST = [uni0185];
+@_MIS_uni0187_FIRST = [uni0187];
+@_MIS_uni0188_FIRST = [uni0188];
+@_MIS_uni018D = [uni018D];
+@_MIS_uni0190 = [uni0190];
+@_MIS_uni0193_FIRST = [uni0193];
+@_MIS_uni0195_FIRST = [uni0195];
+@_MIS_uni0196 = [uni0196];
+@_MIS_uni019B = [uni019B];
+@_MIS_uni019C = [uni019C];
+@_MIS_uni01A2_FIRST = [uni01A2];
+@_MIS_uni01A3_FIRST = [uni01A3];
+@_MIS_uni01A7 = [uni01A7];
+@_MIS_uni01A8 = [uni01A8];
+@_MIS_uni01A9 = [uni01A9];
+@_MIS_uni01AA = [uni01AA];
+@_MIS_uni01B1 = [uni01B1];
+@_MIS_uni01B2 = [uni01B2];
+@_MIS_uni01B4_FIRST = [uni01B4];
+@_MIS_uni01B7 = [uni01B7 uni01EE];
+@_MIS_uni01B8 = [uni01B8];
+@_MIS_uni01B9 = [uni01B9];
+@_MIS_uni01BA = [uni01BA];
+@_MIS_uni01BB = [uni01BB];
+@_MIS_uni01BC = [uni01BC];
+@_MIS_uni01BD = [uni01BD];
+@_MIS_uni01BE = [uni01BE];
+@_MIS_uni01BF = [uni01BF];
+@_MIS_uni01F7 = [uni01F7];
+@_MIS_uni021C = [uni021C];
+@_MIS_uni021D = [uni021D];
+@_MIS_uni0220 = [uni0220];
+@_MIS_uni0221 = [uni0221];
+@_MIS_uni0222 = [uni0222];
+@_MIS_uni0223 = [uni0223];
+@_MIS_uni0234_FIRST = [uni0234 uni0235];
+@_MIS_uni0236_FIRST = [uni0236];
+@_MIS_uni023D = [uni023D];
+@_MIS_uni023E = [uni023E];
+@_MIS_uni0241 = [uni0241];
+@_MIS_uni0242 = [uni0242];
+@_MIS_uni0244 = [uni0244];
+@_MIS_uni0292 = [uni0292 uni01EF];
+@_PUNCT_At = [At];
+@_PUNCT_Backslash = [Backslash];
+@_PUNCT_Braceleft = [Braceleft];
+@_PUNCT_Braceright = [Braceright];
+@_PUNCT_Bracketleft = [Bracketleft];
+@_PUNCT_Bracketright = [Bracketright];
+@_PUNCT_Euro = [Euro];
+@_PUNCT_Guilsinglleft = [Guilsinglleft Guillemotleft];
+@_PUNCT_Guilsinglright = [Guilsinglright Guillemotright];
+@_PUNCT_Hyphen = [Hyphen Endash Emdash];
+@_PUNCT_Parenleft = [Parenleft];
+@_PUNCT_Parenright = [Parenright];
+@_PUNCT_Questiondown = [Questiondown];
+@_PUNCT_Slash = [Slash];
+@_PUNCT_ampersand = [ampersand];
+@_PUNCT_asterisk = [asterisk];
+@_PUNCT_at = [at];
+@_PUNCT_backslash = [backslash];
+@_PUNCT_braceleft = [braceleft];
+@_PUNCT_braceright = [braceright];
+@_PUNCT_bracketleft = [bracketleft];
+@_PUNCT_bracketright = [bracketright];
+@_PUNCT_cent = [cent];
+@_PUNCT_colon = [colon semicolon];
+@_PUNCT_degree = [degree];
+@_PUNCT_dollar = [dollar];
+@_PUNCT_exclamdown = [exclamdown];
+@_PUNCT_guilsinglleft = [guilsinglleft guillemotleft];
+@_PUNCT_guilsinglright = [guilsinglright guillemotright];
+@_PUNCT_hyphen = [hyphen uni00AD endash emdash];
+@_PUNCT_numbersign = [numbersign];
+@_PUNCT_parenleft = [parenleft];
+@_PUNCT_parenright = [parenright];
+@_PUNCT_percent = [percent perthousand];
+@_PUNCT_period = [period comma ellipsis];
+@_PUNCT_question = [question];
+@_PUNCT_questiondown = [questiondown];
+@_PUNCT_quoteleft = [quoteleft quotedblleft];
+@_PUNCT_quoteright = [quoteright quotedblright apostrophe];
+@_PUNCT_quotesinglbase = [quotesinglbase quotedblbase];
+@_PUNCT_quotesingle = [quotesingle quotedbl];
+@_PUNCT_slash = [slash];
+@_PUNCT_sterling = [sterling];
+@_PUNCT_yen = [yen];
+@_CYR_afii10017_UC = [afii10017 uni04D0 uni04D2];
+@_CYR_afii10021_UC = [afii10021];
+@_CYR_afii10024_UC_SECOND = [afii10024 uni0496 uni04C1 uni04DC];
+@_CYR_afii10025_UC_SECOND = [afii10025 uni0498 uni04DE];
+@_CYR_afii10029_UC_SECOND = [afii10029 afii10058 uni04C5];
+@_CYR_afii10030_UC_SECOND = [afii10030 uni04CD];
+@_CYR_afii10031_UC_SECOND = [afii10031 afii10018 afii10019 afii10020 afii10022 afii10026 afii10027 afii10028 afii10040 afii10061 uni049A uni049C uni049E uni04A0 uni040D uni04E2 uni04E4 afii10042 afii10043 afii10045 afii10059 afii10048 uni04A2 uni04C0 afii10055 afii10056 afii10033 afii10034 uni04C9 uni0494 uni04A4 uni04A6 afii10046 uni04C7 uni04CF afii10023 uni0400 uni04D6 uni04F8];
+@_CYR_afii10032_UC_SECOND = [afii10032 uni0472 uni04E6 uni04E8 uni04EA];
+@_CYR_afii10035_UC = [afii10035 afii10053 uni04AA];
+@_CYR_afii10036_UC_SECOND = [afii10036 uni04AC uni04B4 uni0462 afii10044];
+@_CYR_afii10037_UC_SECOND = [afii10037 afii10062 uni04EE uni04F0 uni04F2];
+@_CYR_afii10038_UC = [afii10038];
+@_CYR_afii10039_UC = [afii10039 uni04B2];
+@_CYR_afii10041_UC_SECOND = [afii10041 uni04B8 uni04CB uni04F4 uni04B6];
+@_CYR_afii10047_UC = [afii10047 uni04EC];
+@_CYR_afii10049_UC = [afii10049];
+@_CYR_afii10051_UC = [afii10051];
+@_CYR_afii10054_UC = [afii10054];
+@_CYR_afii10057_UC_SECOND = [afii10057];
+@_CYR_afii10060_UC = [afii10060];
+@_CYR_afii10065_LC_SECOND = [afii10065 uni04D1 uni04D3 afii10069.locl.ita];
+@_CYR_afii10066_LC_SECOND = [afii10066];
+@_CYR_afii10067_LC = [afii10067];
+@_CYR_afii10068_LC_SECOND = [afii10068 afii10100 uni0493 uni04F7];
+@_CYR_afii10069_LC = [afii10069];
+@_CYR_afii10070_LC = [afii10070 afii10071 uni0450 uni04D7];
+@_CYR_afii10072_LC = [afii10072 uni0497 uni04C2 uni04DD];
+@_CYR_afii10073_LC = [afii10073 uni0499 uni04DF uni04ED];
+@_CYR_afii10074_LC_SECOND = [afii10074 afii10075 afii10088 afii10090 uni045D afii10193 afii10081.locl.ita uni04E3 uni04E5 afii10084.locl.ita];
+@_CYR_afii10076_LC = [afii10076 afii10109 uni049B uni049D uni049F uni04A1];
+@_CYR_afii10077_LC_SECOND = [afii10077 afii10106 uni04C6];
+@_CYR_afii10078_LC_SECOND = [afii10078 uni04CE];
+@_CYR_afii10079_LC_SECOND = [afii10079 afii10093 afii10107 afii10094 uni04CA uni04F9 uni0495 uni04A3 uni04A7 uni04C4 uni04C8 uni04A5 afii10098];
+@_CYR_afii10080_LC_SECOND = [afii10080 uni0473 uni04E7 uni04E9 uni04EB afii10066.locl];
+@_CYR_afii10081_LC_SECOND = [afii10081 afii10084 uni04AD];
+@_CYR_afii10082_LC = [afii10082 uni048F];
+@_CYR_afii10083_LC = [afii10083 uni04AB];
+@_CYR_afii10085_LC_SECOND = [afii10085 afii10110 uni04EF uni04F1 uni04F3];
+@_CYR_afii10086_LC = [afii10086];
+@_CYR_afii10087_LC = [afii10087 uni04B3];
+@_CYR_afii10089_LC_SECOND = [afii10089 uni04B7 uni04B9 uni04CC uni04F5];
+@_CYR_afii10091_LC_SECOND = [afii10091];
+@_CYR_afii10092_LC_SECOND = [afii10092];
+@_CYR_afii10095_LC = [afii10095];
+@_CYR_afii10096_LC = [afii10096];
+@_CYR_afii10097_LC = [afii10097];
+@_CYR_afii10099_LC = [afii10099];
+@_CYR_afii10101_LC = [afii10101];
+@_CYR_afii10102_LC = [afii10102];
+@_CYR_afii10103_LC = [afii10103 afii10104 afii10068.locl.ita];
+@_CYR_afii10105_LC = [afii10105];
+@_CYR_afii10108_LC = [afii10108];
+@_CYR_uni0463_LC = [uni0463];
+@_CYR_uni0474_UC_SECOND = [uni0474];
+@_CYR_uni0475_LC_SECOND = [uni0475];
+@_CYR_uni048D_LC_SECOND = [uni048D];
+@_CYR_uni04A8_UC = [uni04A8];
+@_CYR_uni04A9_LC = [uni04A9];
+@_CYR_uni04AE_UC = [uni04AE uni04B0];
+@_CYR_uni04AF_LC = [uni04AF uni04B1];
+@_CYR_uni04BA_UC = [uni04BA];
+@_CYR_uni04BB_LC = [uni04BB];
+@_CYR_uni04BC_UC = [uni04BC uni04BE];
+@_CYR_uni04BD_LC = [uni04BD uni04BF];
+@_CYR_uni04C3_UC = [uni04C3];
+@_CYR_uni04D4_UC = [uni04D4];
+@_CYR_uni04D5_LC = [uni04D5];
+@_CYR_uni04D8_UC = [uni04D8 uni04DA];
+@_CYR_uni04D9_LC = [uni04D9 uni04DB];
+@_CYR_uni04E0_UC = [uni04E0];
+@_CYR_uni04E1_LC = [uni04E1];
+@_FIG_eightALT = [eight.alt];
+@_FIG_fiveALT = [five.alt];
+@_FIG_fourALT = [four.alt];
+@_FIG_nineALT = [nine.alt];
+@_FIG_oneALT = [one.alt];
+@_FIG_sevenALT = [seven.alt];
+@_FIG_sixALT = [six.alt];
+@_FIG_threeALT = [three.alt];
+@_FIG_twoALT = [two.alt];
+@_FIG_zeroALT = [zero.alt];
+@_FIG_zeroDFLT = [zero];
+@_GRK_Alpha_UC_SECOND = [Alpha uni1FB8 uni1FB9 uni1FBC.alt];
+@_GRK_Beta_UC = [Beta];
+@_GRK_Chi_UC = [Chi];
+@_GRK_Delta_UC = [uni0394];
+@_GRK_Epsilon_UC_SECOND = [Epsilon];
+@_GRK_Eta_UC_SECOND = [Eta uni1FCC.alt];
+@_GRK_Gamma_UC = [Gamma];
+@_GRK_Iota_UC_SECOND = [Iota Iotadieresis uni1FD8 uni1FD9];
+@_GRK_Kappa_UC = [Kappa];
+@_GRK_Lambda_UC = [Lambda];
+@_GRK_Mu_UC = [Mu];
+@_GRK_Nu_UC = [Nu];
+@_GRK_Omega_UC_SECOND = [Omega uni1FFC.alt];
+@_GRK_Omicron_UC_SECOND = [Omicron];
+@_GRK_Phi_UC = [Phi];
+@_GRK_Pi_UC = [Pi];
+@_GRK_Psi_UC = [Psi];
+@_GRK_Rho_UC = [Rho uni1FEC];
+@_GRK_Sigma_UC = [Sigma];
+@_GRK_Tau_UC = [Tau];
+@_GRK_Theta_UC = [Theta];
+@_GRK_Upsilon_UC_SECOND = [Upsilon Upsilondieresis uni1FE8 uni1FE9];
+@_GRK_Xi_UC = [Xi];
+@_GRK_Zeta_UC = [Zeta];
+@_GRK_alpha_LC = [alpha alphatonos uni1F00 uni1F01 uni1F02 uni1F03 uni1F04 uni1F05 uni1F06 uni1F07 uni1F70 uni1F71 uni1F80 uni1F81 uni1F82 uni1F83 uni1F84 uni1F85 uni1F86 uni1F87 uni1FB0 uni1FB1 uni1FB2 uni1FB3 uni1FB4 uni1FB6 uni1FB7];
+@_GRK_beta_LC = [beta];
+@_GRK_chi_LC = [chi];
+@_GRK_delta_LC = [delta];
+@_GRK_epsilon_LC = [epsilon epsilontonos uni1F10 uni1F11 uni1F12 uni1F13 uni1F14 uni1F15 uni1F72 uni1F73];
+@_GRK_eta_LC = [eta etatonos uni1F20 uni1F21 uni1F22 uni1F23 uni1F24 uni1F25 uni1F26 uni1F27 uni1F74 uni1F75 uni1F90 uni1F91 uni1F92 uni1F93 uni1F94 uni1F95 uni1F96 uni1F97 uni1FC2 uni1FC3 uni1FC4 uni1FC6 uni1FC7];
+@_GRK_gamma_LC = [gamma];
+@_GRK_iota_LC_SECOND = [iota iotatonos iotadieresis iotadieresistonos uni1F30 uni1F31 uni1F32 uni1F33 uni1F34 uni1F35 uni1F36 uni1F37 uni1F76 uni1F77 uni1FD0 uni1FD1 uni1FD2 uni1FD3 uni1FD6 uni1FD7];
+@_GRK_kappa_LC = [kappa];
+@_GRK_lambda_LC = [lambda];
+@_GRK_mu_LC = [uni03BC];
+@_GRK_nu_LC = [nu];
+@_GRK_omega_LC = [omega omegatonos uni1F60 uni1F61 uni1F62 uni1F63 uni1F64 uni1F65 uni1F66 uni1F67 uni1F7C uni1F7D uni1FA0 uni1FA1 uni1FA2 uni1FA3 uni1FA4 uni1FA5 uni1FA6 uni1FA7 uni1FF2 uni1FF3 uni1FF4 uni1FF6 uni1FF7];
+@_GRK_omicron_LC = [omicron omicrontonos uni1F40 uni1F41 uni1F42 uni1F43 uni1F44 uni1F45 uni1F78 uni1F79];
+@_GRK_phi_LC = [phi];
+@_GRK_pi_LC = [pi];
+@_GRK_psi_LC = [psi];
+@_GRK_rho_LC = [rho uni1FE4 uni1FE5];
+@_GRK_sigma1_LC = [sigma1];
+@_GRK_sigma_LC = [sigma];
+@_GRK_tau_LC = [tau];
+@_GRK_theta_LC = [theta];
+@_GRK_upsilon_LC = [upsilon upsilontonos upsilondieresis upsilondieresistonos uni1F50 uni1F51 uni1F52 uni1F53 uni1F54 uni1F55 uni1F56 uni1F57 uni1F7A uni1F7B uni1FE0 uni1FE1 uni1FE2 uni1FE3 uni1FE6 uni1FE7];
+@_GRK_xi_LC = [xi];
+@_GRK_zeta_LC = [zeta];
+@_LAT_AE_UC_SECOND = [AE uni01E2 AEacute];
+@_LAT_A_UC_SECOND = [A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek uni01CD uni01DE uni01E0 Aringacute uni0200 uni0202 uni0226 uni023A uni0245];
+@_LAT_B_UC_SECOND = [B];
+@_LAT_C_UC_SECOND = [C Ccedilla Cacute Ccircumflex Cdotaccent Ccaron uni0187 uni023B];
+@_LAT_D_UC_SECOND = [D Eth Dcaron uni01C4 uni01C5 uni01F1 uni01F2];
+@_LAT_E_UC_SECOND = [E Egrave Eacute Ecircumflex Edieresis Emacron Ebreve Edotaccent Eogonek Ecaron uni0204 uni0206 uni0228 uni0246];
+@_LAT_F_UC_SECOND = [F uni0191];
+@_LAT_G_UC_SECOND = [G Gcircumflex Gbreve Gdotaccent Gcommaaccent uni01E4 Gcaron uni01F4];
+@_LAT_H_UC_SECOND = [H Hcircumflex Hbar uni021E];
+@_LAT_I_UC_SECOND = [I Igrave Iacute Icircumflex Idieresis Itilde Imacron Ibreve Iogonek Idotaccent IJ uni01CF uni0208 uni020A];
+@_LAT_J_UC_SECOND = [J Jcircumflex];
+@_LAT_K_UC = [K Kcommaaccent kgreenlandic.case uni0198 uni01E8];
+@_LAT_L_UC_SECOND = [L Lacute Lcommaaccent Lcaron Ldot Lslash uni01C7 uni01C8 uni01CA uni01CB];
+@_LAT_M_UC = [M];
+@_LAT_N_UC_SECOND = [N Ntilde Nacute Ncommaaccent Ncaron napostrophe.case uni019D uni01F8 Eng];
+@_LAT_O_UC_SECOND = [O Ograve Oacute Ocircumflex Otilde Odieresis Oslash Omacron Obreve Ohungarumlaut OE uni019F Ohorn uni01A2 uni01D1 uni01EA uni01EC Oslashacute uni020C uni020E uni022A uni022C uni022E uni0230 uni0193];
+@_LAT_P_UC_SECOND = [P];
+@_LAT_Q_UC = [Q];
+@_LAT_R_UC_SECOND = [R Racute Rcommaaccent Rcaron uni0210 uni0212];
+@_LAT_S_UC = [S Sacute Scircumflex Scedilla Scaron Scommaaccent];
+@_LAT_T_UC_SECOND = [T Tcaron Tbar uni021A uni01AE uni0162];
+@_LAT_Thorn_UC = [Thorn];
+@_LAT_U_UC_SECOND = [U Ugrave Uacute Ucircumflex Udieresis Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Uhorn uni01D3 uni01D5 uni01D7 uni01D9 uni01DB uni0214 uni0216];
+@_LAT_V_UC = [V uni0194];
+@_LAT_W_UC = [W Wcircumflex Wgrave Wacute Wdieresis];
+@_LAT_X_UC = [X];
+@_LAT_Y_UC_SECOND = [Y Yacute Ycircumflex Ydieresis Ygrave uni0232 uni024E uni01B3];
+@_LAT_Z_UC_SECOND = [Z Zacute Zdotaccent Zcaron uni01B5 uni0224];
+@_LAT_a_LC_SECOND = [a agrave aacute acircumflex atilde adieresis aring amacron abreve aogonek ae uni01CE uni01DF uni01E1 uni01E3 aringacute aeacute uni0201 uni0203 uni0227];
+@_LAT_b_LC_SECOND = [b uni0180 uni0184 uni0185];
+@_LAT_bar = [bar];
+@_LAT_c_LC_SECOND = [c ccedilla cacute ccircumflex cdotaccent ccaron uni0188 uni023C];
+@_LAT_d_LC_SECOND = [d dcaron dcroat uni01C6 uni01F3 uni0238];
+@_LAT_e_LC_SECOND = [e egrave eacute ecircumflex edieresis emacron ebreve edotaccent eogonek ecaron uni0205 uni0207 uni0229 uni0247];
+@_LAT_eng_LC = [eng];
+@_LAT_eth_LC = [eth];
+@_LAT_f_LC_SECOND = [f f_f fi f_i fl f_l f_f_i f_f_l longs];
+@_LAT_g_LC_SECOND = [g gcircumflex gbreve gdotaccent gcommaaccent uni01E5 gcaron uni01F5];
+@_LAT_germandbls_LC = [germandbls];
+@_LAT_h_LC_SECOND = [h hcircumflex hbar uni021F];
+@_LAT_i_LC_SECOND = [i igrave iacute icircumflex idieresis itilde imacron ibreve iogonek dotlessi ij i.locl uni01D0 uni0209 uni020B];
+@_LAT_j_LC_SECOND = [j jcircumflex dotlessj uni01F0 florin];
+@_LAT_k_LC_SECOND = [k kcommaaccent uni0199 uni01E9];
+@_LAT_l_LC_SECOND = [l lacute lcommaaccent lcaron ldot lslash uni01C9];
+@_LAT_n_LC_SECOND = [n m ntilde nacute ncommaaccent ncaron napostrophe uni019E uni01CC uni01F9 uni0235];
+@_LAT_o_LC_SECOND = [o ograve oacute ocircumflex otilde odieresis oslash omacron obreve ohungarumlaut oe ohorn uni01A3 uni01D2 uni01EB uni01ED oslashacute uni020D uni020F uni022B uni022D uni022F uni0231];
+@_LAT_p_LC_SECOND = [p];
+@_LAT_periodcentered = [periodcentered uni2219];
+@_LAT_q_LC_SECOND = [q uni0239];
+@_LAT_r_LC = [r racute rcommaaccent rcaron uni0211 uni0213];
+@_LAT_s_LC_SECOND = [s sacute scircumflex scedilla scaron scommaaccent uni023F];
+@_LAT_t_LC_SECOND = [t tcaron tbar uni021B uni01AB uni0163];
+@_LAT_thorn_LC = [thorn];
+@_LAT_u_LC_SECOND = [u ugrave uacute ucircumflex udieresis utilde umacron ubreve uring uhungarumlaut uogonek uhorn uni01D4 uni01D6 uni01D8 uni01DA uni01DC uni0215 uni0217];
+@_LAT_v_LC = [v];
+@_LAT_w_LC = [w wcircumflex wgrave wacute wdieresis];
+@_LAT_x_LC = [x];
+@_LAT_y_LC_SECOND = [y yacute ydieresis ycircumflex ygrave uni01B4 uni0233 uni024F];
+@_LAT_z_LC_SECOND = [z zacute zdotaccent zcaron uni01B6 uni0225 uni0240];
+@_MIS_uni0181_SECOND = [uni0181];
+@_MIS_uni0186_SECOND = [uni0186];
+@_MIS_uni018B_SECOND = [uni018B];
+@_MIS_uni018C_SECOND = [uni018C];
+@_MIS_uni018D = [uni018D];
+@_MIS_uni018E_SECOND = [uni018E];
+@_MIS_uni0190 = [uni0190];
+@_MIS_uni0196 = [uni0196];
+@_MIS_uni019B = [uni019B];
+@_MIS_uni019C = [uni019C];
+@_MIS_uni01A5_SECOND = [uni01A5];
+@_MIS_uni01A7 = [uni01A7];
+@_MIS_uni01A8 = [uni01A8];
+@_MIS_uni01A9 = [uni01A9];
+@_MIS_uni01AA = [uni01AA];
+@_MIS_uni01AC_SECOND = [uni01AC];
+@_MIS_uni01B1 = [uni01B1];
+@_MIS_uni01B2 = [uni01B2];
+@_MIS_uni01B7 = [uni01B7 uni01EE];
+@_MIS_uni01B8 = [uni01B8];
+@_MIS_uni01B9 = [uni01B9];
+@_MIS_uni01BA = [uni01BA];
+@_MIS_uni01BB = [uni01BB];
+@_MIS_uni01BC = [uni01BC];
+@_MIS_uni01BD = [uni01BD];
+@_MIS_uni01BE = [uni01BE];
+@_MIS_uni01BF = [uni01BF];
+@_MIS_uni01DD_SECOND = [uni01DD];
+@_MIS_uni01F7 = [uni01F7];
+@_MIS_uni021C = [uni021C];
+@_MIS_uni021D = [uni021D];
+@_MIS_uni0220 = [uni0220];
+@_MIS_uni0221 = [uni0221];
+@_MIS_uni0222 = [uni0222];
+@_MIS_uni0223 = [uni0223];
+@_MIS_uni0234_SECOND = [uni0234 uni0236];
+@_MIS_uni023D = [uni023D];
+@_MIS_uni023E = [uni023E];
+@_MIS_uni0241 = [uni0241];
+@_MIS_uni0242 = [uni0242];
+@_MIS_uni0244 = [uni0244];
+@_MIS_uni0292 = [uni0292 uni01EF];
+@_PUNCT_At = [At];
+@_PUNCT_Backslash = [Backslash];
+@_PUNCT_Braceleft = [Braceleft];
+@_PUNCT_Braceright = [Braceright];
+@_PUNCT_Bracketleft = [Bracketleft];
+@_PUNCT_Bracketright = [Bracketright];
+@_PUNCT_Euro = [Euro];
+@_PUNCT_Guilsinglleft = [Guilsinglleft Guillemotleft];
+@_PUNCT_Guilsinglright = [Guilsinglright Guillemotright];
+@_PUNCT_Hyphen = [Hyphen Endash Emdash];
+@_PUNCT_Parenleft = [Parenleft];
+@_PUNCT_Parenright = [Parenright];
+@_PUNCT_Questiondown = [Questiondown];
+@_PUNCT_Slash = [Slash];
+@_PUNCT_ampersand = [ampersand];
+@_PUNCT_asterisk = [asterisk];
+@_PUNCT_at = [at];
+@_PUNCT_backslash = [backslash];
+@_PUNCT_braceleft = [braceleft];
+@_PUNCT_braceright = [braceright];
+@_PUNCT_bracketleft = [bracketleft];
+@_PUNCT_bracketright = [bracketright];
+@_PUNCT_cent = [cent];
+@_PUNCT_colon = [colon semicolon];
+@_PUNCT_degree = [degree];
+@_PUNCT_dollar = [dollar];
+@_PUNCT_exclamdown = [exclamdown];
+@_PUNCT_guilsinglleft = [guilsinglleft guillemotleft];
+@_PUNCT_guilsinglright = [guilsinglright guillemotright];
+@_PUNCT_hyphen = [hyphen uni00AD endash emdash];
+@_PUNCT_numbersign = [numbersign];
+@_PUNCT_parenleft = [parenleft];
+@_PUNCT_parenright = [parenright];
+@_PUNCT_percent = [percent perthousand];
+@_PUNCT_period = [period comma ellipsis];
+@_PUNCT_question = [question];
+@_PUNCT_questiondown = [questiondown];
+@_PUNCT_quoteleft = [quoteleft quotedblleft];
+@_PUNCT_quoteright = [quoteright quotedblright apostrophe];
+@_PUNCT_quotesinglbase = [quotesinglbase quotedblbase];
+@_PUNCT_quotesingle = [quotesingle quotedbl];
+@_PUNCT_slash = [slash];
+@_PUNCT_sterling = [sterling];
+@_PUNCT_yen = [yen];
+
+# GSUB groups
+@FIG_DFLT = [zero one two three four five six seven eight nine];
+@FIG_ALT = [zero.alt one.alt two.alt three.alt four.alt five.alt six.alt seven.alt eight.alt nine.alt];
+@FIG_NUM = [zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior];
+@FIG_DNOM = [zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior];
+@FIG_SUPS = [zero.sups one.sups two.sups three.sups four.sups five.sups six.sups seven.sups eight.sups nine.sups];
+@FIG_SINF = [zero.sinf one.sinf two.sinf three.sinf four.sinf five.sinf six.sinf seven.sinf eight.sinf nine.sinf];
+# @ZERO = [zero zero.alt zerosuperior zeroinferior zero.sups zero.sinf];
+@ONE = [one one.alt onesuperior oneinferior one.sups one.sinf];
+@TWO = [two two.alt twosuperior twoinferior two.sups two.sinf];
+@THREE = [three three.alt threesuperior threeinferior three.sups three.sinf];
+@FOUR = [four four.alt foursuperior fourinferior four.sups four.sinf];
+@FIVE = [five five.alt fivesuperior fiveinferior five.sups five.sinf];
+@SIX = [six six.alt sixsuperior sixinferior six.sups six.sinf];
+@SEVEN = [seven seven.alt sevensuperior seveninferior seven.sups seven.sinf];
+@EIGHT = [eight eight.alt eightsuperior eightinferior eight.sups eight.sinf];
+@NINE = [nine nine.alt ninesuperior nineinferior nine.sups nine.sinf];
+@FRACTIONS = [onequarter onehalf threequarters onethird twothirds onefifth twofifths threefifths fourfifths onesixth fivesixths oneeighth threeeighths fiveeighths seveneighths oneseventh twosevenths threesevenths foursevenths fivesevenths sixsevenths oneninth twoninths fourninths fiveninths sevenninths eightninths];
+@case1 = [parenleft parenright hyphen slash at bracketleft backslash bracketright braceleft braceright guilsinglleft bullet endash emdash guilsinglright exclamdown guillemotleft guillemotright questiondown];
+@case2 = [Parenleft Parenright Hyphen Slash At Bracketleft Backslash Bracketright Braceleft Braceright Guilsinglleft Bullet Endash Emdash Guilsinglright Exclamdown Guillemotleft Guillemotright Questiondown];
+@LC_LETT = [a b c d e f g h i j k l m n o p q r s t u v w x y z eth thorn oslash eng cdotaccent ebreve gdotaccent gcircumflex hcircumflex hbar itilde ibreve jcircumflex ldot obreve scircumflex tbar utilde ubreve wcircumflex ycircumflex abreve amacron aogonek cacute ccaron dcaron dcroat ecaron edotaccent emacron eogonek gbreve gcommaaccent imacron iogonek kcommaaccent lacute lcaron lcommaaccent nacute ncaron ncommaaccent ohungarumlaut omacron racute rcaron rcommaaccent sacute scommaaccent tcaron uni0163 uhungarumlaut umacron uogonek uring zdotaccent zacute ccircumflex scaron zcaron agrave aacute acircumflex atilde adieresis aring ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis ntilde ograve oacute ocircumflex otilde odieresis ugrave uacute ucircumflex udieresis yacute ydieresis lslash wgrave wacute wdieresis ygrave scedilla uni021B ae oe ij i.locl kgreenlandic napostrophe];
+@UC_LETT  = [A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Eth Thorn Oslash Eng Cdotaccent Ebreve Gdotaccent Gcircumflex Hcircumflex Hbar Itilde Ibreve Jcircumflex Ldot Obreve Scircumflex Tbar Utilde Ubreve Wcircumflex Ycircumflex Abreve Amacron Aogonek Cacute Ccaron Dcaron Dcroat Ecaron Edotaccent Emacron Eogonek Gbreve Gcommaaccent Imacron Iogonek Kcommaaccent Lacute Lcaron Lcommaaccent Nacute Ncaron Ncommaaccent Ohungarumlaut Omacron Racute Rcaron Rcommaaccent Sacute Scommaaccent Tcaron uni0162 Uhungarumlaut Umacron Uogonek Uring Zdotaccent Zacute Ccircumflex Scaron Zcaron Agrave Aacute Acircumflex Atilde Adieresis Aring Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Ugrave Uacute Ucircumflex Udieresis Yacute Ydieresis Lslash Wgrave Wacute Wdieresis Ygrave Scedilla uni021A AE OE IJ Idotaccent kgreenlandic.case napostrophe.case];
+@AlphaSub = [uni1F88 uni1F89 uni1F8A uni1F8B uni1F8C uni1F8D uni1F8E uni1F8F uni1FBC];
+@AlphaSub.alt = [uni1F88.alt uni1F89.alt uni1F8A.alt uni1F8B.alt uni1F8C.alt uni1F8D.alt uni1F8E.alt uni1F8F.alt uni1FBC.alt];
+@EtaSub = [uni1F98 uni1F99 uni1F9A uni1F9B uni1F9C uni1F9D uni1F9E uni1F9F uni1FCC];
+@EtaSub.alt = [uni1F98.alt uni1F99.alt uni1F9A.alt uni1F9B.alt uni1F9C.alt uni1F9D.alt uni1F9E.alt uni1F9F.alt uni1FCC.alt];
+@OmegaSub = [uni1FA8 uni1FA9 uni1FAA uni1FAB uni1FAC uni1FAD uni1FAE uni1FAF uni1FFC];
+@OmegaSub.alt = [uni1FA8.alt uni1FA9.alt uni1FAA.alt uni1FAB.alt uni1FAC.alt uni1FAD.alt uni1FAE.alt uni1FAF.alt uni1FFC.alt];
+
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn TRK;
+languagesystem cyrl dflt;
+languagesystem cyrl MKD;
+languagesystem cyrl SRB;
+languagesystem grek dflt;
 
 feature locl { # Localized Forms
- # Latin
+script latn; # Latin
  language AZE  exclude_dflt; # Azeri
     sub i by i.locl;
  language TRK  exclude_dflt; # Turkish
     sub i by i.locl;
  language CRT  exclude_dflt; # Crimean Tatar
     sub i by i.locl;
-    
-script cyrl; # Cyrillic    
- language SRB  exclude_dflt; # Serbian
-    sub afii10066 by afii10066.locl;
-    sub afii10068 by afii10068.locl.ita;
-    sub afii10069 by afii10069.locl.ita;
-    sub afii10081 by afii10081.locl.ita;
-    sub afii10084 by afii10084.locl.ita;
- language BGR  exclude_dflt; # Bulgarian
-    sub afii10066 by afii10066.locl;
+script cyrl; # Cyrillic
  language MKD  exclude_dflt; # Macedonian
     sub afii10066 by afii10066.locl;
     sub afii10068 by afii10068.locl.ita;
     sub afii10069 by afii10069.locl.ita;
     sub afii10081 by afii10081.locl.ita;
     sub afii10084 by afii10084.locl.ita;
-
+ language SRB  exclude_dflt; # Serbian
+    sub afii10066 by afii10066.locl;
+    sub afii10068 by afii10068.locl.ita;
+    sub afii10069 by afii10069.locl.ita;
+    sub afii10081 by afii10081.locl.ita;
+    sub afii10084 by afii10084.locl.ita;
 } locl;
 
 feature pnum {
 # Lookup for text font:
+ script latn; # Latin
 lookup pnum_text{
- 		sub @FIG_DFLT by @FIG_ALT;
+    sub @FIG_DFLT by @FIG_ALT;
 } pnum_text;
  language AZE ; # Azeri
  language TRK ; # Turkish
  language CRT ; # Crimean Tatar
- 
+
  script grek; # Greek
  		lookup pnum_text;
  script cyrl; # Cyrillic
@@ -45,13 +644,14 @@ lookup pnum_text{
 
 feature tnum {
 # Lookup for text font:
+ script latn; # Latin
 lookup tnum_text{
 	sub @FIG_ALT by @FIG_DFLT;
 } tnum_text;
  language AZE ; # Azeri
  language TRK ; # Turkish
  language CRT ; # Crimean Tatar
- 
+
  script grek; # Greek
  		lookup tnum_text;
  script cyrl; # Cyrillic
@@ -61,7 +661,7 @@ lookup tnum_text{
 } tnum;
 
 feature numr { # Numerators
- # Latin
+ script latn; # Latin
  	lookup numr_text{
  	 sub @FIG_DFLT by @FIG_NUM;
 	 sub @FIG_ALT by @FIG_NUM;
@@ -72,7 +672,7 @@ feature numr { # Numerators
  language AZE ; # Azeri
  language TRK ; # Turkish
  language CRT ; # Crimean Tatar
- 
+
  script grek; # Greek
  		lookup numr_text;
  script cyrl; # Cyrillic
@@ -87,7 +687,7 @@ feature ordn {
 } ordn;
 
 feature dnom { # Denominators
- # Latin
+ script latn; # Latin
   lookup dnom_text{
 	sub @FIG_DFLT by @FIG_DNOM;
 	sub @FIG_ALT by @FIG_DNOM;
@@ -98,7 +698,7 @@ feature dnom { # Denominators
  language AZE ; # Azeri
  language TRK ; # Turkish
  language CRT ; # Crimean Tatar
- 
+
  script grek; # Greek
  		lookup dnom_text;
  script cyrl; # Cyrillic
@@ -109,7 +709,7 @@ feature dnom { # Denominators
 } dnom;
 
 feature sups { # Superscript
- # Latin
+ script latn; # Latin
  lookup sups_text{
 	sub @FIG_DFLT by @FIG_SUPS;
 	sub @FIG_ALT by @FIG_SUPS;
@@ -120,7 +720,7 @@ feature sups { # Superscript
  language AZE ; # Azeri
  language TRK ; # Turkish
  language CRT ; # Crimean Tatar
- 
+
  script grek; # Greek
  		lookup sups_text;
  script cyrl; # Cyrillic
@@ -131,7 +731,7 @@ feature sups { # Superscript
 } sups;
 
 feature subs { # Subscripts
-# Latin
+ script latn; # Latin
 lookup sub1 {
 	sub @FIG_DFLT by @FIG_SINF;
 	sub @FIG_ALT by @FIG_SINF;
@@ -142,7 +742,7 @@ lookup sub1 {
  language AZE ; # Azeri
  language TRK ; # Turkish
  language CRT ; # Crimean Tatar
- 
+
  script grek; # Greek
  		lookup sub1;
  script cyrl; # Cyrillic
@@ -152,7 +752,7 @@ lookup sub1 {
 } subs;
 
 feature sinf { # Scientific Inferiors
-# Latin
+ script latn; # Latin
 lookup sin1 {
 	sub @FIG_DFLT by @FIG_SINF;
 	sub @FIG_ALT by @FIG_SINF;
@@ -163,7 +763,7 @@ lookup sin1 {
  language AZE ; # Azeri
  language TRK ; # Turkish
  language CRT ; # Crimean Tatar
- 
+
  script grek; # Greek
  		lookup sin1;
  script cyrl; # Cyrillic
@@ -174,7 +774,7 @@ lookup sin1 {
 } sinf;
 
 feature frac { # Fractions
- # Latin
+ script latn; # Latin
 lookup frac12 {
 	sub [slash uni2215] by fraction;
 } frac12;
@@ -227,6 +827,8 @@ lookup frac15 {
 } frac15;
  language AZE ; # Azeri
  language TRK ; # Turkish
+ language MOL ; # Moldavian
+ language ROM ; # Romanian
  language CRT ; # Crimean Tatar
  script grek; # Greek
 	lookup frac12;
@@ -243,7 +845,7 @@ lookup frac15 {
 } frac;
 
 feature case { # Case-Sensitive Forms
- # Latin
+ script latn; # Latin
 	lookup case_add {
 		sub dotlessj by J;
 		sub longs by S;
@@ -264,11 +866,11 @@ feature case { # Case-Sensitive Forms
 	lookup case_dflt;
  language SRB ; # Serbian
  language MKD ; # Macedonian
- language BGR ; # Bulgarian 
 } case;
 
 feature liga { # Standard Ligatures
  # Latin
+ script latn; # Latin
 	sub f f i by f_f_i;
 	sub f f l by f_f_l;
 	sub f f by f_f;
@@ -289,12 +891,9 @@ feature liga { # Standard Ligatures
 	sub f f by f_f;
 	sub f i by f_i;
 	sub f l by f_l;
- language SRB ; # Serbian
- language MKD ; # Macedonian
 } liga;
 
 feature ss01 { # Greek Stylistic Alternates
- # Latin
 lookup salt01 {
 	sub @AlphaSub by @AlphaSub.alt;
 } salt01;
@@ -315,23 +914,14 @@ lookup salt03;
 } ss01;
 
 feature salt { # Stylistic Alternates
- # Latin
 lookup salt01;
-#	sub @AlphaSub by @AlphaSub.alt; 
-
 lookup salt02;
-#	sub @EtaSub by @EtaSub.alt;
-
-
 lookup salt03;
-#	sub @OmegaSub by @OmegaSub.alt;
-
 
  script grek; # Greek
 lookup salt01;
 lookup salt02;
 lookup salt03;
-
 
 } salt;
 
