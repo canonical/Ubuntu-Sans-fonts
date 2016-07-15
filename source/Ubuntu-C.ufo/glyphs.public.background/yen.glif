@@ -2,10 +2,14 @@
 <glyph name="yen" format="2">
 	<outline>
 		<contour>
-			<point x="259" y="352" type="line"/>
-			<point x="245" y="255" type="line"/>
-			<point x="325" y="434"/>
-			<point x="375" y="572"/>
+			<point x="377" y="187" type="line"/>
+			<point x="259" y="187" type="line"/>
+			<point x="259" y="281" type="line"/>
+			<point x="377" y="281" type="line"/>
+			<point x="377" y="347" type="line"/>
+			<point x="285" y="347" type="line"/>
+			<point x="342" y="483"/>
+			<point x="382" y="593"/>
 			<point x="417" y="693" type="curve"/>
 			<point x="335" y="693" type="line"/>
 			<point x="303" y="590"/>
@@ -15,23 +19,19 @@
 			<point x="129" y="590"/>
 			<point x="97" y="693" type="curve"/>
 			<point x="12" y="693" type="line"/>
-			<point x="54" y="572"/>
-			<point x="104" y="434"/>
-			<point x="184" y="255" type="curve"/>
-			<point x="173" y="352" type="line"/>
-			<point x="173" y="0" type="line"/>
-			<point x="259" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="377" y="347" type="line"/>
+			<point x="46" y="593"/>
+			<point x="86" y="483"/>
+			<point x="144" y="347" type="curve"/>
 			<point x="52" y="347" type="line"/>
 			<point x="52" y="281" type="line"/>
-			<point x="377" y="281" type="line"/>
-		</contour>
-		<contour>
-			<point x="377" y="187" type="line"/>
+			<point x="173" y="281" type="line"/>
+			<point x="173" y="187" type="line"/>
 			<point x="52" y="187" type="line"/>
 			<point x="52" y="121" type="line"/>
+			<point x="173" y="121" type="line"/>
+			<point x="173" y="0" type="line"/>
+			<point x="259" y="0" type="line"/>
+			<point x="259" y="121" type="line"/>
 			<point x="377" y="121" type="line"/>
 		</contour>
 	</outline>

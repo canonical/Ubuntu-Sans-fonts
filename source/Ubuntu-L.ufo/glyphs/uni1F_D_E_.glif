@@ -11,21 +11,23 @@
 		</contour>
 		<contour>
 			<point x="135" y="575" type="line"/>
-			<point x="79" y="613"/>
-			<point x="24" y="671"/>
-			<point x="24" y="719" type="curve" smooth="yes"/>
-			<point x="24" y="754"/>
-			<point x="46" y="776"/>
-			<point x="79" y="776" type="curve" smooth="yes"/>
-			<point x="111" y="776"/>
-			<point x="129" y="753"/>
-			<point x="129" y="726" type="curve" smooth="yes"/>
-			<point x="129" y="705"/>
-			<point x="115" y="687"/>
-			<point x="94" y="680" type="curve"/>
-			<point x="106" y="655"/>
-			<point x="131" y="628"/>
-			<point x="162" y="604" type="curve"/>
+			<point x="114" y="589"/>
+			<point x="74" y="624"/>
+			<point x="43" y="662"/>
+			<point x="24" y="701"/>
+			<point x="24" y="719" type="qcurve"/>
+			<point x="24" y="745"/>
+			<point x="54" y="776"/>
+			<point x="79" y="776" type="qcurve"/>
+			<point x="103" y="776"/>
+			<point x="129" y="746"/>
+			<point x="129" y="726" type="qcurve"/>
+			<point x="129" y="710"/>
+			<point x="110" y="685"/>
+			<point x="94" y="680" type="qcurve"/>
+			<point x="103" y="661"/>
+			<point x="139" y="622"/>
+			<point x="162" y="604" type="qcurve"/>
 		</contour>
 	</outline>
 	<guideline x="185"/>

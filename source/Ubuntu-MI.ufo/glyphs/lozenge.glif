@@ -4,32 +4,36 @@
 	<advance width="546"/>
 	<outline>
 		<contour>
-			<point x="271" y="-17" type="curve"/>
-			<point x="219" y="92"/>
-			<point x="168" y="212"/>
-			<point x="112" y="356" type="curve"/>
-			<point x="236" y="498"/>
-			<point x="334" y="604"/>
-			<point x="436" y="711" type="curve"/>
-			<point x="488" y="602"/>
-			<point x="539" y="482"/>
-			<point x="595" y="338" type="curve"/>
-			<point x="471" y="196"/>
-			<point x="373" y="90"/>
+			<point x="271" y="-17" type="qcurve"/>
+			<point x="232" y="65"/>
+			<point x="154" y="247"/>
+			<point x="112" y="356" type="qcurve"/>
+			<point x="158" y="409"/>
+			<point x="243" y="503"/>
+			<point x="322" y="590"/>
+			<point x="398" y="671"/>
+			<point x="436" y="711" type="qcurve"/>
+			<point x="475" y="629"/>
+			<point x="553" y="447"/>
+			<point x="595" y="338" type="qcurve"/>
+			<point x="548" y="285"/>
+			<point x="464" y="191"/>
+			<point x="385" y="104"/>
+			<point x="309" y="23"/>
 		</contour>
 		<contour>
-			<point x="305" y="154" type="curve"/>
-			<point x="368" y="218"/>
-			<point x="416" y="275"/>
-			<point x="479" y="349" type="curve"/>
-			<point x="450" y="429"/>
-			<point x="429" y="484"/>
-			<point x="402" y="540" type="curve"/>
-			<point x="339" y="475"/>
-			<point x="291" y="419"/>
-			<point x="228" y="345" type="curve"/>
-			<point x="257" y="265"/>
-			<point x="278" y="210"/>
+			<point x="305" y="154" type="qcurve"/>
+			<point x="352" y="202"/>
+			<point x="432" y="293"/>
+			<point x="479" y="349" type="qcurve"/>
+			<point x="457" y="409"/>
+			<point x="422" y="498"/>
+			<point x="402" y="540" type="qcurve"/>
+			<point x="355" y="491"/>
+			<point x="275" y="400"/>
+			<point x="228" y="345" type="qcurve"/>
+			<point x="250" y="285"/>
+			<point x="285" y="196"/>
 		</contour>
 	</outline>
 	<guideline y="-17"/>

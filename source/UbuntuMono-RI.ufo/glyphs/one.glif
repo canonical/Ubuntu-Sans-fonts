@@ -4,21 +4,23 @@
 	<advance width="500"/>
 	<outline>
 		<contour>
-			<point x="195" y="422" type="line"/>
-			<point x="249" y="439"/>
-			<point x="313" y="471"/>
-			<point x="345" y="496" type="curve"/>
-			<point x="243" y="70" type="line"/>
-			<point x="109" y="70" type="line"/>
-			<point x="92" y="0" type="line"/>
-			<point x="424" y="0" type="line"/>
-			<point x="441" y="70" type="line"/>
-			<point x="325" y="70" type="line"/>
+			<point x="181" y="491" type="line"/>
+			<point x="237" y="511"/>
+			<point x="347" y="572"/>
+			<point x="398" y="619" type="qcurve"/>
 			<point x="457" y="619" type="line"/>
-			<point x="398" y="619" type="line"/>
-			<point x="330" y="557"/>
-			<point x="255" y="517"/>
-			<point x="181" y="491" type="curve"/>
+			<point x="325" y="70" type="line"/>
+			<point x="441" y="70" type="line"/>
+			<point x="424" y="0" type="line"/>
+			<point x="92" y="0" type="line"/>
+			<point x="109" y="70" type="line"/>
+			<point x="243" y="70" type="line"/>
+			<point x="345" y="496" type="line"/>
+			<point x="333" y="487"/>
+			<point x="298" y="466"/>
+			<point x="258" y="446"/>
+			<point x="215" y="428"/>
+			<point x="195" y="422" type="qcurve"/>
 		</contour>
 	</outline>
 	<guideline x="178"/>

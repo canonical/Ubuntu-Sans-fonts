@@ -2,7 +2,7 @@
 <glyph name="lacute" format="2">
 	<outline>
 		<contour>
-			<point x="212" y="196" type="line" smooth="yes"/>
+			<point x="212" y="196" type="line"/>
 			<point x="203" y="160"/>
 			<point x="199" y="129"/>
 			<point x="199" y="103" type="curve" smooth="yes"/>
@@ -22,10 +22,16 @@
 			<point x="281" y="137"/>
 			<point x="286" y="162"/>
 			<point x="292" y="189" type="curve" smooth="yes"/>
-			<point x="412" y="688" type="line"/>
-			<point x="196" y="688" type="line"/>
-			<point x="179" y="618" type="line"/>
-			<point x="313" y="618" type="line"/>
+			<point x="410" y="678" type="line"/>
+			<point x="194" y="678" type="line"/>
+			<point x="177" y="608" type="line"/>
+			<point x="311" y="608" type="line"/>
+		</contour>
+		<contour>
+			<point x="442" y="830" type="line"/>
+			<point x="292" y="756" type="line"/>
+			<point x="307" y="711" type="line"/>
+			<point x="461" y="766" type="line"/>
 		</contour>
 	</outline>
 </glyph>

@@ -5,13 +5,15 @@
 	<outline>
 		<contour>
 			<point x="188" y="586" type="line"/>
-			<point x="237" y="647"/>
-			<point x="272" y="727"/>
-			<point x="274" y="776" type="curve"/>
+			<point x="206" y="609"/>
+			<point x="237" y="660"/>
+			<point x="260" y="711"/>
+			<point x="273" y="758"/>
+			<point x="274" y="776" type="qcurve"/>
 			<point x="347" y="776" type="line"/>
-			<point x="332" y="706"/>
-			<point x="292" y="640"/>
-			<point x="232" y="569" type="curve"/>
+			<point x="336" y="723"/>
+			<point x="277" y="623"/>
+			<point x="232" y="569" type="qcurve"/>
 		</contour>
 	</outline>
 </glyph>

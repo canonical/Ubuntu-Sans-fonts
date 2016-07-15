@@ -3,14 +3,16 @@
 	<advance width="235"/>
 	<outline>
 		<contour>
-			<point x="223" y="604" type="curve"/>
+			<point x="223" y="604" type="qcurve"/>
 			<point x="118" y="604" type="line"/>
-			<point x="128" y="705"/>
-			<point x="189" y="767"/>
-			<point x="277" y="786" type="curve"/>
+			<point x="126" y="680"/>
+			<point x="211" y="772"/>
+			<point x="277" y="786" type="qcurve"/>
 			<point x="308" y="732" type="line"/>
-			<point x="259" y="712"/>
-			<point x="236" y="683"/>
+			<point x="290" y="724"/>
+			<point x="262" y="705"/>
+			<point x="242" y="675"/>
+			<point x="228" y="634"/>
 		</contour>
 	</outline>
 	<guideline x="66" y="0" angle="103.5"/>

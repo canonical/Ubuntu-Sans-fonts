@@ -3,20 +3,20 @@
 	<advance width="235"/>
 	<outline>
 		<contour>
-			<point x="90" y="-50" type="curve"/>
+			<point x="90" y="-50" type="qcurve"/>
 			<point x="193" y="-50" type="line"/>
-			<point x="180" y="-152"/>
-			<point x="128" y="-201"/>
-			<point x="42" y="-201" type="curve" smooth="yes"/>
-			<point x="26" y="-201"/>
-			<point x="7" y="-199"/>
-			<point x="-7" y="-195" type="curve"/>
+			<point x="183" y="-127"/>
+			<point x="107" y="-201"/>
+			<point x="42" y="-201" type="qcurve"/>
+			<point x="30" y="-201"/>
+			<point x="4" y="-198"/>
+			<point x="-7" y="-195" type="qcurve"/>
 			<point x="11" y="-128" type="line"/>
-			<point x="16" y="-129"/>
-			<point x="21" y="-129"/>
-			<point x="25" y="-129" type="curve" smooth="yes"/>
-			<point x="69" y="-129"/>
-			<point x="78" y="-102"/>
+			<point x="15" y="-129"/>
+			<point x="22" y="-129"/>
+			<point x="25" y="-129" type="qcurve"/>
+			<point x="58" y="-129"/>
+			<point x="81" y="-89"/>
 		</contour>
 	</outline>
 	<guideline x="86" y="0" angle="103.5"/>

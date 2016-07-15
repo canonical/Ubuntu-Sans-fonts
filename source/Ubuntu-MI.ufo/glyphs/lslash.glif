@@ -4,38 +4,34 @@
 	<advance width="355"/>
 	<outline>
 		<contour>
-			<point x="84" y="293" type="line"/>
-			<point x="167" y="330" type="line"/>
-			<point x="153" y="272" type="line" smooth="yes"/>
-			<point x="141" y="225"/>
-			<point x="129" y="176"/>
-			<point x="129" y="134" type="curve" smooth="yes"/>
-			<point x="129" y="52"/>
-			<point x="171" y="-8"/>
-			<point x="297" y="-10" type="curve"/>
-			<point x="323" y="90" type="line"/>
-			<point x="268" y="95"/>
-			<point x="252" y="118"/>
-			<point x="252" y="153" type="curve" smooth="yes"/>
-			<point x="252" y="192"/>
-			<point x="262" y="224"/>
-			<point x="270" y="255" type="curve" smooth="yes"/>
-			<point x="303" y="389" type="line"/>
-			<point x="426" y="445" type="line"/>
-			<point x="407" y="526" type="line"/>
-			<point x="327" y="489" type="line"/>
-			<point x="395" y="776" type="line"/>
-			<point x="269" y="756" type="line"/>
-			<point x="191" y="430" type="line"/>
 			<point x="65" y="374" type="line"/>
+			<point x="191" y="430" type="line"/>
+			<point x="269" y="756" type="line"/>
+			<point x="395" y="776" type="line"/>
+			<point x="327" y="489" type="line"/>
+			<point x="407" y="526" type="line"/>
+			<point x="426" y="445" type="line"/>
+			<point x="303" y="389" type="line"/>
+			<point x="270" y="255" type="line"/>
+			<point x="264" y="232"/>
+			<point x="252" y="182"/>
+			<point x="252" y="153" type="qcurve"/>
+			<point x="252" y="127"/>
+			<point x="281" y="94"/>
+			<point x="323" y="90" type="qcurve"/>
+			<point x="297" y="-10" type="line"/>
+			<point x="250" y="-9"/>
+			<point x="185" y="13"/>
+			<point x="146" y="51"/>
+			<point x="129" y="103"/>
+			<point x="129" y="134" type="qcurve"/>
+			<point x="129" y="166"/>
+			<point x="144" y="237"/>
+			<point x="153" y="272" type="qcurve"/>
+			<point x="167" y="330" type="line"/>
+			<point x="84" y="293" type="line"/>
 		</contour>
 	</outline>
 	<guideline y="-13"/>
 	<guideline x="29" y="0" angle="103.5"/>
-	<lib>
-		<dict>
-			<key>public.markColor</key>
-			<string>0,0.484375,1,0.35</string>
-		</dict>
-	</lib>
 </glyph>

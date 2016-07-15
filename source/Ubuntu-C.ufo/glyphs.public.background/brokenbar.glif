@@ -2,28 +2,16 @@
 <glyph name="brokenbar" format="2">
 	<outline>
 		<contour>
-			<point x="95" y="-185" type="line"/>
-			<point x="182" y="-185" type="line"/>
-			<point x="182" y="198" type="line"/>
-			<point x="95" y="198" type="line"/>
+			<point x="175" y="400" type="line"/>
+			<point x="175" y="783" type="line"/>
+			<point x="94" y="783" type="line"/>
+			<point x="94" y="400" type="line"/>
 		</contour>
 		<contour>
-			<point x="95" y="400" type="line"/>
-			<point x="182" y="400" type="line"/>
-			<point x="182" y="783" type="line"/>
-			<point x="95" y="783" type="line"/>
-		</contour>
-		<contour>
-			<point x="95" y="-185" type="line"/>
-			<point x="182" y="-185" type="line"/>
-			<point x="182" y="198" type="line"/>
-			<point x="95" y="198" type="line"/>
-		</contour>
-		<contour>
-			<point x="95" y="400" type="line"/>
-			<point x="182" y="400" type="line"/>
-			<point x="182" y="783" type="line"/>
-			<point x="95" y="783" type="line"/>
+			<point x="94" y="198" type="line"/>
+			<point x="94" y="-185" type="line"/>
+			<point x="175" y="-185" type="line"/>
+			<point x="175" y="198" type="line"/>
 		</contour>
 	</outline>
 </glyph>
