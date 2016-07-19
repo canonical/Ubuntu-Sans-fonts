@@ -6969,10 +6969,10 @@ SVTCA[X]
 MDAP[R], 15
 MDRP[m&lt;RGr], 44
 SRP0[], 47
-MDRP[M&lt;RWh], 22
+MDRP[M&lt;RGr], 22
 MIRP[m&gt;RBl], 3, 70
 SHP[2], 43
-SRP0[], 48
+SRP0[], 47
 MDRP[M&lt;RWh], 14
 MDRP[m&lt;RGr], 31
 IUP[X]
@@ -9262,11 +9262,11 @@ MDAP[R], 33
 MIRP[m&gt;RBl], 0, 85
 SVTCA[X]
 SRP0[], 37
-MDRP[M&lt;RWh], 18
+MDRP[M&lt;RGr], 18
 MIRP[m&gt;RBl], 3, 83
 SHP[2], 0
 SHP[2], 33
-SRP0[], 38
+SRP0[], 37
 MDRP[m&lt;RWh], 10
 MDRP[m&lt;RWh], 26
 MDRP[m&lt;RWh], 34
@@ -10442,7 +10442,7 @@ DLTP2[(10 @0 8)]
 SHP[1], 29
 SVTCA[X]
 SRP1[], 50
-SRP2[], 51
+SRP2[], 49
 IP[], 10
 MDAP[R], 10
 MDRP[m&gt;RGr], 29
@@ -10844,8 +10844,8 @@ CALL[], 50, -16, 18, 20, 0, 76
 SVTCA[Y]
 MDAP[R], 25
 MDRP[m&gt;RBl], 26
-MDAP[R], 50
-MDRP[m&gt;RWh], 49
+MDAP[R], 0
+MDRP[m&gt;RBl], 49
 SRP1[], 26
 IP[], 37
 RTHG[]
@@ -10917,8 +10917,8 @@ CALL[], 29, -16, 23, 0, 77
 SVTCA[Y]
 MDAP[R], 25
 MIRP[m&gt;RBl], 26, 114
-MDAP[R], 50
-MIRP[m&lt;RWh], 49, 114
+MDAP[R], 0
+MIRP[m&gt;RBl], 49, 114
 SRP1[], 26
 IP[], 37
 RTHG[]
@@ -22395,8 +22395,8 @@ CALL[], 45, -40, 23, 0, 77
 /* VTT 4.2 compiler */
 SVTCA[Y]
 MIAP[R], 3, 9
-MDRP[M&lt;RGr], 0
-MDRP[m&lt;RWh], 50
+MDRP[M&lt;RBl], 0
+MDRP[m&gt;RBl], 50
 DLTP2[(50 @0 -8)]
 SRP0[], 3
 MIRP[m&gt;RBl], 47, 74
@@ -22411,9 +22411,9 @@ MDAP[R], 34
 MIRP[m&gt;RBl], 37, 74
 IP[], 13
 SVTCA[X]
-MDAP[R], 51
+MDAP[R], 0
 MDRP[m&lt;RWh], 24
-SRP0[], 52
+SRP0[], 51
 MDRP[M&lt;RWh], 8
 MIRP[m&gt;RBl], 42, 70
 MDRP[M&lt;RGr], 16
@@ -22422,7 +22422,7 @@ SHP[2], 13
 SRP1[], 24
 IP[], 35
 MDAP[R], 35
-SRP0[], 53
+SRP0[], 52
 MDRP[m&lt;RWh], 0
 IUP[X]
 IUP[Y]
@@ -24578,10 +24578,8 @@ CALL[], 31, -32, 22, 0, 77
 /* VTT 4.2 compiler */
 SVTCA[Y]
 MIAP[R], 3, 9
-MDRP[M&lt;RGr], 0
-MDRP[m&lt;RWh], 42
-DLTP1[(42 @15 -8)]
-DLTP2[(42 @0 -8)]
+MDRP[M&lt;RBl], 0
+MIRP[m&gt;RBl], 42, 74
 SRP0[], 3
 MIRP[m&gt;RBl], 39, 74
 MIAP[R], 19, 2
@@ -24592,13 +24590,13 @@ MDAP[R], 13
 SHP[1], 27
 MIRP[m&gt;RBl], 28, 74
 SVTCA[X]
-SRP0[], 44
+SRP0[], 43
 MDRP[M&lt;RWh], 8
 MIRP[m&gt;RBl], 34, 70
 MDRP[M&lt;RGr], 18
 MIRP[m&gt;RBl], 22, 68
-SRP0[], 45
-MDRP[M&lt;RWh], 43
+SRP0[], 44
+MDRP[M&lt;RWh], 0
 MDRP[m&lt;RWh], 20
 SRP1[], 18
 IP[], 27
@@ -28411,17 +28409,17 @@ MDAP[R], 57
 MDRP[m&gt;RBl], 51
 SRP0[], 44
 MDRP[M&lt;RBl], 64
-MDRP[m&lt;RWh], 0
+MIRP[m&gt;RBl], 0, 87
 SRP2[], 44
 IP[], 46
 SVTCA[X]
 SRP0[], 66
-MDRP[M&lt;RWh], 64
+MDRP[M&lt;RGr], 64
 SHP[2], 46
 MDRP[M&lt;RWh], 15
 DLTP1[(15 @6 -8)]
 MIRP[m&gt;RBl], 32, 83
-SRP0[], 67
+SRP0[], 66
 MDRP[M&lt;RWh], 39
 MIRP[m&gt;RBl], 8, 83
 MDRP[m&lt;RWh], 23
