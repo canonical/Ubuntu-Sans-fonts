@@ -4241,9 +4241,9 @@ SLOOP[], 6
 IP[], 12, 15, 22, 5, 32, 29
 DLTP1[(32 @2 4)]
 DLTP1[(29 @2 3)]
-MIAP[R], 36, 8
+MIAP[R], 0, 8
 SVTCA[X]
-MDAP[R], 36
+MDAP[R], 0
 SHP[1], 35
 DLTP1[(35 @0 -5)]
 DLTP1[(35 @1 -4)]
@@ -4258,9 +4258,9 @@ DLTP1[(9 @2 -5)]
 DLTP1[(9 @4 -7)]
 CALL[], 9, -88, 14, 0, 77
 CALL[], 9, -64, 14, 1, 77
-SRP0[], 37
+SRP0[], 36
 MDRP[m&lt;RWh], 0
-SRP0[], 38
+SRP0[], 37
 MDRP[M&lt;RWh], 25
 SHP[2], 26
 DLTP1[(26 @0 6)]
@@ -4291,8 +4291,8 @@ SDS[], 3
 DLTP1[(5 @4 7)]
 CALL[], 5, 64, 14, 0, 77
 CALL[], 5, 64, 14, 1, 77
-SRP1[], 37
-SRP2[], 38
+SRP1[], 36
+SRP2[], 37
 IP[], 31
 MDAP[R], 31
 MDRP[m&lt;rGr], 12
@@ -6827,16 +6827,16 @@ CALL[], 27, 16, 16, 17, 0, 76
     <glyphProgram name="apostrophe">
 /* VTT 4.2 compiler */
 SVTCA[Y]
-MDAP[R], 12
-MDRP[M&gt;RBl], 4
-MDRP[m&lt;RBl], 5
+MDAP[R], 8
+MDRP[M&gt;RBl], 0
+MDRP[m&lt;RBl], 1
 SVTCA[X]
 SRP0[], 14
-MDRP[M&lt;RWh], 12
-MIRP[M&gt;RBl], 8, 68
-MDRP[m&lt;RWh], 11
-MDRP[M&lt;RWh], 5
-MDRP[m&gt;RBl], 4
+MDRP[M&lt;RWh], 8
+MIRP[M&gt;RBl], 4, 68
+MDRP[m&lt;RWh], 7
+MDRP[M&lt;RWh], 1
+MDRP[m&gt;RBl], 0
 IUP[X]
 IUP[Y]
 
@@ -11899,10 +11899,10 @@ SRP2[], 3
 SLOOP[], 3
 IP[], 10, 7, 0
 SVTCA[X]
-SRP0[], 13
+SRP0[], 12
 MDRP[M&gt;RWh], 4
 MIRP[M&gt;RBl], 7, 111
-MDRP[m&gt;RGr], 0
+MDRP[m&gt;RBl], 0
 IUP[X]
 IUP[Y]
 SVTCA[Y]
@@ -13342,14 +13342,14 @@ MIRP[M&gt;RBl], 3, 115
 MDRP[m&lt;RBl], 7
 MIAP[R], 12, 126
 SVTCA[X]
-SRP0[], 15
+SRP0[], 14
 MDRP[M&lt;RWh], 7
 MIRP[M&gt;RBl], 3, 110
 MDRP[m&gt;RBl], 5
 DLTP1[(5 @2 -8)(5 @3 -8)(5 @4 -8)]
 SRP0[], 7
 MDRP[M&gt;RWh], 12
-MIRP[m&gt;RWh], 0, 111
+MIRP[m&gt;RBl], 0, 111
 IUP[X]
 IUP[Y]
 
@@ -14008,25 +14008,25 @@ CALL[], 33, -24, 13, 0, 77
     <glyphProgram name="tilde">
 /* VTT 4.2 compiler */
 SVTCA[Y]
-MIAP[R], 4, 18
-MDRP[m&lt;RWh], 12
-MIRP[m&gt;RBl], 23, 115
-CALL[], 23, 64, 15, 18, 72
-MDRP[M&gt;RGr], 9
-MIRP[M&gt;RBl], 18, 115
-CALL[], 18, 64, 15, 18, 72
-MDRP[m&lt;RWh], 26
+MIAP[R], 0, 18
+MDRP[m&lt;RWh], 8
+MIRP[m&gt;RBl], 19, 115
+CALL[], 19, 64, 15, 18, 72
+MDRP[M&gt;RGr], 5
+MIRP[M&gt;RBl], 14, 115
+CALL[], 14, 64, 15, 18, 72
+MDRP[m&lt;RWh], 22
 SVTCA[X]
 SRP0[], 29
-MDRP[M&lt;RWh], 27
-SHP[2], 26
-MDRP[m&lt;RBl], 13
-DLTP1[(13 @0 -8)(13 @3 -8)]
-SHP[2], 12
+MDRP[M&lt;RWh], 23
+SHP[2], 22
+MDRP[m&lt;RBl], 9
+DLTP1[(9 @0 -8)(9 @3 -8)]
+SHP[2], 8
 IUP[X]
 IUP[Y]
-CALL[], 1, -8, 9, 11, 0, 76
-CALL[], 15, 8, 9, 11, 0, 76
+CALL[], 25, -8, 9, 11, 0, 76
+CALL[], 11, 8, 9, 11, 0, 76
 
     </glyphProgram>
 
@@ -16673,10 +16673,10 @@ SRP2[], 7
 IP[], 14
 MDAP[R], 14
 DLTP1[(14 @0 -8)]
-MDRP[m&lt;RGr], 0
+MDRP[m&lt;RBl], 0
 MDRP[m&gt;RBl], 42
 SVTCA[X]
-SRP0[], 45
+SRP0[], 44
 MDRP[M&gt;RWh], 17
 MDRP[M&lt;RGr], 9
 SHP[2], 5
@@ -21253,49 +21253,49 @@ CALL[], 21, 16, 13, 0, 77
     <glyphProgram name="uni0496">
 /* VTT 4.2 compiler */
 SVTCA[Y]
+MIAP[R], 4, 2
 MIAP[R], 8, 2
-MIAP[R], 12, 2
-MIAP[R], 17, 2
-MIAP[R], 28, 8
-MIRP[m&gt;RBl], 24, 72
-MDRP[m&gt;RBl], 27
-MIAP[R], 33, 8
-MIAP[R], 38, 8
-SRP2[], 12
+MIAP[R], 13, 2
+MIAP[R], 24, 8
+MIRP[m&gt;RBl], 20, 72
+MDRP[m&gt;RBl], 23
+MIAP[R], 29, 8
+MIAP[R], 34, 8
+SRP2[], 8
 SLOOP[], 6
-IP[], 32, 35, 4, 21, 14, 11
+IP[], 31, 28, 0, 17, 7, 10
 SVTCA[X]
 SRP1[], 40
 SRP2[], 41
-IP[], 33
-MDAP[R], 33
-DLTP1[(33 @1 -8)]
-MDRP[m&lt;rGr], 14
-MDRP[M&gt;RGr], 17
-SHP[2], 18
-DLTP1[(18 @3 -6)]
-DLTP1[(18 @4 -8)(18 @5 -8)]
-MDRP[M&lt;RGr], 29
-MDRP[M&gt;RWh], 27
-SHP[2], 24
-CALL[], 24, -64, 9, 14, 72
-MIRP[m&gt;RBl], 25, 68
-SRP0[], 33
-MIRP[M&gt;RBl], 35, 68
-MDRP[m&lt;rGr], 11
-MDRP[M&gt;RBl], 8
-SHP[2], 7
-DLTP1[(7 @3 8)(7 @4 8)(7 @5 8)]
-SRP1[], 17
-IP[], 4
-IP[], 21
-DLTP1[(4 @0 3)]
-CALL[], 4, 64, 10, 14, 72
-DLTP1[(21 @1 -4)]
-CALL[], 21, -64, 11, 14, 72
-MDRP[m&lt;RGr], 38
-SHP[2], 39
-DLTP1[(39 @3 8)(39 @4 8)(39 @5 8)]
+IP[], 29
+MDAP[R], 29
+DLTP1[(29 @1 -8)]
+MDRP[m&lt;rGr], 10
+MDRP[M&gt;RGr], 13
+SHP[2], 14
+DLTP1[(14 @3 -6)]
+DLTP1[(14 @4 -8)(14 @5 -8)]
+MDRP[M&lt;RGr], 25
+MDRP[M&gt;RWh], 23
+SHP[2], 20
+CALL[], 20, -64, 9, 14, 72
+MIRP[m&gt;RBl], 21, 68
+SRP0[], 29
+MIRP[M&gt;RBl], 31, 68
+MDRP[m&lt;rGr], 7
+MDRP[M&gt;RBl], 4
+SHP[2], 3
+DLTP1[(3 @3 8)(3 @4 8)(3 @5 8)]
+SRP1[], 13
+IP[], 0
+IP[], 17
+DLTP1[(0 @0 3)]
+CALL[], 0, 64, 10, 14, 72
+DLTP1[(17 @1 -4)]
+CALL[], 17, -64, 11, 14, 72
+MDRP[m&lt;RGr], 34
+SHP[2], 35
+DLTP1[(35 @3 8)(35 @4 8)(35 @5 8)]
 IUP[X]
 IUP[Y]
 
@@ -21427,53 +21427,53 @@ CALL[], 74, 24, 9, 0, 77
     <glyphProgram name="uni0499">
 /* VTT 4.2 compiler */
 SVTCA[Y]
-MIAP[R], 21, 11
-MDRP[m&gt;RBl], 18
-MDRP[m&lt;RBl], 71
-MDRP[M&gt;RGr], 5
-MDRP[M&gt;RBl], 11
-MDRP[m&lt;RWh], 8
-SRP0[], 21
-MIRP[M&gt;RBl], 28, 87
-MDRP[m&lt;RWh], 25
-MIAP[R], 55, 7
-SRP2[], 21
-IP[], 36
-MDAP[R], 36
-DLTP1[(36 @15 -8)]
-DLTP2[(36 @0 -8)]
-MIRP[m&gt;RBl], 38, 85
-IP[], 63
-SRP0[], 55
-MIRP[M&gt;RBl], 44, 87
-MDRP[m&lt;RWh], 49
+MIAP[R], 19, 11
+MDRP[m&gt;RBl], 16
+MDRP[m&lt;RBl], 69
+MDRP[M&gt;RGr], 3
+MDRP[M&gt;RBl], 9
+MDRP[m&lt;RWh], 6
+SRP0[], 19
+MIRP[M&gt;RBl], 26, 87
+MDRP[m&lt;RWh], 23
+MIAP[R], 53, 7
+SRP2[], 19
+IP[], 34
+MDAP[R], 34
+DLTP1[(34 @15 -8)]
+DLTP2[(34 @0 -8)]
+MIRP[m&gt;RBl], 36, 85
+IP[], 61
+SRP0[], 53
+MIRP[M&gt;RBl], 42, 87
+MDRP[m&lt;RWh], 47
 SVTCA[X]
 SRP0[], 73
-MDRP[M&gt;RWh], 24
-SHP[2], 25
-MDRP[m&lt;RWh], 50
-SHP[2], 49
+MDRP[M&gt;RWh], 22
+SHP[2], 23
+MDRP[m&lt;RWh], 48
+SHP[2], 47
 SRP0[], 74
-MDRP[M&gt;RWh], 66
-MDRP[M&gt;RGr], 2
-MIRP[M&gt;RBl], 14, 83
-MDRP[m&gt;RGr], 7
-SRP0[], 66
-MIRP[M&gt;RBl], 30, 83
-MDRP[m&gt;RWh], 36
-SRP0[], 66
-MDRP[M&lt;RGr], 60
-MIRP[m&gt;RBl], 41, 83
-SHP[1], 63
+MDRP[M&gt;RWh], 64
+MDRP[M&gt;RGr], 0
+MIRP[M&gt;RBl], 12, 83
+MDRP[m&gt;RGr], 5
+SRP0[], 64
+MIRP[M&gt;RBl], 28, 83
+MDRP[m&gt;RWh], 34
+SRP0[], 64
+MDRP[M&lt;RGr], 58
+MIRP[m&gt;RBl], 39, 83
+SHP[1], 61
 IUP[X]
 IUP[Y]
 SVTCA[Y]
-CALL[], 4, 32, 14, 0, 77
-CALL[], 58, -40, 9, 0, 77
-CALL[], 58, -32, 10, 0, 77
-CALL[], 58, -24, 11, 12, 0, 76
-CALL[], 69, 32, 9, 0, 77
-CALL[], 69, 24, 10, 11, 0, 76
+CALL[], 2, 32, 14, 0, 77
+CALL[], 56, -40, 9, 0, 77
+CALL[], 56, -32, 10, 0, 77
+CALL[], 56, -24, 11, 12, 0, 76
+CALL[], 67, 32, 9, 0, 77
+CALL[], 67, 24, 10, 11, 0, 76
 
     </glyphProgram>
 
@@ -22466,49 +22466,49 @@ CALL[], 22, 32, 15, 16, 0, 76
     <glyphProgram name="uni04B2">
 /* VTT 4.2 compiler */
 SVTCA[Y]
+MIAP[R], 4, 8
+MDRP[m&gt;RBl], 2
+MIRP[m&gt;RBl], 0, 72
 MIAP[R], 5, 8
-MDRP[m&gt;RBl], 3
-MIRP[m&gt;RBl], 1, 72
-MIAP[R], 6, 8
+MIAP[R], 13, 8
 MIAP[R], 14, 8
-MIAP[R], 15, 8
+MIAP[R], 18, 2
 MIAP[R], 19, 2
-MIAP[R], 20, 2
+MIAP[R], 21, 2
 MIAP[R], 22, 2
-MIAP[R], 23, 2
 SVTCA[X]
 SRP0[], 25
-MDRP[M&lt;RWh], 15
-MDRP[m&lt;RWh], 19
+MDRP[M&lt;RWh], 14
+MDRP[m&lt;RWh], 18
 SRP0[], 26
-MDRP[M&lt;RWh], 2
-MIRP[M&gt;RBl], 5, 68
-MDRP[M&lt;RBl], 6
-/* Diagonal [6,1]158-[19,20]150 */
-SDPVTL[R], 6, 19
-CALL[], 1, 76, 6, 19, 20
+MDRP[M&lt;RWh], 1
+MIRP[M&gt;RBl], 4, 68
+MDRP[M&lt;RBl], 5
+/* Diagonal [5,0]158-[18,19]150 */
+SDPVTL[R], 5, 18
+CALL[], 0, 76, 5, 18, 20
 RDTG[]
-SRP0[], 1
-MDRP[m&lt;RGr], 20
+SRP0[], 0
+MDRP[m&lt;RGr], 19
 SVTCA[X]
 RTG[]
-SRP0[], 2
-MDRP[M&lt;RWh], 23
-DLTP1[(23 @2 8)]
-/* Diagonal [23,22]144-[14,15]143 */
-SDPVTL[R], 23, 14
-CALL[], 22, 76, 23, 14, 20
-SDPVTL[R], 22, 15
+SRP0[], 1
+MDRP[M&lt;RWh], 22
+DLTP1[(22 @2 8)]
+/* Diagonal [22,21]144-[13,14]143 */
+SDPVTL[R], 22, 13
+CALL[], 21, 76, 22, 13, 20
+SDPVTL[R], 21, 14
 RDTG[]
-MDRP[m&lt;RGr], 14
-ISECT[], 9, 14, 23, 19, 6
-/* DAlign [14...23] */
-SDPVTL[R], 14, 23
-SFVTPV[]
 MDRP[m&lt;RGr], 13
-ISECT[], 18, 19, 6, 15, 22
-ISECT[], 21, 15, 22, 1, 20
-ISECT[], 24, 14, 23, 1, 20
+ISECT[], 8, 13, 22, 18, 5
+/* DAlign [13...22] */
+SDPVTL[R], 13, 22
+SFVTPV[]
+MDRP[m&lt;RGr], 12
+ISECT[], 17, 18, 5, 14, 21
+ISECT[], 20, 14, 21, 0, 19
+ISECT[], 23, 13, 22, 0, 19
 IUP[X]
 IUP[Y]
 
@@ -22783,13 +22783,13 @@ MIRP[m&gt;RBl], 5, 87
 MDRP[M&lt;RBl], 13
 MIRP[m&gt;RBl], 8, 87
 SVTCA[X]
-SRP0[], 25
+SRP0[], 24
 MDRP[M&lt;RWh], 11
 DLTP1[(11 @0 -8)]
 MIRP[m&gt;RBl], 9, 81
 MIRP[m&gt;RBl], 13, 81
-DLTP1[(26 @0 -8)]
-SRP0[], 26
+DLTP1[(25 @0 -8)]
+SRP0[], 25
 MDRP[M&gt;RWh], 21
 MIRP[m&gt;RBl], 23, 81
 IUP[X]
@@ -23342,7 +23342,7 @@ MIRP[m&gt;RBl], 3, 74
 MDRP[M&lt;RBl], 15
 MIRP[m&gt;RBl], 6, 74
 SVTCA[X]
-SRP0[], 28
+SRP0[], 27
 MDRP[M&gt;RWh], 8
 MIRP[M&gt;RBl], 6, 68
 MDRP[M&gt;RGr], 24
