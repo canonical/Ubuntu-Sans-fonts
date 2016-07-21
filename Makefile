@@ -17,6 +17,7 @@ $(BUILD_DIR)/%.ttf: $(SRCDIR)/%.ufo
 	@mkdir -p $(BUILD_DIR)
 	FILE=$$(ls $(MASTER_DIR)); \
 	mv $(MASTER_DIR)/$$FILE $@;
+	python -m vttLib merge $< $@
 
 clean:
 	@rm -rf $(BUILD_DIR) $(MASTER_DIR)
