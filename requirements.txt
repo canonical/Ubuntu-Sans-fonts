@@ -8,7 +8,9 @@ git+https://github.com/googlei18n/cu2qu.git@2d5e57e97346fbee1c4a24fba57aa2fa472d
 
 git+https://github.com/googlei18n/ufo2ft.git@571b16406964805a904dc5b331b1ebfb9b38890a
 
-git+https://github.com/googlei18n/fontmake.git@98d15570a141a28fd5efc25f4a390de920101409
+# TODO(anthrotype) revert to use upstream repo once this PR gets merged:
+# https://github.com/googlei18n/fontmake/pull/111
+git+https://github.com/daltonmaag/fontmake.git@74fe65415d4e3a075056cf9ac6f9f0f43d4c3c60
 
 git+https://github.com/daltonmaag/vttLib.git@0.4
 
