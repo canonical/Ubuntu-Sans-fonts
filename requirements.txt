@@ -12,4 +12,5 @@ git+https://github.com/googlei18n/ufo2ft.git@571b16406964805a904dc5b331b1ebfb9b3
 # https://github.com/googlei18n/fontmake/pull/111
 git+https://github.com/daltonmaag/fontmake.git@74fe65415d4e3a075056cf9ac6f9f0f43d4c3c60
 
-git+https://github.com/daltonmaag/vttLib.git@0.4
+--find-links https://github.com/daltonmaag/vttLib/releases
+vttLib==0.4
