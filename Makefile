@@ -1,24 +1,36 @@
 NORMAL_NAME=Ubuntu
 MONO_NAME=UbuntuMono
-SRCDIR=source
+SRC_DIR=source
 CORE_FONTS=B BI R RI
 ALL_FONTS=$(CORE_FONTS) C L LI M MI
-TTF=$(ALL_FONTS:%=$(BUILD_DIR)/$(NORMAL_NAME)-%.ttf)
-MONO_TTF=$(CORE_FONTS:%=$(BUILD_DIR)/$(MONO_NAME)-%.ttf)
+
 MASTER_DIR=master_ttf
 BUILD_DIR=build
+
+TTF=$(ALL_FONTS:%=$(BUILD_DIR)/$(NORMAL_NAME)-%.ttf)
+MONO_TTF=$(CORE_FONTS:%=$(BUILD_DIR)/$(MONO_NAME)-%.ttf)
+
+VTT_TTF=$(ALL_FONTS:%=$(SRC_DIR)/$(NORMAL_NAME)-%.ttf)
+VTT_MONO_TTF=$(CORE_FONTS:%=$(SRC_DIR)/$(MONO_NAME)-%.ttf)
+
 
 all: ttf
 
 ttf: $(TTF) $(MONO_TTF)
 
-$(BUILD_DIR)/%.ttf: $(SRCDIR)/%.ufo
+vtt: $(VTT_TTF) $(VTT_MONO_TTF)
+
+$(SRC_DIR)/%.ttf: $(SRC_DIR)/%.ufo
 	fontmake --keep-overlaps --no-production-names --keep-direction -o ttf -u $<
-	@mkdir -p $(BUILD_DIR)
-	FILE=$$(ls $(MASTER_DIR)); \
+	@FILE=$$(ls $(MASTER_DIR)); \
 	mv $(MASTER_DIR)/$$FILE $@;
+	@rm -r $(MASTER_DIR)
 	python -m vttLib merge $< $@
-	python -m vttLib compile -f $@
+
+$(BUILD_DIR)/%.ttf: $(SRC_DIR)/%.ttf
+	@mkdir -p $(BUILD_DIR)
+	python -m vttLib compile --ship $< $@
 
 clean:
-	@rm -rf $(BUILD_DIR) $(MASTER_DIR)
+	@rm -rf $(BUILD_DIR)
+	@rm -f $(VTT_TTF) $(VTT_MONO_TTF)
