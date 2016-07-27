@@ -20,7 +20,11 @@ ttf: $(TTF) $(MONO_TTF)
 
 vtt: $(VTT_TTF) $(VTT_MONO_TTF)
 
-$(SRC_DIR)/%.ttf: $(SRC_DIR)/%.ufo
+$(SRC_DIR)/%.ttf: $(SRC_DIR)/%.ufo $(SRC_DIR)/%.ufo/*.plist \
+                  $(SRC_DIR)/%.ufo/features.fea \
+                  $(SRC_DIR)/%.ufo/glyphs*/*.glif \
+                  $(SRC_DIR)/%.ufo/glyphs*/contents.plist \
+                  $(SRC_DIR)/%.ufo/data/com.github.fonttools.ttx/*.ttx
 	fontmake --keep-overlaps --no-production-names --keep-direction -o ttf -u $<
 	@FILE=$$(ls $(MASTER_DIR)); \
 	mv $(MASTER_DIR)/$$FILE $@;
