@@ -13,17 +13,3 @@ git+https://github.com/googlei18n/ufo2ft.git@571b16406964805a904dc5b331b1ebfb9b3
 git+https://github.com/daltonmaag/fontmake.git@74fe65415d4e3a075056cf9ac6f9f0f43d4c3c60
 
 git+https://github.com/daltonmaag/vttLib.git@0.4
-
-# the following are not strictly required for building Ubuntu, but they
-# are nonetheless required to run fontmake
-
---find-links https://github.com/typemytype/booleanOperations/releases
-booleanOperations==0.4
-
-git+https://github.com/googlei18n/compreffor.git@038ef6ea8a9ffd4f62cb7cce4a1b851eb3f015a4
-
-git+https://github.com/typesupply/fontMath.git@e96af7a672aa8173139952cf78405b6c43fd5353
-
-git+https://github.com/LettError/MutatorMath.git@8af13c589f4ca7f5c4707dee481ce0ec17c01bd9
-
-git+https://github.com/googlei18n/glyphsLib.git@729e05e4ac10ae509712f2e00a872a29fdbab505
