@@ -33,20 +33,23 @@ $ make
 -----------------------------
 # Add hdmx, LTSH, VDMX tables
 
-Download Microsoft CacheTT
+Download CacheTT (from [Microsoft Font Tools](https://www.microsoft.com/en-us/Typography/tools.aspx))
+
 ```sh
 $ curl -o FontTools.exe http://download.microsoft.com/download/f/f/a/ffae9ec6-3bf6-488a-843d-b96d552fd815/FontTools.exe
 ```
 
-Unpack with unzip
+Unzip FontTools.exe and FontTools/CacheTT.zip
+
+
+Add hdmx, LTSH, VDMX table to font on Linux or OS X:
 ```sh
-$ unzip FontTools.exe
-$ unzip FontTools/CacheTT.zip
+$ wine CacheTT/cachett.exe INPUT_FILE OUTPUT_FILE
 ```
 
-Add hdmx, LTSH, VDMX table to font
-```sh
-$ wine FontTools/CacheTT/cachett.exe FONT_FILE
+... or on Windows:
+```
+$ CacheTT/cachett.exe INPUT_FILE OUTPUT_FILE
 ```
 
 -----------------------------
