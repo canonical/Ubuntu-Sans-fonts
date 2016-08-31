@@ -1,6 +1,4 @@
- ----------------------
-  Ubuntu Font Family
- ======================
+ # Ubuntu Font Family
 
 The Ubuntu Font Family are a set of matching new libre/open fonts in
 development during 2010--2011.  And with further expansion work and
@@ -14,3 +12,20 @@ to produce the font family are distributed under an open licence and
 you are expressly encouraged to experiment, modify, share and improve.
 
   http://font.ubuntu.com/
+
+--------------------
+# Build instructions
+
+It is recommended to use a virtual environment with `pyenv`, since we use
+specific versions of some dependencies that might be differ from those installed
+system wide.
+
+Install dependencies
+```sh
+$ pip install -r requirements.txt
+```
+
+Build fonts
+```
+$ make
+```
