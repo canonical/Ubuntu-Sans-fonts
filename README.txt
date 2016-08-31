@@ -59,3 +59,11 @@ $ CacheTT/cachett.exe INPUT_FILE OUTPUT_FILE
   tool to dump the kerning. This can be used to diff kerning between two fonts.
 - [fontdiff](https://github.com/googlei18n/fontdiff):
   tool to compare two rendered fonts visually.
+
+-----------------------------
+# Roadmap:
+- [x] convert sources to UFO
+- [x] generate TTF from UFO
+- [x] store VTT sources in UFO
+- [x] translate VTT assembly to fontTools TTInstructions
+- [ ] generate kern table
