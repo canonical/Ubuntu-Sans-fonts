@@ -48,3 +48,11 @@ Add hdmx, LTSH, VDMX table to font
 ```sh
 $ wine FontTools/CacheTT/cachett.exe FONT_FILE
 ```
+
+-----------------------------
+# Miscellaneous
+
+- [kern-dump](https://github.com/adobe-type-tools/kern-dump):
+  tool to dump the kerning. This can be used to diff kerning between two fonts.
+- [fontdiff](https://github.com/googlei18n/fontdiff):
+  tool to compare two rendered fonts visually.
