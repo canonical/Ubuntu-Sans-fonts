@@ -29,3 +29,22 @@ Build fonts
 ```
 $ make
 ```
+
+-----------------------------
+# Add hdmx, LTSH, VDMX tables
+
+Download Microsoft CacheTT
+```sh
+$ curl -o FontTools.exe http://download.microsoft.com/download/f/f/a/ffae9ec6-3bf6-488a-843d-b96d552fd815/FontTools.exe
+```
+
+Unpack with unzip
+```sh
+$ unzip FontTools.exe
+$ unzip FontTools/CacheTT.zip
+```
+
+Add hdmx, LTSH, VDMX table to font
+```sh
+$ wine FontTools/CacheTT/cachett.exe FONT_FILE
+```
