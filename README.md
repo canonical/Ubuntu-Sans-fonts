@@ -44,12 +44,12 @@ Unzip FontTools.exe and FontTools/CacheTT.zip
 
 Add hdmx, LTSH, VDMX table to font on Linux or OS X:
 ```sh
-$ wine CacheTT/cachett.exe INPUT_FILE OUTPUT_FILE
+$ wine CacheTT/cachett.exe -V -TVDMX -TLTSH -Thdmx INPUT_FILE OUTPUT_FILE
 ```
 
 ... or on Windows:
 ```
-$ CacheTT/cachett.exe INPUT_FILE OUTPUT_FILE
+$ CacheTT/cachett.exe -V -TVDMX -TLTSH -Thdmx INPUT_FILE OUTPUT_FILE
 ```
 
 -----------------------------
