@@ -16,9 +16,9 @@ you are expressly encouraged to experiment, modify, share and improve.
 --------------------
 # Build instructions
 
-It is recommended to use a virtual environment with `pyenv`, since we use
-specific versions of some dependencies that might be differ from those installed
-system wide.
+It is recommended to use a virtual environment with `python -m virtualenv`,
+since we use specific versions of some dependencies that might be differ
+from those installed system wide.
 
 Install dependencies
 ```sh
