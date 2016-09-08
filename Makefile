@@ -26,7 +26,7 @@ $(SRC_DIR)/%.ttf: $(SRC_DIR)/%.ufo $(SRC_DIR)/%.ufo/*.plist \
                   $(SRC_DIR)/%.ufo/glyphs*/contents.plist \
                   $(SRC_DIR)/%.ufo/data/com.github.fonttools.ttx/*.ttx
 	fontmake --keep-overlaps --no-production-names --keep-direction -o ttf -u $<
-	@FILE=$$(ls $(MASTER_DIR)); \
+	@FILE=$$(ls -t $(MASTER_DIR) | head -1); \
 	mv $(MASTER_DIR)/$$FILE $@;
 	@rm -r $(MASTER_DIR)
 	python -m vttLib merge $< $@
