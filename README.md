@@ -30,6 +30,16 @@ Build fonts
 $ make
 ```
 
+Add legacy kern table
+```
+$ make kerntable
+```
+
+Build fonts to edit TrueType instructions in VTT (placed next to the UFO)
+```
+$ make vtt
+```
+
 -----------------------------
 # Add hdmx, LTSH, VDMX tables
 
@@ -66,4 +76,4 @@ $ CacheTT/cachett.exe -V -TVDMX -TLTSH -Thdmx INPUT_FILE OUTPUT_FILE
 - [x] generate TTF from UFO
 - [x] store VTT sources in UFO
 - [x] translate VTT assembly to fontTools TTInstructions
-- [ ] generate kern table
+- [x] generate kern table
