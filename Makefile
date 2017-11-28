@@ -48,3 +48,6 @@ $(LEGACY_KERN_DIR)/%.ttf: $(SRC_DIR)/%.ufo $(BUILD_DIR)/%.ttf
 clean:
 	@rm -rf $(BUILD_DIR)
 	@rm -f $(VTT_TTF) $(VTT_MONO_TTF)
+
+update-requirements:
+	@bash tools/update-requirements.sh
