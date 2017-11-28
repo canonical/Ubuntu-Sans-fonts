@@ -6,6 +6,8 @@
 # Update the script when font production relies on more than fontmake and
 # vttLib.
 
+set -e # Fail immediately when any command does.
+
 if [ ! -f requirements.txt ]
 then
   echo "This script must be run in the same directory that contains the \
@@ -17,6 +19,9 @@ TMPDIR=$(mktemp -d)
 python3 -m venv $TMPDIR
 source $TMPDIR/bin/activate
 
-pip3 install fontmake --find-links https://github.com/daltonmaag/vttLib/releases vttLib
-pip3 freeze -r requirements.txt | grep -v "were added by pip freeze" > new_requirements.txt
+pip3 install \
+  fontmake \
+  --find-links https://github.com/daltonmaag/vttLib/releases vttLib
+pip3 freeze -r requirements.txt \
+  | grep -v "were added by pip freeze" > new_requirements.txt
 mv new_requirements.txt requirements.txt
