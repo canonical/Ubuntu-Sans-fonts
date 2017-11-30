@@ -49,6 +49,34 @@
 		<integer>128</integer>
 		<key>macintoshFONDName</key>
 		<string>Ubuntu</string>
+		<key>openTypeGaspRangeRecords</key>
+		<array>
+			<dict>
+				<key>rangeGaspBehavior</key>
+				<array>
+					<integer>1</integer>
+				</array>
+				<key>rangeMaxPPEM</key>
+				<integer>8</integer>
+			</dict>
+			<dict>
+				<key>rangeGaspBehavior</key>
+				<array>
+					<integer>0</integer>
+				</array>
+				<key>rangeMaxPPEM</key>
+				<integer>18</integer>
+			</dict>
+			<dict>
+				<key>rangeGaspBehavior</key>
+				<array>
+					<integer>0</integer>
+					<integer>1</integer>
+				</array>
+				<key>rangeMaxPPEM</key>
+				<integer>65535</integer>
+			</dict>
+		</array>
 		<key>openTypeHeadFlags</key>
 		<array>
 			<integer>0</integer>
