@@ -20,7 +20,7 @@ python3 -m venv $TMPDIR
 source $TMPDIR/bin/activate
 
 pip3 install \
-  fontmake \
+  ufo2ft \
   --find-links https://github.com/daltonmaag/vttLib/releases vttLib
 pip3 freeze -r requirements.txt \
   | grep -v "were added by pip freeze" > new_requirements.txt

@@ -1,18 +1,12 @@
-fontmake==1.3.0
 
+ufo2ft==0.6.2
 --find-links https://github.com/daltonmaag/vttLib/releases
-vttLib==0.7.4
+vttLib==0.7.6
 
 # Subrequirements by the above packages
 fonttools==3.20.1
 ufoLib==2.1.1
 defcon==0.3.5
 cu2qu==1.3.0
-ufo2ft==0.6.2
 compreffor==0.4.6
-MutatorMath==2.1.0
-booleanOperations==0.7.1
-glyphsLib==2.1.0
 pyparsing==2.2.0
-fontMath==0.4.4
-pyclipper==1.0.6
