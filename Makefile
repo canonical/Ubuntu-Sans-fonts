@@ -20,18 +20,17 @@ ttf: $(TTF) $(MONO_TTF)
 
 vtt: $(VTT_TTF) $(VTT_MONO_TTF)
 
-kerntable: $(LEGACY_KERN_TTF)
-
 $(SRC_DIR)/%.ttf: $(SRC_DIR)/%.ufo $(SRC_DIR)/%.ufo/*.plist \
                   $(SRC_DIR)/%.ufo/features.fea \
                   $(SRC_DIR)/%.ufo/glyphs*/*.glif \
                   $(SRC_DIR)/%.ufo/glyphs*/contents.plist \
-                  $(SRC_DIR)/%.ufo/data/com.github.fonttools.ttx/*.ttx
+                  $(SRC_DIR)/%.ufo/data/com.github.fonttools.ttx/*.ttx \
+                  $(SRC_DIR)/%.ufo/data/com.daltonmaag.vttLib.plist
 	python tools/build.py $< $@
 
 $(BUILD_DIR)/%.ttf: $(SRC_DIR)/%.ttf
 	@mkdir -p $(BUILD_DIR)
-	@python -m vttLib compile --ship $< $@
+	python -m vttLib compile --ship $< $@
 
 clean:
 	@rm -rf $(BUILD_DIR)
