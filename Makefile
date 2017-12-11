@@ -31,6 +31,7 @@ $(SRC_DIR)/%.ttf: $(SRC_DIR)/%.ufo $(SRC_DIR)/%.ufo/*.plist \
 $(BUILD_DIR)/%.ttf: $(SRC_DIR)/%.ttf
 	@mkdir -p $(BUILD_DIR)
 	python -m vttLib compile --ship $< $@
+	tools/update-hinted-metrics.sh $@
 
 clean:
 	@rm -rf $(BUILD_DIR)
