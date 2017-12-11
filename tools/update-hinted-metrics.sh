@@ -15,11 +15,24 @@ then
   cd ..
 fi
 
+CACHETT_CFG="tools/cachett-configuration.cfg"
+
+# The condensed face and the Mono fonts use different parameters:
+# 1) VDMX: cache values for sizes up to 255, only calculate for a 1:1 ratio.
+# 2) hdmx: the condensed face caches for fewer ppems.
 if [[ $1 == *"Ubuntu-C"* ]]
 then
   CACHETT_CFG="tools/cachett-configuration-condensed.cfg"
-else
-  CACHETT_CFG="tools/cachett-configuration.cfg"
+elif [[ $1 == *"UbuntuMono"* ]]
+then
+  CACHETT_CFG="tools/cachett-configuration-mono.cfg"
+fi
+
+# The Google Fonts version of Mono-BI does not ship with a VDMX table. As there
+# are no htmx or LTSH tables in the Mono fonts, we can go home now.
+if [[ $1 == *"UbuntuMono-BI"* ]]
+then
+  exit 0
 fi
 
 wine tools/CacheTT/cachett.exe -V -TVDMX -TLTSH -Thdmx "$1" "$1_" $CACHETT_CFG
