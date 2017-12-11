@@ -52,7 +52,7 @@ def legacy_kern_table(ufo):
 
 def flatten_kerning(ufo, key_glyphs_only=False):
     kerning = {}
-    for key, value in ufo.kerning.items():
+    for key, value in ufo.kerning.items(): # [(l-hand, r-hand): value, ...]
         if value == 0 and key_glyphs_only:
             continue
         if key[0].startswith("public.kern") and \
@@ -79,7 +79,11 @@ def flatten_kerning(ufo, key_glyphs_only=False):
             else:
                 right = ufo.groups[key[1]][0]
                 kerning[(key[0], right)] = value
-        elif not key_glyphs_only:
+        # Ubuntu-C has three character x character kerning pairs that aren't
+        # picked up by the above flattening algorithm but that are still present
+        # in the Google Fonts release. Hack them in here.
+        elif key[0].startswith("uni023E") or key[0].startswith("uni0194") \
+        or not key_glyphs_only:
             kerning[key] = value
     return kerning
 
