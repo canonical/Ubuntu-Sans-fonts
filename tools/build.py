@@ -49,42 +49,47 @@ def legacy_kern_table(ufo):
 
     return kern
 
-
+# There are two kerning pair types: single glyphs and glyph groups, they can be
+# freely mixed in a kerning table (see [0], "Kerning Pair Types"). To fit large
+# kerning tables into the legacy `kern` table, single glyph by single glyph
+# combinations are filtered out. Only kerning pairs where at least one side is a
+# group are kept.
+#
+# [0]: http://unifiedfontobject.org/versions/ufo3/kerning.plist/
 def flatten_kerning(ufo, key_glyphs_only=False):
     kerning = {}
-    for key, value in ufo.kerning.items(): # [(l-hand, r-hand): value, ...]
-        if value == 0 and key_glyphs_only:
+    for (first, second), offset in ufo.kerning.items():
+        if offset == 0 and key_glyphs_only:
             continue
-        if key[0].startswith("public.kern") and \
-                key[1].startswith("public.kern"):
+        if first.startswith("public.kern") and \
+                second.startswith("public.kern"):
             if not key_glyphs_only:
-                for left in ufo.groups[key[0]]:
-                    for right in ufo.groups[key[1]]:
-                        kerning[(left, right)] = value
+                for first_group in ufo.groups[first]:
+                    for second_group in ufo.groups[second]:
+                        kerning[(first_group, second_group)] = offset
             else:
-                left = ufo.groups[key[0]][0]
-                right = ufo.groups[key[1]][0]
-                kerning[(left, right)] = value
-        elif key[0].startswith("public.kern"):
+                first_group = ufo.groups[first][0]
+                second_group = ufo.groups[second][0]
+                kerning[(first_group, second_group)] = offset
+        elif first.startswith("public.kern"):
             if not key_glyphs_only:
-                for left in ufo.groups[key[0]]:
-                    kerning[(left, key[1])] = value
+                for first_group in ufo.groups[first]:
+                    kerning[(first_group, second)] = offset
             else:
-                left = ufo.groups[key[0]][0]
-                kerning[(left, key[1])] = value
-        elif key[1].startswith("public.kern"):
+                first_group = ufo.groups[first][0]
+                kerning[(first_group, second)] = offset
+        elif second.startswith("public.kern"):
             if not key_glyphs_only:
-                for right in ufo.groups[key[1]]:
-                    kerning[(key[0], right)] = value
+                for second_group in ufo.groups[second]:
+                    kerning[(first, second_group)] = offset
             else:
-                right = ufo.groups[key[1]][0]
-                kerning[(key[0], right)] = value
+                second_group = ufo.groups[second][0]
+                kerning[(first, second_group)] = offset
         # Ubuntu-C has three character x character kerning pairs that aren't
         # picked up by the above flattening algorithm but that are still present
         # in the Google Fonts release. Hack them in here.
-        elif key[0].startswith("uni023E") or key[0].startswith("uni0194") \
-        or not key_glyphs_only:
-            kerning[key] = value
+        elif first in ("uni023E", "uni0194") or not key_glyphs_only:
+            kerning[(first, second)] = offset
     return kerning
 
 
