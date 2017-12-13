@@ -21,6 +21,8 @@ if any(x in args.ttf for x in ("BI", "LI", "MI", "M")):
     for index, table in ttf["hdmx"].hdmx.items():
         table._array[table._map["uniF000"]] = 0
 
+    # As the cached (hdmx) width is zero, LTSH need not exist (and doesn't in
+    # the GF release of these fonts).
     del ttf["LTSH"].yPels["uniF000"]
 
     ttf.save(args.ttf)
