@@ -27,12 +27,12 @@ $ pip install -r requirements.txt
 
 Build fonts
 ```
-$ make -j<number of logical cores in your CPU>
+$ make
 ```
 
 Build fonts to edit TrueType instructions in VTT (placed next to the UFO)
 ```
-$ make -j<number of logical cores in your CPU> vtt
+$ make vtt
 ```
 
 # Miscellaneous
@@ -46,11 +46,11 @@ $ make -j<number of logical cores in your CPU> vtt
   rendered fonts visually.
 
 # Roadmap:
-- [ ] Match the binaries released on Google Fonts as closely as possible, as 
+- [ ] Match the binaries released on Google Fonts as closely as possible, as
   that version has received the most exposure and patching.
 - [ ] Swap the Google Fonts binaries with ones generated from this source and
-  fix any issues that come up. Experiment with shipping more internally consistent
-  binaries.
+  fix any issues that come up.
+- [ ] Experiment with shipping more internally consistent binaries.
 - [ ] Declare a stable version and ship it in Ubuntu
 - [ ] Integrate thin weight, Arabic and Hebrew that was done but never released.
 - [ ] Plan the future of the typeface. Variable font, how?
