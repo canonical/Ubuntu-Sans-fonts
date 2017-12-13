@@ -21,4 +21,6 @@ if any(x in args.ttf for x in ("BI", "LI", "MI", "M")):
     for index, table in ttf["hdmx"].hdmx.items():
         table._array[table._map["uniF000"]] = 0
 
+    del ttf["LTSH"].yPels["uniF000"]
+
     ttf.save(args.ttf)
