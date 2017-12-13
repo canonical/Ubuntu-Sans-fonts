@@ -13,7 +13,6 @@ you are expressly encouraged to experiment, modify, share and improve.
 
   http://font.ubuntu.com/
 
---------------------
 # Build instructions
 
 It is recommended to use a virtual environment with `python -m virtualenv`,
@@ -23,57 +22,35 @@ from those installed system wide.
 Install dependencies
 ```sh
 $ pip install -r requirements.txt
+# Also install wine and curl.
 ```
 
 Build fonts
 ```
-$ make
-```
-
-Add legacy kern table
-```
-$ make kerntable
+$ make -j<number of logical cores in your CPU>
 ```
 
 Build fonts to edit TrueType instructions in VTT (placed next to the UFO)
 ```
-$ make vtt
+$ make -j<number of logical cores in your CPU> vtt
 ```
 
------------------------------
-# Add hdmx, LTSH, VDMX tables
-
-Download CacheTT (from [Microsoft Font Tools](https://www.microsoft.com/en-us/Typography/tools.aspx))
-
-```sh
-$ curl -o FontTools.exe http://download.microsoft.com/download/f/f/a/ffae9ec6-3bf6-488a-843d-b96d552fd815/FontTools.exe
-```
-
-Unzip FontTools.exe and FontTools/CacheTT.zip
-
-
-Add hdmx, LTSH, VDMX table to font on Linux or OS X:
-```sh
-$ wine CacheTT/cachett.exe -V -TVDMX -TLTSH -Thdmx INPUT_FILE OUTPUT_FILE
-```
-
-... or on Windows:
-```
-$ CacheTT/cachett.exe -V -TVDMX -TLTSH -Thdmx INPUT_FILE OUTPUT_FILE
-```
-
------------------------------
 # Miscellaneous
 
-- [kern-dump](https://github.com/adobe-type-tools/kern-dump):
-  tool to dump the kerning. This can be used to diff kerning between two fonts.
-- [fontdiff](https://github.com/googlei18n/fontdiff):
-  tool to compare two rendered fonts visually.
+- [fonttools](https://github.com/fonttools/fonttools): Includes the tool `ttx`
+  that can be used to dump the contens of font binaries in XML form for easier
+  comparison.
+- [kern-dump](https://github.com/adobe-type-tools/kern-dump): Tool to dump the
+  kerning. This can be used to diff kerning between two fonts.
+- [fontdiff](https://github.com/googlei18n/fontdiff): Tool to compare two
+  rendered fonts visually.
 
------------------------------
 # Roadmap:
-- [x] convert sources to UFO
-- [x] generate TTF from UFO
-- [x] store VTT sources in UFO
-- [x] translate VTT assembly to fontTools TTInstructions
-- [x] generate kern table
+- [ ] Match the binaries released on Google Fonts as closely as possible, as 
+  that version has received the most exposure and patching.
+- [ ] Swap the Google Fonts binaries with ones generated from this source and
+  fix any issues that come up. Experiment with shipping more internally consistent
+  binaries.
+- [ ] Declare a stable version and ship it in Ubuntu
+- [ ] Integrate thin weight, Arabic and Hebrew that was done but never released.
+- [ ] Plan the future of the typeface. Variable font, how?
