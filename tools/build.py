@@ -49,13 +49,16 @@ def legacy_kern_table(ufo):
 
     return kern
 
-# There are two kerning pair types: single glyphs and glyph groups, they can be
-# freely mixed in a kerning table (see [0], "Kerning Pair Types"). To fit large
-# kerning tables into the legacy `kern` table, single glyph by single glyph
-# combinations are filtered out. Only kerning pairs where at least one side is a
-# group are kept.
+# The flattening algorithm filters out all character by character kerning pairs
+# and only leaves in group by group and (group|character) by (character|group)
+# pairs. This reduces the number of pairs drastically to better fit in the
+# legacy `kern` table.
 #
-# [0]: http://unifiedfontobject.org/versions/ufo3/kerning.plist/
+# Reminder from http://unifiedfontobject.org/versions/ufo3/kerning.plist/:
+# Kerning groups must begin with standard prefixes. The prefix for groups
+# intended for use in the first side of a kerning pair is “public.kern1.”. The
+# prefix for groups intended for use in the second side of a kerning pair is
+# “public.kern2.”.
 def flatten_kerning(ufo, key_glyphs_only=False):
     kerning = {}
     for (first, second), offset in ufo.kerning.items():
