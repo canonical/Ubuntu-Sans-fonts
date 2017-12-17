@@ -13,7 +13,8 @@ parser.add_argument("ttf", type=str, help="The path to the TTF to be modified.")
 args = parser.parse_args()
 
 # This only needs to be done in BI, LI, MI and M.
-if any(x in args.ttf for x in ("BI", "LI", "MI", "M")):
+if any(x in args.ttf \
+  for x in ("Ubuntu-BI.ttf", "Ubuntu-LI.ttf", "Ubuntu-MI.ttf", "Ubuntu-M.ttf")):
     ttf = fontTools.ttLib.TTFont(args.ttf)
 
     # The values can't be changed through the proper accessor methods, so access
