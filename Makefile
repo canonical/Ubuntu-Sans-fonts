@@ -33,6 +33,7 @@ $(BUILD_DIR)/%.ttf: $(SRC_DIR)/%.ttf
 	python -m vttLib compile --ship $< $@
 	tools/update-hinted-metrics.sh $@
 	python tools/postprocess-hdmx-zero_out_unif000.py $@
+	python tools/postprocess-kern.py $@
 
 clean:
 	@rm -rf $(BUILD_DIR)
