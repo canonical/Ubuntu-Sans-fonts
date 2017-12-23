@@ -12851,24 +12851,36 @@
 		</dict>
 		<key>public.kern1.MIS_uni01B3_FIRST</key>
 		<dict>
+			<key>adieresis</key>
+			<integer>-20</integer>
 			<key>aringacute</key>
 			<integer>-74</integer>
 			<key>ccaron</key>
 			<integer>-65</integer>
 			<key>ebreve</key>
 			<integer>-55</integer>
+			<key>edieresis</key>
+			<integer>-35</integer>
 			<key>emacron</key>
 			<integer>-55</integer>
 			<key>gbreve</key>
 			<integer>-75</integer>
 			<key>gcircumflex</key>
 			<integer>-85</integer>
+			<key>iacute</key>
+			<integer>-15</integer>
 			<key>ibreve</key>
-			<integer>30</integer>
-			<key>imacron</key>
-			<integer>40</integer>
-			<key>itilde</key>
+			<integer>10</integer>
+			<key>icircumflex</key>
+			<integer>10</integer>
+			<key>idieresis</key>
 			<integer>50</integer>
+			<key>igrave</key>
+			<integer>10</integer>
+			<key>imacron</key>
+			<integer>32</integer>
+			<key>itilde</key>
+			<integer>40</integer>
 			<key>jcircumflex</key>
 			<integer>30</integer>
 			<key>napostrophe</key>
@@ -12879,84 +12891,180 @@
 			<integer>-75</integer>
 			<key>omacron</key>
 			<integer>-65</integer>
+			<key>public.kern1.PUNCT_quotesingle</key>
+			<integer>20</integer>
+			<key>public.kern2.LAT_AE_UC_SECOND</key>
+			<integer>-70</integer>
+			<key>public.kern2.LAT_A_UC_SECOND</key>
+			<integer>-40</integer>
+			<key>public.kern2.LAT_C_UC_SECOND</key>
+			<integer>-25</integer>
+			<key>public.kern2.LAT_G_UC_SECOND</key>
+			<integer>-25</integer>
+			<key>public.kern2.LAT_J_UC_SECOND</key>
+			<integer>-65</integer>
+			<key>public.kern2.LAT_M_UC</key>
+			<integer>-20</integer>
+			<key>public.kern2.LAT_O_UC_SECOND</key>
+			<integer>-25</integer>
+			<key>public.kern2.LAT_Q_UC</key>
+			<integer>-25</integer>
+			<key>public.kern2.LAT_T_UC_SECOND</key>
+			<integer>35</integer>
 			<key>public.kern2.LAT_V_UC</key>
-			<integer>40</integer>
+			<integer>33</integer>
+			<key>public.kern2.LAT_W_UC</key>
+			<integer>23</integer>
+			<key>public.kern2.LAT_X_UC</key>
+			<integer>21</integer>
+			<key>public.kern2.LAT_Y_UC_SECOND</key>
+			<integer>35</integer>
+			<key>public.kern2.LAT_Z_UC_SECOND</key>
+			<integer>5</integer>
 			<key>public.kern2.LAT_a_LC_SECOND</key>
-			<integer>-84</integer>
+			<integer>-35</integer>
 			<key>public.kern2.LAT_c_LC_SECOND</key>
-			<integer>-95</integer>
+			<integer>-45</integer>
 			<key>public.kern2.LAT_d_LC_SECOND</key>
-			<integer>-95</integer>
+			<integer>-45</integer>
 			<key>public.kern2.LAT_e_LC_SECOND</key>
-			<integer>-95</integer>
+			<integer>-45</integer>
 			<key>public.kern2.LAT_eng_LC</key>
-			<integer>-80</integer>
+			<integer>-45</integer>
 			<key>public.kern2.LAT_eth_LC</key>
-			<integer>-95</integer>
+			<integer>-55</integer>
 			<key>public.kern2.LAT_g_LC_SECOND</key>
-			<integer>-95</integer>
+			<integer>-45</integer>
 			<key>public.kern2.LAT_n_LC_SECOND</key>
-			<integer>-80</integer>
+			<integer>-45</integer>
+			<key>public.kern2.LAT_napostroph.case_UC_SECOND</key>
+			<integer>50</integer>
 			<key>public.kern2.LAT_o_LC_SECOND</key>
-			<integer>-95</integer>
+			<integer>-45</integer>
 			<key>public.kern2.LAT_p_LC_SECOND</key>
-			<integer>-80</integer>
+			<integer>-45</integer>
 			<key>public.kern2.LAT_q_LC_SECOND</key>
-			<integer>-95</integer>
+			<integer>-45</integer>
 			<key>public.kern2.LAT_r_LC_SECOND</key>
-			<integer>-80</integer>
+			<integer>-45</integer>
 			<key>public.kern2.LAT_s_LC_SECOND</key>
-			<integer>-80</integer>
+			<integer>-35</integer>
 			<key>public.kern2.LAT_thorn_LC</key>
-			<integer>-80</integer>
+			<integer>-45</integer>
 			<key>public.kern2.LAT_u_LC_SECOND</key>
-			<integer>-76</integer>
+			<integer>-40</integer>
 			<key>public.kern2.LAT_v_LC_SECOND</key>
-			<integer>-48</integer>
+			<integer>-10</integer>
 			<key>public.kern2.LAT_w_LC_SECOND</key>
-			<integer>-40</integer>
+			<integer>-10</integer>
 			<key>public.kern2.LAT_x_LC</key>
-			<integer>-40</integer>
+			<integer>-15</integer>
 			<key>public.kern2.LAT_y_LC_SECOND</key>
-			<integer>-48</integer>
+			<integer>-10</integer>
 			<key>public.kern2.LAT_z_LC_SECOND</key>
-			<integer>-53</integer>
+			<integer>-20</integer>
 			<key>public.kern2.MIS_uni0181_SECOND</key>
-			<integer>44</integer>
+			<integer>20</integer>
 			<key>public.kern2.MIS_uni018D</key>
-			<integer>-95</integer>
+			<integer>-57</integer>
+			<key>public.kern2.MIS_uni0190</key>
+			<integer>-20</integer>
 			<key>public.kern2.MIS_uni019B</key>
-			<integer>29</integer>
+			<integer>40</integer>
+			<key>public.kern2.MIS_uni019C</key>
+			<integer>11</integer>
 			<key>public.kern2.MIS_uni01AA</key>
-			<integer>134</integer>
+			<integer>124</integer>
 			<key>public.kern2.MIS_uni01B7</key>
-			<integer>34</integer>
+			<integer>25</integer>
 			<key>public.kern2.MIS_uni01B8</key>
-			<integer>19</integer>
+			<integer>15</integer>
 			<key>public.kern2.MIS_uni01B9</key>
 			<integer>-62</integer>
 			<key>public.kern2.MIS_uni01BA</key>
-			<integer>-23</integer>
+			<integer>14</integer>
 			<key>public.kern2.MIS_uni01BB</key>
-			<integer>13</integer>
+			<integer>27</integer>
 			<key>public.kern2.MIS_uni01BC</key>
-			<integer>45</integer>
+			<integer>31</integer>
 			<key>public.kern2.MIS_uni01BD</key>
 			<integer>-35</integer>
 			<key>public.kern2.MIS_uni01BE</key>
-			<integer>20</integer>
+			<integer>25</integer>
 			<key>public.kern2.MIS_uni01BF</key>
-			<integer>-80</integer>
+			<integer>-45</integer>
+			<key>public.kern2.MIS_uni01DD_SECOND</key>
+			<integer>-35</integer>
 			<key>public.kern2.MIS_uni021C</key>
-			<integer>46</integer>
+			<integer>33</integer>
 			<key>public.kern2.MIS_uni021D</key>
-			<integer>-34</integer>
+			<integer>-6</integer>
+			<key>public.kern2.MIS_uni0234_SECOND</key>
+			<integer>-11</integer>
 			<key>public.kern2.MIS_uni0241</key>
 			<integer>36</integer>
 			<key>public.kern2.MIS_uni0242</key>
 			<integer>-41</integer>
 			<key>public.kern2.MIS_uni0292</key>
 			<integer>-40</integer>
+			<key>public.kern2.PUNCT_At</key>
+			<integer>-24</integer>
+			<key>public.kern2.PUNCT_Backslash</key>
+			<integer>30</integer>
+			<key>public.kern2.PUNCT_Braceleft</key>
+			<integer>-10</integer>
+			<key>public.kern2.PUNCT_Braceright</key>
+			<integer>20</integer>
+			<key>public.kern2.PUNCT_Bracketright</key>
+			<integer>10</integer>
+			<key>public.kern2.PUNCT_Guilsinglleft</key>
+			<integer>-21</integer>
+			<key>public.kern2.PUNCT_Guilsinglright</key>
+			<integer>-15</integer>
+			<key>public.kern2.PUNCT_Hyphen</key>
+			<integer>-40</integer>
+			<key>public.kern2.PUNCT_Parenleft</key>
+			<integer>-25</integer>
+			<key>public.kern2.PUNCT_Parenright</key>
+			<integer>18</integer>
+			<key>public.kern2.PUNCT_Slash</key>
+			<integer>-39</integer>
+			<key>public.kern2.PUNCT_ampersand</key>
+			<integer>-30</integer>
+			<key>public.kern2.PUNCT_asterisk</key>
+			<integer>10</integer>
+			<key>public.kern2.PUNCT_at</key>
+			<integer>-30</integer>
+			<key>public.kern2.PUNCT_backslash</key>
+			<integer>40</integer>
+			<key>public.kern2.PUNCT_braceleft</key>
+			<integer>-10</integer>
+			<key>public.kern2.PUNCT_braceright</key>
+			<integer>20</integer>
+			<key>public.kern2.PUNCT_bracketright</key>
+			<integer>10</integer>
+			<key>public.kern2.PUNCT_colon</key>
+			<integer>-10</integer>
+			<key>public.kern2.PUNCT_guilsinglleft</key>
+			<integer>-41</integer>
+			<key>public.kern2.PUNCT_guilsinglright</key>
+			<integer>-20</integer>
+			<key>public.kern2.PUNCT_hyphen</key>
+			<integer>-45</integer>
+			<key>public.kern2.PUNCT_parenleft</key>
+			<integer>-25</integer>
+			<key>public.kern2.PUNCT_parenright</key>
+			<integer>18</integer>
+			<key>public.kern2.PUNCT_period</key>
+			<integer>-40</integer>
+			<key>public.kern2.PUNCT_question</key>
+			<integer>25</integer>
+			<key>public.kern2.PUNCT_quoteleft</key>
+			<integer>20</integer>
+			<key>public.kern2.PUNCT_quoteright</key>
+			<integer>20</integer>
+			<key>public.kern2.PUNCT_slash</key>
+			<integer>-49</integer>
 			<key>rcaron</key>
 			<integer>-60</integer>
 			<key>scircumflex</key>
@@ -12982,19 +13090,23 @@
 			<key>uni01DC</key>
 			<integer>-46</integer>
 			<key>uni01DF</key>
-			<integer>-24</integer>
+			<integer>-25</integer>
+			<key>uni01F0</key>
+			<integer>15</integer>
 			<key>uni0201</key>
-			<integer>-14</integer>
+			<integer>-15</integer>
 			<key>uni0203</key>
 			<integer>-54</integer>
 			<key>uni0205</key>
-			<integer>-45</integer>
+			<integer>-25</integer>
 			<key>uni0207</key>
 			<integer>-65</integer>
 			<key>uni0209</key>
 			<integer>70</integer>
 			<key>uni020B</key>
-			<integer>40</integer>
+			<integer>30</integer>
+			<key>uni0211</key>
+			<integer>-20</integer>
 			<key>uni022B</key>
 			<integer>-45</integer>
 			<key>uni022D</key>
