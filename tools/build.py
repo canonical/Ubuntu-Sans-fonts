@@ -56,9 +56,9 @@ def legacy_kern_table(ufo):
 #
 # Reminder from http://unifiedfontobject.org/versions/ufo3/kerning.plist/:
 # Kerning groups must begin with standard prefixes. The prefix for groups
-# intended for use in the first side of a kerning pair is “public.kern1.”. The
+# intended for use in the first side of a kerning pair is "public.kern1.". The
 # prefix for groups intended for use in the second side of a kerning pair is
-# “public.kern2.”.
+# "public.kern2.".
 def flatten_kerning(ufo, key_glyphs_only=False):
     kerning = {}
     for (first, second), offset in ufo.kerning.items():
