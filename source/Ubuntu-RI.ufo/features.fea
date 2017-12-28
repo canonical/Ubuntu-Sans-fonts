@@ -27,12 +27,13 @@
 @OmegaSub = [uni1FA8 uni1FA9 uni1FAA uni1FAB uni1FAC uni1FAD uni1FAE uni1FAF uni1FFC];
 @OmegaSub.alt = [uni1FA8.alt uni1FA9.alt uni1FAA.alt uni1FAB.alt uni1FAC.alt uni1FAD.alt uni1FAE.alt uni1FAF.alt uni1FFC.alt];
 
-# languagesystem DFLT dflt;
+languagesystem DFLT dflt;
 languagesystem latn dflt;
 languagesystem latn AZE;
 languagesystem latn CRT;
 languagesystem latn TRK;
 languagesystem cyrl dflt;
+languagesystem cyrl BGR;
 languagesystem cyrl MKD;
 languagesystem cyrl SRB;
 languagesystem grek dflt;
@@ -185,20 +186,50 @@ lookup salt03 {
 	sub @OmegaSub by @OmegaSub.alt;
 } salt03;
 
-feature locl { # Localized Forms
-	script latn; # Latin
-	language AZE  exclude_dflt; # Azeri
-	lookup locl_TRK;
-	language TRK  exclude_dflt; # Turkish
-	lookup locl_TRK;
-	language CRT  exclude_dflt; # Crimean Tatar
-	lookup locl_TRK;
+lookup salt04 {
+	sub ampersand by ampersand.001;
+} salt04;
 
-	script cyrl; # Cyrillic
-	language MKD  exclude_dflt; # Macedonian
-	lookup locl_SRB;
-	language SRB  exclude_dflt; # Serbian
-	lookup locl_SRB;
+feature locl { # Localized Forms
+	script cyrl;
+	language BGR;
+	lookup locl_cyrl_BGR_1 {
+		sub afii10066 by afii10066.locl;
+	} locl_cyrl_BGR_1;
+
+	language MKD;
+	lookup locl_cyrl_MKD_1 {
+		sub afii10066 by afii10066.locl;
+		sub afii10068 by afii10068.locl.ita;
+		sub afii10069 by afii10069.locl.ita;
+		sub afii10081 by afii10081.locl.ita;
+		sub afii10084 by afii10084.locl.ita;
+	} locl_cyrl_MKD_1;
+
+	language SRB;
+	lookup locl_cyrl_SRB_1 {
+		sub afii10066 by afii10066.locl;
+		sub afii10068 by afii10068.locl.ita;
+		sub afii10069 by afii10069.locl.ita;
+		sub afii10081 by afii10081.locl.ita;
+		sub afii10084 by afii10084.locl.ita;
+	} locl_cyrl_SRB_1;
+
+	script latn;
+	language AZE;
+	lookup locl_latn_AZE_1 {
+		sub i by i.locl;
+	} locl_latn_AZE_1;
+
+	language CRT;
+	lookup locl_latn_CRT_1 {
+		sub i by i.locl;
+	} locl_latn_CRT_1;
+
+	language TRK;
+	lookup locl_latn_TRK_1 {
+		sub i by i.locl;
+	} locl_latn_TRK_1;
 } locl;
 
 feature pnum {
@@ -251,17 +282,6 @@ feature numr { # Numerators
 feature ordn {
 	script latn; # Latin
 	lookup ordn_ao;
-	language AZE; # Azeri
-	language TRK; # Turkish
-	language CRT; # Crimean Tatar
-
-	script grek; # Greek
-	lookup ordn_ao;
-
-	script cyrl; # Cyrillic
-	lookup ordn_ao;
-	language SRB; # Serbian
-	language MKD; # Macedonian
 } ordn;
 
 feature dnom { # Denominators
@@ -340,6 +360,17 @@ feature frac { # Fractions
 	language CRT;
 
 	script cyrl;
+	language MKD;
+	lookup frac12;
+	lookup frac13;
+	lookup frac14;
+	lookup frac15;
+	language SRB;
+	lookup frac12;
+	lookup frac13;
+	lookup frac14;
+	lookup frac15;
+	language dflt;
 	lookup frac12;
 	lookup frac13;
 	lookup frac14;
@@ -364,6 +395,9 @@ feature case { # Case-Sensitive Forms
   script cyrl;
   lookup case_add;
   lookup case_dflt;
+	language BGR;
+	language MKD;
+	language SRB;
 
   script grek;
   lookup case_add;
@@ -371,17 +405,47 @@ feature case { # Case-Sensitive Forms
 } case;
 
 feature liga { # Standard Ligatures
-	script latn;
-	lookup ligatures;
-	language AZE;
-	language TRK;
-	language CRT;
-
 	script cyrl;
-	lookup ligatures;
+	language MKD ;
+	lookup liga_cyrl_MKD_1 {
+		sub f f by f_f;
+		sub f f i by f_f_i;
+		sub f f l by f_f_l;
+		sub f i by f_i;
+		sub f l by f_l;
+	} liga_cyrl_MKD_1;
+
+	language SRB ;
+	lookup liga_cyrl_MKD_1;
+	language dflt;
+	lookup liga_cyrl_MKD_1;
 
 	script grek;
-	lookup ligatures;
+	language dflt;
+	lookup liga_grek_dflt_1 {
+		sub f f by f_f;
+		sub f f i by f_f_i;
+		sub f f l by f_f_l;
+		sub f i by f_i;
+		sub f l by f_l;
+	} liga_grek_dflt_1;
+
+	script latn;
+	language AZE;
+	lookup liga_latn_AZE_1 {
+		sub f f by f_f;
+		sub f f i by f_f_i;
+		sub f f l by f_f_l;
+		sub f i by f_i;
+		sub f l by f_l;
+	} liga_latn_AZE_1;
+
+	language CRT ;
+	lookup liga_latn_AZE_1;
+	language TRK ;
+	lookup liga_latn_AZE_1;
+	language dflt;
+	lookup liga_latn_AZE_1;
 } liga;
 
 feature ss01 { # Greek Stylistic Alternates
@@ -389,10 +453,20 @@ feature ss01 { # Greek Stylistic Alternates
 	lookup salt01;
 	lookup salt02;
 	lookup salt03;
+
+	script latn;
+	lookup salt01;
+	lookup salt02;
+	lookup salt03;
 } ss01;
 
 feature salt { # Stylistic Alternates
 	script grek; # Greek
+	lookup salt01;
+	lookup salt02;
+	lookup salt03;
+
+	script latn;
 	lookup salt01;
 	lookup salt02;
 	lookup salt03;

@@ -162,19 +162,37 @@ lookup salt03 {
 } salt03;
 
 feature locl { # Localized Forms
-	script latn; # Latin
-	language AZE  exclude_dflt; # Azeri
-	lookup locl_TRK;
-	language TRK  exclude_dflt; # Turkish
-	lookup locl_TRK;
-	language CRT  exclude_dflt; # Crimean Tatar
-	lookup locl_TRK;
+	script cyrl;
+	language BGR;
+	lookup locl_cyrl_BGR_1 {
+		sub afii10066 by afii10066.locl;
+	} locl_cyrl_BGR_1;
 
-	script cyrl; # Cyrillic
-	language MKD  exclude_dflt; # Macedonian
-	lookup locl_SRB;
-	language SRB  exclude_dflt; # Serbian
-	lookup locl_SRB;
+	language MKD;
+	lookup locl_cyrl_MKD_1 {
+		sub afii10066 by afii10066.locl;
+	} locl_cyrl_MKD_1;
+
+	language SRB;
+	lookup locl_cyrl_SRB_1 {
+		sub afii10066 by afii10066.locl;
+	} locl_cyrl_SRB_1;
+
+	script latn;
+	language AZE;
+	lookup locl_latn_AZE_1 {
+		sub i by i.locl;
+	} locl_latn_AZE_1;
+
+	language CRT;
+	lookup locl_latn_CRT_1 {
+		sub i by i.locl;
+	} locl_latn_CRT_1;
+
+	language TRK;
+	lookup locl_latn_TRK_1 {
+		sub i by i.locl;
+	} locl_latn_TRK_1;
 } locl;
 
 feature numr { # Numerators
@@ -183,12 +201,15 @@ feature numr { # Numerators
 	language AZE; # Azeri
 	language TRK; # Turkish
 	language CRT; # Crimean Tatar
+	language MOL;
+	language ROM;
 
 	script grek; # Greek
 	lookup numr_text;
 
 	script cyrl; # Cyrillic
 	lookup numr_text;
+	language BGR;
 	language SRB; # Serbian
 	language MKD; # Macedonian
 } numr;
@@ -196,17 +217,6 @@ feature numr { # Numerators
 feature ordn {
 	script latn; # Latin
 	lookup ordn_ao;
-	language AZE; # Azeri
-	language TRK; # Turkish
-	language CRT; # Crimean Tatar
-
-	script grek; # Greek
-	lookup ordn_ao;
-
-	script cyrl; # Cyrillic
-	lookup ordn_ao;
-	language SRB; # Serbian
-	language MKD; # Macedonian
 } ordn;
 
 feature dnom { # Denominators
@@ -215,14 +225,21 @@ feature dnom { # Denominators
 	language AZE; # Azeri
 	language TRK; # Turkish
 	language CRT; # Crimean Tatar
+	language MOL;
+	language ROM;
 
 	script grek; # Greek
 	lookup dnom_text;
 
 	script cyrl; # Cyrillic
+	language BGR;
 	lookup dnom_text;
 	language SRB; # Serbian
+	lookup dnom_text;
 	language MKD; # Macedonian
+	lookup dnom_text;
+	language dflt; # Macedonian
+	lookup dnom_text;
 } dnom;
 
 feature sups { # Superscript
@@ -231,12 +248,15 @@ feature sups { # Superscript
 	language AZE; # Azeri
 	language TRK; # Turkish
 	language CRT; # Crimean Tatar
+	language MOL ;
+	language ROM ;
 
 	script grek; # Greek
 	lookup sups_text;
 
 	script cyrl; # Cyrillic
 	lookup sups_text;
+	language BGR;
 	language SRB; # Serbian
 	language MKD; # Macedonian
 } sups;
@@ -247,12 +267,15 @@ feature subs { # Subscripts
 	language AZE; # Azeri
 	language TRK; # Turkish
 	language CRT; # Crimean Tatar
+	language MOL ;
+	language ROM ;
 
 	script grek; # Greek
 	lookup sub1;
 
 	script cyrl; # Cyrillic
 	lookup sub1;
+	language BGR;
 	language SRB; # Serbian
 	language MKD; # Macedonian
 } subs;
@@ -263,12 +286,15 @@ feature sinf { # Scientific Inferiors
 	language AZE; # Azeri
 	language TRK; # Turkish
 	language CRT; # Crimean Tatar
+	language MOL ;
+	language ROM ;
 
 	script grek; # Greek
 	lookup sin1;
 
 	script cyrl; # Cyrillic
 	lookup sin1;
+	language BGR;
 	language SRB; # Serbian
 	language MKD; # Macedonian
 
@@ -281,8 +307,20 @@ feature frac { # Fractions
 	language AZE;
 	language TRK;
 	language CRT;
+	language MOL;
+	language ROM;
 
 	script cyrl;
+	language BGR;
+	lookup frac12;
+	lookup frac13;
+	language MKD;
+	lookup frac12;
+	lookup frac13;
+	language SRB;
+	lookup frac12;
+	lookup frac13;
+	language dflt;
 	lookup frac12;
 	lookup frac13;
 
@@ -302,8 +340,23 @@ feature afrc { # Alternate fractions
 	language AZE;
 	language TRK;
 	language CRT;
+	language MOL;
+	language ROM;
 
 	script cyrl;
+	language BGR;
+	lookup afrc1;
+	lookup afrc2;
+	lookup afrc3;
+	language MKD;
+	lookup afrc1;
+	lookup afrc2;
+	lookup afrc3;
+	language SRB;
+	lookup afrc1;
+	lookup afrc2;
+	lookup afrc3;
+	language dflt;
 	lookup afrc1;
 	lookup afrc2;
 	lookup afrc3;
@@ -323,11 +376,16 @@ feature ss02 {
 	language AZE;
 	language TRK;
 	language CRT;
+	language MOL;
+	language ROM;
 
 	script cyrl;
 	lookup afrc1;
 	lookup afrc2;
 	lookup afrc3;
+	language BGR;
+	language MKD;
+	language SRB;
 
 	script grek;
 	lookup afrc1;
@@ -345,8 +403,18 @@ feature case { # Case-Sensitive Forms
   language CRT;
 
   script cyrl;
+	language BGR;
   lookup case_add;
   lookup case_dflt;
+	language MKD;
+	lookup case_add;
+	lookup case_dflt;
+	language SRB;
+	lookup case_add;
+	lookup case_dflt;
+	language dflt;
+	lookup case_add;
+	lookup case_dflt;
 
   script grek;
   lookup case_add;
@@ -354,6 +422,11 @@ feature case { # Case-Sensitive Forms
 } case;
 
 feature ss01 { # Greek Stylistic Alternates
+	script latn;
+	lookup salt01;
+	lookup salt02;
+	lookup salt03;
+
 	script grek; # Greek
 	lookup salt01;
 	lookup salt02;
@@ -361,6 +434,11 @@ feature ss01 { # Greek Stylistic Alternates
 } ss01;
 
 feature salt { # Stylistic Alternates
+	script latn;
+	lookup salt01;
+	lookup salt02;
+	lookup salt03;
+
 	script grek; # Greek
 	lookup salt01;
 	lookup salt02;
