@@ -45,6 +45,9 @@ clean:
 update-requirements:
 	@bash tools/update-requirements.sh
 
+update-version:
+	python tools/set-version.py
+
 release: $(TTF) $(MONO_TTF) LICENCE.txt
 	rm -rf $(RELEASE_DIR)
 	mkdir $(RELEASE_DIR)
