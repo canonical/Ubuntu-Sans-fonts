@@ -2,7 +2,7 @@
 #
 # Sets the version number in the UFO metadata and inserts a special version
 # glyph that helps with debugging when getting user reports. Reads VERSION.txt
-# of the format (only ASCII characters allowed):
+# of the format:
 # ```
 # 1.234 Some optional text to go into the name table version field
 # ```
@@ -36,18 +36,18 @@ mapping = {'.': 'period', '0': 'zero', '1': 'one', '2': 'two', '3': 'three',
            '4': 'four', '5': 'five', '6': 'six', '7': 'seven', '8': 'eight',
            '9': 'nine'}
 
-versionFormat = re.compile("(\d\.\d\d\d)( [\w ]+)*", re.ASCII)
+versionFormat = re.compile("(\d\.\d\d\d)( [\w ]+)*")
 
 with open("VERSION.txt") as v:
     match = versionFormat.match(v.read().strip())
 
     if not match:
-        print("VERSION.txt must have the format '\d.\d\d\d Optional ASCII alphanumerics text'!")
+        print("VERSION.txt must have the format '\d.\d\d\d Optional text'!")
         sys.exit(1)
 
-    version = match[1]
-    if match[2]:
-        versionExtraInfo = match[2]
+    version = match.group(1)
+    if match.group(2):
+        versionExtraInfo = match.group(2)
     else:
         versionExtraInfo = ""
 
