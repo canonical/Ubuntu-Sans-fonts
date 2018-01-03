@@ -10,21 +10,7 @@
 # See http://silnrsi.github.io/FDBP/en-US/Versioning.html for version semantics.
 #
 # Changing the components or their widths may cause an error during VTT
-# compilation. Build the VTT builds and run this script:
-# ```
-# import fontTools.ttLib
-# import vttLib
-# import glob
-#
-# for ttf in glob.glob("source/*ttf"):
-#   font=fontTools.ttLib.TTFont(ttf)
-#   vttLib.update_composites(font)
-#   font.save(ttf)
-# ```
-# Then redump the VTT source with
-# ```
-# for f in source/*ttf; do python -m vttLib dump $f ${f/ttf/ufo};done
-# ```
+# compilation, run `make update-vtt`, then `make` again.
 
 
 import defcon

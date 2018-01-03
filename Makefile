@@ -48,6 +48,10 @@ update-requirements:
 update-version: VERSION.txt
 	python tools/update-version.py
 
+# Run when VTT compilation fails due to unexpected offsets, etc.
+update-vtt: $(VTT_TTF) $(VTT_MONO_TTF)
+	python tools/update-vtt.py
+
 release: $(TTF) $(MONO_TTF) LICENCE.txt
 	rm -rf $(RELEASE_DIR)
 	mkdir $(RELEASE_DIR)
