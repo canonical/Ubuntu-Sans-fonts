@@ -7,6 +7,7 @@ ALL_FONTS=$(CORE_FONTS) C L LI M MI
 MASTER_DIR=master_ttf
 BUILD_DIR=build
 RELEASE_DIR=release
+CP=cp -p
 
 TTF=$(ALL_FONTS:%=$(BUILD_DIR)/$(NORMAL_NAME)-%.ttf)
 MONO_TTF=$(CORE_FONTS:%=$(BUILD_DIR)/$(MONO_NAME)-%.ttf)
@@ -44,20 +45,20 @@ clean:
 update-requirements:
 	@bash tools/update-requirements.sh
 
-release: $(TTF) $(MONO_TTF)
+release: $(TTF) $(MONO_TTF) LICENCE.txt
 	rm -rf $(RELEASE_DIR)
 	mkdir $(RELEASE_DIR)
-	cp $(BUILD_DIR)/Ubuntu-R.ttf $(RELEASE_DIR)/Ubuntu-Regular.ttf
-	cp $(BUILD_DIR)/Ubuntu-RI.ttf $(RELEASE_DIR)/Ubuntu-Italic.ttf
-	cp $(BUILD_DIR)/Ubuntu-L.ttf $(RELEASE_DIR)/Ubuntu-Light.ttf
-	cp $(BUILD_DIR)/Ubuntu-LI.ttf $(RELEASE_DIR)/Ubuntu-LightItalic.ttf
-	cp $(BUILD_DIR)/Ubuntu-M.ttf $(RELEASE_DIR)/Ubuntu-Medium.ttf
-	cp $(BUILD_DIR)/Ubuntu-MI.ttf $(RELEASE_DIR)/Ubuntu-MediumItalic.ttf
-	cp $(BUILD_DIR)/Ubuntu-B.ttf $(RELEASE_DIR)/Ubuntu-Bold.ttf
-	cp $(BUILD_DIR)/Ubuntu-BI.ttf $(RELEASE_DIR)/Ubuntu-BoldItalic.ttf
-	cp $(BUILD_DIR)/Ubuntu-C.ttf $(RELEASE_DIR)/UbuntuCondensed-Regular.ttf
-	cp $(BUILD_DIR)/UbuntuMono-R.ttf $(RELEASE_DIR)/UbuntuMono-Regular.ttf
-	cp $(BUILD_DIR)/UbuntuMono-RI.ttf $(RELEASE_DIR)/UbuntMono-Italic.ttf
-	cp $(BUILD_DIR)/UbuntuMono-B.ttf $(RELEASE_DIR)/UbuntuMono-Bold.ttf
-	cp $(BUILD_DIR)/UbuntuMono-BI.ttf $(RELEASE_DIR)/UbuntuMono-BoldItalic.ttf
-	cp LICENCE.txt $(RELEASE_DIR)/LICENSE.txt
+	$(CP) $(BUILD_DIR)/Ubuntu-R.ttf $(RELEASE_DIR)/Ubuntu-Regular.ttf
+	$(CP) $(BUILD_DIR)/Ubuntu-RI.ttf $(RELEASE_DIR)/Ubuntu-Italic.ttf
+	$(CP) $(BUILD_DIR)/Ubuntu-L.ttf $(RELEASE_DIR)/Ubuntu-Light.ttf
+	$(CP) $(BUILD_DIR)/Ubuntu-LI.ttf $(RELEASE_DIR)/Ubuntu-LightItalic.ttf
+	$(CP) $(BUILD_DIR)/Ubuntu-M.ttf $(RELEASE_DIR)/Ubuntu-Medium.ttf
+	$(CP) $(BUILD_DIR)/Ubuntu-MI.ttf $(RELEASE_DIR)/Ubuntu-MediumItalic.ttf
+	$(CP) $(BUILD_DIR)/Ubuntu-B.ttf $(RELEASE_DIR)/Ubuntu-Bold.ttf
+	$(CP) $(BUILD_DIR)/Ubuntu-BI.ttf $(RELEASE_DIR)/Ubuntu-BoldItalic.ttf
+	$(CP) $(BUILD_DIR)/Ubuntu-C.ttf $(RELEASE_DIR)/UbuntuCondensed-Regular.ttf
+	$(CP) $(BUILD_DIR)/UbuntuMono-R.ttf $(RELEASE_DIR)/UbuntuMono-Regular.ttf
+	$(CP) $(BUILD_DIR)/UbuntuMono-RI.ttf $(RELEASE_DIR)/UbuntMono-Italic.ttf
+	$(CP) $(BUILD_DIR)/UbuntuMono-B.ttf $(RELEASE_DIR)/UbuntuMono-Bold.ttf
+	$(CP) $(BUILD_DIR)/UbuntuMono-BI.ttf $(RELEASE_DIR)/UbuntuMono-BoldItalic.ttf
+	$(CP) LICENCE.txt $(RELEASE_DIR)/LICENSE.txt
