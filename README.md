@@ -35,6 +35,15 @@ Build fonts to edit TrueType instructions in VTT (placed next to the UFO)
 $ make vtt
 ```
 
+When making changes to the source files, the VTT compilation step may fail due
+to "unexpected" errors. The sources contain VTT source in high-level and
+compiled forms, vttLib checks that various things in the source line up with
+what's written to the VTT data and will complain if there are mismatches. Run
+the following to update the VTT data within the source:
+```
+$ make update-vtt
+```
+
 # Miscellaneous
 
 - [fonttools](https://github.com/fonttools/fonttools): Includes the tool `ttx`
