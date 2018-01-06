@@ -28,6 +28,7 @@ $(SRC_DIR)/%.ttf: $(SRC_DIR)/%.ufo $(SRC_DIR)/%.ufo/*.plist \
                   $(SRC_DIR)/%.ufo/glyphs*/contents.plist \
                   $(SRC_DIR)/%.ufo/data/com.github.fonttools.ttx/*.ttx \
                   $(SRC_DIR)/%.ufo/data/com.daltonmaag.vttLib.plist
+	export SOURCE_DATE_EPOCH=`python tools/print-mtime.py VERSION.txt`
 	python tools/build.py $< $@
 
 $(BUILD_DIR)/%.ttf: $(SRC_DIR)/%.ttf
