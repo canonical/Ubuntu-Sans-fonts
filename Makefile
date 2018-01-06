@@ -28,6 +28,7 @@ $(SRC_DIR)/%.ttf: $(SRC_DIR)/%.ufo $(SRC_DIR)/%.ufo/*.plist \
                   $(SRC_DIR)/%.ufo/glyphs*/contents.plist \
                   $(SRC_DIR)/%.ufo/data/com.github.fonttools.ttx/*.ttx \
                   $(SRC_DIR)/%.ufo/data/com.daltonmaag.vttLib.plist
+	export SOURCE_DATE_EPOCH=`python tools/print-mtime.py VERSION.txt`
 	python tools/build.py $< $@
 
 $(BUILD_DIR)/%.ttf: $(SRC_DIR)/%.ttf
@@ -44,6 +45,13 @@ clean:
 
 update-requirements:
 	@bash tools/update-requirements.sh
+
+update-version: VERSION.txt
+	python tools/update-version.py
+
+# Run when VTT compilation fails due to unexpected offsets, etc.
+update-vtt: $(VTT_TTF) $(VTT_MONO_TTF)
+	python tools/update-vtt.py
 
 release: $(TTF) $(MONO_TTF) LICENCE.txt
 	rm -rf $(RELEASE_DIR)
