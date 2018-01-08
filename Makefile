@@ -72,5 +72,6 @@ release: $(TTF) $(MONO_TTF) LICENCE.txt
 	$(CP) $(BUILD_DIR)/UbuntuMono-BI.ttf $(RELEASE_DIR)/UbuntuMono-BoldItalic.ttf
 	$(CP) LICENCE.txt $(RELEASE_DIR)/LICENSE.txt
 
-download-old-gf-release:
+download-old-gf-release: old-gf-release/Ubuntu-Regular.ttf
+old-gf-release/Ubuntu-Regular.ttf:
 	sh tools/download-old-gf-release.sh
