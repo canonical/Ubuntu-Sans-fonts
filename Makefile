@@ -66,7 +66,7 @@ release: $(TTF) $(MONO_TTF) LICENCE.txt
 	$(CP) $(BUILD_DIR)/Ubuntu-BI.ttf $(RELEASE_DIR)/Ubuntu-BoldItalic.ttf
 	$(CP) $(BUILD_DIR)/Ubuntu-C.ttf $(RELEASE_DIR)/UbuntuCondensed-Regular.ttf
 	$(CP) $(BUILD_DIR)/UbuntuMono-R.ttf $(RELEASE_DIR)/UbuntuMono-Regular.ttf
-	$(CP) $(BUILD_DIR)/UbuntuMono-RI.ttf $(RELEASE_DIR)/UbuntMono-Italic.ttf
+	$(CP) $(BUILD_DIR)/UbuntuMono-RI.ttf $(RELEASE_DIR)/UbuntuMono-Italic.ttf
 	$(CP) $(BUILD_DIR)/UbuntuMono-B.ttf $(RELEASE_DIR)/UbuntuMono-Bold.ttf
 	$(CP) $(BUILD_DIR)/UbuntuMono-BI.ttf $(RELEASE_DIR)/UbuntuMono-BoldItalic.ttf
 	$(CP) LICENCE.txt $(RELEASE_DIR)/LICENSE.txt
