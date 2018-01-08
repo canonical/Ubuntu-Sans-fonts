@@ -42,6 +42,7 @@ clean:
 	@rm -rf $(BUILD_DIR)
 	@rm -rf $(RELEASE_DIR)
 	@rm -f $(VTT_TTF) $(VTT_MONO_TTF)
+	@rm -f old-gf-release
 
 update-requirements:
 	@bash tools/update-requirements.sh
@@ -70,3 +71,6 @@ release: $(TTF) $(MONO_TTF) LICENCE.txt
 	$(CP) $(BUILD_DIR)/UbuntuMono-B.ttf $(RELEASE_DIR)/UbuntuMono-Bold.ttf
 	$(CP) $(BUILD_DIR)/UbuntuMono-BI.ttf $(RELEASE_DIR)/UbuntuMono-BoldItalic.ttf
 	$(CP) LICENCE.txt $(RELEASE_DIR)/LICENSE.txt
+
+download-old-gf-release:
+	sh tools/download-old-gf-release.sh
