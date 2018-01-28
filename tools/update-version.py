@@ -48,8 +48,7 @@ for ufo in glob.glob("source/*.ufo"):
     font.info.versionMajor = int(majorVersion)
     font.info.versionMinor = int(minorVersion)
     font.info.openTypeNameVersion = "Version " + version + versionExtraInfo
-    font.info.openTypeNameUniqueID = "{} {} Version {}".format(
-        font.info.familyName, font.info.styleName, version)
+    font.info.openTypeNameUniqueID = None
 
     # Insert version glyph
     versionGlyph = defcon.Glyph()
