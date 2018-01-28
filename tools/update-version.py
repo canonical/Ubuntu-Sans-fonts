@@ -56,7 +56,7 @@ for ufo in glob.glob("source/*.ufo"):
     versionGlyph.unicode = 0xEFFD
     advanceWidth = 0
 
-    if not "Mono" in ufo:
+    if "Mono" not in ufo:
         for figure in versionFigures:
             if "period" in figure:
                 glyph = figure
