@@ -48,15 +48,14 @@ for ufo in glob.glob("source/*.ufo"):
     font.info.versionMajor = int(majorVersion)
     font.info.versionMinor = int(minorVersion)
     font.info.openTypeNameVersion = "Version " + version + versionExtraInfo
-    font.info.openTypeNameUniqueID = "{} {} Version {}".format(
-        font.info.familyName, font.info.styleName, version)
+    font.info.openTypeNameUniqueID = None
 
     # Insert version glyph
     versionGlyph = defcon.Glyph()
     versionGlyph.unicode = 0xEFFD
     advanceWidth = 0
 
-    if not "Mono" in ufo:
+    if "Mono" not in ufo:
         for figure in versionFigures:
             if "period" in figure:
                 glyph = figure
@@ -70,19 +69,19 @@ for ufo in glob.glob("source/*.ufo"):
     else:
         c1 = defcon.Component()
         c1.baseGlyph = versionFigures[0] + ".sups"
-        c1.transformation = (1, 0, 0, 1, -150, 0)
+        c1.transformation = (1, 0, 0, 1, -160, 0)
         versionGlyph.appendComponent(c1)
         c2 = defcon.Component()
         c2.baseGlyph = versionFigures[2] + ".sups"
-        c2.transformation = (1, 0, 0, 1, 150, 0)
+        c2.transformation = (1, 0, 0, 1, 160, 0)
         versionGlyph.appendComponent(c2)
         c3 = defcon.Component()
         c3.baseGlyph = versionFigures[3] + ".sinf"
-        c3.transformation = (1, 0, 0, 1, -150, 0)
+        c3.transformation = (1, 0, 0, 1, -160, 0)
         versionGlyph.appendComponent(c3)
         c4 = defcon.Component()
         c4.baseGlyph = versionFigures[4] + ".sinf"
-        c4.transformation = (1, 0, 0, 1, 150, 0)
+        c4.transformation = (1, 0, 0, 1, 160, 0)
         versionGlyph.appendComponent(c4)
         advanceWidth = 500
 
