@@ -11,7 +11,7 @@
 		<key>descender</key>
 		<integer>-185</integer>
 		<key>familyName</key>
-		<string>Ubuntu Condensed</string>
+		<string>Ubuntu</string>
 		<key>guidelines</key>
 		<array>
 			<dict>
@@ -121,6 +121,10 @@
 		<string>Dalton Maag Ltd</string>
 		<key>openTypeNameManufacturerURL</key>
 		<string>http://www.daltonmaag.com/</string>
+		<key>openTypeNamePreferredFamilyName</key>
+		<string>Ubuntu Condensed</string>
+		<key>openTypeNamePreferredSubfamilyName</key>
+		<string>Regular</string>
 		<key>openTypeNameRecords</key>
 		<array>
 		</array>
@@ -285,7 +289,7 @@
 		<key>styleMapStyleName</key>
 		<string>regular</string>
 		<key>styleName</key>
-		<string>Regular</string>
+		<string>Condensed</string>
 		<key>trademark</key>
 		<string>Ubuntu and Canonical are registered trademarks of Canonical Ltd.</string>
 		<key>unitsPerEm</key>
