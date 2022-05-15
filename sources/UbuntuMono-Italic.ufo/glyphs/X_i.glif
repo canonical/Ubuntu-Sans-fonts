@@ -1,29 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Xi" format="2">
-	<unicode hex="039E"/>
-	<advance width="500"/>
-	<outline>
-		<contour>
-			<point x="559" y="547" type="line"/>
-			<point x="165" y="547" type="line"/>
-			<point x="182" y="619" type="line"/>
-			<point x="576" y="619" type="line"/>
-		</contour>
-		<contour>
-			<point x="43" y="71" type="line"/>
-			<point x="454" y="71" type="line"/>
-			<point x="437" y="0" type="line"/>
-			<point x="26" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="157" y="361" type="line"/>
-			<point x="478" y="361" type="line"/>
-			<point x="460" y="288" type="line"/>
-			<point x="139" y="288" type="line"/>
-		</contour>
-	</outline>
-	<guideline y="70"/>
-	<guideline y="289"/>
-	<guideline y="359"/>
-	<guideline y="549"/>
+  <advance width="500"/>
+  <unicode hex="039E"/>
+  <outline>
+    <contour>
+      <point x="576" y="619" type="line"/>
+      <point x="182" y="619" type="line"/>
+      <point x="165" y="547" type="line"/>
+      <point x="559" y="547" type="line"/>
+    </contour>
+    <contour>
+      <point x="26" y="0" type="line"/>
+      <point x="437" y="0" type="line"/>
+      <point x="454" y="71" type="line"/>
+      <point x="43" y="71" type="line"/>
+    </contour>
+    <contour>
+      <point x="139" y="288" type="line"/>
+      <point x="460" y="288" type="line"/>
+      <point x="478" y="361" type="line"/>
+      <point x="157" y="361" type="line"/>
+    </contour>
+  </outline>
 </glyph>

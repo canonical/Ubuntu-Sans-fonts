@@ -1,13 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="afii10020" format="2">
-	<outline>
-		<contour>
-			<point x="365" y="561" type="line"/>
-			<point x="642" y="561" type="line"/>
-			<point x="674" y="693" type="line"/>
-			<point x="241" y="693" type="line"/>
-			<point x="75" y="0" type="line"/>
-			<point x="230" y="0" type="line"/>
-		</contour>
-	</outline>
+  <advance width="554"/>
+  <outline>
+    <contour>
+      <point x="230" y="0" type="line"/>
+      <point x="75" y="0" type="line"/>
+      <point x="241" y="693" type="line"/>
+      <point x="674" y="693" type="line"/>
+      <point x="642" y="561" type="line"/>
+      <point x="365" y="561" type="line"/>
+    </contour>
+  </outline>
 </glyph>

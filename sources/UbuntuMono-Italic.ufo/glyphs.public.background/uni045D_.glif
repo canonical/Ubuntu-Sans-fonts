@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni045D" format="2">
-	<outline>
-		<contour>
-			<point x="244" y="640" type="line"/>
-			<point x="374" y="509" type="line"/>
-			<point x="418" y="548" type="line"/>
-			<point x="304" y="691" type="line"/>
-		</contour>
-	</outline>
+  <advance width="500"/>
+  <unicode hex="045D"/>
+  <outline>
+    <component base="u"/>
+    <component base="grave" xOffset="-16"/>
+  </outline>
 </glyph>

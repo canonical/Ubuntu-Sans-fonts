@@ -1,25 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gamma" format="2">
-	<outline>
-		<contour>
-			<point x="221" y="64" type="curve"/>
-			<point x="189" y="213"/>
-			<point x="131" y="415"/>
-			<point x="91" y="517" type="curve"/>
-			<point x="19" y="517" type="line"/>
-			<point x="70" y="395"/>
-			<point x="183" y="42"/>
-			<point x="196" y="-185" type="curve"/>
-			<point x="258" y="-185" type="line"/>
-			<point x="254" y="-123"/>
-			<point x="248" y="-66"/>
-			<point x="237" y="-9" type="curve"/>
-			<point x="368" y="186"/>
-			<point x="427" y="389"/>
-			<point x="451" y="517" type="curve"/>
-			<point x="389" y="517" type="line"/>
-			<point x="367" y="389"/>
-			<point x="295" y="181"/>
-		</contour>
-	</outline>
+  <advance width="472"/>
+  <outline>
+    <contour>
+      <point x="221" y="64" type="qcurve"/>
+      <point x="249" y="108"/>
+      <point x="302" y="224"/>
+      <point x="347" y="348"/>
+      <point x="381" y="469"/>
+      <point x="389" y="517" type="qcurve"/>
+      <point x="451" y="517" type="line"/>
+      <point x="442" y="469"/>
+      <point x="410" y="347"/>
+      <point x="359" y="211"/>
+      <point x="286" y="64"/>
+      <point x="237" y="-9" type="qcurve"/>
+      <point x="245" y="-52"/>
+      <point x="255" y="-138"/>
+      <point x="258" y="-185" type="qcurve"/>
+      <point x="196" y="-185" type="line"/>
+      <point x="193" y="-128"/>
+      <point x="171" y="3"/>
+      <point x="140" y="139"/>
+      <point x="103" y="272"/>
+      <point x="66" y="390"/>
+      <point x="32" y="486"/>
+      <point x="19" y="517" type="qcurve"/>
+      <point x="91" y="517" type="line"/>
+      <point x="106" y="479"/>
+      <point x="141" y="370"/>
+      <point x="177" y="247"/>
+      <point x="209" y="120"/>
+    </contour>
+  </outline>
 </glyph>

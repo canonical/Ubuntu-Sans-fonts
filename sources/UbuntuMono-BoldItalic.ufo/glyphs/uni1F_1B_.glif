@@ -1,9 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1F1B" format="2">
-	<unicode hex="1F1B"/>
-	<advance width="500"/>
-	<outline>
-		<component base="E"/>
-		<component base="uni1FDD" xOffset="-381" yOffset="-103"/>
-	</outline>
+  <advance width="500"/>
+  <unicode hex="1F1B"/>
+  <outline>
+    <contour>
+      <point x="-18" y="633" type="line"/>
+      <point x="72" y="456" type="line"/>
+      <point x="137" y="489" type="line"/>
+      <point x="70" y="676" type="line"/>
+    </contour>
+    <contour>
+      <point x="-56" y="494" type="line"/>
+      <point x="-77" y="516"/>
+      <point x="-95" y="539"/>
+      <point x="-105" y="563" type="curve"/>
+      <point x="-73" y="573"/>
+      <point x="-55" y="594"/>
+      <point x="-55" y="622" type="curve" smooth="yes"/>
+      <point x="-55" y="648"/>
+      <point x="-72" y="678"/>
+      <point x="-115" y="678" type="curve" smooth="yes"/>
+      <point x="-159" y="678"/>
+      <point x="-187" y="647"/>
+      <point x="-187" y="605" type="curve" smooth="yes"/>
+      <point x="-187" y="561"/>
+      <point x="-159" y="509"/>
+      <point x="-97" y="456" type="curve"/>
+    </contour>
+  </outline>
 </glyph>

@@ -1,19 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="plus" format="2">
-	<outline>
-		<contour>
-			<point x="56" y="261" type="line"/>
-			<point x="253" y="261" type="line"/>
-			<point x="253" y="43" type="line"/>
-			<point x="311" y="43" type="line"/>
-			<point x="311" y="261" type="line"/>
-			<point x="508" y="261" type="line"/>
-			<point x="508" y="317" type="line"/>
-			<point x="311" y="317" type="line"/>
-			<point x="311" y="534" type="line"/>
-			<point x="253" y="534" type="line"/>
-			<point x="253" y="317" type="line"/>
-			<point x="56" y="317" type="line"/>
-		</contour>
-	</outline>
+  <advance width="564"/>
+  <outline>
+    <contour>
+      <point x="56" y="317" type="line"/>
+      <point x="253" y="317" type="line"/>
+      <point x="253" y="534" type="line"/>
+      <point x="311" y="534" type="line"/>
+      <point x="311" y="317" type="line"/>
+      <point x="508" y="317" type="line"/>
+      <point x="508" y="261" type="line"/>
+      <point x="311" y="261" type="line"/>
+      <point x="311" y="43" type="line"/>
+      <point x="253" y="43" type="line"/>
+      <point x="253" y="261" type="line"/>
+      <point x="56" y="261" type="line"/>
+    </contour>
+  </outline>
 </glyph>

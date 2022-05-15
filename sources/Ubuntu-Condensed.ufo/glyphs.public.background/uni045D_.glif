@@ -1,27 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni045D" format="2">
-	<outline>
-		<contour>
-			<point x="483" y="520" type="line"/>
-			<point x="400" y="429"/>
-			<point x="288" y="262"/>
-			<point x="218" y="146" type="curve"/>
-			<point x="218" y="520" type="line"/>
-			<point x="128" y="520" type="line"/>
-			<point x="128" y="0" type="line"/>
-			<point x="211" y="0" type="line"/>
-			<point x="275" y="110"/>
-			<point x="395" y="295"/>
-			<point x="475" y="396" type="curve"/>
-			<point x="475" y="0" type="line"/>
-			<point x="565" y="0" type="line"/>
-			<point x="565" y="520" type="line"/>
-		</contour>
-		<contour>
-			<point x="229" y="717" type="line"/>
-			<point x="370" y="580" type="line"/>
-			<point x="417" y="622" type="line"/>
-			<point x="289" y="776" type="line"/>
-		</contour>
-	</outline>
+  <advance width="489"/>
+  <unicode hex="045D"/>
+  <outline>
+    <component base="afii10074"/>
+    <component base="grave" xOffset="101"/>
+  </outline>
 </glyph>

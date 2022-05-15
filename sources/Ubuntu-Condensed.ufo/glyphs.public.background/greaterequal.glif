@@ -1,20 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="greaterequal" format="2">
-	<outline>
-		<contour>
-			<point x="387" y="297" type="line"/>
-			<point x="387" y="369" type="line"/>
-			<point x="82" y="528" type="line"/>
-			<point x="48" y="461" type="line"/>
-			<point x="307" y="333" type="line"/>
-			<point x="48" y="205" type="line"/>
-			<point x="82" y="138" type="line"/>
-		</contour>
-		<contour>
-			<point x="43" y="0" type="line"/>
-			<point x="387" y="0" type="line"/>
-			<point x="387" y="73" type="line"/>
-			<point x="43" y="73" type="line"/>
-		</contour>
-	</outline>
+  <advance width="430"/>
+  <guideline x="386"/>
+  <guideline x="487"/>
+  <guideline y="613"/>
+  <outline>
+    <contour>
+      <point x="82" y="138" type="line"/>
+      <point x="48" y="205" type="line"/>
+      <point x="307" y="333" type="line"/>
+      <point x="48" y="461" type="line"/>
+      <point x="82" y="528" type="line"/>
+      <point x="387" y="369" type="line"/>
+      <point x="387" y="297" type="line"/>
+    </contour>
+    <contour>
+      <point x="43" y="73" type="line"/>
+      <point x="387" y="73" type="line"/>
+      <point x="387" y="0" type="line"/>
+      <point x="43" y="0" type="line"/>
+    </contour>
+  </outline>
 </glyph>
