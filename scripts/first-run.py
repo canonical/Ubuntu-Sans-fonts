@@ -107,15 +107,6 @@ readme = readme.replace(
 with open("README.md", "w") as fh:
     fh.write(readme)
 
-# Fix the OFL
-
-ofl = open("OFL.txt").read()
-ofl = ofl.replace(web_url(BASE_OWNER, BASE_REPONAME), web_url(owner, reponame))
-ofl = ofl.replace("My Font", reponame.title())
-ofl = ofl.replace("20**", str(datetime.date.today().year))
-with open("OFL.txt", "w") as fh:
-    fh.write(ofl)
-
 # Pin the dependencies
 print("Pinning dependencies")
 dependencies = subprocess.check_output(["pip", "freeze"])
