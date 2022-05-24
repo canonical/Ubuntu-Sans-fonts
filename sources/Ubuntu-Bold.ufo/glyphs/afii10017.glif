@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="afii10017" format="2">
-	<unicode hex="0410"/>
-	<advance width="721"/>
-	<outline>
-		<component base="A"/>
-	</outline>
+  <advance width="721"/>
+  <unicode hex="0410"/>
+  <anchor x="361" y="0" name="bottom"/>
+  <anchor x="649" y="10" name="ogonek"/>
+  <anchor x="361" y="693" name="top"/>
+  <outline>
+    <component base="A"/>
+  </outline>
 </glyph>

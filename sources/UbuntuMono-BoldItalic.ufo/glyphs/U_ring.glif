@@ -3,59 +3,83 @@
   <advance width="500"/>
   <unicode hex="016E"/>
   <outline>
-    <contour>
-      <point x="237" y="-13" type="curve" smooth="yes"/>
-      <point x="403" y="-13"/>
-      <point x="447" y="74"/>
-      <point x="482" y="220" type="curve" smooth="yes"/>
-      <point x="573" y="599" type="line"/>
-      <point x="450" y="599" type="line"/>
-      <point x="361" y="229" type="line" smooth="yes"/>
-      <point x="336" y="125"/>
-      <point x="314" y="94"/>
-      <point x="255" y="94" type="curve" smooth="yes"/>
-      <point x="206" y="94"/>
-      <point x="190" y="118"/>
-      <point x="190" y="158" type="curve" smooth="yes"/>
-      <point x="190" y="180"/>
-      <point x="196" y="208"/>
-      <point x="203" y="239" type="curve" smooth="yes"/>
-      <point x="289" y="599" type="line"/>
-      <point x="166" y="599" type="line"/>
-      <point x="79" y="238" type="line" smooth="yes"/>
-      <point x="71" y="204"/>
-      <point x="67" y="174"/>
-      <point x="67" y="146" type="curve" smooth="yes"/>
-      <point x="67" y="46"/>
-      <point x="121" y="-13"/>
-    </contour>
-    <contour>
-      <point x="486" y="723" type="curve" smooth="yes"/>
-      <point x="486" y="790"/>
-      <point x="437" y="826"/>
-      <point x="380" y="826" type="curve" smooth="yes"/>
-      <point x="326" y="826"/>
-      <point x="276" y="790"/>
-      <point x="276" y="723" type="curve" smooth="yes"/>
-      <point x="276" y="656"/>
-      <point x="326" y="621"/>
-      <point x="380" y="621" type="curve" smooth="yes"/>
-      <point x="437" y="621"/>
-      <point x="486" y="656"/>
-    </contour>
-    <contour>
-      <point x="421" y="723" type="curve" smooth="yes"/>
-      <point x="421" y="696"/>
-      <point x="402" y="681"/>
-      <point x="380" y="681" type="curve" smooth="yes"/>
-      <point x="360" y="681"/>
-      <point x="340" y="696"/>
-      <point x="340" y="723" type="curve" smooth="yes"/>
-      <point x="340" y="751"/>
-      <point x="360" y="765"/>
-      <point x="380" y="765" type="curve" smooth="yes"/>
-      <point x="402" y="765"/>
-      <point x="421" y="751"/>
-    </contour>
+    <component base="U"/>
+    <component base="ring" xOffset="22" yOffset="125"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>U</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>ring</string>
+        </dict>
+      </array>
+      <key>de.kutilek.scrawl.data</key>
+      <data>
+      iVBORw0KGgoAAAANSUhEUgAAAV4AAAJYCAAAAAAP8dFGAAAAOGVYSWZNTQAqAAAACAABh
+      2kABAAAAAEAAAAaAAAAAAACoAIABAAAAAEAAAFeoAMABAAAAAEAAAJYAAAAAMHmysgAAA
+      c2SURBVHgB7dLBDYAgFAVBsAT7t1asgcMkBpcz2cP8N9foOYHLpSuPES9dQbzxUgEab73
+      xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEa
+      b73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xU
+      gEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab7
+      3xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgE
+      ab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73x
+      UgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab
+      73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUg
+      Eab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73
+      xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEa
+      b73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xU
+      gEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab7
+      3xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgE
+      ab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73x
+      UgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab
+      73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUg
+      Eab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73
+      xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEa
+      b73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xU
+      gEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab7
+      3xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgEab73xUgE
+      aP269D+XajR/He+8K0P9z0fzf48et91sHjZfeI954qQCNt954qQCNt954qQCNt954qQCN
+      t954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954q
+      QCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt9
+      54qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQC
+      Nt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954
+      qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt
+      954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQ
+      CNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt95
+      4qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCN
+      t954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954q
+      QCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt9
+      54qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQC
+      Nt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954
+      qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt
+      954qQCNt954qQCNt954qQCNt954qQCNt954qQCNt954qQCNvz/UB1ydMzitAAAAAElFTk
+      SuQmCC
+      </data>
+      <key>de.kutilek.scrawl.rect</key>
+      <array>
+        <integer>-100</integer>
+        <integer>-285</integer>
+        <integer>700</integer>
+        <integer>1200</integer>
+      </array>
+      <key>de.kutilek.scrawl.size</key>
+      <integer>2</integer>
+      <key>de.kutilek.scrawl.unit</key>
+      <integer>2</integer>
+    </dict>
+  </lib>
 </glyph>

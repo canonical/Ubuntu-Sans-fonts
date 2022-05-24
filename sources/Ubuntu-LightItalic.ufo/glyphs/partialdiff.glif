@@ -4,20 +4,15 @@
   <unicode hex="2202"/>
   <outline>
     <contour>
-      <point x="509" y="378" type="curve"/>
-      <point x="487" y="235"/>
-      <point x="426" y="47"/>
-      <point x="264" y="47" type="curve" smooth="yes"/>
-      <point x="194" y="47"/>
-      <point x="159" y="97"/>
-      <point x="159" y="179" type="curve" smooth="yes"/>
-      <point x="159" y="318"/>
-      <point x="237" y="434"/>
-      <point x="375" y="434" type="curve" smooth="yes"/>
-      <point x="423" y="434"/>
-      <point x="477" y="419"/>
-    </contour>
-    <contour>
+      <point x="268" y="-13" type="curve" smooth="yes"/>
+      <point x="500" y="-13"/>
+      <point x="588" y="291"/>
+      <point x="588" y="510" type="curve" smooth="yes"/>
+      <point x="588" y="683"/>
+      <point x="507" y="776"/>
+      <point x="359" y="776" type="curve" smooth="yes"/>
+      <point x="309" y="776"/>
+      <point x="264" y="767"/>
       <point x="224" y="749" type="curve"/>
       <point x="232" y="695" type="line"/>
       <point x="262" y="708"/>
@@ -37,15 +32,20 @@
       <point x="91" y="177" type="curve" smooth="yes"/>
       <point x="91" y="81"/>
       <point x="144" y="-13"/>
-      <point x="268" y="-13" type="curve" smooth="yes"/>
-      <point x="500" y="-13"/>
-      <point x="588" y="291"/>
-      <point x="588" y="510" type="curve" smooth="yes"/>
-      <point x="588" y="683"/>
-      <point x="507" y="776"/>
-      <point x="359" y="776" type="curve" smooth="yes"/>
-      <point x="309" y="776"/>
-      <point x="264" y="767"/>
+    </contour>
+    <contour>
+      <point x="264" y="47" type="curve" smooth="yes"/>
+      <point x="194" y="47"/>
+      <point x="159" y="97"/>
+      <point x="159" y="179" type="curve" smooth="yes"/>
+      <point x="159" y="318"/>
+      <point x="237" y="434"/>
+      <point x="375" y="434" type="curve" smooth="yes"/>
+      <point x="423" y="434"/>
+      <point x="477" y="419"/>
+      <point x="509" y="378" type="curve"/>
+      <point x="487" y="235"/>
+      <point x="426" y="47"/>
     </contour>
   </outline>
 </glyph>

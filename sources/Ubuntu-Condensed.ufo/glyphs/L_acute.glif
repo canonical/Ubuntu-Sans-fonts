@@ -2,18 +2,12 @@
 <glyph name="Lacute" format="2">
   <advance width="417"/>
   <unicode hex="0139"/>
+  <anchor x="209" y="0" name="bottom"/>
+  <anchor x="209" y="347" name="center"/>
+  <anchor x="209" y="693" name="top"/>
+  <anchor x="397" y="693" name="topright"/>
   <outline>
-    <contour>
-      <point x="84" y="0" type="line"/>
-      <point x="174" y="0" type="line"/>
-      <point x="174" y="693" type="line"/>
-      <point x="84" y="693" type="line"/>
-    </contour>
-    <contour>
-      <point x="173" y="929" type="line"/>
-      <point x="69" y="762" type="line"/>
-      <point x="118" y="728" type="line"/>
-      <point x="238" y="882" type="line"/>
-    </contour>
+    <component base="L"/>
+    <component base="acute" xOffset="-39" yOffset="150"/>
   </outline>
 </glyph>

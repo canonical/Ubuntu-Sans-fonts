@@ -2,60 +2,34 @@
 <glyph name="uni01E1" format="2">
   <advance width="434"/>
   <unicode hex="01E1"/>
+  <anchor x="217" y="0" name="bottom"/>
+  <anchor x="391" y="10" name="ogonek"/>
+  <anchor x="217" y="520" name="top"/>
   <outline>
-    <contour>
-      <point x="323" y="750" type="line"/>
-      <point x="279" y="774" type="line"/>
-      <point x="205" y="645" type="line"/>
-      <point x="240" y="645" type="line"/>
-      <point x="168" y="774" type="line"/>
-      <point x="119" y="750" type="line"/>
-      <point x="196" y="587" type="line"/>
-      <point x="249" y="587" type="line"/>
-    </contour>
-    <contour>
-      <point x="91" y="514" type="curve"/>
-      <point x="109" y="441" type="line"/>
-      <point x="140" y="454"/>
-      <point x="166" y="460"/>
-      <point x="196" y="460" type="curve" smooth="yes"/>
-      <point x="249" y="460"/>
-      <point x="278" y="433"/>
-      <point x="278" y="356" type="curve" smooth="yes"/>
-      <point x="278" y="308" type="line"/>
-      <point x="253" y="313"/>
-      <point x="229" y="316"/>
-      <point x="206" y="316" type="curve" smooth="yes"/>
-      <point x="112" y="316"/>
-      <point x="43" y="267"/>
-      <point x="43" y="152" type="curve" smooth="yes"/>
-      <point x="43" y="36"/>
-      <point x="122" y="-11"/>
-      <point x="217" y="-11" type="curve" smooth="yes"/>
-      <point x="265" y="-11"/>
-      <point x="316" y="-2"/>
-      <point x="364" y="11" type="curve"/>
-      <point x="364" y="359" type="line" smooth="yes"/>
-      <point x="364" y="482"/>
-      <point x="302" y="538"/>
-      <point x="209" y="538" type="curve" smooth="yes"/>
-      <point x="164" y="538"/>
-      <point x="125" y="528"/>
-    </contour>
-    <contour>
-      <point x="130" y="153" type="curve" smooth="yes"/>
-      <point x="130" y="224"/>
-      <point x="172" y="245"/>
-      <point x="220" y="245" type="curve" smooth="yes"/>
-      <point x="239" y="245"/>
-      <point x="259" y="242"/>
-      <point x="278" y="237" type="curve"/>
-      <point x="278" y="70" type="line"/>
-      <point x="255" y="65"/>
-      <point x="237" y="63"/>
-      <point x="220" y="63" type="curve" smooth="yes"/>
-      <point x="165" y="63"/>
-      <point x="130" y="92"/>
-    </contour>
+    <component base="a"/>
+    <component base="dot_macron" xOffset="63"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>a</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dot_macron</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -2,20 +2,9 @@
 <glyph name="epsilon" format="2">
   <advance width="515"/>
   <unicode hex="03B5"/>
+  <anchor x="258" y="526" name="top"/>
   <outline>
     <contour>
-      <point x="290" y="540" type="curve" smooth="yes"/>
-      <point x="151" y="540"/>
-      <point x="54" y="484"/>
-      <point x="54" y="377" type="curve" smooth="yes"/>
-      <point x="54" y="333"/>
-      <point x="75" y="298"/>
-      <point x="114" y="275" type="curve"/>
-      <point x="59" y="246"/>
-      <point x="37" y="200"/>
-      <point x="37" y="153" type="curve" smooth="yes"/>
-      <point x="37" y="14"/>
-      <point x="173" y="-14"/>
       <point x="273" y="-14" type="curve" smooth="yes"/>
       <point x="381" y="-14"/>
       <point x="459" y="7"/>
@@ -45,6 +34,18 @@
       <point x="460" y="510" type="line"/>
       <point x="431" y="523"/>
       <point x="355" y="540"/>
+      <point x="290" y="540" type="curve" smooth="yes"/>
+      <point x="151" y="540"/>
+      <point x="54" y="484"/>
+      <point x="54" y="377" type="curve" smooth="yes"/>
+      <point x="54" y="333"/>
+      <point x="75" y="298"/>
+      <point x="114" y="275" type="curve"/>
+      <point x="59" y="246"/>
+      <point x="37" y="200"/>
+      <point x="37" y="153" type="curve" smooth="yes"/>
+      <point x="37" y="14"/>
+      <point x="173" y="-14"/>
     </contour>
   </outline>
 </glyph>

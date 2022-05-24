@@ -3,29 +3,39 @@
   <advance width="1486"/>
   <unicode hex="1FAB"/>
   <outline>
-    <contour>
-      <point x="336" y="663" type="line"/>
-      <point x="437" y="464" type="line"/>
-      <point x="509" y="501" type="line"/>
-      <point x="434" y="711" type="line"/>
-    </contour>
-    <contour>
-      <point x="291" y="507" type="line"/>
-      <point x="267" y="533"/>
-      <point x="249" y="559"/>
-      <point x="238" y="584" type="curve"/>
-      <point x="274" y="595"/>
-      <point x="294" y="625"/>
-      <point x="294" y="656" type="curve" smooth="yes"/>
-      <point x="294" y="685"/>
-      <point x="274" y="713"/>
-      <point x="231" y="713" type="curve" smooth="yes"/>
-      <point x="176" y="713"/>
-      <point x="147" y="678"/>
-      <point x="147" y="631" type="curve" smooth="yes"/>
-      <point x="147" y="582"/>
-      <point x="178" y="524"/>
-      <point x="247" y="464" type="curve"/>
-    </contour>
+    <component base="Omega" xOffset="369"/>
+    <component base="iota" xOffset="1157"/>
+    <component base="uni1FDD" xOffset="-225" yOffset="-118"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Omega</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>iota</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>uni1FDD</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

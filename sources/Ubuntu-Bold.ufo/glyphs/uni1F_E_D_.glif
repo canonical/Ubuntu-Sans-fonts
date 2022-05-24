@@ -2,8 +2,18 @@
 <glyph name="uni1FED" format="2">
   <advance width="536"/>
   <unicode hex="1FED"/>
+  <anchor x="308" y="776" name="_top"/>
   <outline>
     <contour>
+      <point x="317" y="573" type="line"/>
+      <point x="386" y="606" type="line"/>
+      <point x="299" y="817" type="line"/>
+      <point x="208" y="773" type="line"/>
+    </contour>
+    <contour>
+      <point x="145" y="604" type="curve" smooth="yes"/>
+      <point x="185" y="604"/>
+      <point x="219" y="632"/>
       <point x="219" y="677" type="curve" smooth="yes"/>
       <point x="219" y="724"/>
       <point x="185" y="751"/>
@@ -13,11 +23,11 @@
       <point x="71" y="677" type="curve" smooth="yes"/>
       <point x="71" y="632"/>
       <point x="104" y="604"/>
-      <point x="145" y="604" type="curve" smooth="yes"/>
-      <point x="185" y="604"/>
-      <point x="219" y="632"/>
     </contour>
     <contour>
+      <point x="471" y="604" type="curve" smooth="yes"/>
+      <point x="511" y="604"/>
+      <point x="545" y="632"/>
       <point x="545" y="677" type="curve" smooth="yes"/>
       <point x="545" y="724"/>
       <point x="511" y="751"/>
@@ -27,15 +37,6 @@
       <point x="397" y="677" type="curve" smooth="yes"/>
       <point x="397" y="632"/>
       <point x="431" y="604"/>
-      <point x="471" y="604" type="curve" smooth="yes"/>
-      <point x="511" y="604"/>
-      <point x="545" y="632"/>
-    </contour>
-    <contour>
-      <point x="208" y="773" type="line"/>
-      <point x="317" y="573" type="line"/>
-      <point x="386" y="606" type="line"/>
-      <point x="299" y="817" type="line"/>
     </contour>
   </outline>
 </glyph>

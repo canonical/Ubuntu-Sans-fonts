@@ -2,11 +2,11 @@
 <glyph name="A" format="2">
   <advance width="503"/>
   <unicode hex="0041"/>
+  <anchor x="252" y="0" name="bottom"/>
+  <anchor x="453" y="10" name="ogonek"/>
+  <anchor x="252" y="693" name="top"/>
   <outline>
     <contour>
-      <point x="204" y="693" type="line"/>
-      <point x="140" y="494"/>
-      <point x="80" y="292"/>
       <point x="20" y="0" type="curve"/>
       <point x="107" y="0" type="line"/>
       <point x="117" y="60"/>
@@ -20,15 +20,18 @@
       <point x="423" y="292"/>
       <point x="363" y="494"/>
       <point x="299" y="693" type="curve"/>
+      <point x="204" y="693" type="line"/>
+      <point x="140" y="494"/>
+      <point x="80" y="292"/>
     </contour>
     <contour>
+      <point x="158" y="252" type="line"/>
+      <point x="186" y="369"/>
+      <point x="217" y="481"/>
       <point x="250" y="591" type="curve"/>
       <point x="283" y="481"/>
       <point x="314" y="369"/>
       <point x="341" y="252" type="curve"/>
-      <point x="158" y="252" type="line"/>
-      <point x="186" y="369"/>
-      <point x="217" y="481"/>
     </contour>
   </outline>
 </glyph>

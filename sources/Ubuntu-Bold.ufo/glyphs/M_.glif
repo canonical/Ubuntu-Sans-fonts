@@ -2,11 +2,10 @@
 <glyph name="M" format="2">
   <advance width="897"/>
   <unicode hex="004D"/>
+  <anchor x="449" y="0" name="bottom"/>
+  <anchor x="449" y="693" name="top"/>
   <outline>
     <contour>
-      <point x="115" y="693" type="line"/>
-      <point x="89" y="511"/>
-      <point x="71" y="219"/>
       <point x="60" y="0" type="curve"/>
       <point x="212" y="0" type="line"/>
       <point x="216" y="135"/>
@@ -33,6 +32,9 @@
       <point x="393" y="419"/>
       <point x="311" y="606"/>
       <point x="264" y="693" type="curve"/>
+      <point x="115" y="693" type="line"/>
+      <point x="89" y="511"/>
+      <point x="71" y="219"/>
     </contour>
   </outline>
 </glyph>

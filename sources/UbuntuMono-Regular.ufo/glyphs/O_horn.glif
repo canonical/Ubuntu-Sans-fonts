@@ -2,11 +2,10 @@
 <glyph name="Ohorn" format="2">
   <advance width="500"/>
   <unicode hex="01A0"/>
+  <anchor x="250" y="0" name="bottom"/>
+  <anchor x="250" y="693" name="top"/>
   <outline>
     <contour>
-      <point x="29" y="310" type="curve" smooth="yes"/>
-      <point x="29" y="88"/>
-      <point x="118" y="-13"/>
       <point x="250" y="-13" type="curve" smooth="yes"/>
       <point x="381" y="-13"/>
       <point x="472" y="88"/>
@@ -32,8 +31,14 @@
       <point x="250" y="633" type="curve" smooth="yes"/>
       <point x="118" y="633"/>
       <point x="29" y="531"/>
+      <point x="29" y="310" type="curve" smooth="yes"/>
+      <point x="29" y="88"/>
+      <point x="118" y="-13"/>
     </contour>
     <contour>
+      <point x="248" y="58" type="curve" smooth="yes"/>
+      <point x="156" y="58"/>
+      <point x="113" y="148"/>
       <point x="113" y="310" type="curve" smooth="yes"/>
       <point x="113" y="472"/>
       <point x="156" y="562"/>
@@ -43,9 +48,6 @@
       <point x="388" y="310" type="curve" smooth="yes"/>
       <point x="388" y="148"/>
       <point x="341" y="58"/>
-      <point x="248" y="58" type="curve" smooth="yes"/>
-      <point x="156" y="58"/>
-      <point x="113" y="148"/>
     </contour>
   </outline>
 </glyph>

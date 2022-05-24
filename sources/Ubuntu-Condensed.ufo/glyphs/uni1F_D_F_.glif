@@ -2,11 +2,10 @@
 <glyph name="uni1FDF" format="2">
   <advance width="314"/>
   <unicode hex="1FDF"/>
+  <anchor x="157" y="776" name="_top"/>
+  <anchor x="157" y="881" name="top"/>
   <outline>
     <contour>
-      <point x="156" y="881" type="curve" smooth="yes"/>
-      <point x="82" y="881"/>
-      <point x="24" y="836"/>
       <point x="24" y="757" type="curve"/>
       <point x="80" y="757" type="line"/>
       <point x="85" y="792"/>
@@ -18,8 +17,12 @@
       <point x="289" y="757" type="line"/>
       <point x="289" y="836"/>
       <point x="230" y="881"/>
+      <point x="156" y="881" type="curve" smooth="yes"/>
+      <point x="82" y="881"/>
+      <point x="24" y="836"/>
     </contour>
     <contour>
+      <point x="202" y="576" type="curve"/>
       <point x="233" y="606" type="line"/>
       <point x="209" y="623"/>
       <point x="189" y="644"/>
@@ -35,7 +38,6 @@
       <point x="106" y="697" type="curve" smooth="yes"/>
       <point x="106" y="648"/>
       <point x="158" y="604"/>
-      <point x="202" y="576" type="curve"/>
     </contour>
   </outline>
 </glyph>

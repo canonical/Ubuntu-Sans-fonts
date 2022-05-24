@@ -2,15 +2,11 @@
 <glyph name="Z" format="2">
   <advance width="610"/>
   <unicode hex="005A"/>
+  <anchor x="305" y="0" name="bottom"/>
+  <anchor x="305" y="347" name="center"/>
+  <anchor x="305" y="693" name="top"/>
   <outline>
     <contour>
-      <point x="569" y="693" type="line"/>
-      <point x="51" y="693" type="line"/>
-      <point x="51" y="562" type="line"/>
-      <point x="362" y="562" type="line"/>
-      <point x="258" y="437"/>
-      <point x="111" y="231"/>
-      <point x="35" y="93" type="curve"/>
       <point x="35" y="0" type="line"/>
       <point x="580" y="0" type="line"/>
       <point x="580" y="131" type="line"/>
@@ -18,6 +14,13 @@
       <point x="323" y="291"/>
       <point x="484" y="497"/>
       <point x="569" y="585" type="curve"/>
+      <point x="569" y="693" type="line"/>
+      <point x="51" y="693" type="line"/>
+      <point x="51" y="562" type="line"/>
+      <point x="362" y="562" type="line"/>
+      <point x="258" y="437"/>
+      <point x="111" y="231"/>
+      <point x="35" y="93" type="curve"/>
     </contour>
   </outline>
 </glyph>

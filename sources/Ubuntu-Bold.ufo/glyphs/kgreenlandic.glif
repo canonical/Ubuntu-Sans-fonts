@@ -2,10 +2,10 @@
 <glyph name="kgreenlandic" format="2">
   <advance width="582"/>
   <unicode hex="0138"/>
+  <anchor x="291" y="0" name="bottom"/>
+  <anchor x="291" y="526" name="top"/>
   <outline>
     <contour>
-      <point x="219" y="526" type="line"/>
-      <point x="70" y="526" type="line"/>
       <point x="70" y="0" type="line"/>
       <point x="219" y="0" type="line"/>
       <point x="219" y="224" type="line"/>
@@ -23,6 +23,8 @@
       <point x="347" y="475"/>
       <point x="278" y="393"/>
       <point x="219" y="329" type="curve"/>
+      <point x="219" y="526" type="line"/>
+      <point x="70" y="526" type="line"/>
     </contour>
   </outline>
 </glyph>

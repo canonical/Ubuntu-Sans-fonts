@@ -2,20 +2,35 @@
 <glyph name="uni0400" format="2">
   <advance width="456"/>
   <unicode hex="0400"/>
+  <anchor x="228" y="0" name="bottom"/>
+  <anchor x="410" y="10" name="ogonek"/>
+  <anchor x="228" y="693" name="top"/>
+  <anchor x="20" y="693" name="topleft"/>
   <outline>
-    <contour>
-      <point x="245" y="768" type="curve" smooth="yes"/>
-      <point x="276" y="768"/>
-      <point x="301" y="791"/>
-      <point x="301" y="825" type="curve" smooth="yes"/>
-      <point x="301" y="859"/>
-      <point x="276" y="882"/>
-      <point x="245" y="882" type="curve" smooth="yes"/>
-      <point x="214" y="882"/>
-      <point x="189" y="859"/>
-      <point x="189" y="825" type="curve" smooth="yes"/>
-      <point x="189" y="791"/>
-      <point x="214" y="768"/>
-    </contour>
+    <component base="E"/>
+    <component base="grave" xOffset="90" yOffset="150"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>E</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>grave</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

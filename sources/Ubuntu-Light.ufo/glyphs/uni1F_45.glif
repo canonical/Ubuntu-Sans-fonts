@@ -1,9 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1F45" format="2">
-	<unicode hex="1F45"/>
-	<advance width="582"/>
-	<outline>
-		<component base="o"/>
-		<component base="uni1FDE" xOffset="106"/>
-	</outline>
+  <advance width="582"/>
+  <unicode hex="1F45"/>
+  <anchor x="291" y="0" name="bottom"/>
+  <anchor x="291" y="259" name="center"/>
+  <anchor x="524" y="10" name="ogonek"/>
+  <anchor x="296" y="777" name="top"/>
+  <anchor x="562" y="517" name="topright"/>
+  <outline>
+    <component base="o"/>
+    <component base="uni1FDE" xOffset="106"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>o</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni1FDE</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

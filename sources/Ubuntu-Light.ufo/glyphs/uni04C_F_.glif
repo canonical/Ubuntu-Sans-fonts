@@ -2,12 +2,16 @@
 <glyph name="uni04CF" format="2">
   <advance width="237"/>
   <unicode hex="04CF"/>
+  <anchor x="113" y="0" name="bottom"/>
+  <anchor x="203" y="10" name="ogonek"/>
+  <anchor x="113" y="693" name="top"/>
+  <anchor x="20" y="693" name="topleft"/>
   <outline>
     <contour>
-      <point x="151" y="693" type="line"/>
-      <point x="86" y="693" type="line"/>
       <point x="86" y="0" type="line"/>
       <point x="151" y="0" type="line"/>
+      <point x="151" y="693" type="line"/>
+      <point x="86" y="693" type="line"/>
     </contour>
   </outline>
 </glyph>

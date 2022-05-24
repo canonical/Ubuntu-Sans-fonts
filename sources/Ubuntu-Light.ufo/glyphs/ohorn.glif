@@ -2,8 +2,13 @@
 <glyph name="ohorn" format="2">
   <advance width="587"/>
   <unicode hex="01A1"/>
+  <anchor x="294" y="0" name="bottom"/>
+  <anchor x="294" y="517" name="top"/>
   <outline>
     <contour>
+      <point x="291" y="-12" type="curve" smooth="yes"/>
+      <point x="429" y="-12"/>
+      <point x="527" y="95"/>
       <point x="527" y="258" type="curve" smooth="yes"/>
       <point x="527" y="321"/>
       <point x="512" y="377"/>
@@ -29,14 +34,8 @@
       <point x="55" y="258" type="curve" smooth="yes"/>
       <point x="55" y="95"/>
       <point x="153" y="-12"/>
-      <point x="291" y="-12" type="curve" smooth="yes"/>
-      <point x="429" y="-12"/>
-      <point x="527" y="95"/>
     </contour>
     <contour>
-      <point x="458" y="258" type="curve" smooth="yes"/>
-      <point x="458" y="129"/>
-      <point x="393" y="47"/>
       <point x="291" y="47" type="curve" smooth="yes"/>
       <point x="189" y="47"/>
       <point x="124" y="129"/>
@@ -46,6 +45,9 @@
       <point x="291" y="470" type="curve" smooth="yes"/>
       <point x="393" y="470"/>
       <point x="458" y="387"/>
+      <point x="458" y="258" type="curve" smooth="yes"/>
+      <point x="458" y="129"/>
+      <point x="393" y="47"/>
     </contour>
   </outline>
 </glyph>

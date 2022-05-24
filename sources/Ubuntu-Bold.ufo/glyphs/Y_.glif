@@ -2,16 +2,11 @@
 <glyph name="Y" format="2">
   <advance width="661"/>
   <unicode hex="0059"/>
+  <anchor x="331" y="0" name="bottom"/>
+  <anchor x="331" y="693" name="top"/>
+  <anchor x="20" y="693" name="topleft"/>
   <outline>
     <contour>
-      <point x="334" y="408" type="curve"/>
-      <point x="278" y="503"/>
-      <point x="229" y="597"/>
-      <point x="186" y="693" type="curve"/>
-      <point x="5" y="693" type="line"/>
-      <point x="81" y="544"/>
-      <point x="162" y="404"/>
-      <point x="253" y="263" type="curve"/>
       <point x="253" y="0" type="line"/>
       <point x="409" y="0" type="line"/>
       <point x="409" y="265" type="line"/>
@@ -21,6 +16,14 @@
       <point x="484" y="693" type="line"/>
       <point x="441" y="597"/>
       <point x="390" y="503"/>
+      <point x="334" y="408" type="curve"/>
+      <point x="278" y="503"/>
+      <point x="229" y="597"/>
+      <point x="186" y="693" type="curve"/>
+      <point x="5" y="693" type="line"/>
+      <point x="81" y="544"/>
+      <point x="162" y="404"/>
+      <point x="253" y="263" type="curve"/>
     </contour>
   </outline>
 </glyph>

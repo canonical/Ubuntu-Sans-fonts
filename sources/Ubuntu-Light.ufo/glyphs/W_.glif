@@ -2,18 +2,10 @@
 <glyph name="W" format="2">
   <advance width="921"/>
   <unicode hex="0057"/>
+  <anchor x="461" y="0" name="bottom"/>
+  <anchor x="461" y="693" name="top"/>
   <outline>
     <contour>
-      <point x="432" y="608" type="line"/>
-      <point x="368" y="394"/>
-      <point x="300" y="224"/>
-      <point x="243" y="77" type="curve"/>
-      <point x="194" y="236"/>
-      <point x="145" y="459"/>
-      <point x="106" y="693" type="curve"/>
-      <point x="36" y="693" type="line"/>
-      <point x="83" y="408"/>
-      <point x="128" y="199"/>
       <point x="200" y="0" type="curve"/>
       <point x="272" y="0" type="line"/>
       <point x="335" y="152"/>
@@ -33,6 +25,16 @@
       <point x="621" y="222"/>
       <point x="554" y="394"/>
       <point x="491" y="608" type="curve"/>
+      <point x="432" y="608" type="line"/>
+      <point x="368" y="394"/>
+      <point x="300" y="224"/>
+      <point x="243" y="77" type="curve"/>
+      <point x="194" y="236"/>
+      <point x="145" y="459"/>
+      <point x="106" y="693" type="curve"/>
+      <point x="36" y="693" type="line"/>
+      <point x="83" y="408"/>
+      <point x="128" y="199"/>
     </contour>
   </outline>
 </glyph>

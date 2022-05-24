@@ -1,10 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1FAA" format="2">
-	<unicode hex="1FAA"/>
-	<advance width="1244"/>
-	<outline>
-		<component base="iota" xOffset="996"/>
-		<component base="Omega" xOffset="268"/>
-		<component base="uni1FCD" xOffset="-59" yOffset="-49"/>
-	</outline>
+  <advance width="1244"/>
+  <unicode hex="1FAA"/>
+  <outline>
+    <component base="Omega" xOffset="268"/>
+    <component base="iota" xOffset="996"/>
+    <component base="uni1FCD" xOffset="-59" yOffset="-49"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Omega</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>iota</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>uni1FCD</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

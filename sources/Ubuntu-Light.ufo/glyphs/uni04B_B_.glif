@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni04BB" format="2">
-	<unicode hex="04BB"/>
-	<advance width="569"/>
-	<outline>
-		<component base="h"/>
-	</outline>
+  <advance width="569"/>
+  <unicode hex="04BB"/>
+  <anchor x="549" y="0" name="bottomright"/>
+  <anchor x="285" y="388" name="center"/>
+  <anchor x="285" y="776" name="top"/>
+  <outline>
+    <component base="h"/>
+  </outline>
 </glyph>

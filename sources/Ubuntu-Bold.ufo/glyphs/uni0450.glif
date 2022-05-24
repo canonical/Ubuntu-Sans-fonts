@@ -1,9 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0450" format="2">
-	<unicode hex="0450"/>
-	<advance width="584"/>
-	<outline>
-		<component base="e"/>
-		<component base="grave" xOffset="149"/>
-	</outline>
+  <advance width="584"/>
+  <unicode hex="0450"/>
+  <anchor x="292" y="0" name="bottom"/>
+  <anchor x="526" y="10" name="ogonek"/>
+  <anchor x="292" y="526" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="grave" xOffset="149"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>e</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>grave</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

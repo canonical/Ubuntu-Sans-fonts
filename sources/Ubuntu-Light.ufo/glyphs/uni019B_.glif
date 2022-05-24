@@ -2,8 +2,14 @@
 <glyph name="uni019B" format="2">
   <advance width="492"/>
   <unicode hex="019B"/>
+  <anchor x="246" y="0" name="bottom"/>
+  <anchor x="246" y="776" name="top"/>
   <outline>
     <contour>
+      <point x="19" y="0" type="curve"/>
+      <point x="85" y="0" type="line"/>
+      <point x="114" y="119"/>
+      <point x="170" y="286"/>
       <point x="260" y="455" type="curve"/>
       <point x="316" y="304"/>
       <point x="368" y="139"/>
@@ -36,10 +42,6 @@
       <point x="233" y="526" type="curve"/>
       <point x="140" y="355"/>
       <point x="50" y="132"/>
-      <point x="19" y="0" type="curve"/>
-      <point x="85" y="0" type="line"/>
-      <point x="114" y="119"/>
-      <point x="170" y="286"/>
     </contour>
   </outline>
 </glyph>

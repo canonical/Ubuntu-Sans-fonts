@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni01CC" format="2">
-	<unicode hex="01CC"/>
-	<advance width="878"/>
-	<outline>
-		<component base="n"/>
-		<component base="j" xOffset="588"/>
-	</outline>
+  <advance width="878"/>
+  <unicode hex="01CC"/>
+  <anchor x="295" y="0" name="bottom"/>
+  <anchor x="295" y="526" name="top"/>
+  <outline>
+    <component base="n"/>
+    <component base="j" xOffset="589"/>
+  </outline>
 </glyph>

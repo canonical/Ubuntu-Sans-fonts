@@ -1,9 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1F4A" format="2">
-	<unicode hex="1F4A"/>
-	<advance width="1010"/>
-	<outline>
-		<component base="O" xOffset="236"/>
-		<component base="uni1FCD" xOffset="-58" yOffset="-72"/>
-	</outline>
+  <advance width="1010"/>
+  <unicode hex="1F4A"/>
+  <anchor x="623" y="0" name="bottom"/>
+  <anchor x="623" y="347" name="center"/>
+  <anchor x="933" y="10" name="ogonek"/>
+  <anchor x="125" y="705" name="top"/>
+  <anchor x="256" y="693" name="topleft"/>
+  <anchor x="990" y="693" name="topright"/>
+  <outline>
+    <component base="O" xOffset="236"/>
+    <component base="uni1FCD" xOffset="-58" yOffset="-72"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>O</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni1FCD</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

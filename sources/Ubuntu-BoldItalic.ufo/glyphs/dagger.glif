@@ -4,6 +4,12 @@
   <unicode hex="2020"/>
   <outline>
     <contour>
+      <point x="160" y="-145" type="curve"/>
+      <point x="243" y="-145" type="line"/>
+      <point x="280" y="-48"/>
+      <point x="306" y="40"/>
+      <point x="333" y="148" type="curve"/>
+      <point x="388" y="376" type="line"/>
       <point x="527" y="376" type="line"/>
       <point x="557" y="491" type="line"/>
       <point x="416" y="491" type="line"/>
@@ -16,12 +22,6 @@
       <point x="210" y="148" type="line"/>
       <point x="185" y="40"/>
       <point x="171" y="-48"/>
-      <point x="160" y="-145" type="curve"/>
-      <point x="243" y="-145" type="line"/>
-      <point x="280" y="-48"/>
-      <point x="306" y="40"/>
-      <point x="333" y="148" type="curve"/>
-      <point x="388" y="376" type="line"/>
     </contour>
   </outline>
 </glyph>

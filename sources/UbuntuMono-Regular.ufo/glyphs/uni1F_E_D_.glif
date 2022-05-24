@@ -2,12 +2,13 @@
 <glyph name="uni1FED" format="2">
   <advance width="500"/>
   <unicode hex="1FED"/>
+  <anchor x="250" y="776" name="_top"/>
   <outline>
     <contour>
-      <point x="180" y="658" type="line"/>
       <point x="273" y="516" type="line"/>
       <point x="320" y="544" type="line"/>
       <point x="240" y="697" type="line"/>
+      <point x="180" y="658" type="line"/>
     </contour>
     <contour>
       <point x="121" y="555" type="curve" smooth="yes"/>

@@ -1,10 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0215" format="2">
-	<unicode hex="0215"/>
-	<advance width="569"/>
-	<outline>
-		<component base="u"/>
-		<component base="double_grave" xOffset="42"/>
-	</outline>
-	<guideline x="280"/>
+  <advance width="569"/>
+  <unicode hex="0215"/>
+  <anchor x="285" y="0" name="bottom"/>
+  <anchor x="512" y="10" name="ogonek"/>
+  <anchor x="285" y="517" name="top"/>
+  <anchor x="549" y="517" name="topright"/>
+  <outline>
+    <component base="u"/>
+    <component base="double_grave" xOffset="42"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>u</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>double_grave</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

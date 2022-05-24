@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0212" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0212" format="2">
   <advance width="600"/>
   <unicode hex="0212"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="300" y="693" name="top"/>
   <outline>
     <component base="R"/>
     <component base="breve_inverted" xOffset="283" yOffset="156"/>
