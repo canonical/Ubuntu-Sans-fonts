@@ -1,9 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Zcaron" format="2">
-	<unicode hex="017D"/>
-	<advance width="638"/>
-	<outline>
-		<component base="Z"/>
-		<component base="caron" xOffset="149" yOffset="166"/>
-	</outline>
+  <advance width="638"/>
+  <unicode hex="017D"/>
+  <outline>
+    <component base="Z"/>
+    <component base="caron" xOffset="149" yOffset="166"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Z</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>caron</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

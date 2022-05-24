@@ -4,8 +4,6 @@
   <unicode hex="049F"/>
   <outline>
     <contour>
-      <point x="2" y="453" type="line"/>
-      <point x="72" y="453" type="line"/>
       <point x="72" y="0" type="line"/>
       <point x="221" y="0" type="line"/>
       <point x="221" y="204" type="line"/>
@@ -31,6 +29,14 @@
       <point x="72" y="571" type="line"/>
       <point x="72" y="526" type="line"/>
       <point x="2" y="526" type="line"/>
+      <point x="2" y="453" type="line"/>
+      <point x="72" y="453" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

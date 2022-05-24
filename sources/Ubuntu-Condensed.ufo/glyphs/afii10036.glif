@@ -2,16 +2,10 @@
 <glyph name="afii10036" format="2">
   <advance width="426"/>
   <unicode hex="0422"/>
+  <anchor x="406" y="0" name="bottomright"/>
+  <anchor x="213" y="347" name="center"/>
+  <anchor x="213" y="693" name="top"/>
   <outline>
-    <contour>
-      <point x="60" y="693" type="line"/>
-      <point x="60" y="609" type="line"/>
-      <point x="278" y="609" type="line"/>
-      <point x="278" y="0" type="line"/>
-      <point x="375" y="0" type="line"/>
-      <point x="375" y="609" type="line"/>
-      <point x="593" y="609" type="line"/>
-      <point x="593" y="693" type="line"/>
-    </contour>
+    <component base="T"/>
   </outline>
 </glyph>

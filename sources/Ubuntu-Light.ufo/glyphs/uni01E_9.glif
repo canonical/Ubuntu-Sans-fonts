@@ -2,35 +2,33 @@
 <glyph name="uni01E9" format="2">
   <advance width="495"/>
   <unicode hex="01E9"/>
+  <anchor x="248" y="0" name="bottom"/>
+  <anchor x="248" y="776" name="top"/>
   <outline>
-    <contour>
-      <point x="224" y="281" type="curve"/>
-      <point x="292" y="348"/>
-      <point x="395" y="454"/>
-      <point x="455" y="517" type="curve"/>
-      <point x="377" y="517" type="line"/>
-      <point x="325" y="457"/>
-      <point x="217" y="348"/>
-      <point x="151" y="284" type="curve"/>
-      <point x="151" y="776" type="line"/>
-      <point x="86" y="764" type="line"/>
-      <point x="86" y="0" type="line"/>
-      <point x="151" y="0" type="line"/>
-      <point x="151" y="260" type="line"/>
-      <point x="230" y="210"/>
-      <point x="337" y="106"/>
-      <point x="400" y="0" type="curve"/>
-      <point x="477" y="0" type="line"/>
-      <point x="420" y="97"/>
-      <point x="308" y="224"/>
-    </contour>
-    <contour>
-      <point x="283" y="923" type="line"/>
-      <point x="261" y="958" type="line"/>
-      <point x="164" y="890" type="line"/>
-      <point x="67" y="958" type="line"/>
-      <point x="45" y="923" type="line"/>
-      <point x="164" y="825" type="line"/>
-    </contour>
+    <component base="k"/>
+    <component base="caron.asc" xOffset="-24"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>k</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>caron.asc</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

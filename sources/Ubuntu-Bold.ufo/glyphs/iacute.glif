@@ -1,9 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="iacute" format="2">
-	<unicode hex="00ED"/>
-	<advance width="289"/>
-	<outline>
-		<component base="dotlessi"/>
-		<component base="acute" xOffset="15"/>
-	</outline>
+  <advance width="289"/>
+  <unicode hex="00ED"/>
+  <anchor x="145" y="0" name="bottom"/>
+  <anchor x="260" y="10" name="ogonek"/>
+  <anchor x="145" y="526" name="top"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="acute" xOffset="15"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dotlessi</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>acute</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

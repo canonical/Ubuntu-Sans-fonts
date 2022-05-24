@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="300" maximum="700" default="300">
+      <map input="300" output="300"/>
+      <map input="400" output="400"/>
+      <map input="500" output="564"/>
+      <map input="700" output="700"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="Ubuntu-LightItalic.ufo" name="Ubuntu Light Italic" familyname="Ubuntu" stylename="Light Italic">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+    </source>
+    <source filename="Ubuntu-BoldItalic.ufo" name="Ubuntu Bold Italic" familyname="Ubuntu" stylename="Bold Italic">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Ubuntu Italic" familyname="Ubuntu" stylename="Italic" filename="../instance_ufo/Ubuntu-Italic[wght].ufo" stylemapfamilyname="Ubuntu Italic" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+    </instance>
+    <instance name="Ubuntu Light Italic" familyname="Ubuntu" stylename="Light Italic" filename="../instance_ufo/Ubuntu-LightItalic.ufo" stylemapfamilyname="Ubuntu Light" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+    </instance>
+    <instance name="Ubuntu Italic" familyname="Ubuntu" stylename="Italic" filename="../instance_ufo/Ubuntu-Italic.ufo" stylemapfamilyname="Ubuntu" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </instance>
+    <instance name="Ubuntu Medium Italic" familyname="Ubuntu" stylename="Medium Italic" filename="../instance_ufo/Ubuntu-MediumItalic.ufo" stylemapfamilyname="Ubuntu Medium" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="564"/>
+      </location>
+    </instance>
+    <instance name="Ubuntu Bold Italic" familyname="Ubuntu" stylename="Bold Italic" filename="../instance_ufo/Ubuntu-BoldItalic.ufo" stylemapfamilyname="Ubuntu" stylemapstylename="bold italic">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>UFOFormat</key>
+      <integer>3</integer>
+    </dict>
+  </lib>
+</designspace>

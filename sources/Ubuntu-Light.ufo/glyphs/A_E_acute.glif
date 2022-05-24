@@ -1,10 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="AEacute" format="2">
-	<unicode hex="01FC"/>
-	<advance width="915"/>
-	<outline>
-		<component base="AE"/>
-		<component base="acute" xOffset="384" yOffset="156"/>
-	</outline>
-	<guideline x="562"/>
+  <advance width="915"/>
+  <unicode hex="01FC"/>
+  <anchor x="458" y="0" name="bottom"/>
+  <anchor x="458" y="693" name="top"/>
+  <outline>
+    <component base="AE"/>
+    <component base="acute" xOffset="384" yOffset="156"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>AE</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>acute</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

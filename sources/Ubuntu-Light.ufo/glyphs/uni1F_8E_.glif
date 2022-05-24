@@ -1,10 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1F8E" format="2">
-	<unicode hex="1F8E"/>
-	<advance width="894"/>
-	<outline>
-		<component base="A" xOffset="-1"/>
-		<component base="uni1FCF" xOffset="-100" yOffset="-108"/>
-		<component base="iota" xOffset="641"/>
-	</outline>
+  <advance width="894"/>
+  <unicode hex="1F8E"/>
+  <anchor x="320" y="0" name="bottom"/>
+  <anchor x="576" y="10" name="ogonek"/>
+  <anchor x="320" y="693" name="top_1"/>
+  <anchor x="768" y="517" name="top_2"/>
+  <outline>
+    <component base="A" xOffset="-1"/>
+    <component base="iota" xOffset="641"/>
+    <component base="uni1FCF" xOffset="-100" yOffset="-108"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>A</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>iota</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>uni1FCF</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

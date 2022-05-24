@@ -1,10 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="upsilondieresistonos" format="2">
-	<unicode hex="03B0"/>
-	<advance width="498"/>
-	<outline>
-		<component base="upsilon"/>
-		<component base="dieresistonos" xOffset="77"/>
-	</outline>
-	<guideline x="463" y="0" angle="103.5"/>
+  <advance width="498"/>
+  <unicode hex="03B0"/>
+  <outline>
+    <component base="upsilon"/>
+    <component base="dieresistonos" xOffset="77"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>upsilon</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dieresistonos</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -2,7 +2,15 @@
 <glyph name="uni1FCD" format="2">
   <advance width="500"/>
   <unicode hex="1FCD"/>
+  <anchor x="250" y="776" name="_top"/>
+  <anchor x="250" y="699" name="top"/>
   <outline>
+    <contour>
+      <point x="357" y="513" type="line"/>
+      <point x="404" y="547" type="line"/>
+      <point x="306" y="699" type="line"/>
+      <point x="245" y="655" type="line"/>
+    </contour>
     <contour>
       <point x="129" y="513" type="line"/>
       <point x="176" y="549"/>
@@ -20,12 +28,6 @@
       <point x="138" y="581"/>
       <point x="121" y="564"/>
       <point x="96" y="544" type="curve"/>
-    </contour>
-    <contour>
-      <point x="245" y="655" type="line"/>
-      <point x="357" y="513" type="line"/>
-      <point x="404" y="547" type="line"/>
-      <point x="306" y="699" type="line"/>
     </contour>
   </outline>
 </glyph>

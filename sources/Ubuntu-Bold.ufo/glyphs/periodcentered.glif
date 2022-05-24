@@ -1,8 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="periodcentered" format="2">
-	<unicode hex="00B7"/>
-	<advance width="246"/>
-	<outline>
-		<component base="period" yOffset="216"/>
-	</outline>
+  <advance width="246"/>
+  <unicode hex="00B7"/>
+  <outline>
+    <component base="period" yOffset="216"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>period</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

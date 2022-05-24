@@ -1,9 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Kcommaaccent" format="2">
-	<unicode hex="0136"/>
-	<advance width="515"/>
-	<outline>
-		<component base="K"/>
-		<component base="commaaccent" xOffset="84"/>
-	</outline>
+  <advance width="515"/>
+  <unicode hex="0136"/>
+  <anchor x="246" y="-188" name="bottom"/>
+  <anchor x="258" y="693" name="top"/>
+  <outline>
+    <component base="K"/>
+    <component base="commaaccent" xOffset="84"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>K</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>commaaccent</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

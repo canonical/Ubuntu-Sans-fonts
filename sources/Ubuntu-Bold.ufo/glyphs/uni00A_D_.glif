@@ -1,8 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni00AD" format="2">
-	<unicode hex="00AD"/>
-	<advance width="340"/>
-	<outline>
-		<component base="hyphen"/>
-	</outline>
+  <advance width="340"/>
+  <unicode hex="00AD"/>
+  <outline>
+    <component base="hyphen"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>hyphen</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

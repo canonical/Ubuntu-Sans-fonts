@@ -2,14 +2,10 @@
 <glyph name="K" format="2">
   <advance width="500"/>
   <unicode hex="004B"/>
+  <anchor x="250" y="0" name="bottom"/>
+  <anchor x="250" y="693" name="top"/>
   <outline>
     <contour>
-      <point x="375" y="619" type="line"/>
-      <point x="315" y="535"/>
-      <point x="232" y="432"/>
-      <point x="146" y="343" type="curve"/>
-      <point x="146" y="619" type="line"/>
-      <point x="64" y="619" type="line"/>
       <point x="64" y="0" type="line"/>
       <point x="146" y="0" type="line"/>
       <point x="146" y="296" type="line"/>
@@ -23,6 +19,12 @@
       <point x="326" y="426"/>
       <point x="405" y="522"/>
       <point x="470" y="619" type="curve"/>
+      <point x="375" y="619" type="line"/>
+      <point x="315" y="535"/>
+      <point x="232" y="432"/>
+      <point x="146" y="343" type="curve"/>
+      <point x="146" y="619" type="line"/>
+      <point x="64" y="619" type="line"/>
     </contour>
   </outline>
 </glyph>

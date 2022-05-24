@@ -1,65 +1,57 @@
 # Ubuntu Font Family
 
-The Ubuntu Font Family are a set of matching new libre/open fonts in
-development during 2010--2011.  And with further expansion work and
-bug fixing during 2015.  The development is being funded by
-Canonical Ltd on behalf the wider Free Software community and the
-Ubuntu project.  The technical font design work and implementation is
-being undertaken by Dalton Maag.
+[![][Fontbakery]](https://djrrb.github.io/Ubuntu-fonts/fontbakery/fontbakery-report.html)
+[![][Universal]](https://djrrb.github.io/Ubuntu-fonts/fontbakery/fontbakery-report.html)
+[![][GF Profile]](https://djrrb.github.io/Ubuntu-fonts/fontbakery/fontbakery-report.html)
+[![][Outline Correctness]](https://djrrb.github.io/Ubuntu-fonts/fontbakery/fontbakery-report.html)
+[![][Shaping]](https://djrrb.github.io/Ubuntu-fonts/fontbakery/fontbakery-report.html)
 
-Both the final font Truetype/OpenType files and the design files used
-to produce the font family are distributed under an open licence and
-you are expressly encouraged to experiment, modify, share and improve.
+[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdjrrb%2FUbuntu-fonts%2Fgh-pages%2Fbadges%2Foverall.json
+[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdjrrb%2FUbuntu-fonts%2Fgh-pages%2Fbadges%2FGoogleFonts.json
+[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdjrrb%2FUbuntu-fonts%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
+[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdjrrb%2FUbuntu-fonts%2Fgh-pages%2Fbadges%2FShapingChecks.json
+[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdjrrb%2FUbuntu-fonts%2Fgh-pages%2Fbadges%2FUniversal.json
 
-  http://font.ubuntu.com/
+The Ubuntu Font Family are a set of matching new libre/open fonts in development during 2010--2011. And with further expansion work and bug fixing during 2015. The development is being funded by Canonical Ltd on behalf the wider Free Software community and the Ubuntu project. The technical font design work and implementation is being undertaken by Dalton Maag.
 
-# Build instructions
+Both the final font Truetype/OpenType files and the design files used to produce the font family are distributed under an open licence and you are expressly encouraged to experiment, modify, share and improve.
 
-It is recommended to use a virtual environment with `python -m virtualenv`,
-since we use specific versions of some dependencies that might be differ
-from those installed system wide.
+http://font.ubuntu.com/
 
-Install dependencies
-```sh
-$ pip install -r requirements.txt
-# Also install wine and curl.
-```
+![Sample Image](documentation/image1.png)
 
-Build fonts
-```
-$ make
-```
+## About
 
-Build fonts to edit TrueType instructions in VTT (placed next to the UFO)
-```
-$ make vtt
-```
+Description of you and/or organisation goes here.
 
-When making changes to the source files, the VTT compilation step may fail due
-to "unexpected" errors. The sources contain VTT source in high-level and
-compiled forms, vttLib checks that various things in the source line up with
-what's written to the VTT data and will complain if there are mismatches. Run
-the following to update the VTT data within the source:
-```
-$ make update-vtt
-```
+## Building
 
-# Miscellaneous
+Fonts are built automatically by GitHub Actions - take a look in the "Actions" tab for the latest build.
 
-- [fonttools](https://github.com/fonttools/fonttools): Includes the tool `ttx`
-  that can be used to dump the contens of font binaries in XML form for easier
-  comparison.
-- [kern-dump](https://github.com/adobe-type-tools/kern-dump): Tool to dump the
-  kerning. This can be used to diff kerning between two fonts.
-- [fontdiff](https://github.com/googlei18n/fontdiff): Tool to compare two
-  rendered fonts visually.
+If you want to build fonts manually on your own computer:
 
-# Roadmap:
-- [ ] Match the binaries released on Google Fonts as closely as possible, as
-  that version has received the most exposure and patching.
-- [ ] Swap the Google Fonts binaries with ones generated from this source and
-  fix any issues that come up.
-- [ ] Experiment with shipping more internally consistent binaries.
-- [ ] Declare a stable version and ship it in Ubuntu
-- [ ] Integrate thin weight, Arabic and Hebrew that was done but never released.
-- [ ] Plan the future of the typeface. Variable font, how?
+* `make build` will produce font files.
+* `make test` will run [FontBakery](https://github.com/googlefonts/fontbakery)'s quality assurance tests.
+* `make proof` will generate HTML proof files.
+
+The proof files and QA tests are also available automatically via GitHub Actions - look at https://djrrb.github.io/Ubuntu-fonts.
+
+## Changelog
+
+When you update your font (new version or new release), please report all notable changes here, with a date.
+[Font Versioning](https://github.com/googlefonts/gf-docs/tree/main/Spec#font-versioning) is based on semver. 
+Changelog example:
+
+**26 May 2021. Version 2.13**
+- MAJOR Font turned to a variable font.
+- SIGNIFICANT New Stylistic sets added.
+
+## License
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is available with a FAQ at
+https://scripts.sil.org/OFL
+
+## Repository Layout
+
+This font repository structure is inspired by [Unified Font Repository v0.3](https://github.com/unified-font-repository/Unified-Font-Repository), modified for the Google Fonts workflow.

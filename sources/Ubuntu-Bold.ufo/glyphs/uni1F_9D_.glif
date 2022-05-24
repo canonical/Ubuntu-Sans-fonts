@@ -1,10 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1F9D" format="2">
-	<unicode hex="1F9D"/>
-	<advance width="1449"/>
-	<outline>
-		<component base="H" xOffset="404"/>
-		<component base="uni1FDE" xOffset="-89" yOffset="-116"/>
-		<component base="iota" xOffset="1140"/>
-	</outline>
+  <advance width="1449"/>
+  <unicode hex="1F9D"/>
+  <anchor x="771" y="0" name="bottom"/>
+  <anchor x="771" y="347" name="center"/>
+  <anchor x="771" y="693" name="top_1"/>
+  <anchor x="1295" y="526" name="top_2"/>
+  <anchor x="424" y="693" name="topleft"/>
+  <outline>
+    <component base="H" xOffset="404"/>
+    <component base="iota" xOffset="1140"/>
+    <component base="uni1FDE" xOffset="-89" yOffset="-116"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>H</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>iota</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>uni1FDE</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

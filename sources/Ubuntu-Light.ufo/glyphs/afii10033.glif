@@ -2,16 +2,8 @@
 <glyph name="afii10033" format="2">
   <advance width="685"/>
   <unicode hex="041F"/>
+  <anchor x="665" y="0" name="bottomright"/>
   <outline>
-    <contour>
-      <point x="90" y="693" type="line"/>
-      <point x="90" y="0" type="line"/>
-      <point x="158" y="0" type="line"/>
-      <point x="158" y="634" type="line"/>
-      <point x="527" y="634" type="line"/>
-      <point x="527" y="0" type="line"/>
-      <point x="595" y="0" type="line"/>
-      <point x="595" y="693" type="line"/>
-    </contour>
+    <component base="Pi"/>
   </outline>
 </glyph>

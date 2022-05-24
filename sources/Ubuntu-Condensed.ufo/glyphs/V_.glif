@@ -2,8 +2,11 @@
 <glyph name="V" format="2">
   <advance width="497"/>
   <unicode hex="0056"/>
+  <anchor x="249" y="0" name="bottom"/>
+  <anchor x="249" y="693" name="top"/>
   <outline>
     <contour>
+      <point x="200" y="0" type="curve"/>
       <point x="297" y="0" type="line"/>
       <point x="359" y="199"/>
       <point x="419" y="401"/>
@@ -18,7 +21,6 @@
       <point x="20" y="693" type="line"/>
       <point x="78" y="401"/>
       <point x="138" y="199"/>
-      <point x="200" y="0" type="curve"/>
     </contour>
   </outline>
 </glyph>

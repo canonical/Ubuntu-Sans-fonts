@@ -1,17 +1,18 @@
+*~
+venv
+build.stamp
+proof
+# fonts
+node_modules
+package-lock.json
+package.json
+
+# OS generated files #
+######################
 .DS_Store
-*.bak
-*.vfb
-desktop.ini
-*.ttf
-*.otf
-release/
-tools/CacheTT/
-tools/FontTools.exe
-tools/FontTools/
-
-# Python byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
-
-*.glyphs
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

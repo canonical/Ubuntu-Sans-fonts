@@ -2,8 +2,18 @@
 <glyph name="X" format="2">
   <advance width="500"/>
   <unicode hex="0058"/>
+  <anchor x="250" y="0" name="bottom"/>
+  <anchor x="250" y="693" name="top"/>
   <outline>
     <contour>
+      <point x="11" y="0" type="curve"/>
+      <point x="144" y="0" type="line"/>
+      <point x="172" y="68"/>
+      <point x="213" y="159"/>
+      <point x="252" y="237" type="curve"/>
+      <point x="292" y="155"/>
+      <point x="331" y="68"/>
+      <point x="356" y="0" type="curve"/>
       <point x="489" y="0" type="line"/>
       <point x="463" y="71"/>
       <point x="394" y="215"/>
@@ -16,14 +26,6 @@
       <point x="183" y="327" type="line"/>
       <point x="119" y="213"/>
       <point x="39" y="71"/>
-      <point x="11" y="0" type="curve"/>
-      <point x="144" y="0" type="line"/>
-      <point x="172" y="68"/>
-      <point x="213" y="159"/>
-      <point x="252" y="237" type="curve"/>
-      <point x="292" y="155"/>
-      <point x="331" y="68"/>
-      <point x="356" y="0" type="curve"/>
     </contour>
   </outline>
 </glyph>

@@ -1,9 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1F6A" format="2">
-	<unicode hex="1F6A"/>
-	<advance width="844"/>
-	<outline>
-		<component base="uni1FCD" xOffset="-47" yOffset="-72"/>
-		<component base="uni2126" xOffset="233"/>
-	</outline>
+  <advance width="844"/>
+  <unicode hex="1F6A"/>
+  <anchor x="539" y="0" name="bottom"/>
+  <anchor x="253" y="693" name="topleft"/>
+  <outline>
+    <component base="Omega" xOffset="233"/>
+    <component base="uni1FCD" xOffset="-47" yOffset="-72"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Omega</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni1FCD</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

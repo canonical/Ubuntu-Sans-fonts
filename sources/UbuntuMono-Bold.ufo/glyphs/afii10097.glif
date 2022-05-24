@@ -2,8 +2,17 @@
 <glyph name="afii10097" format="2">
   <advance width="500"/>
   <unicode hex="044F"/>
+  <anchor x="250" y="520" name="top"/>
   <outline>
     <contour>
+      <point x="20" y="0" type="curve"/>
+      <point x="147" y="0" type="line"/>
+      <point x="174" y="60"/>
+      <point x="204" y="112"/>
+      <point x="241" y="167" type="curve"/>
+      <point x="248" y="167"/>
+      <point x="255" y="167"/>
+      <point x="262" y="167" type="curve"/>
       <point x="332" y="167" type="line"/>
       <point x="332" y="0" type="line"/>
       <point x="455" y="0" type="line"/>
@@ -19,14 +28,8 @@
       <point x="128" y="195" type="curve"/>
       <point x="95" y="148"/>
       <point x="54" y="77"/>
-      <point x="20" y="0" type="curve"/>
-      <point x="147" y="0" type="line"/>
-      <point x="174" y="60"/>
-      <point x="204" y="112"/>
-      <point x="241" y="167" type="curve"/>
     </contour>
     <contour>
-      <point x="332" y="260" type="line"/>
       <point x="263" y="260" type="line" smooth="yes"/>
       <point x="221" y="260"/>
       <point x="174" y="275"/>
@@ -37,6 +40,7 @@
       <point x="287" y="378"/>
       <point x="319" y="375"/>
       <point x="332" y="374" type="curve"/>
+      <point x="332" y="260" type="line"/>
     </contour>
   </outline>
 </glyph>

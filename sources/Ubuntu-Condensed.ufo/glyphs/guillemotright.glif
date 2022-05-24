@@ -3,21 +3,30 @@
   <advance width="453"/>
   <unicode hex="00BB"/>
   <outline>
-    <contour>
-      <point x="136" y="284" type="line"/>
-      <point x="42" y="476" type="line"/>
-      <point x="108" y="505" type="line"/>
-      <point x="236" y="284" type="line"/>
-      <point x="108" y="63" type="line"/>
-      <point x="42" y="92" type="line"/>
-    </contour>
-    <contour>
-      <point x="325" y="284" type="line"/>
-      <point x="231" y="476" type="line"/>
-      <point x="297" y="505" type="line"/>
-      <point x="425" y="284" type="line"/>
-      <point x="297" y="63" type="line"/>
-      <point x="231" y="92" type="line"/>
-    </contour>
+    <component base="guilsinglright"/>
+    <component base="guilsinglright" xOffset="189"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>guilsinglright</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>guilsinglright</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

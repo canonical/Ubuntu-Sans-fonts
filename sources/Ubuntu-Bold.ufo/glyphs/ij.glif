@@ -1,9 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ij" format="2">
-	<unicode hex="0133"/>
-	<advance width="576"/>
-	<outline>
-		<component base="i"/>
-		<component base="j" xOffset="287"/>
-	</outline>
+  <advance width="578"/>
+  <unicode hex="0133"/>
+  <anchor x="145" y="0" name="bottom"/>
+  <outline>
+    <component base="i"/>
+    <component base="j" xOffset="289"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>i</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>j</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

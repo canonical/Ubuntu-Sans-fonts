@@ -2,8 +2,11 @@
 <glyph name="afii10072" format="2">
   <advance width="849"/>
   <unicode hex="0436"/>
+  <anchor x="829" y="0" name="bottomright"/>
+  <anchor x="425" y="526" name="top"/>
   <outline>
     <contour>
+      <point x="10" y="0" type="curve"/>
       <point x="176" y="0" type="line"/>
       <point x="220" y="67"/>
       <point x="284" y="147"/>
@@ -37,7 +40,6 @@
       <point x="226" y="281" type="curve"/>
       <point x="146" y="196"/>
       <point x="77" y="108"/>
-      <point x="10" y="0" type="curve"/>
     </contour>
   </outline>
 </glyph>

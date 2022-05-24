@@ -2,9 +2,9 @@
 <glyph name="uni04BA" format="2">
   <advance width="520"/>
   <unicode hex="04BA"/>
+  <anchor x="500" y="0" name="bottomright"/>
   <outline>
     <contour>
-      <point x="84" y="693" type="line"/>
       <point x="84" y="0" type="line"/>
       <point x="174" y="0" type="line"/>
       <point x="174" y="367" type="line"/>
@@ -24,6 +24,7 @@
       <point x="203" y="447"/>
       <point x="174" y="439" type="curve"/>
       <point x="174" y="693" type="line"/>
+      <point x="84" y="693" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -2,6 +2,8 @@
 <glyph name="uni01A5" format="2">
   <advance width="604"/>
   <unicode hex="01A5"/>
+  <anchor x="302" y="0" name="bottom"/>
+  <anchor x="302" y="526" name="top"/>
   <outline>
     <contour>
       <point x="70" y="-185" type="line"/>
@@ -35,9 +37,6 @@
       <point x="70" y="588" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="407" y="259" type="curve" smooth="yes"/>
-      <point x="407" y="164"/>
-      <point x="372" y="116"/>
       <point x="301" y="116" type="curve" smooth="yes"/>
       <point x="270" y="116"/>
       <point x="238" y="125"/>
@@ -48,6 +47,9 @@
       <point x="289" y="411" type="curve" smooth="yes"/>
       <point x="365" y="411"/>
       <point x="407" y="351"/>
+      <point x="407" y="259" type="curve" smooth="yes"/>
+      <point x="407" y="164"/>
+      <point x="372" y="116"/>
     </contour>
   </outline>
 </glyph>

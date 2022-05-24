@@ -1,9 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni01CA" format="2">
-	<unicode hex="01CA"/>
-	<advance width="975"/>
-	<outline>
-		<component base="N"/>
-		<component base="J" xOffset="580"/>
-	</outline>
+  <advance width="976"/>
+  <unicode hex="01CA"/>
+  <anchor x="291" y="0" name="bottom_1"/>
+  <anchor x="779" y="0" name="bottom_2"/>
+  <anchor x="291" y="693" name="top_1"/>
+  <anchor x="779" y="693" name="top_2"/>
+  <outline>
+    <component base="N"/>
+    <component base="J" xOffset="581"/>
+  </outline>
 </glyph>

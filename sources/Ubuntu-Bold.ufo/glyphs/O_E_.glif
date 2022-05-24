@@ -2,8 +2,14 @@
 <glyph name="OE" format="2">
   <advance width="997"/>
   <unicode hex="0152"/>
+  <anchor x="499" y="0" name="bottom"/>
+  <anchor x="499" y="693" name="top"/>
   <outline>
     <contour>
+      <point x="443" y="-6" type="curve" smooth="yes"/>
+      <point x="474" y="-6"/>
+      <point x="515" y="-4"/>
+      <point x="546" y="0" type="curve"/>
       <point x="962" y="0" type="line"/>
       <point x="962" y="131" type="line"/>
       <point x="644" y="131" type="line"/>
@@ -23,10 +29,6 @@
       <point x="50" y="347" type="curve" smooth="yes"/>
       <point x="50" y="104"/>
       <point x="208" y="-6"/>
-      <point x="443" y="-6" type="curve" smooth="yes"/>
-      <point x="474" y="-6"/>
-      <point x="515" y="-4"/>
-      <point x="546" y="0" type="curve"/>
     </contour>
     <contour>
       <point x="441" y="126" type="curve" smooth="yes"/>

@@ -2,8 +2,11 @@
 <glyph name="longs" format="2">
   <advance width="500"/>
   <unicode hex="017F"/>
+  <anchor x="250" y="0" name="bottom"/>
+  <anchor x="250" y="520" name="top"/>
   <outline>
     <contour>
+      <point x="139" y="0" type="line"/>
       <point x="263" y="0" type="line"/>
       <point x="263" y="495" type="line" smooth="yes"/>
       <point x="263" y="576"/>
@@ -19,7 +22,6 @@
       <point x="236" y="693"/>
       <point x="139" y="648"/>
       <point x="139" y="497" type="curve" smooth="yes"/>
-      <point x="139" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

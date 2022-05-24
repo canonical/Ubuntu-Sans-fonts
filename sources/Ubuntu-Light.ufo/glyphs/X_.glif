@@ -2,14 +2,10 @@
 <glyph name="X" format="2">
   <advance width="608"/>
   <unicode hex="0058"/>
+  <anchor x="304" y="0" name="bottom"/>
+  <anchor x="304" y="693" name="top"/>
   <outline>
     <contour>
-      <point x="303" y="414" type="line"/>
-      <point x="116" y="693" type="line"/>
-      <point x="38" y="693" type="line"/>
-      <point x="261" y="366" type="line"/>
-      <point x="176" y="246"/>
-      <point x="88" y="121"/>
       <point x="27" y="0" type="curve"/>
       <point x="98" y="0" type="line"/>
       <point x="137" y="79"/>
@@ -24,6 +20,12 @@
       <point x="343" y="368" type="curve"/>
       <point x="566" y="693" type="line"/>
       <point x="490" y="693" type="line"/>
+      <point x="303" y="414" type="line"/>
+      <point x="116" y="693" type="line"/>
+      <point x="38" y="693" type="line"/>
+      <point x="261" y="366" type="line"/>
+      <point x="176" y="246"/>
+      <point x="88" y="121"/>
     </contour>
   </outline>
 </glyph>

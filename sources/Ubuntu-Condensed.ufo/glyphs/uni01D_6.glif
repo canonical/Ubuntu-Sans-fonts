@@ -2,16 +2,35 @@
 <glyph name="uni01D6" format="2">
   <advance width="480"/>
   <unicode hex="01D6"/>
+  <anchor x="240" y="0" name="bottom"/>
+  <anchor x="432" y="10" name="ogonek"/>
+  <anchor x="240" y="520" name="top"/>
+  <anchor x="460" y="520" name="topright"/>
   <outline>
-    <contour>
-      <point x="345" y="750" type="line"/>
-      <point x="301" y="774" type="line"/>
-      <point x="227" y="645" type="line"/>
-      <point x="262" y="645" type="line"/>
-      <point x="190" y="774" type="line"/>
-      <point x="141" y="750" type="line"/>
-      <point x="218" y="587" type="line"/>
-      <point x="271" y="587" type="line"/>
-    </contour>
+    <component base="u"/>
+    <component base="dieresis_macron" xOffset="84"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>u</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dieresis_macron</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

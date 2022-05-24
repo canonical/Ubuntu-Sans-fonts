@@ -2,8 +2,16 @@
 <glyph name="G" format="2">
   <advance width="658"/>
   <unicode hex="0047"/>
+  <anchor x="329" y="0" name="bottom"/>
+  <anchor x="329" y="693" name="top"/>
   <outline>
     <contour>
+      <point x="379" y="-14" type="curve" smooth="yes"/>
+      <point x="487" y="-14"/>
+      <point x="565" y="8"/>
+      <point x="590" y="19" type="curve"/>
+      <point x="590" y="328" type="line"/>
+      <point x="522" y="328" type="line"/>
       <point x="522" y="62" type="line"/>
       <point x="506" y="56"/>
       <point x="458" y="46"/>
@@ -26,12 +34,6 @@
       <point x="62" y="347" type="curve" smooth="yes"/>
       <point x="62" y="115"/>
       <point x="197" y="-14"/>
-      <point x="379" y="-14" type="curve" smooth="yes"/>
-      <point x="487" y="-14"/>
-      <point x="565" y="8"/>
-      <point x="590" y="19" type="curve"/>
-      <point x="590" y="328" type="line"/>
-      <point x="522" y="328" type="line"/>
     </contour>
   </outline>
 </glyph>

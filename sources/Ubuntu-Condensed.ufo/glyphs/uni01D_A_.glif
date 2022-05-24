@@ -2,16 +2,35 @@
 <glyph name="uni01DA" format="2">
   <advance width="480"/>
   <unicode hex="01DA"/>
+  <anchor x="240" y="0" name="bottom"/>
+  <anchor x="432" y="10" name="ogonek"/>
+  <anchor x="240" y="520" name="top"/>
+  <anchor x="460" y="520" name="topright"/>
   <outline>
-    <contour>
-      <point x="351" y="750" type="line"/>
-      <point x="307" y="774" type="line"/>
-      <point x="233" y="645" type="line"/>
-      <point x="268" y="645" type="line"/>
-      <point x="196" y="774" type="line"/>
-      <point x="147" y="750" type="line"/>
-      <point x="224" y="587" type="line"/>
-      <point x="277" y="587" type="line"/>
-    </contour>
+    <component base="u"/>
+    <component base="dieresis_breve" xOffset="84"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>u</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dieresis_breve</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

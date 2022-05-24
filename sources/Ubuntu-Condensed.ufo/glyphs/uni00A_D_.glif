@@ -3,11 +3,21 @@
   <advance width="233"/>
   <unicode hex="00AD"/>
   <outline>
-    <contour>
-      <point x="24" y="259" type="line"/>
-      <point x="209" y="259" type="line"/>
-      <point x="209" y="340" type="line"/>
-      <point x="24" y="340" type="line"/>
-    </contour>
+    <component base="hyphen"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>hyphen</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

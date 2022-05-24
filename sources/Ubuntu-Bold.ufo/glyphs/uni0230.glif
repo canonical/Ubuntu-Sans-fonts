@@ -1,9 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0230" format="2">
-	<unicode hex="0230"/>
-	<advance width="790"/>
-	<outline>
-		<component base="O"/>
-		<component base="dot_macron" xOffset="208" yOffset="142"/>
-	</outline>
+  <advance width="790"/>
+  <unicode hex="0230"/>
+  <anchor x="395" y="0" name="bottom"/>
+  <anchor x="395" y="347" name="center"/>
+  <anchor x="711" y="10" name="ogonek"/>
+  <anchor x="395" y="693" name="top"/>
+  <anchor x="20" y="693" name="topleft"/>
+  <anchor x="770" y="693" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="dot_macron" xOffset="208" yOffset="142"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>O</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dot_macron</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>
