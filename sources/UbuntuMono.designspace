@@ -33,30 +33,6 @@
       <location>
         <dimension name="Weight" xvalue="564"/>
       </location>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>Axis Location</string>
-              <array>
-                <dict>
-                  <key>Axis</key>
-                  <string>Weight</string>
-                  <key>Location</key>
-                  <integer>500</integer>
-                </dict>
-                <dict>
-                  <key>Axis</key>
-                  <string>Width</string>
-                  <key>Location</key>
-                  <integer>100</integer>
-                </dict>
-              </array>
-            </array>
-          </array>
-        </dict>
-      </lib>
     </instance>
     <instance name="Ubuntu Mono Bold" familyname="Ubuntu Mono" stylename="Bold" filename="../instance_ufo/UbuntuMono-Bold.ufo" stylemapfamilyname="Ubuntu Mono" stylemapstylename="bold">
       <location>
