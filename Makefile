@@ -18,7 +18,7 @@ build: build.stamp
 
 venv: venv/touchfile
 
-build.stamp: venv .init.stamp sources/config.yaml $(SOURCES)
+build.stamp: venv .init.stamp sources/config-Ubuntu.yaml $(SOURCES)
 	. venv/bin/activate; rm -rf fonts/; gftools builder sources/config-Ubuntu.yaml; gftools builder sources/config-UbuntuMono.yaml && touch build.stamp
 
 dev: venv .init.stamp sources/config-Ubuntu-dev.yaml $(SOURCES)
