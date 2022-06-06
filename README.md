@@ -31,6 +31,7 @@ Fonts are built automatically by GitHub Actions - take a look in the "Actions" t
 If you want to build fonts manually on your own computer:
 
 * `make build` will produce font files.
+* `make dev` will produce only variable font files.
 * `make test` will run [FontBakery](https://github.com/googlefonts/fontbakery)'s quality assurance tests.
 * `make proof` will generate HTML proof files.
 
@@ -48,9 +49,9 @@ Changelog example:
 
 ## License
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This Font Software is licensed under the UBUNTU FONT LICENCE Version 1.0
 This license is available with a FAQ at
-https://scripts.sil.org/OFL
+https://ubuntu.com/legal/font-licence
 
 ## Repository Layout
 

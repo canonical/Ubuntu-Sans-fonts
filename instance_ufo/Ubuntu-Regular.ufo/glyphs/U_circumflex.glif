@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ucircumflex" format="2">
+  <advance width="686.75"/>
+  <unicode hex="00DB"/>
+  <anchor x="343.5" y="0.0" name="bottom"/>
+  <anchor x="618.0" y="10.0" name="ogonek"/>
+  <anchor x="343.5" y="693.0" name="top"/>
+  <anchor x="666.75" y="693.0" name="topright"/>
+  <outline>
+    <component base="U"/>
+    <component base="circumflex" xOffset="152.5" yOffset="158.5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>U</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>circumflex</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni01F2" format="2">
+  <advance width="934"/>
+  <unicode hex="01F2"/>
+  <anchor x="467" y="693" name="top"/>
+  <anchor x="288" y="0" name="bottom_1"/>
+  <anchor x="753" y="0" name="bottom_2"/>
+  <anchor x="288" y="347" name="center_1"/>
+  <anchor x="753" y="260" name="center_2"/>
+  <outline>
+    <component base="D"/>
+    <component base="z" xOffset="575"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>D</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>z</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

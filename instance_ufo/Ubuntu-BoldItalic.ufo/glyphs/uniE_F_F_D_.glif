@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniEFFD" format="2">
+  <advance width="1704"/>
+  <unicode hex="EFFD"/>
+  <outline>
+    <component base="zerosuperior" xOffset="-49" yOffset="-300"/>
+    <component base="period" xOffset="363"/>
+    <component base="eightsuperior" xOffset="565" yOffset="-300"/>
+    <component base="zerosuperior" xOffset="928" yOffset="-300"/>
+    <component base="zerosuperior" xOffset="1291" yOffset="-300"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>zerosuperior</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>period</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>eightsuperior</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>3</integer>
+          <key>name</key>
+          <string>zerosuperior</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>4</integer>
+          <key>name</key>
+          <string>zerosuperior</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

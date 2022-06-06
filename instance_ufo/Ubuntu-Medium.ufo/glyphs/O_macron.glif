@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omacron" format="2">
+  <advance width="784.56"/>
+  <unicode hex="014C"/>
+  <anchor x="392.28" y="0.0" name="bottom"/>
+  <anchor x="392.28" y="347.0" name="center"/>
+  <anchor x="706.24" y="10.0" name="ogonek"/>
+  <anchor x="392.28" y="693.0" name="top"/>
+  <anchor x="20.0" y="693.0" name="topleft"/>
+  <anchor x="764.56" y="693.0" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="macron" xOffset="204.28" yOffset="154.02"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>O</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>macron</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

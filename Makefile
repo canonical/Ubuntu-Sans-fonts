@@ -16,16 +16,13 @@ help:
 
 build: build.stamp
 
+dev: venv .init.stamp sources/config-dev.yaml $(SOURCES)
+	. venv/bin/activate; rm -rf fonts/; gftools builder sources/config-dev.yaml
+
 venv: venv/touchfile
 
-build.stamp: venv .init.stamp sources/config-Ubuntu.yaml $(SOURCES)
-	. venv/bin/activate; rm -rf fonts/; gftools builder sources/config-Ubuntu.yaml; gftools builder sources/config-UbuntuMono.yaml && touch build.stamp
-
-dev: venv .init.stamp sources/config-Ubuntu-dev.yaml $(SOURCES)
-	. venv/bin/activate; gftools builder sources/config-Ubuntu-dev.yaml
-
-dev-mono: venv .init.stamp sources/config-UbuntuMono-dev.yaml $(SOURCES)
-	. venv/bin/activate; gftools builder sources/config-UbuntuMono-dev.yaml
+build.stamp: venv .init.stamp sources/config.yaml $(SOURCES)
+	. venv/bin/activate; rm -rf fonts/; gftools builder sources/config.yaml && touch build.stamp
 
 .init.stamp: venv
 	. venv/bin/activate; python3 scripts/first-run.py
@@ -36,7 +33,7 @@ venv/touchfile: requirements.txt
 	touch venv/touchfile
 
 test: venv build.stamp
-	. venv/bin/activate; mkdir -p out/ out/fontbakery; fontbakery check-googlefonts -l WARN --succinct --badges out/badges --html out/fontbakery/fontbakery-report.html --ghmarkdown out/fontbakery/fontbakery-report.md $(shell find fonts/Ubuntu/ttf -type f)
+	. venv/bin/activate; mkdir -p out/ out/fontbakery; fontbakery check-googlefonts -l WARN --succinct --badges out/badges --html out/fontbakery/fontbakery-report.html --ghmarkdown out/fontbakery/fontbakery-report.md $(shell find fonts/ttf -type f)
 
 proof: venv build.stamp
 	. venv/bin/activate; mkdir -p out/ out/proof; gftools gen-html proof $(shell find fonts/ttf -type f) -o out/proof

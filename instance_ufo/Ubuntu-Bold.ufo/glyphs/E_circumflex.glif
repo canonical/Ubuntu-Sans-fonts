@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecircumflex" format="2">
+  <advance width="606"/>
+  <unicode hex="00CA"/>
+  <anchor x="303" y="0" name="bottom"/>
+  <anchor x="545" y="10" name="ogonek"/>
+  <anchor x="303" y="693" name="top"/>
+  <anchor x="20" y="693" name="topleft"/>
+  <outline>
+    <component base="E"/>
+    <component base="circumflex" xOffset="117" yOffset="166"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>E</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>circumflex</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

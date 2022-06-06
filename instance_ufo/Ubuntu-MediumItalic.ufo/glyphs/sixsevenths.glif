@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sixsevenths" format="2">
+  <advance width="878.0"/>
+  <unicode hex="F50B"/>
+  <outline>
+    <component base="fraction" xOffset="397.8"/>
+    <component base="sixsuperior" xOffset="0.16000000000000014"/>
+    <component base="sevensuperior" xOffset="454.24" yOffset="-305.44"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>fraction</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>sixsuperior</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>sevensuperior</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

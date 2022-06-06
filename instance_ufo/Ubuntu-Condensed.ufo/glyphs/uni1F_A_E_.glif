@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FAE" format="2">
+  <advance width="1000"/>
+  <unicode hex="1FAE"/>
+  <anchor x="452" y="0" name="bottom"/>
+  <anchor x="94" y="773" name="top"/>
+  <anchor x="166" y="693" name="topleft"/>
+  <outline>
+    <component base="Omega" xOffset="146"/>
+    <component base="iota" xOffset="757"/>
+    <component base="uni1FCF" xOffset="-63" yOffset="-108"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Omega</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>iota</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>uni1FCF</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lcommaaccent" format="2">
+  <advance width="417"/>
+  <unicode hex="013B"/>
+  <anchor x="214" y="-188" name="bottom"/>
+  <anchor x="209" y="347" name="center"/>
+  <anchor x="209" y="693" name="top"/>
+  <anchor x="397" y="693" name="topright"/>
+  <outline>
+    <component base="L"/>
+    <component base="commaaccent" xOffset="52"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>L</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>commaaccent</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
