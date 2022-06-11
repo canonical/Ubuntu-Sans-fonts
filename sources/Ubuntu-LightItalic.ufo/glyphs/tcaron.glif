@@ -2,6 +2,8 @@
 <glyph name="tcaron" format="2">
   <advance width="377"/>
   <unicode hex="0165"/>
+  <guideline y="582"/>
+  <guideline x="235" y="0" angle="103.5"/>
   <outline>
     <component base="t"/>
     <component base="caron.alt.short" xOffset="62"/>
