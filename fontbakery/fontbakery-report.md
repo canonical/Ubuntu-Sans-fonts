@@ -73,16 +73,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1F67
-	* uni1F45
-	* uni1F36
-	* uni1F0D
-	* uni1FAE.alt
-	* uni1F27
-	* uni1FAC
-	* uni1F0C
-	* uni1F54
-	* uni048B and 109 more.
+	* uni1FAC.alt
+	* uni022D
+	* uni1F37
+	* uni1F1A
+	* uni1F9D
+	* uni1F6E
+	* uni1F92
+	* uni1F64
+	* uni1F1C
+	* uni1F5D and 109 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -93,16 +93,16 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- uni1F9E.alt
-	- Guilsinglright
+	- Questiondown
+	- napostrophe.case
+	- Guillemotleft
+	- uni1F98.alt
 	- Parenright
-	- uni1F9C.alt
-	- i.locl
-	- kgreenlandic.case
-	- Bracketleft
-	- uni1FA8.alt
-	- Braceleft
-	- Bracketright 
+	- uni0433.locl.ita
+	- uni1F9D.alt
+	- uni043F.locl.ita
+	- Backslash
+	- uni1FAD.alt 
 	- And 47 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -198,16 +198,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- uni1F9E.alt
-	- Guilsinglright
+	- Questiondown
+	- Guillemotleft
+	- uni1F98.alt
 	- Parenright
-	- uni1F9C.alt
-	- i.locl
-	- Bracketleft
-	- uni1FA8.alt
-	- Braceleft
-	- Bracketright
-	- Parenleft 
+	- uni1F9D.alt
+	- Backslash
+	- uni1FAD.alt
+	- uni1F89.alt
+	- uni1FAE.alt
+	- uni1F8E.alt 
 	- And 40 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -276,8 +276,8 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* at
-	* At and uniEFFD
+	* At
+	* uniEFFD and at
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -286,16 +286,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- uni1F9E.alt
-	- Guilsinglright
+	- Questiondown
+	- napostrophe.case
+	- Guillemotleft
+	- uni1F98.alt
 	- Parenright
-	- uni1F9C.alt
-	- i.locl
-	- kgreenlandic.case
-	- Bracketleft
-	- uni1FA8.alt
-	- Braceleft
-	- Bracketright 
+	- uni0433.locl.ita
+	- uni1F9D.alt
+	- uni043F.locl.ita
+	- Backslash
+	- uni1FAD.alt 
 	- And 47 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -396,16 +396,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- uni1F9E.alt
-	- Guilsinglright
+	- Questiondown
+	- Guillemotleft
+	- uni1F98.alt
 	- Parenright
-	- uni1F9C.alt
-	- i.locl
-	- Bracketleft
-	- uni1FA8.alt
-	- Braceleft
-	- Bracketright
-	- Parenleft 
+	- uni1F9D.alt
+	- Backslash
+	- uni1FAD.alt
+	- uni1F89.alt
+	- uni1FAE.alt
+	- uni1F8E.alt 
 	- And 40 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -478,16 +478,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- uni1F9E.alt
-	- Guilsinglright
+	- Questiondown
+	- napostrophe.case
+	- Guillemotleft
+	- uni1F98.alt
 	- Parenright
-	- uni1F9C.alt
-	- i.locl
-	- kgreenlandic.case
-	- Bracketleft
-	- uni1FA8.alt
-	- Braceleft
-	- Bracketright 
+	- uni0433.locl.ita
+	- uni1F9D.alt
+	- uni043F.locl.ita
+	- Backslash
+	- uni1FAD.alt 
 	- And 47 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -573,16 +573,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- uni1F9E.alt
-	- Guilsinglright
+	- Questiondown
+	- Guillemotleft
+	- uni1F98.alt
 	- Parenright
-	- uni1F9C.alt
-	- i.locl
-	- Bracketleft
-	- uni1FA8.alt
-	- Braceleft
-	- Bracketright
-	- Parenleft 
+	- uni1F9D.alt
+	- Backslash
+	- uni1FAD.alt
+	- uni1F89.alt
+	- uni1FAE.alt
+	- uni1F8E.alt 
 	- And 40 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -662,16 +662,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni021B
-	* uni0498
-	* tbar
-	* uni04C5
-	* uni0207
-	* uni1F40
-	* upsilon
-	* uni04E5
-	* uni01B6
-	* AE and 806 more.
+	* uni019B
+	* Scaron
+	* a
+	* uni0221
+	* X
+	* trademark
+	* uni049F
+	* uni1FA3
+	* adieresis
+	* uni1FAC.alt and 806 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -694,16 +694,16 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- uni1F9E.alt
-	- Guilsinglright
+	- Questiondown
+	- Guillemotleft
+	- uni1F98.alt
 	- Parenright
-	- uni1F9C.alt
-	- i.locl
-	- Bracketleft
-	- uni1FA8.alt
-	- Braceleft
-	- Bracketright
-	- Parenleft 
+	- uni1F9D.alt
+	- Backslash
+	- uni1FAD.alt
+	- uni1F89.alt
+	- uni1FAE.alt
+	- uni1F8E.alt 
 	- And 40 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -791,16 +791,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- uni1F9E.alt
-	- Guilsinglright
+	- Questiondown
+	- Guillemotleft
+	- uni1F98.alt
 	- Parenright
-	- uni1F9C.alt
-	- i.locl
-	- Bracketleft
-	- uni1FA8.alt
-	- Braceleft
-	- Bracketright
-	- Parenleft 
+	- uni1F9D.alt
+	- Backslash
+	- uni1FAD.alt
+	- uni1F89.alt
+	- uni1FAE.alt
+	- uni1F8E.alt 
 	- And 40 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -864,8 +864,8 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* at
-	* At and uniEFFD
+	* At
+	* uniEFFD and at
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
 
@@ -886,16 +886,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- uni1F9E.alt
-	- Guilsinglright
+	- Questiondown
+	- Guillemotleft
+	- uni1F98.alt
 	- Parenright
-	- uni1F9C.alt
-	- i.locl
-	- Bracketleft
-	- uni1FA8.alt
-	- Braceleft
-	- Bracketright
-	- Parenleft 
+	- uni1F9D.alt
+	- Backslash
+	- uni1FAD.alt
+	- uni1F89.alt
+	- uni1FAE.alt
+	- uni1F8E.alt 
 	- And 40 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -975,16 +975,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni0498
-	* tbar
-	* uni04C5
-	* uni1F40
-	* upsilon
-	* uni04E5
-	* ograve
-	* AE
-	* uni0220
-	* uni1F67 and 756 more.
+	* Scaron
+	* uni0221
+	* X
+	* trademark
+	* uni049F
+	* uni1FA3
+	* adieresis
+	* uni1FAC.alt
+	* uni022D
+	* Racute and 756 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -995,16 +995,16 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- uni1F9E.alt
-	- Guilsinglright
+	- Questiondown
+	- napostrophe.case
+	- Guillemotleft
+	- uni1F98.alt
 	- Parenright
-	- uni1F9C.alt
-	- i.locl
-	- kgreenlandic.case
-	- Bracketleft
-	- uni1FA8.alt
-	- Braceleft
-	- Bracketright 
+	- uni0433.locl.ita
+	- uni1F9D.alt
+	- uni043F.locl.ita
+	- Backslash
+	- uni1FAD.alt 
 	- And 47 more.
 
 Use -F or --full-lists to disable shortening of long lists.
