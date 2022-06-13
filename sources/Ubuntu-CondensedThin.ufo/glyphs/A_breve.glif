@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abreve" format="2">
+  <advance width="462.8"/>
+  <unicode hex="0102"/>
+  <anchor x="232" y="0" name="bottom"/>
+  <anchor x="416" y="10" name="ogonek"/>
+  <anchor x="232" y="693" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="breve" xOffset="79" yOffset="150"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>A</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>breve</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

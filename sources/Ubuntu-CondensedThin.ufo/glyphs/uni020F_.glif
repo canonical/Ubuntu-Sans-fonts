@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni020F" format="2">
+  <advance width="449.6"/>
+  <unicode hex="020F"/>
+  <anchor x="225" y="0" name="bottom"/>
+  <anchor x="225" y="257" name="center"/>
+  <anchor x="405" y="10" name="ogonek"/>
+  <anchor x="225" y="513" name="top"/>
+  <anchor x="430" y="513" name="topright"/>
+  <outline>
+    <component base="o"/>
+    <component base="breve_inverted" xOffset="384"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>o</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>breve_inverted</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
