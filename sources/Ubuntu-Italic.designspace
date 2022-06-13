@@ -3,7 +3,7 @@
   <axes>
     <axis tag="wght" name="Weight" minimum="300" maximum="700" default="300">
       <map input="300" output="300"/>
-      <map input="400" output="400"/>
+      <map input="400" output="434"/>
       <map input="500" output="564"/>
       <map input="700" output="700"/>
     </axis>
@@ -32,7 +32,7 @@
     </instance>
     <instance name="Ubuntu Italic" familyname="Ubuntu" stylename="Italic" filename="../instance_ufo/Ubuntu-Italic.ufo" stylemapfamilyname="Ubuntu" stylemapstylename="italic">
       <location>
-        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Weight" xvalue="434"/>
       </location>
     </instance>
     <instance name="Ubuntu Medium Italic" familyname="Ubuntu" stylename="Medium Italic" filename="../instance_ufo/Ubuntu-MediumItalic.ufo" stylemapfamilyname="Ubuntu Medium" stylemapstylename="italic">

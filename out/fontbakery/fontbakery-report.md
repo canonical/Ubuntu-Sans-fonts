@@ -7,58 +7,63 @@ Fontbakery version: 0.8.8
 
 * 🔥 **FAIL** Thickness of the underline is not the same across this family. In order to fix this, please make sure that the underlineThickness value is the same in the 'post' table of all of this family font files.
 Detected underlineThickness values are:
-	fonts/Ubuntu/ttf/Ubuntu-Condensed.ttf: 79
-	fonts/Ubuntu/ttf/Ubuntu-Medium.ttf: 98
-	fonts/Ubuntu/ttf/Ubuntu-Thin.ttf: 56
-	fonts/Ubuntu/ttf/Ubuntu-LightItalic.ttf: 20
-	fonts/Ubuntu/ttf/Ubuntu-Regular.ttf: 72
-	fonts/Ubuntu/ttf/Ubuntu-Bold.ttf: 120
-	fonts/Ubuntu/ttf/Ubuntu-MediumItalic.ttf: 86
-	fonts/Ubuntu/ttf/Ubuntu-BoldItalic.ttf: 120
-	fonts/Ubuntu/ttf/Ubuntu-Italic.ttf: 45
-	fonts/Ubuntu/ttf/Ubuntu-Light.ttf: 56
+	fonts/ttf/UbuntuCondensed-Regular.ttf: 79
+	fonts/ttf/Ubuntu-Medium.ttf: 98
+	fonts/ttf/Ubuntu-Thin.ttf: 56
+	fonts/ttf/Ubuntu-LightItalic.ttf: 20
+	fonts/ttf/Ubuntu-Regular.ttf: 72
+	fonts/ttf/Ubuntu-Bold.ttf: 120
+	fonts/ttf/Ubuntu-MediumItalic.ttf: 86
+	fonts/ttf/Ubuntu-BoldItalic.ttf: 120
+	fonts/ttf/Ubuntu-Italic.ttf: 54
+	fonts/ttf/Ubuntu-Light.ttf: 56
  [code: inconsistent-underline-thickness]
 </div></details><details><summary>⚠ <b>WARN:</b> Make sure all font files have the same version value. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/head.html#com.google.fonts/check/family/equal_font_versions">com.google.fonts/check/family/equal_font_versions</a>)</summary><div>
 
 
 * ⚠ **WARN** Version info differs among font files of the same font project.
 These were the version values found:
-* fonts/Ubuntu/ttf/Ubuntu-Condensed.ttf: 0.0839996337890625
-* fonts/Ubuntu/ttf/Ubuntu-Medium.ttf: 0.0839996337890625
-* fonts/Ubuntu/ttf/Ubuntu-Thin.ttf: 0.0839996337890625
-* fonts/Ubuntu/ttf/Ubuntu-LightItalic.ttf: 0.8300018310546875
-* fonts/Ubuntu/ttf/Ubuntu-Regular.ttf: 0.0839996337890625
-* fonts/Ubuntu/ttf/Ubuntu-Bold.ttf: 0.0839996337890625
-* fonts/Ubuntu/ttf/Ubuntu-MediumItalic.ttf: 0.8300018310546875
-* fonts/Ubuntu/ttf/Ubuntu-BoldItalic.ttf: 0.8300018310546875
-* fonts/Ubuntu/ttf/Ubuntu-Italic.ttf: 0.8300018310546875
-* fonts/Ubuntu/ttf/Ubuntu-Light.ttf: 0.0839996337890625
+* fonts/ttf/UbuntuCondensed-Regular.ttf: 0.839996337890625
+* fonts/ttf/Ubuntu-Medium.ttf: 0.839996337890625
+* fonts/ttf/Ubuntu-Thin.ttf: 0.839996337890625
+* fonts/ttf/Ubuntu-LightItalic.ttf: 0.8300018310546875
+* fonts/ttf/Ubuntu-Regular.ttf: 0.839996337890625
+* fonts/ttf/Ubuntu-Bold.ttf: 0.839996337890625
+* fonts/ttf/Ubuntu-MediumItalic.ttf: 0.8300018310546875
+* fonts/ttf/Ubuntu-BoldItalic.ttf: 0.8300018310546875
+* fonts/ttf/Ubuntu-Italic.ttf: 0.8300018310546875
+* fonts/ttf/Ubuntu-Light.ttf: 0.839996337890625
  [code: mismatch]
-</div></details><br></div></details><details><summary><b>[15] Ubuntu-Condensed.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking file is named canonically. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/canonical_filename">com.google.fonts/check/canonical_filename</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[21] UbuntuCondensed-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWeightClass. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/usweightclass">com.google.fonts/check/usweightclass</a>)</summary><div>
 
 
-* 🔥 **FAIL** Style name used in "fonts/Ubuntu/ttf/Ubuntu-Condensed.ttf" is not canonical. You should rebuild the font using any of the following style names: "Thin", "ExtraLight", "Light", "Regular", "Medium", "SemiBold", "Bold", "ExtraBold", "Black", "Thin Italic", "ExtraLight Italic", "Light Italic", "Italic", "Medium Italic", "SemiBold Italic", "Bold Italic", "ExtraBold Italic", "Black Italic". [code: bad-static-filename]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 fsType does not impose restrictions. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fstype">com.google.fonts/check/fstype</a>)</summary><div>
-
-
-* 🔥 **FAIL** In this font fsType is set to 8 meaning that:
-The font may be embedded but must only be installed temporarily on other systems.
-
-No such DRM restrictions can be enabled on the Google Fonts collection, so the fsType field must be set to zero (Installable Embedding) instead. [code: drm]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWeightClass. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/usweightclass">com.google.fonts/check/usweightclass</a>)</summary><div>
-
-
-* 🔥 **FAIL** OS/2 usWeightClass is '300' when it should be '400'. [code: bad-value]
+* 🔥 **FAIL** OS/2 usWeightClass is '420' when it should be '400'. [code: bad-value]
 </div></details><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
 
 
-* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.084; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
+* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.840; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
 </div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
 But instead we have got:
-"Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
+"Copyright 2011 Canonical Ltd. Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
+</div></details><details><summary>🔥 <b>FAIL:</b> Check name table: FULL_FONT_NAME entries. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/fullfontname">com.google.fonts/check/name/fullfontname</a>)</summary><div>
+
+
+* 🔥 **FAIL** [FULL_FONT_NAME(4):WINDOWS(3)]
+Expected: "Ubuntu Condensed Regular"
+But got:  "Ubuntu Regular" [code: bad-entry]
+</div></details><details><summary>🔥 <b>FAIL:</b> Check name table: POSTSCRIPT_NAME entries. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/postscriptname">com.google.fonts/check/name/postscriptname</a>)</summary><div>
+
+
+* 🔥 **FAIL** [POSTSCRIPT_NAME(6):WINDOWS(3)]
+Expected: "UbuntuCondensed-Regular"
+But got:  "Ubuntu-Regular" [code: bad-entry]
+</div></details><details><summary>🔥 <b>FAIL:</b> Check name table: TYPOGRAPHIC_FAMILY_NAME entries. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/typographicfamilyname">com.google.fonts/check/name/typographicfamilyname</a>)</summary><div>
+
+
+* 🔥 **FAIL** Font style is "Regular" and, for that reason, it is not expected to have a [TYPOGRAPHIC_FAMILY_NAME(16):WINDOWS(3)] entry! [code: ribbi]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check if the vertical metrics of a family are similar to the same family hosted on Google Fonts. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics_regressions">com.google.fonts/check/vertical_metrics_regressions</a>)</summary><div>
 
 
@@ -67,7 +72,7 @@ But instead we have got:
 </div></details><details><summary>🔥 <b>FAIL:</b> OS/2.fsSelection bit 7 (USE_TYPO_METRICS) is set in all fonts. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/os2/use_typo_metrics">com.google.fonts/check/os2/use_typo_metrics</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/Ubuntu/ttf/Ubuntu-Condensed.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Medium.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Thin.ttf', 'fonts/Ubuntu/ttf/Ubuntu-LightItalic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Regular.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Bold.ttf', 'fonts/Ubuntu/ttf/Ubuntu-MediumItalic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-BoldItalic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Italic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Light.ttf']. [code: missing-os2-fsselection-bit7]
+* 🔥 **FAIL** OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/ttf/UbuntuCondensed-Regular.ttf', 'fonts/ttf/Ubuntu-Medium.ttf', 'fonts/ttf/Ubuntu-Thin.ttf', 'fonts/ttf/Ubuntu-LightItalic.ttf', 'fonts/ttf/Ubuntu-Regular.ttf', 'fonts/ttf/Ubuntu-Bold.ttf', 'fonts/ttf/Ubuntu-MediumItalic.ttf', 'fonts/ttf/Ubuntu-BoldItalic.ttf', 'fonts/ttf/Ubuntu-Italic.ttf', 'fonts/ttf/Ubuntu-Light.ttf']. [code: missing-os2-fsselection-bit7]
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
@@ -77,6 +82,15 @@ But instead we have got:
 
 
 * 🔥 **FAIL** OS/2 sTypoAscender (776) and hhea ascent (932) must be equal. [code: ascender]
+</div></details><details><summary>🔥 <b>FAIL:</b> Does full font name begin with the font family name? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/name.html#com.google.fonts/check/name/match_familyname_fullfont">com.google.fonts/check/name/match_familyname_fullfont</a>)</summary><div>
+
+
+* 🔥 **FAIL** On the 'name' table, the full font name (NameID 4 - FULL_FONT_NAME: 'Ubuntu Condensed') does not begin with font family name (NameID 1 - FONT_FAMILY_NAME: 'Ubuntu Regular') [code: does-not]
+</div></details><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
+
+
+* ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
+	* uniE0FF and uniEFFD
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
 
@@ -89,6 +103,10 @@ But instead we have got:
 	- i + l
 
    [code: lacks-kern-info]
+</div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
+
+
+* ⚠ **WARN** The stylistic set ss01 lacks a description string on the 'name' table. [code: missing-description]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -97,19 +115,8 @@ But instead we have got:
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- Braceleft
-	- uni1F9F.alt
-	- i.locl
-	- uni1F89.alt
-	- Parenleft
-	- uni1FAC.alt
-	- uni1F9A.alt
-	- uni1F8B.alt
-	- Exclamdown
-	- Questiondown 
-	- And 40 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- rouble 
+	- And uni20B8
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -130,24 +137,31 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 breve_inverted (U+0311) [code: spacing-mark-glyphs]
-</div></details><br></div></details><details><summary><b>[15] Ubuntu-Medium.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking OS/2 fsType does not impose restrictions. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fstype">com.google.fonts/check/fstype</a>)</summary><div>
+	 dieresistonos (U+0385), tonos (U+0384), tonos.cap (unencoded), uni1FBD (U+1FBD), uni1FBF (U+1FBF), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1), uni1FCD (U+1FCD), uni1FCE (U+1FCE), uni1FCF (U+1FCF) and 8 more.
+
+Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
+</div></details><details><summary>⚠ <b>WARN:</b> Check mark characters are in GDEF mark glyph class. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_mark_chars">com.google.fonts/check/gdef_mark_chars</a>)</summary><div>
 
 
-* 🔥 **FAIL** In this font fsType is set to 8 meaning that:
-The font may be embedded but must only be installed temporarily on other systems.
-
-No such DRM restrictions can be enabled on the Google Fonts collection, so the fsType field must be set to zero (Installable Embedding) instead. [code: drm]
-</div></details><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
+* ⚠ **WARN** The following mark characters could be in the GDEF mark glyph class:
+	 breve_inverted (U+0311) [code: mark-chars]
+</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
 
 
-* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.084; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
+* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
+	 U+0384, U+0385, U+1FBD, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 7 more.
+
+Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
+</div></details><br></div></details><details><summary><b>[17] Ubuntu-Medium.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
+
+
+* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.840; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
 </div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
 But instead we have got:
-"Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
+"Copyright 2011 Canonical Ltd. Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check if the vertical metrics of a family are similar to the same family hosted on Google Fonts. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics_regressions">com.google.fonts/check/vertical_metrics_regressions</a>)</summary><div>
 
 
@@ -156,7 +170,7 @@ But instead we have got:
 </div></details><details><summary>🔥 <b>FAIL:</b> OS/2.fsSelection bit 7 (USE_TYPO_METRICS) is set in all fonts. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/os2/use_typo_metrics">com.google.fonts/check/os2/use_typo_metrics</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/Ubuntu/ttf/Ubuntu-Condensed.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Medium.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Thin.ttf', 'fonts/Ubuntu/ttf/Ubuntu-LightItalic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Regular.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Bold.ttf', 'fonts/Ubuntu/ttf/Ubuntu-MediumItalic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-BoldItalic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Italic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Light.ttf']. [code: missing-os2-fsselection-bit7]
+* 🔥 **FAIL** OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/ttf/UbuntuCondensed-Regular.ttf', 'fonts/ttf/Ubuntu-Medium.ttf', 'fonts/ttf/Ubuntu-Thin.ttf', 'fonts/ttf/Ubuntu-LightItalic.ttf', 'fonts/ttf/Ubuntu-Regular.ttf', 'fonts/ttf/Ubuntu-Bold.ttf', 'fonts/ttf/Ubuntu-MediumItalic.ttf', 'fonts/ttf/Ubuntu-BoldItalic.ttf', 'fonts/ttf/Ubuntu-Italic.ttf', 'fonts/ttf/Ubuntu-Light.ttf']. [code: missing-os2-fsselection-bit7]
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
@@ -170,8 +184,8 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uniEFFD
-	* At and at
+	* At
+	* at and uniEFFD
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
 
@@ -184,6 +198,10 @@ But instead we have got:
 	- i + l
 
    [code: lacks-kern-info]
+</div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
+
+
+* ⚠ **WARN** The stylistic set ss01 lacks a description string on the 'name' table. [code: missing-description]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -192,19 +210,8 @@ But instead we have got:
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- Braceleft
-	- uni1F9F.alt
-	- i.locl
-	- uni1F89.alt
-	- Parenleft
-	- uni1FAC.alt
-	- uni1F9A.alt
-	- uni1F8B.alt
-	- Exclamdown
-	- Questiondown 
-	- And 40 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- rouble 
+	- And uni20B8
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -225,7 +232,21 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 breve_inverted (U+0311) [code: spacing-mark-glyphs]
+	 dieresistonos (U+0385), tonos (U+0384), tonos.cap (unencoded), uni1FBD (U+1FBD), uni1FBF (U+1FBF), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1), uni1FCD (U+1FCD), uni1FCE (U+1FCE), uni1FCF (U+1FCF) and 8 more.
+
+Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
+</div></details><details><summary>⚠ <b>WARN:</b> Check mark characters are in GDEF mark glyph class. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_mark_chars">com.google.fonts/check/gdef_mark_chars</a>)</summary><div>
+
+
+* ⚠ **WARN** The following mark characters could be in the GDEF mark glyph class:
+	 breve_inverted (U+0311) [code: mark-chars]
+</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
+
+
+* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
+	 U+0384, U+0385, U+1FBD, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 7 more.
+
+Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Are any segments inordinately short? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_short_segments">com.google.fonts/check/outline_short_segments</a>)</summary><div>
 
 
@@ -242,23 +263,16 @@ The following glyphs do not have the recommended number of contours:
 	* Eng (U+014A) contains a short segment B<<445.0,-82.5>-<455.0,-84.0>-<471.0,-84.0>> and 78 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-short-segments]
-</div></details><br></div></details><details><summary><b>[14] Ubuntu-Thin.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking OS/2 fsType does not impose restrictions. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fstype">com.google.fonts/check/fstype</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[16] Ubuntu-Thin.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
 
 
-* 🔥 **FAIL** In this font fsType is set to 8 meaning that:
-The font may be embedded but must only be installed temporarily on other systems.
-
-No such DRM restrictions can be enabled on the Google Fonts collection, so the fsType field must be set to zero (Installable Embedding) instead. [code: drm]
-</div></details><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
-
-
-* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.084; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
+* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.840; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
 </div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
 But instead we have got:
-"Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
+"Copyright 2011 Canonical Ltd. Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check if the vertical metrics of a family are similar to the same family hosted on Google Fonts. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics_regressions">com.google.fonts/check/vertical_metrics_regressions</a>)</summary><div>
 
 
@@ -267,7 +281,7 @@ But instead we have got:
 </div></details><details><summary>🔥 <b>FAIL:</b> OS/2.fsSelection bit 7 (USE_TYPO_METRICS) is set in all fonts. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/os2/use_typo_metrics">com.google.fonts/check/os2/use_typo_metrics</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/Ubuntu/ttf/Ubuntu-Condensed.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Medium.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Thin.ttf', 'fonts/Ubuntu/ttf/Ubuntu-LightItalic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Regular.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Bold.ttf', 'fonts/Ubuntu/ttf/Ubuntu-MediumItalic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-BoldItalic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Italic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Light.ttf']. [code: missing-os2-fsselection-bit7]
+* 🔥 **FAIL** OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/ttf/UbuntuCondensed-Regular.ttf', 'fonts/ttf/Ubuntu-Medium.ttf', 'fonts/ttf/Ubuntu-Thin.ttf', 'fonts/ttf/Ubuntu-LightItalic.ttf', 'fonts/ttf/Ubuntu-Regular.ttf', 'fonts/ttf/Ubuntu-Bold.ttf', 'fonts/ttf/Ubuntu-MediumItalic.ttf', 'fonts/ttf/Ubuntu-BoldItalic.ttf', 'fonts/ttf/Ubuntu-Italic.ttf', 'fonts/ttf/Ubuntu-Light.ttf']. [code: missing-os2-fsselection-bit7]
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
@@ -289,6 +303,10 @@ But instead we have got:
 	- i + l
 
    [code: lacks-kern-info]
+</div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
+
+
+* ⚠ **WARN** The stylistic set ss01 lacks a description string on the 'name' table. [code: missing-description]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -297,19 +315,8 @@ But instead we have got:
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- Braceleft
-	- uni1F9F.alt
-	- i.locl
-	- uni1F89.alt
-	- Parenleft
-	- uni1FAC.alt
-	- uni1F9A.alt
-	- uni1F8B.alt
-	- Exclamdown
-	- Questiondown 
-	- And 40 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- rouble 
+	- And uni20B8
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -330,20 +337,27 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 breve_inverted (U+0311) [code: spacing-mark-glyphs]
+	 dieresistonos (U+0385), tonos (U+0384), tonos.cap (unencoded), uni1FBD (U+1FBD), uni1FBF (U+1FBF), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1), uni1FCD (U+1FCD), uni1FCE (U+1FCE), uni1FCF (U+1FCF) and 8 more.
+
+Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
+</div></details><details><summary>⚠ <b>WARN:</b> Check mark characters are in GDEF mark glyph class. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_mark_chars">com.google.fonts/check/gdef_mark_chars</a>)</summary><div>
+
+
+* ⚠ **WARN** The following mark characters could be in the GDEF mark glyph class:
+	 breve_inverted (U+0311) [code: mark-chars]
+</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
+
+
+* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
+	 U+0384, U+0385, U+1FBD, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 7 more.
+
+Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
 
 
 * ⚠ **WARN** The following glyphs have jaggy segments:
 	* uni01EB (U+01EB): B<<243.0,-116.0>-<243.0,-62.0>-<313.0,-5.0>>/B<<313.0,-5.0>-<311.0,-6.0>-<306.0,-6.5>> = 12.590382945535127 and uni01ED (U+01ED): B<<243.0,-116.0>-<243.0,-62.0>-<313.0,-5.0>>/B<<313.0,-5.0>-<311.0,-6.0>-<306.0,-6.5>> = 12.590382945535127 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[14] Ubuntu-LightItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking OS/2 fsType does not impose restrictions. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fstype">com.google.fonts/check/fstype</a>)</summary><div>
-
-
-* 🔥 **FAIL** In this font fsType is set to 8 meaning that:
-The font may be embedded but must only be installed temporarily on other systems.
-
-No such DRM restrictions can be enabled on the Google Fonts collection, so the fsType field must be set to zero (Installable Embedding) instead. [code: drm]
-</div></details><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[15] Ubuntu-LightItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
 
 
 * 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.83; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
@@ -352,7 +366,7 @@ No such DRM restrictions can be enabled on the Google Fonts collection, so the f
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
 But instead we have got:
-"Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
+"Copyright 2011 Canonical Ltd. Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check if the vertical metrics of a family are similar to the same family hosted on Google Fonts. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics_regressions">com.google.fonts/check/vertical_metrics_regressions</a>)</summary><div>
 
 
@@ -361,7 +375,7 @@ But instead we have got:
 </div></details><details><summary>🔥 <b>FAIL:</b> OS/2.fsSelection bit 7 (USE_TYPO_METRICS) is set in all fonts. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/os2/use_typo_metrics">com.google.fonts/check/os2/use_typo_metrics</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/Ubuntu/ttf/Ubuntu-Condensed.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Medium.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Thin.ttf', 'fonts/Ubuntu/ttf/Ubuntu-LightItalic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Regular.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Bold.ttf', 'fonts/Ubuntu/ttf/Ubuntu-MediumItalic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-BoldItalic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Italic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Light.ttf']. [code: missing-os2-fsselection-bit7]
+* 🔥 **FAIL** OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/ttf/UbuntuCondensed-Regular.ttf', 'fonts/ttf/Ubuntu-Medium.ttf', 'fonts/ttf/Ubuntu-Thin.ttf', 'fonts/ttf/Ubuntu-LightItalic.ttf', 'fonts/ttf/Ubuntu-Regular.ttf', 'fonts/ttf/Ubuntu-Bold.ttf', 'fonts/ttf/Ubuntu-MediumItalic.ttf', 'fonts/ttf/Ubuntu-BoldItalic.ttf', 'fonts/ttf/Ubuntu-Italic.ttf', 'fonts/ttf/Ubuntu-Light.ttf']. [code: missing-os2-fsselection-bit7]
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
@@ -375,18 +389,38 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* questiondown
-	* uni1F3C
-	* uni1F45
-	* uni1F1D
-	* uni1F34
-	* uni1F5D
-	* uni1F6C
-	* uni1F6F
-	* uni1F8F
-	* uni1FCF and 109 more.
+	* uni1F67
+	* uni1F2D
+	* uni1F62
+	* uni1F9F.alt
+	* uni1F07
+	* uni1F57
+	* uni1FAA.alt
+	* uni1FA2
+	* uni1FAC
+	* uni1FAA and 109 more.
 
 Use -F or --full-lists to disable shortening of long lists.
+</div></details><details><summary>⚠ <b>WARN:</b> Are there caret positions declared for every ligature? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/ligature_carets">com.google.fonts/check/ligature_carets</a>)</summary><div>
+
+
+* ⚠ **WARN** GDEF table is missing, but it is mandatory to declare it on fonts that provide ligature glyphs because the caret (text cursor) positioning for each ligature must be provided in this table. [code: GDEF-missing]
+</div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
+
+
+* ⚠ **WARN** GPOS table lacks kerning info for the following non-ligated sequences:
+	- f + f
+	- f + i
+	- i + f
+	- f + l
+	- l + f
+	- i + l
+
+   [code: lacks-kern-info]
+</div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
+
+
+* ⚠ **WARN** The stylistic set ss01 lacks a description string on the 'name' table. [code: missing-description]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -395,19 +429,8 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- Braceleft
-	- uni1F9F.alt
-	- i.locl
-	- uni0434.locl.ita
-	- uni1F89.alt
-	- Parenleft
-	- uni1FAC.alt
-	- uni1F9A.alt
-	- uni1F8B.alt
-	- Exclamdown 
-	- And 47 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- rouble 
+	- And uni20B8
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -424,11 +447,6 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** hhea lineGap is not equal to 0. [code: hhea]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 breve_inverted (U+0311) [code: spacing-mark-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Are any segments inordinately short? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_short_segments">com.google.fonts/check/outline_short_segments</a>)</summary><div>
 
 
@@ -445,23 +463,16 @@ The following glyphs do not have the recommended number of contours:
 	* ccedilla (U+00E7) contains a short segment B<<280.5,-26.0>-<276.0,-33.0>-<273.0,-38.0>> and 90 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-short-segments]
-</div></details><br></div></details><details><summary><b>[14] Ubuntu-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking OS/2 fsType does not impose restrictions. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fstype">com.google.fonts/check/fstype</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[16] Ubuntu-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
 
 
-* 🔥 **FAIL** In this font fsType is set to 8 meaning that:
-The font may be embedded but must only be installed temporarily on other systems.
-
-No such DRM restrictions can be enabled on the Google Fonts collection, so the fsType field must be set to zero (Installable Embedding) instead. [code: drm]
-</div></details><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
-
-
-* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.084; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
+* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.840; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
 </div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
 But instead we have got:
-"Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
+"Copyright 2011 Canonical Ltd. Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check if the vertical metrics of a family are similar to the same family hosted on Google Fonts. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics_regressions">com.google.fonts/check/vertical_metrics_regressions</a>)</summary><div>
 
 
@@ -470,7 +481,7 @@ But instead we have got:
 </div></details><details><summary>🔥 <b>FAIL:</b> OS/2.fsSelection bit 7 (USE_TYPO_METRICS) is set in all fonts. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/os2/use_typo_metrics">com.google.fonts/check/os2/use_typo_metrics</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/Ubuntu/ttf/Ubuntu-Condensed.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Medium.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Thin.ttf', 'fonts/Ubuntu/ttf/Ubuntu-LightItalic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Regular.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Bold.ttf', 'fonts/Ubuntu/ttf/Ubuntu-MediumItalic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-BoldItalic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Italic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Light.ttf']. [code: missing-os2-fsselection-bit7]
+* 🔥 **FAIL** OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/ttf/UbuntuCondensed-Regular.ttf', 'fonts/ttf/Ubuntu-Medium.ttf', 'fonts/ttf/Ubuntu-Thin.ttf', 'fonts/ttf/Ubuntu-LightItalic.ttf', 'fonts/ttf/Ubuntu-Regular.ttf', 'fonts/ttf/Ubuntu-Bold.ttf', 'fonts/ttf/Ubuntu-MediumItalic.ttf', 'fonts/ttf/Ubuntu-BoldItalic.ttf', 'fonts/ttf/Ubuntu-Italic.ttf', 'fonts/ttf/Ubuntu-Light.ttf']. [code: missing-os2-fsselection-bit7]
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
@@ -484,16 +495,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* Chi
-	* Uogonek
-	* uni04B9
-	* Ncaron
-	* uni0227
-	* uni1FBB
-	* uni1FA9.alt
-	* Ccircumflex
-	* f_i
-	* uni01EC and 806 more.
+	* Backslash
+	* uni1F67
+	* uni1FC6
+	* aogonek
+	* uni1FBA
+	* uni1F00
+	* uni0240
+	* uni01D5
+	* lambda
+	* uni1F2D and 806 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -508,6 +519,10 @@ Use -F or --full-lists to disable shortening of long lists.
 	- i + l
 
    [code: lacks-kern-info]
+</div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
+
+
+* ⚠ **WARN** The stylistic set ss01 lacks a description string on the 'name' table. [code: missing-description]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -516,19 +531,8 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- Braceleft
-	- uni1F9F.alt
-	- i.locl
-	- uni1F89.alt
-	- Parenleft
-	- uni1FAC.alt
-	- uni1F9A.alt
-	- uni1F8B.alt
-	- Exclamdown
-	- Questiondown 
-	- And 40 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- rouble 
+	- And uni20B8
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -549,24 +553,31 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 breve_inverted (U+0311) [code: spacing-mark-glyphs]
-</div></details><br></div></details><details><summary><b>[15] Ubuntu-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking OS/2 fsType does not impose restrictions. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fstype">com.google.fonts/check/fstype</a>)</summary><div>
+	 dieresistonos (U+0385), tonos (U+0384), tonos.cap (unencoded), uni1FBD (U+1FBD), uni1FBF (U+1FBF), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1), uni1FCD (U+1FCD), uni1FCE (U+1FCE), uni1FCF (U+1FCF) and 8 more.
+
+Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
+</div></details><details><summary>⚠ <b>WARN:</b> Check mark characters are in GDEF mark glyph class. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_mark_chars">com.google.fonts/check/gdef_mark_chars</a>)</summary><div>
 
 
-* 🔥 **FAIL** In this font fsType is set to 8 meaning that:
-The font may be embedded but must only be installed temporarily on other systems.
-
-No such DRM restrictions can be enabled on the Google Fonts collection, so the fsType field must be set to zero (Installable Embedding) instead. [code: drm]
-</div></details><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
+* ⚠ **WARN** The following mark characters could be in the GDEF mark glyph class:
+	 breve_inverted (U+0311) [code: mark-chars]
+</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
 
 
-* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.084; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
+* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
+	 U+0384, U+0385, U+1FBD, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 7 more.
+
+Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
+</div></details><br></div></details><details><summary><b>[17] Ubuntu-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
+
+
+* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.840; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
 </div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
 But instead we have got:
-"Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
+"Copyright 2011 Canonical Ltd. Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check if the vertical metrics of a family are similar to the same family hosted on Google Fonts. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics_regressions">com.google.fonts/check/vertical_metrics_regressions</a>)</summary><div>
 
 
@@ -575,7 +586,7 @@ But instead we have got:
 </div></details><details><summary>🔥 <b>FAIL:</b> OS/2.fsSelection bit 7 (USE_TYPO_METRICS) is set in all fonts. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/os2/use_typo_metrics">com.google.fonts/check/os2/use_typo_metrics</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/Ubuntu/ttf/Ubuntu-Condensed.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Medium.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Thin.ttf', 'fonts/Ubuntu/ttf/Ubuntu-LightItalic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Regular.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Bold.ttf', 'fonts/Ubuntu/ttf/Ubuntu-MediumItalic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-BoldItalic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Italic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Light.ttf']. [code: missing-os2-fsselection-bit7]
+* 🔥 **FAIL** OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/ttf/UbuntuCondensed-Regular.ttf', 'fonts/ttf/Ubuntu-Medium.ttf', 'fonts/ttf/Ubuntu-Thin.ttf', 'fonts/ttf/Ubuntu-LightItalic.ttf', 'fonts/ttf/Ubuntu-Regular.ttf', 'fonts/ttf/Ubuntu-Bold.ttf', 'fonts/ttf/Ubuntu-MediumItalic.ttf', 'fonts/ttf/Ubuntu-BoldItalic.ttf', 'fonts/ttf/Ubuntu-Italic.ttf', 'fonts/ttf/Ubuntu-Light.ttf']. [code: missing-os2-fsselection-bit7]
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
@@ -603,6 +614,10 @@ But instead we have got:
 	- i + l
 
    [code: lacks-kern-info]
+</div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
+
+
+* ⚠ **WARN** The stylistic set ss01 lacks a description string on the 'name' table. [code: missing-description]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -611,19 +626,8 @@ But instead we have got:
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- Braceleft
-	- uni1F9F.alt
-	- i.locl
-	- uni1F89.alt
-	- Parenleft
-	- uni1FAC.alt
-	- uni1F9A.alt
-	- uni1F8B.alt
-	- Exclamdown
-	- Questiondown 
-	- And 40 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- rouble 
+	- And uni20B8
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -644,7 +648,21 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 breve_inverted (U+0311) [code: spacing-mark-glyphs]
+	 dieresistonos (U+0385), tonos (U+0384), tonos.cap (unencoded), uni1FBD (U+1FBD), uni1FBF (U+1FBF), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1), uni1FCD (U+1FCD), uni1FCE (U+1FCE), uni1FCF (U+1FCF) and 8 more.
+
+Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
+</div></details><details><summary>⚠ <b>WARN:</b> Check mark characters are in GDEF mark glyph class. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_mark_chars">com.google.fonts/check/gdef_mark_chars</a>)</summary><div>
+
+
+* ⚠ **WARN** The following mark characters could be in the GDEF mark glyph class:
+	 breve_inverted (U+0311) [code: mark-chars]
+</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
+
+
+* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
+	 U+0384, U+0385, U+1FBD, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 7 more.
+
+Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Are any segments inordinately short? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_short_segments">com.google.fonts/check/outline_short_segments</a>)</summary><div>
 
 
@@ -661,14 +679,7 @@ The following glyphs do not have the recommended number of contours:
 	* Scedilla (U+015E) contains a short segment B<<338.0,-10.0>-<334.0,-18.0>-<330.0,-25.5>> and 71 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-short-segments]
-</div></details><br></div></details><details><summary><b>[14] Ubuntu-MediumItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking OS/2 fsType does not impose restrictions. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fstype">com.google.fonts/check/fstype</a>)</summary><div>
-
-
-* 🔥 **FAIL** In this font fsType is set to 8 meaning that:
-The font may be embedded but must only be installed temporarily on other systems.
-
-No such DRM restrictions can be enabled on the Google Fonts collection, so the fsType field must be set to zero (Installable Embedding) instead. [code: drm]
-</div></details><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[15] Ubuntu-MediumItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
 
 
 * 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.83; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
@@ -677,7 +688,7 @@ No such DRM restrictions can be enabled on the Google Fonts collection, so the f
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
 But instead we have got:
-"Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
+"Copyright 2011 Canonical Ltd. Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check if the vertical metrics of a family are similar to the same family hosted on Google Fonts. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics_regressions">com.google.fonts/check/vertical_metrics_regressions</a>)</summary><div>
 
 
@@ -686,7 +697,7 @@ But instead we have got:
 </div></details><details><summary>🔥 <b>FAIL:</b> OS/2.fsSelection bit 7 (USE_TYPO_METRICS) is set in all fonts. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/os2/use_typo_metrics">com.google.fonts/check/os2/use_typo_metrics</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/Ubuntu/ttf/Ubuntu-Condensed.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Medium.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Thin.ttf', 'fonts/Ubuntu/ttf/Ubuntu-LightItalic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Regular.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Bold.ttf', 'fonts/Ubuntu/ttf/Ubuntu-MediumItalic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-BoldItalic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Italic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Light.ttf']. [code: missing-os2-fsselection-bit7]
+* 🔥 **FAIL** OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/ttf/UbuntuCondensed-Regular.ttf', 'fonts/ttf/Ubuntu-Medium.ttf', 'fonts/ttf/Ubuntu-Thin.ttf', 'fonts/ttf/Ubuntu-LightItalic.ttf', 'fonts/ttf/Ubuntu-Regular.ttf', 'fonts/ttf/Ubuntu-Bold.ttf', 'fonts/ttf/Ubuntu-MediumItalic.ttf', 'fonts/ttf/Ubuntu-BoldItalic.ttf', 'fonts/ttf/Ubuntu-Italic.ttf', 'fonts/ttf/Ubuntu-Light.ttf']. [code: missing-os2-fsselection-bit7]
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
@@ -700,8 +711,28 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uniEFFD
-	* At and at
+	* At
+	* at and uniEFFD
+</div></details><details><summary>⚠ <b>WARN:</b> Are there caret positions declared for every ligature? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/ligature_carets">com.google.fonts/check/ligature_carets</a>)</summary><div>
+
+
+* ⚠ **WARN** GDEF table is missing, but it is mandatory to declare it on fonts that provide ligature glyphs because the caret (text cursor) positioning for each ligature must be provided in this table. [code: GDEF-missing]
+</div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
+
+
+* ⚠ **WARN** GPOS table lacks kerning info for the following non-ligated sequences:
+	- f + f
+	- f + i
+	- i + f
+	- f + l
+	- l + f
+	- i + l
+
+   [code: lacks-kern-info]
+</div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
+
+
+* ⚠ **WARN** The stylistic set ss01 lacks a description string on the 'name' table. [code: missing-description]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -710,19 +741,8 @@ But instead we have got:
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- Braceleft
-	- uni1F9F.alt
-	- i.locl
-	- uni0434.locl.ita
-	- uni1F89.alt
-	- Parenleft
-	- uni1FAC.alt
-	- uni1F9A.alt
-	- uni1F8B.alt
-	- Exclamdown 
-	- And 47 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- rouble 
+	- And uni20B8
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -739,11 +759,6 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** hhea lineGap is not equal to 0. [code: hhea]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 breve_inverted (U+0311) [code: spacing-mark-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Are any segments inordinately short? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_short_segments">com.google.fonts/check/outline_short_segments</a>)</summary><div>
 
 
@@ -760,14 +775,7 @@ The following glyphs do not have the recommended number of contours:
 	* Ccedilla (U+00C7) contains a short segment B<<392.5,-29.0>-<388.0,-36.0>-<384.0,-42.0>> and 82 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-short-segments]
-</div></details><br></div></details><details><summary><b>[13] Ubuntu-BoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking OS/2 fsType does not impose restrictions. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fstype">com.google.fonts/check/fstype</a>)</summary><div>
-
-
-* 🔥 **FAIL** In this font fsType is set to 8 meaning that:
-The font may be embedded but must only be installed temporarily on other systems.
-
-No such DRM restrictions can be enabled on the Google Fonts collection, so the fsType field must be set to zero (Installable Embedding) instead. [code: drm]
-</div></details><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[14] Ubuntu-BoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
 
 
 * 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.83; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
@@ -776,7 +784,7 @@ No such DRM restrictions can be enabled on the Google Fonts collection, so the f
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
 But instead we have got:
-"Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
+"Copyright 2011 Canonical Ltd. Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check if the vertical metrics of a family are similar to the same family hosted on Google Fonts. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics_regressions">com.google.fonts/check/vertical_metrics_regressions</a>)</summary><div>
 
 
@@ -785,7 +793,7 @@ But instead we have got:
 </div></details><details><summary>🔥 <b>FAIL:</b> OS/2.fsSelection bit 7 (USE_TYPO_METRICS) is set in all fonts. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/os2/use_typo_metrics">com.google.fonts/check/os2/use_typo_metrics</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/Ubuntu/ttf/Ubuntu-Condensed.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Medium.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Thin.ttf', 'fonts/Ubuntu/ttf/Ubuntu-LightItalic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Regular.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Bold.ttf', 'fonts/Ubuntu/ttf/Ubuntu-MediumItalic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-BoldItalic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Italic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Light.ttf']. [code: missing-os2-fsselection-bit7]
+* 🔥 **FAIL** OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/ttf/UbuntuCondensed-Regular.ttf', 'fonts/ttf/Ubuntu-Medium.ttf', 'fonts/ttf/Ubuntu-Thin.ttf', 'fonts/ttf/Ubuntu-LightItalic.ttf', 'fonts/ttf/Ubuntu-Regular.ttf', 'fonts/ttf/Ubuntu-Bold.ttf', 'fonts/ttf/Ubuntu-MediumItalic.ttf', 'fonts/ttf/Ubuntu-BoldItalic.ttf', 'fonts/ttf/Ubuntu-Italic.ttf', 'fonts/ttf/Ubuntu-Light.ttf']. [code: missing-os2-fsselection-bit7]
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
@@ -800,6 +808,26 @@ But instead we have got:
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
 	* uniEFFD and Ldot
+</div></details><details><summary>⚠ <b>WARN:</b> Are there caret positions declared for every ligature? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/ligature_carets">com.google.fonts/check/ligature_carets</a>)</summary><div>
+
+
+* ⚠ **WARN** GDEF table is missing, but it is mandatory to declare it on fonts that provide ligature glyphs because the caret (text cursor) positioning for each ligature must be provided in this table. [code: GDEF-missing]
+</div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
+
+
+* ⚠ **WARN** GPOS table lacks kerning info for the following non-ligated sequences:
+	- f + f
+	- f + i
+	- i + f
+	- f + l
+	- l + f
+	- i + l
+
+   [code: lacks-kern-info]
+</div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
+
+
+* ⚠ **WARN** The stylistic set ss01 lacks a description string on the 'name' table. [code: missing-description]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -808,19 +836,8 @@ But instead we have got:
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- Braceleft
-	- uni1F9F.alt
-	- i.locl
-	- uni0434.locl.ita
-	- uni1F89.alt
-	- Parenleft
-	- uni1FAC.alt
-	- uni1F9A.alt
-	- uni1F8B.alt
-	- Exclamdown 
-	- And 47 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- rouble 
+	- And uni20B8
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -837,19 +854,7 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** hhea lineGap is not equal to 0. [code: hhea]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 breve_inverted (U+0311) [code: spacing-mark-glyphs]
-</div></details><br></div></details><details><summary><b>[14] Ubuntu-Italic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking OS/2 fsType does not impose restrictions. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fstype">com.google.fonts/check/fstype</a>)</summary><div>
-
-
-* 🔥 **FAIL** In this font fsType is set to 8 meaning that:
-The font may be embedded but must only be installed temporarily on other systems.
-
-No such DRM restrictions can be enabled on the Google Fonts collection, so the fsType field must be set to zero (Installable Embedding) instead. [code: drm]
-</div></details><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[15] Ubuntu-Italic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
 
 
 * 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.83; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
@@ -858,7 +863,7 @@ No such DRM restrictions can be enabled on the Google Fonts collection, so the f
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
 But instead we have got:
-"Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
+"Copyright 2011 Canonical Ltd. Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check if the vertical metrics of a family are similar to the same family hosted on Google Fonts. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics_regressions">com.google.fonts/check/vertical_metrics_regressions</a>)</summary><div>
 
 
@@ -867,7 +872,7 @@ But instead we have got:
 </div></details><details><summary>🔥 <b>FAIL:</b> OS/2.fsSelection bit 7 (USE_TYPO_METRICS) is set in all fonts. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/os2/use_typo_metrics">com.google.fonts/check/os2/use_typo_metrics</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/Ubuntu/ttf/Ubuntu-Condensed.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Medium.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Thin.ttf', 'fonts/Ubuntu/ttf/Ubuntu-LightItalic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Regular.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Bold.ttf', 'fonts/Ubuntu/ttf/Ubuntu-MediumItalic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-BoldItalic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Italic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Light.ttf']. [code: missing-os2-fsselection-bit7]
+* 🔥 **FAIL** OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/ttf/UbuntuCondensed-Regular.ttf', 'fonts/ttf/Ubuntu-Medium.ttf', 'fonts/ttf/Ubuntu-Thin.ttf', 'fonts/ttf/Ubuntu-LightItalic.ttf', 'fonts/ttf/Ubuntu-Regular.ttf', 'fonts/ttf/Ubuntu-Bold.ttf', 'fonts/ttf/Ubuntu-MediumItalic.ttf', 'fonts/ttf/Ubuntu-BoldItalic.ttf', 'fonts/ttf/Ubuntu-Italic.ttf', 'fonts/ttf/Ubuntu-Light.ttf']. [code: missing-os2-fsselection-bit7]
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
@@ -881,18 +886,29 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* Chi
-	* Uogonek
-	* uni04B9
-	* Ncaron
-	* uni0227
-	* uni1FBB
-	* uni1FA9.alt
-	* Ccircumflex
-	* f_i
-	* onequarter and 756 more.
+	* At
+	* at
+	* uniEFFD and paragraph
+</div></details><details><summary>⚠ <b>WARN:</b> Are there caret positions declared for every ligature? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/ligature_carets">com.google.fonts/check/ligature_carets</a>)</summary><div>
 
-Use -F or --full-lists to disable shortening of long lists.
+
+* ⚠ **WARN** GDEF table is missing, but it is mandatory to declare it on fonts that provide ligature glyphs because the caret (text cursor) positioning for each ligature must be provided in this table. [code: GDEF-missing]
+</div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
+
+
+* ⚠ **WARN** GPOS table lacks kerning info for the following non-ligated sequences:
+	- f + f
+	- f + i
+	- i + f
+	- f + l
+	- l + f
+	- i + l
+
+   [code: lacks-kern-info]
+</div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
+
+
+* ⚠ **WARN** The stylistic set ss01 lacks a description string on the 'name' table. [code: missing-description]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -901,19 +917,8 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- Braceleft
-	- uni1F9F.alt
-	- i.locl
-	- uni0434.locl.ita
-	- uni1F89.alt
-	- Parenleft
-	- uni1FAC.alt
-	- uni1F9A.alt
-	- uni1F8B.alt
-	- Exclamdown 
-	- And 47 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- rouble 
+	- And uni20B8
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -930,44 +935,32 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** hhea lineGap is not equal to 0. [code: hhea]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 breve_inverted (U+0311) [code: spacing-mark-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Are any segments inordinately short? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_short_segments">com.google.fonts/check/outline_short_segments</a>)</summary><div>
 
 
 * ⚠ **WARN** The following glyphs have segments which seem very short:
-	* nine (U+0039) contains a short segment B<<115.0,-2.0>-<109.0,-2.0>-<101.0,-2.0>>
-	* at (U+0040) contains a short segment B<<683.0,180.0>-<681.0,173.0>-<679.0,165.0>>
-	* at (U+0040) contains a short segment B<<679.0,165.0>-<677.0,157.0>-<677.0,150.0>>
-	* at (U+0040) contains a short segment B<<677.0,150.0>-<677.0,138.0>-<684.5,129.0>>
-	* at (U+0040) contains a short segment B<<684.5,129.0>-<692.0,120.0>-<719.0,120.0>>
-	* Q (U+0051) contains a short segment B<<346.0,-33.0>-<346.0,-28.0>-<346.5,-22.5>>
-	* Q (U+0051) contains a short segment B<<346.5,-22.5>-<347.0,-17.0>-<348.0,-11.0>>
-	* Q (U+0051) contains a short segment B<<434.0,-11.0>-<432.0,-18.0>-<432.0,-25.0>>
-	* registered (U+00AE) contains a short segment B<<453.5,303.0>-<448.0,303.0>-<445.0,303.0>>
-	* Ccedilla (U+00C7) contains a short segment B<<400.0,-15.0>-<395.0,-21.0>-<391.0,-27.5>> and 60 more.
+	* nine (U+0039) contains a short segment B<<115.0,-3.0>-<109.0,-3.0>-<101.0,-2.5>>
+	* at (U+0040) contains a short segment B<<686.0,181.0>-<684.0,174.0>-<682.0,166.5>>
+	* at (U+0040) contains a short segment B<<682.0,166.5>-<680.0,159.0>-<680.0,152.0>>
+	* at (U+0040) contains a short segment B<<680.0,152.0>-<680.0,140.0>-<688.0,131.0>>
+	* at (U+0040) contains a short segment B<<688.0,131.0>-<696.0,122.0>-<721.0,122.0>>
+	* Q (U+0051) contains a short segment B<<345.0,-31.0>-<345.0,-26.0>-<345.0,-21.0>>
+	* Q (U+0051) contains a short segment B<<345.0,-21.0>-<345.0,-16.0>-<346.0,-11.0>>
+	* Q (U+0051) contains a short segment B<<439.0,-11.0>-<437.0,-17.0>-<437.0,-23.0>>
+	* m (U+006D) contains a short segment B<<539.0,411.0>-<542.0,400.0>-<543.0,388.5>>
+	* m (U+006D) contains a short segment B<<543.0,388.5>-<544.0,377.0>-<544.0,365.0>> and 61 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-short-segments]
-</div></details><br></div></details><details><summary><b>[14] Ubuntu-Light.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking OS/2 fsType does not impose restrictions. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fstype">com.google.fonts/check/fstype</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[16] Ubuntu-Light.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
 
 
-* 🔥 **FAIL** In this font fsType is set to 8 meaning that:
-The font may be embedded but must only be installed temporarily on other systems.
-
-No such DRM restrictions can be enabled on the Google Fonts collection, so the fsType field must be set to zero (Installable Embedding) instead. [code: drm]
-</div></details><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
-
-
-* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.084; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
+* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.840; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
 </div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
 But instead we have got:
-"Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
+"Copyright 2011 Canonical Ltd. Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check if the vertical metrics of a family are similar to the same family hosted on Google Fonts. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics_regressions">com.google.fonts/check/vertical_metrics_regressions</a>)</summary><div>
 
 
@@ -976,7 +969,7 @@ But instead we have got:
 </div></details><details><summary>🔥 <b>FAIL:</b> OS/2.fsSelection bit 7 (USE_TYPO_METRICS) is set in all fonts. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/os2/use_typo_metrics">com.google.fonts/check/os2/use_typo_metrics</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/Ubuntu/ttf/Ubuntu-Condensed.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Medium.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Thin.ttf', 'fonts/Ubuntu/ttf/Ubuntu-LightItalic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Regular.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Bold.ttf', 'fonts/Ubuntu/ttf/Ubuntu-MediumItalic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-BoldItalic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Italic.ttf', 'fonts/Ubuntu/ttf/Ubuntu-Light.ttf']. [code: missing-os2-fsselection-bit7]
+* 🔥 **FAIL** OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/ttf/UbuntuCondensed-Regular.ttf', 'fonts/ttf/Ubuntu-Medium.ttf', 'fonts/ttf/Ubuntu-Thin.ttf', 'fonts/ttf/Ubuntu-LightItalic.ttf', 'fonts/ttf/Ubuntu-Regular.ttf', 'fonts/ttf/Ubuntu-Bold.ttf', 'fonts/ttf/Ubuntu-MediumItalic.ttf', 'fonts/ttf/Ubuntu-BoldItalic.ttf', 'fonts/ttf/Ubuntu-Italic.ttf', 'fonts/ttf/Ubuntu-Light.ttf']. [code: missing-os2-fsselection-bit7]
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
@@ -1003,6 +996,10 @@ But instead we have got:
 	- i + l
 
    [code: lacks-kern-info]
+</div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
+
+
+* ⚠ **WARN** The stylistic set ss01 lacks a description string on the 'name' table. [code: missing-description]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -1011,19 +1008,8 @@ But instead we have got:
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- Braceleft
-	- uni1F9F.alt
-	- i.locl
-	- uni1F89.alt
-	- Parenleft
-	- uni1FAC.alt
-	- uni1F9A.alt
-	- uni1F8B.alt
-	- Exclamdown
-	- Questiondown 
-	- And 40 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- rouble 
+	- And uni20B8
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -1044,14 +1030,28 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 breve_inverted (U+0311) [code: spacing-mark-glyphs]
+	 dieresistonos (U+0385), tonos (U+0384), tonos.cap (unencoded), uni1FBD (U+1FBD), uni1FBF (U+1FBF), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1), uni1FCD (U+1FCD), uni1FCE (U+1FCE), uni1FCF (U+1FCF) and 8 more.
+
+Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
+</div></details><details><summary>⚠ <b>WARN:</b> Check mark characters are in GDEF mark glyph class. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_mark_chars">com.google.fonts/check/gdef_mark_chars</a>)</summary><div>
+
+
+* ⚠ **WARN** The following mark characters could be in the GDEF mark glyph class:
+	 breve_inverted (U+0311) [code: mark-chars]
+</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
+
+
+* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
+	 U+0384, U+0385, U+1FBD, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 7 more.
+
+Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><br></div></details>
 ### Summary
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 73 | 71 | 1095 | 71 | 796 | 0 |
-| 0% | 3% | 3% | 52% | 3% | 38% | 0% |
+| 0 | 66 | 98 | 1090 | 71 | 781 | 0 |
+| 0% | 3% | 5% | 52% | 3% | 37% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni01C6" format="2">
+  <advance width="811"/>
+  <unicode hex="01C6"/>
+  <anchor x="231" y="0" name="bottom_1"/>
+  <anchor x="638" y="0" name="bottom_2"/>
+  <anchor x="231" y="259" name="center_1"/>
+  <anchor x="638" y="259" name="center_2"/>
+  <anchor x="231" y="776" name="top_1"/>
+  <anchor x="638" y="518" name="top_2"/>
+  <anchor x="439" y="776" name="topright"/>
+  <outline>
+    <component base="d" xOffset="1"/>
+    <component base="z" xOffset="465"/>
+    <component base="caron" xOffset="484"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>d</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>z</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>caron</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
