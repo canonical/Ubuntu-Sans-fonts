@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1F7C" format="2">
+  <advance width="671"/>
+  <unicode hex="1F7C"/>
+  <anchor x="335.64323875964647" y="0.0" name="bottom"/>
+  <anchor x="299.89478252572377" y="779.1776900514471" name="top"/>
+  <outline>
+    <component base="omega"/>
+    <component base="uni1FEF" xOffset="185.74352383681725"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>omega</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni1FEF</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

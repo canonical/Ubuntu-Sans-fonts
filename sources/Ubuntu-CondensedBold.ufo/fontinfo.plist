@@ -15,52 +15,34 @@
     <key>guidelines</key>
     <array>
       <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>bU6Mi0YImH</string>
+        <key>x</key>
+        <integer>132</integer>
         <key>y</key>
-        <integer>-127</integer>
+        <integer>555</integer>
       </dict>
       <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>gk7YFU9r5S</string>
+        <key>x</key>
+        <integer>202</integer>
         <key>y</key>
-        <integer>-121</integer>
+        <integer>476</integer>
       </dict>
       <dict>
-        <key>y</key>
-        <integer>308</integer>
-      </dict>
-      <dict>
-        <key>y</key>
-        <integer>315</integer>
-      </dict>
-      <dict>
-        <key>y</key>
-        <integer>394</integer>
-      </dict>
-      <dict>
-        <key>y</key>
-        <integer>525</integer>
-      </dict>
-      <dict>
-        <key>y</key>
-        <integer>538</integer>
-      </dict>
-      <dict>
-        <key>y</key>
-        <integer>702</integer>
-      </dict>
-      <dict>
-        <key>y</key>
+        <key>angle</key>
+        <real>90.0</real>
+        <key>identifier</key>
+        <string>NaPmyqRc1g</string>
+        <key>x</key>
         <integer>708</integer>
-      </dict>
-      <dict>
         <key>y</key>
-        <integer>771</integer>
-      </dict>
-      <dict>
-        <key>y</key>
-        <integer>962</integer>
-      </dict>
-      <dict>
-        <key>y</key>
-        <integer>1078</integer>
+        <integer>425</integer>
       </dict>
     </array>
     <key>italicAngle</key>
@@ -153,10 +135,26 @@
     <real>0.04</real>
     <key>postscriptBlueShift</key>
     <integer>7</integer>
+    <key>postscriptBlueValues</key>
+    <array/>
+    <key>postscriptFamilyBlues</key>
+    <array/>
+    <key>postscriptFamilyOtherBlues</key>
+    <array/>
+    <key>postscriptOtherBlues</key>
+    <array/>
+    <key>postscriptStemSnapH</key>
+    <array/>
+    <key>postscriptStemSnapV</key>
+    <array/>
     <key>postscriptUnderlinePosition</key>
     <integer>-123</integer>
     <key>postscriptUnderlineThickness</key>
     <integer>120</integer>
+    <key>styleMapFamilyName</key>
+    <string>Ubuntu Condensed Bold</string>
+    <key>styleMapStyleName</key>
+    <string>regular</string>
     <key>styleName</key>
     <string>Condensed Bold</string>
     <key>trademark</key>
@@ -168,6 +166,6 @@
     <key>versionMinor</key>
     <integer>840</integer>
     <key>xHeight</key>
-    <integer>526</integer>
+    <integer>532</integer>
   </dict>
 </plist>

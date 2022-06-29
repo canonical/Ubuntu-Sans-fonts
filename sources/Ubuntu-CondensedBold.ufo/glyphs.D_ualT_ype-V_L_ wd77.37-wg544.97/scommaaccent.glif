@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="scommaaccent" format="2">
+  <advance width="384"/>
+  <unicode hex="0219"/>
+  <anchor x="176.5775013561099" y="-208.63337260932528" name="bottom"/>
+  <anchor x="192.83214134324814" y="525.2278412789391" name="top"/>
+  <outline>
+    <component base="s"/>
+    <component base="commaaccent" xOffset="48.91810028939052"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>s</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>commaaccent</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

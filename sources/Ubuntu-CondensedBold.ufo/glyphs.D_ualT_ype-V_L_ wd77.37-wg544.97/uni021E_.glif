@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni021E" format="2">
+  <advance width="613"/>
+  <unicode hex="021E"/>
+  <anchor x="306.35298381752455" y="0.0" name="bottom"/>
+  <anchor x="306.35298381752455" y="347.0" name="center"/>
+  <anchor x="306.35298381752455" y="693.0" name="top"/>
+  <anchor x="20.0" y="693.0" name="topleft"/>
+  <outline>
+    <component base="H"/>
+    <component base="caron" xOffset="139.9737787789391" yOffset="154.53560626607725"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>H</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>caron</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

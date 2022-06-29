@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FDA" format="2">
+  <advance width="458"/>
+  <unicode hex="1FDA"/>
+  <anchor x="308.6936704437321" y="0.0" name="bottom"/>
+  <anchor x="427.8506317805493" y="10.0" name="ogonek"/>
+  <anchor x="308.6936704437321" y="693.0" name="top"/>
+  <anchor x="179.34436033440684" y="693.0" name="topleft"/>
+  <outline>
+    <component base="I" xOffset="159.34436033440684"/>
+    <component base="grave" xOffset="-22.85474098954861" yOffset="-79.96163879180085"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>I</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>grave</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

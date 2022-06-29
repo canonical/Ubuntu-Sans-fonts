@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="afii10104" format="2">
+  <advance width="214"/>
+  <unicode hex="0457"/>
+  <anchor x="105.94928660049628" y="0.0" name="bottom"/>
+  <anchor x="192.9154776674938" y="10.0" name="ogonek"/>
+  <anchor x="105.94928660049628" y="513.310794044665" name="top"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="dieresis" xOffset="-46.70611042183623"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dotlessi</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dieresis</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

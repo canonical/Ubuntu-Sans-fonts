@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1F89.alt" format="2">
+  <advance width="456"/>
+  <anchor x="234.93238213399502" y="0.0" name="bottom"/>
+  <anchor x="419.2093672456576" y="10.0" name="ogonek"/>
+  <anchor x="28.966191066997524" y="680.2262717121588" name="top"/>
+  <outline>
+    <component base="A" xOffset="3"/>
+    <component base="uni1FFE" xOffset="-129.72301488833747" yOffset="-75.34460297766749"/>
+    <component base="uni1FBE" xOffset="43.368021091811414"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>A</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni1FFE</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>uni1FBE</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

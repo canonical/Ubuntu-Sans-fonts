@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threefifths" format="2">
+  <advance width="747"/>
+  <unicode hex="2157"/>
+  <outline>
+    <component base="threesuperior" xOffset="25.40210251929266"/>
+    <component base="fraction" xOffset="300.4208899871383"/>
+    <component base="fivesuperior" xOffset="440.3797825257237" yOffset="-295.33730994855284"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>threesuperior</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>fraction</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>fivesuperior</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -13,6 +13,13 @@
         <true/>
       </dict>
     </array>
+    <key>com.loicsander.scaleFast</key>
+    <dict>
+      <key>guides</key>
+      <array/>
+      <key>presets</key>
+      <dict/>
+    </dict>
     <key>com.schriftgestaltung.appVersion</key>
     <string>3131</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Use Extension Kerning</key>
@@ -45,8 +52,6 @@
     <integer>700</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
     <integer>75</integer>
-    <key>com.schriftgestaltung.fontMasterID</key>
-    <string>06C16AC7-3BF5-441F-9D72-CD0187076D9E</string>
     <key>com.schriftgestaltung.fontMasterOrder</key>
     <integer>5</integer>
     <key>com.schriftgestaltung.keyboardIncrement</key>
@@ -59,6 +64,36 @@
     <string>Regular</string>
     <key>com.schriftgestaltung.widthValue</key>
     <integer>75</integer>
+    <key>com.typemytype.robofont.compileSettings.autohint</key>
+    <true/>
+    <key>com.typemytype.robofont.compileSettings.checkOutlines</key>
+    <false/>
+    <key>com.typemytype.robofont.compileSettings.createDummyDSIG</key>
+    <true/>
+    <key>com.typemytype.robofont.compileSettings.decompose</key>
+    <false/>
+    <key>com.typemytype.robofont.compileSettings.generateFormat</key>
+    <integer>0</integer>
+    <key>com.typemytype.robofont.compileSettings.releaseMode</key>
+    <false/>
+    <key>com.typemytype.robofont.generateFeaturesWithFontTools</key>
+    <false/>
+    <key>com.typemytype.robofont.guideline.magnetic.NaPmyqRc1g</key>
+    <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.magnetic.bU6Mi0YImH</key>
+    <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.magnetic.gk7YFU9r5S</key>
+    <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.showMeasurements.NaPmyqRc1g</key>
+    <true/>
+    <key>com.typemytype.robofont.guideline.showMeasurements.bU6Mi0YImH</key>
+    <true/>
+    <key>com.typemytype.robofont.guideline.showMeasurements.gk7YFU9r5S</key>
+    <true/>
+    <key>com.typemytype.robofont.italicSlantOffset</key>
+    <integer>0</integer>
+    <key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
+    <integer>1</integer>
     <key>public.glyphOrder</key>
     <array>
       <string>.notdef</string>

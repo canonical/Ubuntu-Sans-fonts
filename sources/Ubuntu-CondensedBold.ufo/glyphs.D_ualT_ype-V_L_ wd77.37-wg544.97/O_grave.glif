@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ograve" format="2">
+  <advance width="631"/>
+  <unicode hex="00D2"/>
+  <anchor x="315.8532200257237" y="0.0" name="bottom"/>
+  <anchor x="315.8532200257237" y="347.0" name="center"/>
+  <anchor x="567.9665725450166" y="10.0" name="ogonek"/>
+  <anchor x="315.8532200257237" y="693.0" name="top"/>
+  <anchor x="20.0" y="693.0" name="topleft"/>
+  <anchor x="610.8011275514474" y="693.0" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="grave" xOffset="187.74957645257342" yOffset="153.0178600128618"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>O</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>grave</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1F1C" format="2">
+  <advance width="616"/>
+  <unicode hex="1F1C"/>
+  <anchor x="402.58777915632754" y="0.0" name="bottom"/>
+  <anchor x="572.8816687344913" y="10.0" name="ogonek"/>
+  <anchor x="92.31079404466502" y="680.2262717121588" name="top"/>
+  <anchor x="209.63849255583125" y="693.0" name="topleft"/>
+  <outline>
+    <component base="E" xOffset="189.63849255583125"/>
+    <component base="uni1FCE" xOffset="-91.98309553349876" yOffset="-75.34460297766749"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>E</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni1FCE</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

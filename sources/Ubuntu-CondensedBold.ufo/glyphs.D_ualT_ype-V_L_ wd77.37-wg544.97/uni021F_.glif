@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni021F" format="2">
+  <advance width="502"/>
+  <unicode hex="021F"/>
+  <anchor x="251.29058753215458" y="0.0" name="bottom"/>
+  <anchor x="251.29058753215458" y="388.0" name="center"/>
+  <anchor x="251.29058753215458" y="776.0" name="top"/>
+  <outline>
+    <component base="h"/>
+    <component base="caron.asc" xOffset="37.13611017363424"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>h</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>caron.asc</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

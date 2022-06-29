@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gcommaaccent" format="2">
+  <advance width="565"/>
+  <unicode hex="0122"/>
+  <anchor x="305.7998501286181" y="-208.63337260932528" name="bottom"/>
+  <anchor x="282.72291757074" y="693.0" name="top"/>
+  <outline>
+    <component base="G"/>
+    <component base="commaaccent" xOffset="178.14044906189872"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>G</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>commaaccent</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,13 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hyphen" format="2">
-  <advance width="244.725"/>
+  <advance width="273"/>
   <unicode hex="002D"/>
   <outline>
     <contour>
-      <point x="17" y="254" type="line"/>
-      <point x="227" y="254" type="line"/>
-      <point x="227" y="384" type="line"/>
-      <point x="17" y="384" type="line"/>
+      <point x="25" y="242" type="line"/>
+      <point x="248" y="242" type="line"/>
+      <point x="248" y="366" type="line"/>
+      <point x="25" y="366" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.2,0.6,0.4,1</string>
+    </dict>
+  </lib>
 </glyph>
