@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni04ED" format="2">
-  <advance width="354"/>
+  <advance width="364"/>
   <unicode hex="04ED"/>
-  <anchor x="176" y="515" name="top"/>
+  <anchor x="181" y="517" name="top"/>
   <outline>
     <component base="afii10095"/>
-    <component base="dieresis"/>
+    <component base="dieresis" xOffset="5"/>
   </outline>
 </glyph>

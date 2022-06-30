@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ohungarumlaut" format="2">
-  <advance width="588"/>
+  <advance width="594"/>
   <unicode hex="0150"/>
-  <anchor x="294" y="0" name="bottom"/>
-  <anchor x="294" y="347" name="center"/>
-  <anchor x="529" y="10" name="ogonek"/>
-  <anchor x="294" y="693" name="top"/>
+  <anchor x="297" y="0" name="bottom"/>
+  <anchor x="297" y="347" name="center"/>
+  <anchor x="534" y="10" name="ogonek"/>
+  <anchor x="297" y="693" name="top"/>
   <anchor x="20" y="693" name="topleft"/>
-  <anchor x="568" y="693" name="topright"/>
+  <anchor x="574" y="693" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="hungarumlaut" xOffset="187" yOffset="163"/>
+    <component base="hungarumlaut" xOffset="178" yOffset="158"/>
   </outline>
   <lib>
     <dict>

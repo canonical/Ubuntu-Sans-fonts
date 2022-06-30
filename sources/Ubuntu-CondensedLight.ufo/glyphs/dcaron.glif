@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dcaron" format="2">
-  <advance width="544"/>
+  <advance width="533"/>
   <unicode hex="010F"/>
-  <anchor x="224" y="0" name="bottom"/>
-  <anchor x="224" y="258" name="center"/>
-  <anchor x="224" y="776" name="top"/>
-  <anchor x="427" y="776" name="topright"/>
+  <anchor x="228" y="0" name="bottom"/>
+  <anchor x="228" y="259" name="center"/>
+  <anchor x="228" y="776" name="top"/>
+  <anchor x="434" y="776" name="topright"/>
   <outline>
     <component base="d"/>
-    <component base="caron.alt" xOffset="322"/>
+    <component base="caron.alt" xOffset="328"/>
   </outline>
   <lib>
     <dict>
