@@ -1,37 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1FCC" format="2">
-  <advance width="800"/>
+  <advance width="777"/>
   <unicode hex="1FCC"/>
-  <anchor x="285" y="0" name="bottom"/>
-  <anchor x="285" y="347" name="center"/>
-  <anchor x="285" y="693" name="top_1"/>
-  <anchor x="685" y="518" name="top_2"/>
+  <anchor x="281" y="0" name="bottom"/>
+  <anchor x="281" y="347" name="center"/>
+  <anchor x="281" y="693" name="top_1"/>
+  <anchor x="670" y="515" name="top_2"/>
   <anchor x="20" y="693" name="topleft"/>
   <outline>
     <component base="H"/>
-    <component base="iota" xOffset="569"/>
+    <component base="iota" xOffset="561"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>H</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>iota</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="odieresis" format="2">
-  <advance width="459"/>
+  <advance width="453"/>
   <unicode hex="00F6"/>
-  <anchor x="230" y="0" name="bottom"/>
-  <anchor x="230" y="259" name="center"/>
-  <anchor x="413" y="10" name="ogonek"/>
-  <anchor x="230" y="518" name="top"/>
-  <anchor x="439" y="518" name="topright"/>
+  <anchor x="227" y="0" name="bottom"/>
+  <anchor x="227" y="258" name="center"/>
+  <anchor x="408" y="10" name="ogonek"/>
+  <anchor x="227" y="515" name="top"/>
+  <anchor x="433" y="515" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="dieresis" xOffset="72"/>
+    <component base="dieresis" xOffset="70"/>
   </outline>
   <lib>
     <dict>

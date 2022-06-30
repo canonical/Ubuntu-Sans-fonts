@@ -1,36 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Uhungarumlaut" format="2">
-  <advance width="540"/>
+  <advance width="529"/>
   <unicode hex="0170"/>
-  <anchor x="271" y="0" name="bottom"/>
-  <anchor x="486" y="10" name="ogonek"/>
-  <anchor x="271" y="693" name="top"/>
-  <anchor x="520" y="693" name="topright"/>
+  <anchor x="265" y="0" name="bottom"/>
+  <anchor x="477" y="10" name="ogonek"/>
+  <anchor x="265" y="693" name="top"/>
+  <anchor x="509" y="693" name="topright"/>
   <outline>
     <component base="U"/>
-    <component base="hungarumlaut" xOffset="132" yOffset="150"/>
+    <component base="hungarumlaut" xOffset="137" yOffset="150"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>U</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>hungarumlaut</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

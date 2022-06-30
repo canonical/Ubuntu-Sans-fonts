@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="igrave" format="2">
-  <advance width="233"/>
+  <advance width="221"/>
   <unicode hex="00EC"/>
-  <anchor x="116" y="0" name="bottom"/>
-  <anchor x="210" y="10" name="ogonek"/>
-  <anchor x="116" y="518" name="top"/>
+  <anchor x="110" y="0" name="bottom"/>
+  <anchor x="200" y="10" name="ogonek"/>
+  <anchor x="110" y="515" name="top"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="grave" xOffset="-41"/>
+    <component base="grave" xOffset="-60"/>
   </outline>
   <lib>
     <dict>

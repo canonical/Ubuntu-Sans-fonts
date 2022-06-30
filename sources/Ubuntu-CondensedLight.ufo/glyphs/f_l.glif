@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_l" format="2">
-  <advance width="527"/>
+  <advance width="501"/>
   <unicode hex="FB02"/>
-  <anchor x="131" y="0" name="bottom_1"/>
-  <anchor x="396" y="0" name="bottom_2"/>
-  <anchor x="264" y="0" name="caret_1"/>
-  <anchor x="131" y="776" name="top_1"/>
-  <anchor x="396" y="776" name="top_2"/>
-  <anchor x="413" y="388" name="center"/>
-  <anchor x="508" y="776" name="topright"/>
+  <anchor x="124" y="0" name="bottom_1"/>
+  <anchor x="376" y="0" name="bottom_2"/>
+  <anchor x="251" y="0" name="caret_1"/>
+  <anchor x="124" y="776" name="top_1"/>
+  <anchor x="376" y="776" name="top_2"/>
+  <anchor x="395" y="388" name="center"/>
+  <anchor x="481" y="776" name="topright"/>
   <outline>
     <component base="f"/>
-    <component base="l" xOffset="298"/>
+    <component base="l" xOffset="288"/>
   </outline>
   <lib>
     <dict>

@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="agrave" format="2">
-  <advance width="429"/>
+  <advance width="423"/>
   <unicode hex="00E0"/>
-  <anchor x="214" y="0" name="bottom"/>
-  <anchor x="387" y="10" name="ogonek"/>
-  <anchor x="214" y="518" name="top"/>
+  <anchor x="211" y="0" name="bottom"/>
+  <anchor x="381" y="10" name="ogonek"/>
+  <anchor x="211" y="515" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="grave" xOffset="67"/>
+    <component base="grave" xOffset="69"/>
   </outline>
   <lib>
     <dict>

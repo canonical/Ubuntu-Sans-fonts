@@ -1,25 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni04D8" format="2">
-  <advance width="527"/>
+  <advance width="518"/>
   <unicode hex="04D8"/>
-  <anchor x="264" y="693" name="top"/>
-  <anchor x="264" y="0" name="bottom"/>
+  <anchor x="260" y="693" name="top"/>
+  <anchor x="260" y="0" name="bottom"/>
   <outline>
     <component base="uni018F"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>uni018F</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

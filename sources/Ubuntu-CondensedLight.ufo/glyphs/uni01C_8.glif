@@ -1,36 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni01C8" format="2">
-  <advance width="639"/>
+  <advance width="615"/>
   <unicode hex="01C8"/>
-  <anchor x="204" y="0" name="bottom"/>
-  <anchor x="204" y="347" name="center"/>
-  <anchor x="204" y="693" name="top"/>
-  <anchor x="387" y="693" name="topright"/>
+  <anchor x="198" y="0" name="bottom"/>
+  <anchor x="198" y="347" name="center"/>
+  <anchor x="198" y="693" name="top"/>
+  <anchor x="375" y="693" name="topright"/>
   <outline>
     <component base="L"/>
-    <component base="j" xOffset="406"/>
+    <component base="j" xOffset="393"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>L</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>j</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

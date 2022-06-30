@@ -1,36 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0217" format="2">
-  <advance width="471"/>
+  <advance width="460"/>
   <unicode hex="0217"/>
-  <anchor x="236" y="0" name="bottom"/>
-  <anchor x="424" y="10" name="ogonek"/>
-  <anchor x="236" y="518" name="top"/>
-  <anchor x="451" y="518" name="topright"/>
+  <anchor x="230" y="0" name="bottom"/>
+  <anchor x="415" y="10" name="ogonek"/>
+  <anchor x="230" y="515" name="top"/>
+  <anchor x="440" y="515" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="breve_inverted" xOffset="185"/>
+    <component base="breve_inverted" xOffset="306"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>u</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>breve_inverted</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

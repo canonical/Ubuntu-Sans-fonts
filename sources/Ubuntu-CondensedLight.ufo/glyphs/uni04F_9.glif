@@ -1,33 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni04F9" format="2">
-  <advance width="657"/>
+  <advance width="639"/>
   <unicode hex="04F9"/>
-  <anchor x="329" y="518" name="top"/>
+  <anchor x="320" y="515" name="top"/>
   <outline>
     <component base="afii10093"/>
-    <component base="dieresis" xOffset="172"/>
+    <component base="dieresis" xOffset="163"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>afii10093</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>dieresis</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="napostrophe.case" format="2">
-  <advance width="620"/>
-  <anchor x="333" y="0" name="bottom"/>
-  <anchor x="333" y="693" name="top"/>
+  <advance width="585"/>
+  <anchor x="302" y="0" name="bottom"/>
+  <anchor x="302" y="693" name="top"/>
   <outline>
-    <component base="N" xOffset="45"/>
-    <component base="apostrophe" xOffset="-123"/>
+    <component base="N" xOffset="17"/>
+    <component base="apostrophe" xOffset="-136"/>
   </outline>
   <lib>
     <dict>

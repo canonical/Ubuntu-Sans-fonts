@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ldot" format="2">
-  <advance width="407"/>
+  <advance width="395"/>
   <unicode hex="013F"/>
-  <anchor x="204" y="0" name="bottom"/>
-  <anchor x="204" y="347" name="center"/>
-  <anchor x="204" y="693" name="top"/>
-  <anchor x="387" y="693" name="topright"/>
+  <anchor x="198" y="0" name="bottom"/>
+  <anchor x="198" y="347" name="center"/>
+  <anchor x="198" y="693" name="top"/>
+  <anchor x="375" y="693" name="topright"/>
   <outline>
     <component base="L"/>
-    <component base="dotaccent" xOffset="139" yOffset="-313"/>
+    <component base="dotaccent" xOffset="120" yOffset="-312"/>
   </outline>
   <lib>
     <dict>

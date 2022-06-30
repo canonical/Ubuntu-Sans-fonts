@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Zcaron" format="2">
-  <advance width="423"/>
+  <advance width="411"/>
   <unicode hex="017D"/>
-  <anchor x="212" y="0" name="bottom"/>
-  <anchor x="212" y="347" name="center"/>
-  <anchor x="212" y="693" name="top"/>
+  <anchor x="206" y="0" name="bottom"/>
+  <anchor x="206" y="347" name="center"/>
+  <anchor x="206" y="693" name="top"/>
   <outline>
     <component base="Z"/>
-    <component base="caron" xOffset="54" yOffset="150"/>
+    <component base="caron" xOffset="48" yOffset="150"/>
   </outline>
   <lib>
     <dict>
