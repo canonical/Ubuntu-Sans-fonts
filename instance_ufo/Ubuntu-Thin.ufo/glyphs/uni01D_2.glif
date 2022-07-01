@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni01D2" format="2">
+  <advance width="574"/>
+  <unicode hex="01D2"/>
+  <anchor x="287" y="0" name="bottom"/>
+  <anchor x="287" y="257" name="center"/>
+  <anchor x="517" y="10" name="ogonek"/>
+  <anchor x="287" y="513" name="top"/>
+  <anchor x="554" y="513" name="topright"/>
+  <outline>
+    <component base="o"/>
+    <component base="caron" xOffset="99"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>o</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>caron</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

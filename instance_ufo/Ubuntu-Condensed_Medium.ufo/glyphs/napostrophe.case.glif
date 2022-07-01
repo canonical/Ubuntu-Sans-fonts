@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="napostrophe.case" format="2">
+  <advance width="690.16"/>
+  <anchor x="397.24" y="0.0" name="bottom"/>
+  <anchor x="397.24" y="693.0" name="top"/>
+  <outline>
+    <component base="N" xOffset="102.32000000000001"/>
+    <component base="apostrophe" xOffset="-95.97999999999999"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>N</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>apostrophe</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

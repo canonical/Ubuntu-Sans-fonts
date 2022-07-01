@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1F1B" format="2">
+  <advance width="692.72"/>
+  <unicode hex="1F1B"/>
+  <anchor x="457.2" y="0.0" name="bottom"/>
+  <anchor x="645.42" y="10.0" name="ogonek"/>
+  <anchor x="110.94" y="727.36" name="top"/>
+  <anchor x="242.01999999999998" y="693.0" name="topleft"/>
+  <outline>
+    <component base="E" xOffset="222.01999999999998"/>
+    <component base="uni1FDD" xOffset="-41.459999999999994" yOffset="-70.36000000000001"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>E</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni1FDD</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

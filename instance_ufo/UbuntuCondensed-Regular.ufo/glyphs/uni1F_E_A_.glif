@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FEA" format="2">
+  <advance width="581.0250000000001"/>
+  <unicode hex="1FEA"/>
+  <anchor x="355.625" y="0.0" name="bottom"/>
+  <anchor x="355.625" y="693.0" name="top"/>
+  <anchor x="149.555" y="693.0" name="topleft"/>
+  <outline>
+    <component base="Y" xOffset="129.555"/>
+    <component base="grave" xOffset="-69.66" yOffset="-71.66"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Y</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>grave</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

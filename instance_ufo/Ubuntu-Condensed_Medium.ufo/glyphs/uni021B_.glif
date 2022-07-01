@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni021B" format="2">
+  <advance width="336.04"/>
+  <unicode hex="021B"/>
+  <anchor x="165.8" y="-191.6" name="bottom"/>
+  <anchor x="168.51999999999998" y="261.64" name="center"/>
+  <anchor x="168.51999999999998" y="523.6" name="top"/>
+  <anchor x="316.04" y="776.0" name="topright"/>
+  <outline>
+    <component base="t"/>
+    <component base="commaaccent" xOffset="66.56"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>t</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>commaaccent</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="afii10023" format="2">
+  <advance width="572.085"/>
+  <unicode hex="0401"/>
+  <anchor x="286.375" y="0.0" name="bottom"/>
+  <anchor x="515.075" y="10.0" name="ogonek"/>
+  <anchor x="286.375" y="693.0" name="top"/>
+  <anchor x="20.0" y="693.0" name="topleft"/>
+  <outline>
+    <component base="E"/>
+    <component base="dieresis" xOffset="82.57" yOffset="160.69"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>E</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dieresis</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

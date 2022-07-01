@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni01D9" format="2">
+  <advance width="549.4"/>
+  <unicode hex="01D9"/>
+  <anchor x="275.365" y="0.0" name="bottom"/>
+  <anchor x="494.39000000000004" y="10.0" name="ogonek"/>
+  <anchor x="275.365" y="693.0" name="top"/>
+  <anchor x="529.4" y="693.0" name="topright"/>
+  <outline>
+    <component base="U"/>
+    <component base="dieresis_breve.cap" xOffset="118.02"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>U</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dieresis_breve.cap</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

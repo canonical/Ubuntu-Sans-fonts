@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1F99" format="2">
+  <advance width="1204"/>
+  <unicode hex="1F99"/>
+  <anchor x="526" y="0" name="bottom"/>
+  <anchor x="526" y="347" name="center"/>
+  <anchor x="526" y="693" name="top_1"/>
+  <anchor x="1050" y="526" name="top_2"/>
+  <anchor x="179" y="693" name="topleft"/>
+  <outline>
+    <component base="H" xOffset="159"/>
+    <component base="iota" xOffset="895"/>
+    <component base="uni1FFE" xOffset="-89" yOffset="-116"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>H</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>iota</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>uni1FFE</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

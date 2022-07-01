@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1F59" format="2">
+  <advance width="567.4499999999999"/>
+  <unicode hex="1F59"/>
+  <anchor x="342.05" y="0.0" name="bottom"/>
+  <anchor x="38.97" y="712.41" name="top"/>
+  <anchor x="135.98" y="693.0" name="topleft"/>
+  <outline>
+    <component base="Y" xOffset="115.98"/>
+    <component base="uni1FFE" xOffset="-113.345" yOffset="-71.66"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Y</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni1FFE</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

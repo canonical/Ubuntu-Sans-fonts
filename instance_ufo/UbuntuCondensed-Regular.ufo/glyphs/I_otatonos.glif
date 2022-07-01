@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotatonos" format="2">
+  <advance width="316.43"/>
+  <unicode hex="038A"/>
+  <anchor x="187.045" y="0.0" name="bottom"/>
+  <anchor x="290.41499999999996" y="10.0" name="ogonek"/>
+  <anchor x="187.045" y="693.0" name="top"/>
+  <anchor x="78.0" y="693.0" name="topleft"/>
+  <outline>
+    <component base="I" xOffset="58.0"/>
+    <component base="tonos.cap" xOffset="-123.74000000000001"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>I</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>tonos.cap</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eacute" format="2">
+  <advance width="436.03000000000003"/>
+  <unicode hex="00E9"/>
+  <anchor x="218.345" y="0.0" name="bottom"/>
+  <anchor x="392.02500000000003" y="10.0" name="ogonek"/>
+  <anchor x="218.345" y="520.35" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="acute" xOffset="53.599999999999994"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>e</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>acute</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fiveninths" format="2">
+  <advance width="729.402"/>
+  <unicode hex="F50F"/>
+  <outline>
+    <component base="fivesuperior" xOffset="25.0"/>
+    <component base="fraction" xOffset="298.02000000000004"/>
+    <component base="ninesuperior" xOffset="445.59999999999997" yOffset="-300.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>fivesuperior</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>fraction</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>ninesuperior</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
