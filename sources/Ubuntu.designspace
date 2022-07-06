@@ -53,7 +53,15 @@
     </source>
   </sources>
   <instances>
-    <instance name="Ubuntu Thin" familyname="Ubuntu" stylename="Thin" filename="../instance_ufo/Ubuntu-Thin.ufo" stylemapfamilyname="Ubuntu Thin" stylemapstylename="regular">
+    <!-- normal width -->
+    <instance 
+        name="Ubuntu Thin" 
+        familyname="Ubuntu" 
+        stylename="Thin" 
+        filename="../instance_ufo/Ubuntu-Thin.ufo" 
+        stylemapfamilyname="Ubuntu Thin" 
+        stylemapstylename="regular"
+    >
       <location>
         <dimension name="Width" xvalue="100"/>
         <dimension name="Weight" xvalue="100"/>
@@ -61,7 +69,14 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="Ubuntu Light" familyname="Ubuntu" stylename="Light" filename="../instance_ufo/Ubuntu-Light.ufo" stylemapfamilyname="Ubuntu Light" stylemapstylename="regular">
+    <instance 
+        name="Ubuntu Light" 
+        familyname="Ubuntu" 
+        stylename="Light" 
+        filename="../instance_ufo/Ubuntu-Light.ufo" 
+        stylemapfamilyname="Ubuntu Light" 
+        stylemapstylename="regular"
+    >
       <location>
         <dimension name="Width" xvalue="100"/>
         <dimension name="Weight" xvalue="300"/>
@@ -69,7 +84,14 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="Ubuntu Regular" familyname="Ubuntu" stylename="Regular" filename="../instance_ufo/Ubuntu-Regular.ufo" stylemapfamilyname="Ubuntu" stylemapstylename="regular">
+    <instance 
+        name="Ubuntu Regular" 
+        familyname="Ubuntu" 
+        stylename="Regular" 
+        filename="../instance_ufo/Ubuntu-Regular.ufo" 
+        stylemapfamilyname="Ubuntu" 
+        stylemapstylename="regular"
+    >
       <location>
         <dimension name="Width" xvalue="100"/>
         <dimension name="Weight" xvalue="434"/>
@@ -77,7 +99,14 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="Ubuntu Medium" familyname="Ubuntu" stylename="Medium" filename="../instance_ufo/Ubuntu-Medium.ufo" stylemapfamilyname="Ubuntu Medium" stylemapstylename="regular">
+    <instance 
+        name="Ubuntu Medium" 
+        familyname="Ubuntu" 
+        stylename="Medium" 
+        filename="../instance_ufo/Ubuntu-Medium.ufo" 
+        stylemapfamilyname="Ubuntu Medium" 
+        stylemapstylename="regular"
+    >
       <location>
         <dimension name="Width" xvalue="100"/>
         <dimension name="Weight" xvalue="564"/>
@@ -85,7 +114,14 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="Ubuntu Bold" familyname="Ubuntu" stylename="Bold" filename="../instance_ufo/Ubuntu-Bold.ufo" stylemapfamilyname="Ubuntu" stylemapstylename="bold">
+    <instance 
+        name="Ubuntu Bold" 
+        familyname="Ubuntu" 
+        stylename="Bold" 
+        filename="../instance_ufo/Ubuntu-Bold.ufo" 
+        stylemapfamilyname="Ubuntu" 
+        stylemapstylename="bold"
+    >
       <location>
         <dimension name="Width" xvalue="100"/>
         <dimension name="Weight" xvalue="700"/>
@@ -93,15 +129,15 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="Ubuntu Condensed" familyname="Ubuntu" stylename="Condensed" filename="../instance_ufo/UbuntuCondensed-Regular.ufo" stylemapfamilyname="Ubuntu Condensed" stylemapstylename="regular">
-      <location>
-        <dimension name="Width" xvalue="75"/>
-        <dimension name="Weight" xvalue="434"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Ubuntu" stylename="Condensed Thin" filename="../instance_ufo/Ubuntu-Condensed_Thin.ufo">
+    <!-- condensed width -->
+    <instance 
+        name="Ubuntu Condensed Thin" 
+        familyname="Ubuntu Condensed" 
+        stylename="Condensed Thin" 
+        filename="../instance_ufo/UbuntuCondensed-Thin.ufo" 
+        stylemapfamilyname="Ubuntu Condensed Thin" 
+        stylemapstylename="regular"
+    >
       <location>
         <dimension name="Width" xvalue="75"/>
         <dimension name="Weight" xvalue="100"/>
@@ -109,7 +145,14 @@
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="Ubuntu" stylename="Condensed Light" filename="../instance_ufo/Ubuntu-Condensed_Light.ufo">
+    <instance 
+        name="Ubuntu Condensed Light" 
+        familyname="Ubuntu Condensed" 
+        stylename="Condensed Light" 
+        filename="../instance_ufo/UbuntuCondensed-Light.ufo" 
+        stylemapfamilyname="Ubuntu Condensed Light" 
+        stylemapstylename="regular"
+    >
       <location>
         <dimension name="Width" xvalue="75"/>
         <dimension name="Weight" xvalue="300"/>
@@ -117,7 +160,29 @@
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="Ubuntu" stylename="Condensed Medium" filename="../instance_ufo/Ubuntu-Condensed_Medium.ufo">
+    <instance 
+        name="Ubuntu Condensed" 
+        familyname="Ubuntu" 
+        stylename="Condensed" 
+        filename="../instance_ufo/UbuntuCondensed-Regular.ufo" 
+        stylemapfamilyname="Ubuntu Condensed" 
+        stylemapstylename="regular"
+    >
+      <location>
+        <dimension name="Width" xvalue="75"/>
+        <dimension name="Weight" xvalue="434"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance 
+        name="Ubuntu Condensed Medium" 
+        familyname="Ubuntu Condensed" 
+        stylename="Condensed Medium" 
+        filename="../instance_ufo/UbuntuCondensed-Medium.ufo" 
+        stylemapfamilyname="Ubuntu Condensed Medium" 
+        stylemapstylename="regular"
+    >
       <location>
         <dimension name="Width" xvalue="75"/>
         <dimension name="Weight" xvalue="564"/>
@@ -125,7 +190,14 @@
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="Ubuntu" stylename="Condensed Bold" filename="../instance_ufo/Ubuntu-Condensed_Bold.ufo">
+    <instance 
+        name="Ubuntu Condensed Bold" 
+        familyname="Ubuntu" 
+        stylename="Condensed Bold" 
+        filename="../instance_ufo/UbuntuCondensed-Bold.ufo" 
+        stylemapfamilyname="Ubuntu Condensed" 
+        stylemapstylename="bold"
+    >
       <location>
         <dimension name="Width" xvalue="75"/>
         <dimension name="Weight" xvalue="700"/>
