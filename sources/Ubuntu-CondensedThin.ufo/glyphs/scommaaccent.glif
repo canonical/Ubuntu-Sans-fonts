@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="scommaaccent" format="2">
-  <advance width="311"/>
+  <advance width="316"/>
   <unicode hex="0219"/>
   <anchor x="143" y="-181" name="bottom"/>
   <anchor x="156" y="513" name="top"/>
   <outline>
     <component base="s"/>
-    <component base="commaaccent" xOffset="-145"/>
+    <component base="commaaccent" xOffset="-154"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
         </dict>
       </array>
       <key>public.markColor</key>
-      <string>0.1068,0.8445,0.9988,1</string>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

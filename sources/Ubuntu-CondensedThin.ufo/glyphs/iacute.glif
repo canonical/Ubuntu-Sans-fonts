@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="iacute" format="2">
-  <advance width="214"/>
+  <advance width="196"/>
   <unicode hex="00ED"/>
   <anchor x="106" y="0" name="bottom"/>
   <anchor x="193" y="10" name="ogonek"/>
   <anchor x="106" y="513" name="top"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="acute" xOffset="-58"/>
+    <component base="acute" xOffset="-46"/>
   </outline>
   <lib>
     <dict>
@@ -31,7 +31,7 @@
         </dict>
       </array>
       <key>public.markColor</key>
-      <string>0.1068,0.8445,0.9988,1</string>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

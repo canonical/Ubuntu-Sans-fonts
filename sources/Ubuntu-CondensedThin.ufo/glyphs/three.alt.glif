@@ -3,7 +3,7 @@
   <advance width="351"/>
   <unicode hex="F803"/>
   <outline>
-    <component base="three" xOffset="-30"/>
+    <component base="three" xOffset="-32"/>
   </outline>
   <lib>
     <dict>
@@ -18,6 +18,8 @@
           <string>three</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kgreenlandic.case" format="2">
-  <advance width="470"/>
+  <advance width="474"/>
   <anchor x="234" y="0" name="bottom"/>
   <anchor x="234" y="693" name="top"/>
   <outline>
     <component base="K"/>
-    <component base="quoteleft" xOffset="362"/>
+    <component base="quoteleft" xOffset="357"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
         </dict>
       </array>
       <key>public.markColor</key>
-      <string>0.1068,0.8445,0.9988,1</string>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Tau" format="2">
-  <advance width="401"/>
+  <advance width="399"/>
   <unicode hex="03A4"/>
   <anchor x="201" y="0" name="bottom"/>
   <anchor x="201" y="347" name="center"/>
@@ -21,6 +21,8 @@
           <string>T</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

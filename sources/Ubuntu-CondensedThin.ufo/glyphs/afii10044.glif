@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="afii10044" format="2">
-  <advance width="518.2"/>
+  <advance width="518"/>
   <unicode hex="042A"/>
   <anchor x="260" y="693" name="top"/>
   <outline>
@@ -39,4 +39,10 @@
       <point x="419" y="30"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.4697,0.0327,1</string>
+    </dict>
+  </lib>
 </glyph>

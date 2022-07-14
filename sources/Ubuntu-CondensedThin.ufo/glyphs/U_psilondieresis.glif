@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Upsilondieresis" format="2">
-  <advance width="396"/>
+  <advance width="393"/>
   <unicode hex="03AB"/>
   <anchor x="198" y="0" name="bottom"/>
   <anchor x="198" y="693" name="top"/>
   <anchor x="20" y="693" name="topleft"/>
   <outline>
     <component base="Y"/>
-    <component base="dieresis" xOffset="21" yOffset="156"/>
+    <component base="dieresis" xOffset="40" yOffset="156"/>
   </outline>
   <lib>
     <dict>
@@ -30,6 +30,8 @@
           <string>dieresis</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

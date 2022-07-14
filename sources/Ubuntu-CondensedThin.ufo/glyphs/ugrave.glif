@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ugrave" format="2">
-  <advance width="453"/>
+  <advance width="451"/>
   <unicode hex="00F9"/>
   <anchor x="227" y="0" name="bottom"/>
   <anchor x="409" y="10" name="ogonek"/>
@@ -8,7 +8,7 @@
   <anchor x="433" y="513" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="grave" xOffset="29"/>
+    <component base="grave" xOffset="32"/>
   </outline>
   <lib>
     <dict>
@@ -32,7 +32,7 @@
         </dict>
       </array>
       <key>public.markColor</key>
-      <string>0.1068,0.8445,0.9988,1</string>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

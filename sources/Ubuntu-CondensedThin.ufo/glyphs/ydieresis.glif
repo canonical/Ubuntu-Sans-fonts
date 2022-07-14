@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ydieresis" format="2">
-  <advance width="354"/>
+  <advance width="362"/>
   <unicode hex="00FF"/>
   <anchor x="178" y="0" name="bottom"/>
   <anchor x="178" y="513" name="top"/>
   <outline>
     <component base="y"/>
-    <component base="dieresis" xOffset="17"/>
+    <component base="dieresis" xOffset="24"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
         </dict>
       </array>
       <key>public.markColor</key>
-      <string>0.1068,0.8445,0.9988,1</string>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Zcaron" format="2">
-  <advance width="404"/>
+  <advance width="400"/>
   <unicode hex="017D"/>
   <anchor x="203" y="0" name="bottom"/>
   <anchor x="203" y="347" name="center"/>
   <anchor x="203" y="693" name="top"/>
   <outline>
     <component base="Z"/>
-    <component base="caron" xOffset="44" yOffset="150"/>
+    <component base="caron" xOffset="48" yOffset="150"/>
   </outline>
   <lib>
     <dict>
@@ -31,7 +31,7 @@
         </dict>
       </array>
       <key>public.markColor</key>
-      <string>0.1068,0.8445,0.9988,1</string>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

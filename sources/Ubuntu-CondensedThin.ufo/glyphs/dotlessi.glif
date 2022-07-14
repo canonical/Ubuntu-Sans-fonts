@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotlessi" format="2">
-  <advance width="214"/>
+  <advance width="196"/>
   <unicode hex="0131"/>
-  <anchor x="106" y="0" name="bottom"/>
-  <anchor x="193" y="10" name="ogonek"/>
-  <anchor x="106" y="513" name="top"/>
+  <anchor x="100" y="0" name="bottom"/>
+  <anchor x="187" y="10" name="ogonek"/>
+  <anchor x="98" y="513" name="top"/>
   <outline>
     <contour>
-      <point x="90" y="0" type="line"/>
-      <point x="124" y="0" type="line"/>
-      <point x="124" y="518" type="line"/>
-      <point x="90" y="518" type="line"/>
+      <point x="82" y="0" type="line"/>
+      <point x="114" y="0" type="line"/>
+      <point x="114" y="517" type="line"/>
+      <point x="82" y="517" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.1068,0.8445,0.9988,1</string>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>
