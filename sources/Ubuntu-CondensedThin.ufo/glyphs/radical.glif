@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="radical" format="2">
-  <advance width="418.175"/>
+  <advance width="418"/>
   <unicode hex="221A"/>
   <outline>
     <contour>
@@ -19,4 +19,10 @@
       <point x="156" y="147"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9747,0.4544,0.7827,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lozenge" format="2">
-  <advance width="419.3"/>
+  <advance width="419"/>
   <unicode hex="25CA"/>
   <outline>
     <contour>
@@ -32,4 +32,10 @@
       <point x="231" y="108"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9747,0.4544,0.7827,1</string>
+    </dict>
+  </lib>
 </glyph>

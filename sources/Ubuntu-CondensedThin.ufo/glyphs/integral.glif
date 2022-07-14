@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="integral" format="2">
-  <advance width="266.875"/>
+  <advance width="267"/>
   <unicode hex="222B"/>
   <outline>
     <contour>
@@ -30,4 +30,10 @@
       <point x="25" y="-185"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9747,0.4544,0.7827,1</string>
+    </dict>
+  </lib>
 </glyph>

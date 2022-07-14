@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_f_i" format="2">
-  <advance width="760"/>
+  <advance width="722"/>
   <unicode hex="FB03"/>
-  <anchor x="253" y="0" name="caret_1"/>
+  <anchor x="233" y="0" name="caret_1"/>
   <anchor x="507" y="0" name="caret_2"/>
-  <anchor x="138" y="0" name="bottom_1"/>
+  <anchor x="149" y="0" name="bottom_1"/>
   <anchor x="419" y="0" name="bottom_2"/>
-  <anchor x="653" y="0" name="bottom_3"/>
-  <anchor x="138" y="776" name="top_1"/>
-  <anchor x="419" y="776" name="top_2"/>
+  <anchor x="624" y="0" name="bottom_3"/>
+  <anchor x="148" y="776" name="top_1"/>
+  <anchor x="420" y="776" name="top_2"/>
   <outline>
     <component base="f"/>
-    <component base="f" xOffset="281"/>
-    <component base="i" xOffset="547"/>
+    <component base="f" xOffset="263"/>
+    <component base="i" xOffset="526"/>
   </outline>
   <lib>
     <dict>
@@ -43,6 +43,8 @@
           <string>i</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="threefifths" format="2">
-  <advance width="699.2"/>
+  <advance width="699"/>
   <unicode hex="2157"/>
   <outline>
     <component base="threesuperior" xOffset="24"/>
@@ -36,6 +36,8 @@
           <string>fivesuperior</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.9802,0.7714,0.8886,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Guilsinglleft" format="2">
-  <advance width="232"/>
+  <advance width="234"/>
   <outline>
     <component base="guilsinglleft" yOffset="62"/>
   </outline>
@@ -17,6 +17,8 @@
           <string>guilsinglleft</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>
