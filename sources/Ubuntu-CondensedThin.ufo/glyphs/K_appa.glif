@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Kappa" format="2">
-  <advance width="461"/>
+  <advance width="454"/>
   <unicode hex="039A"/>
   <anchor x="231" y="0" name="bottom"/>
   <anchor x="231" y="693" name="top"/>
@@ -20,6 +20,8 @@
           <string>K</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

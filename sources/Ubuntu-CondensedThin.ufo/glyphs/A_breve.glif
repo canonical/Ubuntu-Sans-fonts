@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Abreve" format="2">
-  <advance width="463"/>
+  <advance width="461"/>
   <unicode hex="0102"/>
   <anchor x="232" y="0" name="bottom"/>
   <anchor x="416" y="10" name="ogonek"/>
-  <anchor x="232" y="693" name="top"/>
+  <anchor x="229" y="693" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="breve" xOffset="79" yOffset="150"/>
+    <component base="breve" xOffset="78" yOffset="150"/>
   </outline>
   <lib>
     <dict>
@@ -30,6 +30,8 @@
           <string>breve</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

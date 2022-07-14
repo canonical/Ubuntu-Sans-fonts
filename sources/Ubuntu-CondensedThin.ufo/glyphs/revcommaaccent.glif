@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="revcommaaccent" format="2">
-  <advance width="546.825"/>
+  <advance width="547"/>
   <outline>
     <contour>
       <point x="240" y="616" type="curve"/>
@@ -19,4 +19,10 @@
       <point x="239" y="619"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1068,0.8445,0.9988,1</string>
+    </dict>
+  </lib>
 </glyph>

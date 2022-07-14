@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Gcommaaccent" format="2">
-  <advance width="505"/>
+  <advance width="503"/>
   <unicode hex="0122"/>
   <anchor x="258" y="-181" name="bottom"/>
   <anchor x="253" y="693" name="top"/>
@@ -29,6 +29,8 @@
           <string>commaaccent</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

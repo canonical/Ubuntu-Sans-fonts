@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hbar" format="2">
-  <advance width="458.55"/>
+  <advance width="459"/>
   <unicode hex="0127"/>
   <outline>
     <contour>
@@ -34,4 +34,10 @@
       <point x="85" y="647" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1068,0.8445,0.9988,1</string>
+    </dict>
+  </lib>
 </glyph>

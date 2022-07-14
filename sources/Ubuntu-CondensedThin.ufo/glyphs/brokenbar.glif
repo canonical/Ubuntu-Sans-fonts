@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="brokenbar" format="2">
-  <advance width="238.85"/>
+  <advance width="239"/>
   <unicode hex="00A6"/>
   <outline>
     <contour>
@@ -16,4 +16,10 @@
       <point x="101" y="183" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1068,0.8445,0.9988,1</string>
+    </dict>
+  </lib>
 </glyph>

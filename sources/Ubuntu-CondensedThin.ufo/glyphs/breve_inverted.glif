@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="breve_inverted" format="2">
-  <advance width="337.45"/>
+  <advance width="337"/>
   <unicode hex="0311"/>
   <outline>
     <contour>
@@ -20,4 +20,10 @@
       <point x="79" y="695"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1068,0.8445,0.9988,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="eth" format="2">
-  <advance width="439.225"/>
+  <advance width="439"/>
   <unicode hex="00F0"/>
   <anchor x="221" y="0" name="bottom"/>
   <anchor x="221" y="776" name="top"/>
@@ -56,4 +56,10 @@
       <point x="249" y="25"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1068,0.8445,0.9988,1</string>
+    </dict>
+  </lib>
 </glyph>

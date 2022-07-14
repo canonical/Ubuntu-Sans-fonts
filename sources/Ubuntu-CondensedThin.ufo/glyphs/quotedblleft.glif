@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quotedblleft" format="2">
-  <advance width="378.6"/>
+  <advance width="379"/>
   <unicode hex="201C"/>
   <outline>
     <contour>
@@ -36,4 +36,10 @@
       <point x="252" y="550"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1068,0.8445,0.9988,1</string>
+    </dict>
+  </lib>
 </glyph>

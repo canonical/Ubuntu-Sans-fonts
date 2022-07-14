@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresistonos" format="2">
-  <advance width="166.6"/>
+  <advance width="167"/>
   <unicode hex="0385"/>
   <anchor x="83" y="776" name="_top"/>
   <outline>
@@ -39,4 +39,10 @@
       <point x="138" y="640"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1068,0.8445,0.9988,1</string>
+    </dict>
+  </lib>
 </glyph>
