@@ -1368,6 +1368,36 @@
     <integer>0</integer>
     <key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
     <integer>1</integer>
+    <key>com.typemytype.robofont.smartSets</key>
+    <array>
+      <dict>
+        <key>glyphNames</key>
+        <array>
+          <string>A</string>
+          <string>Agrave</string>
+          <string>Aacute</string>
+          <string>Acircumflex</string>
+          <string>Atilde</string>
+          <string>Adieresis</string>
+          <string>Aring</string>
+          <string>Amacron</string>
+          <string>Abreve</string>
+          <string>Aogonek</string>
+          <string>Aringacute</string>
+          <string>uni023A</string>
+          <string>Alpha</string>
+          <string>Alphatonos</string>
+          <string>uni1F0A</string>
+          <string>uni1F8A</string>
+          <string>uni1FBA</string>
+          <string>uni1F8A.alt</string>
+        </array>
+        <key>smartSetName</key>
+        <string>A latin</string>
+      </dict>
+    </array>
+    <key>com.typemytype.robofont.smartSets.uniqueKey</key>
+    <string>6313953680</string>
     <key>public.glyphOrder</key>
     <array>
       <string>.notdef</string>
