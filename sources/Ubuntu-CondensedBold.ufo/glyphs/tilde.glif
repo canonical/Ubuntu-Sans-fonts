@@ -1,29 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tilde" format="2">
-  <advance width="322.375"/>
+  <advance width="310"/>
   <unicode hex="02DC"/>
   <outline>
     <contour>
-      <point x="91" y="612" type="line"/>
-      <point x="92" y="634"/>
-      <point x="92" y="655"/>
-      <point x="115" y="655" type="curve" smooth="yes"/>
-      <point x="151" y="655"/>
-      <point x="149" y="612"/>
-      <point x="213" y="612" type="curve" smooth="yes"/>
-      <point x="279" y="612"/>
-      <point x="308" y="699"/>
-      <point x="305" y="731" type="curve"/>
-      <point x="233" y="758" type="line"/>
-      <point x="229" y="730"/>
-      <point x="222" y="715"/>
-      <point x="202" y="715" type="curve" smooth="yes"/>
-      <point x="187" y="715"/>
-      <point x="176" y="758"/>
-      <point x="111" y="758" type="curve" smooth="yes"/>
-      <point x="49" y="758"/>
-      <point x="13" y="671"/>
-      <point x="19" y="639" type="curve"/>
+      <point x="83" y="607" type="line"/>
+      <point x="88" y="637"/>
+      <point x="98" y="652"/>
+      <point x="113" y="652" type="curve" smooth="yes"/>
+      <point x="143" y="652"/>
+      <point x="164" y="609"/>
+      <point x="209" y="609" type="curve"/>
+      <point x="254" y="609"/>
+      <point x="286" y="650"/>
+      <point x="297" y="720" type="curve"/>
+      <point x="227" y="756" type="line"/>
+      <point x="222" y="726"/>
+      <point x="212" y="711"/>
+      <point x="197" y="711" type="curve"/>
+      <point x="170" y="711"/>
+      <point x="154" y="754"/>
+      <point x="101" y="754" type="curve"/>
+      <point x="56" y="754"/>
+      <point x="24" y="713"/>
+      <point x="13" y="643" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.4,0,1</string>
+    </dict>
+  </lib>
 </glyph>

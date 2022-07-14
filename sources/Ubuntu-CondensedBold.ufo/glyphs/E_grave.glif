@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Egrave" format="2">
-  <advance width="484"/>
+  <advance width="491"/>
   <unicode hex="00C8"/>
-  <anchor x="243" y="0" name="bottom"/>
-  <anchor x="437" y="10" name="ogonek"/>
-  <anchor x="243" y="693" name="top"/>
-  <anchor x="20" y="693" name="topleft"/>
+  <anchor x="246" y="0" name="bottom"/>
+  <anchor x="433" y="10" name="ogonek"/>
+  <anchor x="246" y="693" name="top"/>
+  <anchor x="21" y="693" name="topleft"/>
   <outline>
     <component base="E"/>
-    <component base="grave" xOffset="170" yOffset="150"/>
+    <component base="grave" xOffset="130" yOffset="150"/>
   </outline>
   <lib>
     <dict>
@@ -31,6 +31,8 @@
           <string>grave</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>1,0.4,0,1</string>
     </dict>
   </lib>
 </glyph>
