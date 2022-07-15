@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ldot" format="2">
-  <advance width="447"/>
+  <advance width="455"/>
   <unicode hex="013F"/>
   <anchor x="224" y="0" name="bottom"/>
   <anchor x="224" y="347" name="center"/>
@@ -8,7 +8,7 @@
   <anchor x="427" y="693" name="topright"/>
   <outline>
     <component base="L"/>
-    <component base="dotaccent" xOffset="202" yOffset="-317"/>
+    <component base="dotaccent" xOffset="237" yOffset="-297"/>
   </outline>
   <lib>
     <dict>
@@ -31,6 +31,8 @@
           <string>dotaccent</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>1,0.4,0,1</string>
     </dict>
   </lib>
 </glyph>

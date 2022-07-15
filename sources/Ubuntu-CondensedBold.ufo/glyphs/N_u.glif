@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Nu" format="2">
-  <advance width="598"/>
+  <advance width="607"/>
   <unicode hex="039D"/>
   <anchor x="299" y="0" name="bottom"/>
   <anchor x="299" y="693" name="top"/>
@@ -20,6 +20,8 @@
           <string>N</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>1,0.4,0,1</string>
     </dict>
   </lib>
 </glyph>
