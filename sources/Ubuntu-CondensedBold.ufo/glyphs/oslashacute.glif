@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oslashacute" format="2">
-  <advance width="476"/>
+  <advance width="489"/>
   <unicode hex="01FF"/>
-  <anchor x="239" y="527" name="top"/>
+  <anchor x="244" y="527" name="top"/>
   <outline>
-    <component base="oslash"/>
-    <component base="acute" xOffset="43"/>
+    <component base="oslash" xOffset="3"/>
+    <component base="acute" xOffset="80"/>
   </outline>
   <lib>
     <dict>
@@ -28,6 +28,8 @@
           <string>acute</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>1,0.4,0,1</string>
     </dict>
   </lib>
 </glyph>
