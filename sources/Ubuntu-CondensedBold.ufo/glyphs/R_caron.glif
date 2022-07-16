@@ -6,7 +6,7 @@
   <anchor x="272" y="693" name="top"/>
   <outline>
     <component base="R"/>
-    <component base="caron" xOffset="97" yOffset="150"/>
+    <component base="caron" xOffset="96" yOffset="150"/>
   </outline>
   <lib>
     <dict>
@@ -29,6 +29,8 @@
           <string>caron</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>1,0.4,0,1</string>
     </dict>
   </lib>
 </glyph>

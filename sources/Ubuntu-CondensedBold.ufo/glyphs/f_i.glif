@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_i" format="2">
-  <advance width="597"/>
+  <advance width="602"/>
   <unicode hex="FB01"/>
   <anchor x="148" y="0" name="bottom_1"/>
   <anchor x="448" y="0" name="bottom_2"/>
@@ -32,6 +32,8 @@
           <string>i</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>1,0.4,0,1</string>
     </dict>
   </lib>
 </glyph>

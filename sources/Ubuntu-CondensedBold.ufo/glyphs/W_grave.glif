@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Wgrave" format="2">
-  <advance width="778"/>
+  <advance width="719"/>
   <unicode hex="1E80"/>
-  <anchor x="390" y="0" name="bottom"/>
-  <anchor x="390" y="693" name="top"/>
+  <anchor x="360" y="0" name="bottom"/>
+  <anchor x="360" y="693" name="top"/>
   <outline>
     <component base="W"/>
-    <component base="grave" xOffset="219" yOffset="150"/>
+    <component base="grave" xOffset="229" yOffset="150"/>
   </outline>
   <lib>
     <dict>
@@ -29,6 +29,8 @@
           <string>grave</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>1,0.4,0,1</string>
     </dict>
   </lib>
 </glyph>
