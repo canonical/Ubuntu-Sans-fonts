@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni020F" format="2">
-  <advance width="450"/>
+  <advance width="440"/>
   <unicode hex="020F"/>
   <anchor x="225" y="0" name="bottom"/>
   <anchor x="225" y="257" name="center"/>
@@ -9,7 +9,7 @@
   <anchor x="430" y="513" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="breve_inverted" xOffset="384"/>
+    <component base="breve_inverted" xOffset="193"/>
   </outline>
   <lib>
     <dict>
@@ -32,6 +32,8 @@
           <string>breve_inverted</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

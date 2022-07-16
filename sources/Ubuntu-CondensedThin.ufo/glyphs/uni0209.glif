@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0209" format="2">
-  <advance width="214"/>
+  <advance width="196"/>
   <unicode hex="0209"/>
   <anchor x="106" y="0" name="bottom"/>
   <anchor x="193" y="10" name="ogonek"/>
   <anchor x="106" y="513" name="top"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="double_grave" xOffset="-106"/>
+    <component base="double_grave" xOffset="-101"/>
   </outline>
   <lib>
     <dict>
@@ -30,6 +30,8 @@
           <string>double_grave</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

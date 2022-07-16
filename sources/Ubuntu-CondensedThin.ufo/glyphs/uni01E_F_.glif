@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni01EF" format="2">
-  <advance width="350"/>
+  <advance width="314"/>
   <unicode hex="01EF"/>
   <anchor x="175" y="0" name="bottom"/>
   <anchor x="175" y="513" name="top"/>
   <outline>
     <component base="uni0292"/>
-    <component base="caron" xOffset="5"/>
+    <component base="caron" xOffset="-11"/>
   </outline>
   <lib>
     <dict>
@@ -29,6 +29,8 @@
           <string>caron</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni01C6" format="2">
-  <advance width="758"/>
+  <advance width="743"/>
   <unicode hex="01C6"/>
-  <anchor x="223" y="0" name="bottom_1"/>
-  <anchor x="595" y="0" name="bottom_2"/>
-  <anchor x="223" y="257" name="center_1"/>
-  <anchor x="595" y="257" name="center_2"/>
-  <anchor x="223" y="776" name="top_1"/>
-  <anchor x="595" y="513" name="top_2"/>
-  <anchor x="422" y="776" name="topright"/>
+  <anchor x="221" y="0" name="bottom_1"/>
+  <anchor x="593" y="0" name="bottom_2"/>
+  <anchor x="221" y="257" name="center_1"/>
+  <anchor x="593" y="257" name="center_2"/>
+  <anchor x="221" y="776" name="top_1"/>
+  <anchor x="593" y="513" name="top_2"/>
+  <anchor x="420" y="776" name="topright"/>
   <outline>
-    <component base="d" xOffset="2"/>
-    <component base="z" xOffset="432"/>
-    <component base="caron" xOffset="445"/>
+    <component base="d"/>
+    <component base="z" xOffset="421"/>
+    <component base="caron" xOffset="431"/>
   </outline>
   <lib>
     <dict>
@@ -43,6 +43,8 @@
           <string>caron</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0210" format="2">
-  <advance width="484"/>
+  <advance width="476"/>
   <unicode hex="0210"/>
   <anchor x="242" y="0" name="bottom"/>
   <anchor x="242" y="693" name="top"/>
@@ -29,6 +29,8 @@
           <string>double_grave</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,29 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni01C2" format="2">
-  <advance width="443.325"/>
+  <advance width="435"/>
   <unicode hex="01C2"/>
   <outline>
     <contour>
-      <point x="202" y="-185" type="line"/>
-      <point x="240" y="-185" type="line"/>
-      <point x="240" y="197" type="line"/>
-      <point x="391" y="197" type="line"/>
-      <point x="391" y="229" type="line"/>
-      <point x="240" y="229" type="line"/>
-      <point x="240" y="372" type="line"/>
-      <point x="391" y="372" type="line"/>
-      <point x="391" y="402" type="line"/>
-      <point x="240" y="402" type="line"/>
-      <point x="240" y="783" type="line"/>
-      <point x="202" y="783" type="line"/>
-      <point x="202" y="402" type="line"/>
-      <point x="52" y="402" type="line"/>
-      <point x="52" y="372" type="line"/>
-      <point x="202" y="372" type="line"/>
-      <point x="202" y="229" type="line"/>
-      <point x="52" y="229" type="line"/>
-      <point x="52" y="197" type="line"/>
-      <point x="202" y="197" type="line"/>
+      <point x="200" y="-185" type="line"/>
+      <point x="234" y="-185" type="line"/>
+      <point x="234" y="199" type="line"/>
+      <point x="385" y="199" type="line"/>
+      <point x="385" y="228" type="line"/>
+      <point x="234" y="228" type="line"/>
+      <point x="234" y="373" type="line"/>
+      <point x="385" y="373" type="line"/>
+      <point x="385" y="401" type="line"/>
+      <point x="234" y="401" type="line"/>
+      <point x="234" y="783" type="line"/>
+      <point x="200" y="783" type="line"/>
+      <point x="200" y="401" type="line"/>
+      <point x="50" y="401" type="line"/>
+      <point x="50" y="373" type="line"/>
+      <point x="200" y="373" type="line"/>
+      <point x="200" y="228" type="line"/>
+      <point x="50" y="228" type="line"/>
+      <point x="50" y="199" type="line"/>
+      <point x="200" y="199" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>
