@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni01D5" format="2">
-  <advance width="522"/>
+  <advance width="520"/>
   <unicode hex="01D5"/>
   <anchor x="262" y="0" name="bottom"/>
   <anchor x="471" y="10" name="ogonek"/>
@@ -8,7 +8,7 @@
   <anchor x="502" y="693" name="topright"/>
   <outline>
     <component base="U"/>
-    <component base="dieresis_macron" xOffset="104" yOffset="175"/>
+    <component base="dieresis_macron" xOffset="103" yOffset="175"/>
   </outline>
   <lib>
     <dict>
@@ -31,6 +31,8 @@
           <string>dieresis_macron</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

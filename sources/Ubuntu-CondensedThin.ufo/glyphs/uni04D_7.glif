@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni04D7" format="2">
-  <advance width="424"/>
+  <advance width="412"/>
   <unicode hex="04D7"/>
   <anchor x="213" y="0" name="bottom"/>
   <anchor x="382" y="10" name="ogonek"/>
   <anchor x="213" y="513" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="kratka" xOffset="85"/>
+    <component base="kratka" xOffset="62"/>
   </outline>
   <lib>
     <dict>
@@ -30,6 +30,8 @@
           <string>kratka</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

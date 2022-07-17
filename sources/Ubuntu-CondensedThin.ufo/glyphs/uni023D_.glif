@@ -1,23 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni023D" format="2">
-  <advance width="380.15"/>
+  <advance width="385"/>
   <unicode hex="023D"/>
   <outline>
     <contour>
-      <point x="84" y="0" type="line"/>
-      <point x="349" y="0" type="line"/>
-      <point x="349" y="35" type="line"/>
-      <point x="122" y="35" type="line"/>
+      <point x="88" y="0" type="line"/>
+      <point x="351" y="0" type="line"/>
+      <point x="351" y="31" type="line"/>
+      <point x="122" y="31" type="line"/>
       <point x="122" y="326" type="line"/>
-      <point x="253" y="326" type="line"/>
-      <point x="253" y="358" type="line"/>
+      <point x="256" y="326" type="line"/>
+      <point x="256" y="358" type="line"/>
       <point x="122" y="358" type="line"/>
       <point x="122" y="693" type="line"/>
-      <point x="84" y="693" type="line"/>
-      <point x="84" y="358" type="line"/>
-      <point x="14" y="358" type="line"/>
-      <point x="14" y="326" type="line"/>
-      <point x="84" y="326" type="line"/>
+      <point x="88" y="693" type="line"/>
+      <point x="88" y="358" type="line"/>
+      <point x="16" y="358" type="line"/>
+      <point x="16" y="326" type="line"/>
+      <point x="88" y="326" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>
