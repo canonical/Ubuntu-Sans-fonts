@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ellipsis" format="2">
-  <advance width="991"/>
+  <advance width="852"/>
   <unicode hex="2026"/>
   <outline>
-    <component base="period" xOffset="-25"/>
-    <component base="period" xOffset="338"/>
-    <component base="period" xOffset="700"/>
+    <component base="period" xOffset="5"/>
+    <component base="period" xOffset="299"/>
+    <component base="period" xOffset="593"/>
   </outline>
   <lib>
     <dict>
@@ -36,6 +36,8 @@
           <string>period</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>1,0.4,0,1</string>
     </dict>
   </lib>
 </glyph>
