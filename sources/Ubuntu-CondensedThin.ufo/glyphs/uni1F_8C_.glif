@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1F8C" format="2">
-  <advance width="754"/>
+  <advance width="728"/>
   <unicode hex="1F8C"/>
   <anchor x="325" y="0" name="bottom"/>
   <anchor x="509" y="10" name="ogonek"/>
   <anchor x="325" y="693" name="top_1"/>
   <anchor x="652" y="513" name="top_2"/>
   <outline>
-    <component base="A" xOffset="93"/>
-    <component base="iota" xOffset="548"/>
+    <component base="A" xOffset="68"/>
+    <component base="iota" xOffset="523"/>
     <component base="uni1FCE" xOffset="-92" yOffset="-75"/>
   </outline>
   <lib>
@@ -41,7 +41,7 @@
         </dict>
       </array>
       <key>public.markColor</key>
-      <string>0.1068,0.8445,0.9988,1</string>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>
