@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="rho" format="2">
-  <advance width="455.6"/>
+  <advance width="456"/>
   <unicode hex="03C1"/>
   <outline>
     <contour>
@@ -36,4 +36,10 @@
       <point x="271" y="18"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1068,0.8445,0.9988,1</string>
+    </dict>
+  </lib>
 </glyph>

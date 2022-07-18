@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni04F3" format="2">
-  <advance width="354"/>
+  <advance width="362"/>
   <unicode hex="04F3"/>
   <anchor x="178" y="0" name="bottom"/>
   <anchor x="178" y="513" name="top"/>
   <outline>
     <component base="y"/>
-    <component base="hungarumlaut" xOffset="38"/>
+    <component base="hungarumlaut" xOffset="59"/>
   </outline>
   <lib>
     <dict>
@@ -29,6 +29,8 @@
           <string>hungarumlaut</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

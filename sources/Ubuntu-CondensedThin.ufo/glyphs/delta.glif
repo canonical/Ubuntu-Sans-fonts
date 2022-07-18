@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="delta" format="2">
-  <advance width="454.275"/>
+  <advance width="454"/>
   <unicode hex="03B4"/>
   <outline>
     <contour>
@@ -51,4 +51,10 @@
       <point x="299" y="19"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1068,0.8445,0.9988,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="psi" format="2">
-  <advance width="587.85"/>
+  <advance width="588"/>
   <unicode hex="03C8"/>
   <outline>
     <contour>
@@ -30,4 +30,10 @@
       <point x="277" y="-8" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1068,0.8445,0.9988,1</string>
+    </dict>
+  </lib>
 </glyph>

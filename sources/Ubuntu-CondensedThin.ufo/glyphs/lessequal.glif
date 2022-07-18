@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lessequal" format="2">
-  <advance width="430"/>
+  <advance width="425"/>
   <unicode hex="2264"/>
   <outline>
     <contour>
-      <point x="355" y="161" type="line"/>
-      <point x="377" y="188" type="line"/>
-      <point x="77" y="338" type="line"/>
-      <point x="377" y="488" type="line"/>
-      <point x="355" y="515" type="line"/>
-      <point x="48" y="354" type="line"/>
-      <point x="48" y="324" type="line"/>
+      <point x="359" y="168" type="line"/>
+      <point x="375" y="194" type="line"/>
+      <point x="95" y="349" type="line"/>
+      <point x="375" y="503" type="line"/>
+      <point x="359" y="530" type="line"/>
+      <point x="52" y="359" type="line"/>
+      <point x="52" y="339" type="line"/>
     </contour>
     <contour>
-      <point x="48" y="5" type="line"/>
-      <point x="382" y="5" type="line"/>
-      <point x="382" y="40" type="line"/>
-      <point x="48" y="40" type="line"/>
+      <point x="45" y="0" type="line"/>
+      <point x="379" y="0" type="line"/>
+      <point x="379" y="31" type="line"/>
+      <point x="45" y="31" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.9747,0.4544,0.7827,1</string>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>
