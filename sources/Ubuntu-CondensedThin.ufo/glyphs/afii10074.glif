@@ -1,35 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="afii10074" format="2">
-  <advance width="469"/>
+  <advance width="483"/>
   <unicode hex="0438"/>
   <anchor x="449" y="0" name="bottomright"/>
   <anchor x="235" y="513" name="top"/>
   <outline>
     <contour>
-      <point x="88" y="0" type="line"/>
-      <point x="107" y="0" type="line"/>
-      <point x="156" y="141"/>
-      <point x="272" y="319"/>
-      <point x="350" y="437" type="curve"/>
-      <point x="350" y="292"/>
-      <point x="350" y="145"/>
-      <point x="350" y="0" type="curve"/>
-      <point x="381" y="0" type="line"/>
-      <point x="381" y="521" type="line"/>
-      <point x="362" y="521" type="line"/>
-      <point x="307" y="452"/>
-      <point x="179" y="253"/>
-      <point x="118" y="120" type="curve"/>
-      <point x="118" y="253"/>
-      <point x="118" y="388"/>
-      <point x="118" y="521" type="curve"/>
-      <point x="88" y="521" type="line"/>
+      <point x="84" y="0.0" type="line"/>
+      <point x="117" y="0.0" type="line"/>
+      <point x="201" y="175"/>
+      <point x="287" y="340"/>
+      <point x="367" y="470" type="curve"/>
+      <point x="367" y="0.0" type="line"/>
+      <point x="399" y="0.0" type="line"/>
+      <point x="399" y="517" type="line"/>
+      <point x="364" y="517" type="line"/>
+      <point x="280" y="383"/>
+      <point x="192" y="218"/>
+      <point x="116" y="64" type="curve"/>
+      <point x="116" y="517" type="line"/>
+      <point x="84" y="517" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.1068,0.8445,0.9988,1</string>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

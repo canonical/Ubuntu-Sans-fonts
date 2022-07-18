@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sigma" format="2">
-  <advance width="461.95"/>
+  <advance width="462"/>
   <unicode hex="03C3"/>
   <outline>
     <contour>
@@ -36,4 +36,10 @@
       <point x="314" y="19"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1068,0.8445,0.9988,1</string>
+    </dict>
+  </lib>
 </glyph>

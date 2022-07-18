@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="theta" format="2">
-  <advance width="497.025"/>
+  <advance width="497"/>
   <unicode hex="03B8"/>
   <outline>
     <contour>
@@ -36,4 +36,10 @@
       <point x="394" y="401" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1068,0.8445,0.9988,1</string>
+    </dict>
+  </lib>
 </glyph>

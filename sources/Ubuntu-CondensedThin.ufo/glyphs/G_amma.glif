@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Gamma" format="2">
-  <advance width="366.45"/>
+  <advance width="360"/>
   <unicode hex="0393"/>
   <anchor x="346" y="0" name="bottomright"/>
   <anchor x="183" y="693" name="top"/>
@@ -20,6 +20,8 @@
           <string>afii10020</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

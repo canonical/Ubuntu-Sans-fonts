@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni04CE" format="2">
-  <advance width="588.55"/>
+  <advance width="589"/>
   <unicode hex="04CE"/>
   <outline>
     <contour>
@@ -43,4 +43,10 @@
       <point x="442" y="-132" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>
