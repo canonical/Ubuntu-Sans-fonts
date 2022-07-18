@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0231" format="2">
-  <advance width="476"/>
+  <advance width="486"/>
   <unicode hex="0231"/>
-  <anchor x="239" y="0" name="bottom"/>
-  <anchor x="239" y="263" name="center"/>
+  <anchor x="243" y="0" name="bottom"/>
+  <anchor x="243" y="263" name="center"/>
   <anchor x="429" y="10" name="ogonek"/>
-  <anchor x="239" y="527" name="top"/>
+  <anchor x="243" y="527" name="top"/>
   <anchor x="456" y="527" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="dot_macron" xOffset="84"/>
+    <component base="dot_macron" xOffset="87"/>
   </outline>
   <lib>
     <dict>
@@ -32,6 +32,8 @@
           <string>dot_macron</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>1,0.4,0,1</string>
     </dict>
   </lib>
 </glyph>

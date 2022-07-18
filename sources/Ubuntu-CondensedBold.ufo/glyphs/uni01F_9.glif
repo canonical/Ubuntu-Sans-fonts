@@ -2,11 +2,11 @@
 <glyph name="uni01F9" format="2">
   <advance width="505"/>
   <unicode hex="01F9"/>
-  <anchor x="253" y="0" name="bottom"/>
-  <anchor x="253" y="527" name="top"/>
+  <anchor x="252" y="0" name="bottom"/>
+  <anchor x="252" y="527" name="top"/>
   <outline>
     <component base="n"/>
-    <component base="grave" xOffset="125"/>
+    <component base="grave" xOffset="108"/>
   </outline>
   <lib>
     <dict>
@@ -29,6 +29,8 @@
           <string>grave</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>1,0.4,0,1</string>
     </dict>
   </lib>
 </glyph>
