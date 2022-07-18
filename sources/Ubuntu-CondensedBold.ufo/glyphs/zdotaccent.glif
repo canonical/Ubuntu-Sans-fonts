@@ -1,13 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zdotaccent" format="2">
-  <advance width="386"/>
+  <advance width="369"/>
   <unicode hex="017C"/>
-  <anchor x="193" y="0" name="bottom"/>
-  <anchor x="193" y="263" name="center"/>
-  <anchor x="193" y="527" name="top"/>
+  <anchor x="184" y="0" name="bottom"/>
+  <anchor x="184" y="263" name="center"/>
+  <anchor x="184" y="527" name="top"/>
+  <anchor x="347.1463913848086" y="382.5029189856597" name="topRight"/>
   <outline>
     <component base="z"/>
-    <component base="dotaccent" xOffset="30"/>
+    <component base="dotaccent" xOffset="62"/>
   </outline>
   <lib>
     <dict>
@@ -30,6 +31,8 @@
           <string>dotaccent</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>1,0.4,0,1</string>
     </dict>
   </lib>
 </glyph>

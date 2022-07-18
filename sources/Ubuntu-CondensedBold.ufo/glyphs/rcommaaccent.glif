@@ -2,11 +2,11 @@
 <glyph name="rcommaaccent" format="2">
   <advance width="363"/>
   <unicode hex="0157"/>
-  <anchor x="119" y="-195" name="bottom"/>
-  <anchor x="181" y="527" name="top"/>
+  <anchor x="182" y="-195" name="bottom"/>
+  <anchor x="182" y="527" name="top"/>
   <outline>
     <component base="r"/>
-    <component base="commaaccent" xOffset="83"/>
+    <component base="commaaccent" xOffset="-11"/>
   </outline>
   <lib>
     <dict>
@@ -29,6 +29,8 @@
           <string>commaaccent</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>1,0.4,0,1</string>
     </dict>
   </lib>
 </glyph>
