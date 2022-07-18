@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni04AB" format="2">
-  <advance width="370"/>
+  <advance width="383"/>
   <unicode hex="04AB"/>
   <outline>
     <component base="ccedilla"/>
@@ -18,6 +18,8 @@
           <string>ccedilla</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>1,0.4,0,1</string>
     </dict>
   </lib>
 </glyph>

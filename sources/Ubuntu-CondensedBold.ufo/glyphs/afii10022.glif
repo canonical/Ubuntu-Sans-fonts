@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="afii10022" format="2">
-  <advance width="484"/>
+  <advance width="491"/>
   <unicode hex="0415"/>
-  <anchor x="243" y="693" name="top"/>
-  <anchor x="243" y="0" name="bottom"/>
+  <anchor x="246" y="693" name="top"/>
+  <anchor x="246" y="0" name="bottom"/>
   <anchor x="437" y="10" name="ogonek"/>
   <anchor x="20" y="693" name="topleft"/>
   <outline>
@@ -22,6 +22,8 @@
           <string>E</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>1,0.4,0,1</string>
     </dict>
   </lib>
 </glyph>

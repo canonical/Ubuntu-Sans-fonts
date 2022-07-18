@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni01D3" format="2">
-  <advance width="576"/>
+  <advance width="570"/>
   <unicode hex="01D3"/>
-  <anchor x="288" y="0" name="bottom"/>
+  <anchor x="285" y="0" name="bottom"/>
   <anchor x="517" y="10" name="ogonek"/>
-  <anchor x="288" y="693" name="top"/>
+  <anchor x="285" y="693" name="top"/>
   <anchor x="556" y="693" name="topright"/>
   <outline>
     <component base="U"/>
-    <component base="caron" xOffset="130" yOffset="151"/>
+    <component base="caron" xOffset="121" yOffset="150"/>
   </outline>
   <lib>
     <dict>
@@ -31,6 +31,8 @@
           <string>caron</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>1,0.4,0,1</string>
     </dict>
   </lib>
 </glyph>

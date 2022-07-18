@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni04AE" format="2">
-  <advance width="506"/>
+  <advance width="498"/>
   <unicode hex="04AE"/>
-  <anchor x="254" y="0" name="bottom"/>
-  <anchor x="254" y="693" name="top"/>
+  <anchor x="249" y="0" name="bottom"/>
+  <anchor x="249" y="693" name="top"/>
   <anchor x="20" y="693" name="topleft"/>
+  <anchor x="259.9212389380531" y="689.3078065739571" name="topAttach"/>
   <outline>
     <component base="Y"/>
   </outline>
@@ -21,6 +22,8 @@
           <string>Y</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>1,0.4,0,1</string>
     </dict>
   </lib>
 </glyph>
