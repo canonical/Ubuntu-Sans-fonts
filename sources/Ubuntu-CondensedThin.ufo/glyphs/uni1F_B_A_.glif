@@ -1,13 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1FBA" format="2">
-  <advance width="542"/>
+  <advance width="511"/>
   <unicode hex="1FBA"/>
+  <guideline x="81" y="709" angle="0" identifier="WS98VLeAIv"/>
   <anchor x="319" y="0" name="bottom"/>
   <anchor x="503" y="10" name="ogonek"/>
   <anchor x="319" y="693" name="top"/>
   <outline>
-    <component base="A" xOffset="87"/>
-    <component base="grave" xOffset="-77" yOffset="-75"/>
+    <component base="A" xOffset="50"/>
+    <component base="grave" xOffset="-77" yOffset="-68"/>
   </outline>
   <lib>
     <dict>
@@ -31,7 +32,7 @@
         </dict>
       </array>
       <key>public.markColor</key>
-      <string>0.1068,0.8445,0.9988,1</string>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

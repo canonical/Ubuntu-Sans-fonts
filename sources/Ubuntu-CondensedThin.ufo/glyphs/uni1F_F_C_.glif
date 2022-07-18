@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1FFC" format="2">
-  <advance width="808"/>
+  <advance width="785"/>
   <unicode hex="1FFC"/>
   <anchor x="303" y="0" name="bottom"/>
   <anchor x="706" y="513" name="top"/>
   <anchor x="20" y="693" name="topleft"/>
   <outline>
     <component base="Omega"/>
-    <component base="iota" xOffset="602"/>
+    <component base="iota" xOffset="580"/>
   </outline>
   <lib>
     <dict>
@@ -31,7 +31,7 @@
         </dict>
       </array>
       <key>public.markColor</key>
-      <string>0.1068,0.8445,0.9988,1</string>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>
