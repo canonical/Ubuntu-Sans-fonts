@@ -2,10 +2,10 @@
 <glyph name="uni1FDA" format="2">
   <advance width="325"/>
   <unicode hex="1FDA"/>
-  <anchor x="250" y="0" name="bottom"/>
-  <anchor x="338" y="10" name="ogonek"/>
-  <anchor x="250" y="693" name="top"/>
-  <anchor x="159" y="693" name="topleft"/>
+  <anchor x="219" y="0" name="bottom"/>
+  <anchor x="307" y="10" name="ogonek"/>
+  <anchor x="219" y="693" name="top"/>
+  <anchor x="128" y="693" name="topleft"/>
   <outline>
     <component base="I" xOffset="115"/>
     <component base="grave" xOffset="-86" yOffset="-68"/>
@@ -32,7 +32,7 @@
         </dict>
       </array>
       <key>public.markColor</key>
-      <string>0.0881,0.6429,0.1637,1</string>
+      <string>0.9802,0.7714,0.8886,1</string>
     </dict>
   </lib>
 </glyph>

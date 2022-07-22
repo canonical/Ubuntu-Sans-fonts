@@ -2,12 +2,12 @@
 <glyph name="IJ" format="2">
   <advance width="563"/>
   <unicode hex="0132"/>
-  <anchor x="111" y="0" name="bottom_1"/>
-  <anchor x="395" y="0" name="bottom_2"/>
-  <anchor x="199" y="10" name="ogonek"/>
-  <anchor x="111" y="693" name="top_1"/>
-  <anchor x="395" y="693" name="top_2"/>
-  <anchor x="20" y="693" name="topleft"/>
+  <anchor x="104" y="0" name="bottom_1"/>
+  <anchor x="388" y="0" name="bottom_2"/>
+  <anchor x="192" y="10" name="ogonek"/>
+  <anchor x="104" y="693" name="top_1"/>
+  <anchor x="388" y="693" name="top_2"/>
+  <anchor x="13" y="693" name="topleft"/>
   <outline>
     <component base="I"/>
     <component base="J" xOffset="210"/>
@@ -34,7 +34,7 @@
         </dict>
       </array>
       <key>public.markColor</key>
-      <string>0.0881,0.6429,0.1637,1</string>
+      <string>0.9802,0.7714,0.8886,1</string>
     </dict>
   </lib>
 </glyph>

@@ -2,10 +2,10 @@
 <glyph name="uni1F88" format="2">
   <advance width="624"/>
   <unicode hex="1F88"/>
-  <anchor x="223" y="0" name="bottom"/>
-  <anchor x="407" y="10" name="ogonek"/>
-  <anchor x="223" y="693" name="top_1"/>
-  <anchor x="548" y="513" name="top_2"/>
+  <anchor x="196" y="0" name="bottom"/>
+  <anchor x="380" y="10" name="ogonek"/>
+  <anchor x="194" y="693" name="top_1"/>
+  <anchor x="513" y="513" name="top_2"/>
   <outline>
     <component base="A" xOffset="-34"/>
     <component base="iota" xOffset="419"/>
@@ -41,7 +41,7 @@
         </dict>
       </array>
       <key>public.markColor</key>
-      <string>0.0881,0.6429,0.1637,1</string>
+      <string>0.9802,0.7714,0.8886,1</string>
     </dict>
   </lib>
 </glyph>

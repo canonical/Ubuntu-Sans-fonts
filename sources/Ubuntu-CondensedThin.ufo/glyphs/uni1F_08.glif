@@ -2,9 +2,9 @@
 <glyph name="uni1F08" format="2">
   <advance width="427"/>
   <unicode hex="1F08"/>
-  <anchor x="223" y="0" name="bottom"/>
-  <anchor x="407" y="10" name="ogonek"/>
-  <anchor x="30" y="681" name="top"/>
+  <anchor x="49" y="706" name="top"/>
+  <anchor x="196" y="0" name="bottom"/>
+  <anchor x="380" y="10" name="ogonek"/>
   <outline>
     <component base="A" xOffset="-34"/>
     <component base="uni1FBF" xOffset="-128" yOffset="-75"/>
@@ -31,7 +31,7 @@
         </dict>
       </array>
       <key>public.markColor</key>
-      <string>0.0881,0.6429,0.1637,1</string>
+      <string>0.9802,0.7714,0.8886,1</string>
     </dict>
   </lib>
 </glyph>
