@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FF9" format="2">
+  <advance width="754"/>
+  <unicode hex="1FF9"/>
+  <anchor x="439.0347591712241" y="0.0" name="bottom"/>
+  <anchor x="439.0347591712241" y="347.0" name="center"/>
+  <anchor x="691.1481116905169" y="10.0" name="ogonek"/>
+  <anchor x="439.0347591712241" y="693.0" name="top"/>
+  <anchor x="143.18153914550035" y="693.0" name="topleft"/>
+  <anchor x="733.982666696948" y="693.0" name="topright"/>
+  <outline>
+    <component base="O" xOffset="123.18153914550035"/>
+    <component base="acute" xOffset="-57.46937826446707" yOffset="-79.96163879180085"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>O</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>acute</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

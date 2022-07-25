@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni01C6" format="2">
+  <advance width="892"/>
+  <unicode hex="01C6"/>
+  <anchor x="245.6162125321546" y="0.0" name="bottom_1"/>
+  <anchor x="695.1205601093255" y="0.0" name="bottom_2"/>
+  <anchor x="245.6162125321546" y="262.3550475128618" name="center_1"/>
+  <anchor x="695.1205601093255" y="262.3550475128618" name="center_2"/>
+  <anchor x="245.6162125321546" y="776.0" name="top_1"/>
+  <anchor x="695.1205601093255" y="525.2278412789391" name="top_2"/>
+  <anchor x="470.84485881752465" y="776.0" name="topright"/>
+  <outline>
+    <component base="d"/>
+    <component base="z" xOffset="498.9126425385856"/>
+    <component base="caron" xOffset="529.682160077171"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>d</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>z</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>caron</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

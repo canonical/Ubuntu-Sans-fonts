@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="afii10075" format="2">
+  <advance width="517"/>
+  <unicode hex="0439"/>
+  <anchor x="497.3595088496791" y="0.0" name="bottomright"/>
+  <anchor x="259.43862755144727" y="525.2278412789391" name="top"/>
+  <outline>
+    <component base="afii10074"/>
+    <component base="kratka" xOffset="106.21341007717083"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>afii10074</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>kratka</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

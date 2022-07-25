@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threequarters" format="2">
+  <advance width="724"/>
+  <unicode hex="00BE"/>
+  <outline>
+    <component base="threesuperior" xOffset="16.348977519292674"/>
+    <component base="fraction" xOffset="298.9182574935693"/>
+    <component base="foursuperior" xOffset="419.0368750000002" yOffset="-296.2426224485528"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>threesuperior</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>fraction</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>foursuperior</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

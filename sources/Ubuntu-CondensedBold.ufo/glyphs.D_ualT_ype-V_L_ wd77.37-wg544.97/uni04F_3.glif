@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04F3" format="2">
+  <advance width="448"/>
+  <unicode hex="04F3"/>
+  <anchor x="224.3528613689717" y="0.0" name="bottom"/>
+  <anchor x="224.3528613689717" y="525.2278412789391" name="top"/>
+  <outline>
+    <component base="y"/>
+    <component base="hungarumlaut" xOffset="22.118757332796715"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>y</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>hungarumlaut</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

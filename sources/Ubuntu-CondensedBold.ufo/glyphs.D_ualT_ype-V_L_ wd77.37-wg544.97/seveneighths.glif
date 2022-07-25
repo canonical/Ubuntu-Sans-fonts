@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seveneighths" format="2">
+  <advance width="747"/>
+  <unicode hex="215E"/>
+  <outline>
+    <component base="sevensuperior" xOffset="51.496107461414496"/>
+    <component base="fraction" xOffset="267.4828486117358"/>
+    <component base="eightsuperior" xOffset="437.66384502572373" yOffset="-295.33730994855284"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>sevensuperior</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>fraction</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>eightsuperior</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

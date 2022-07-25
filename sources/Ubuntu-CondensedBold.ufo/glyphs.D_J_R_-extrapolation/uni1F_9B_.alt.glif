@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1F9B.alt" format="2">
+  <advance width="830"/>
+  <anchor x="532" y="0" name="bottom"/>
+  <anchor x="532" y="347" name="center"/>
+  <anchor x="114" y="743" name="top"/>
+  <anchor x="254" y="693" name="topleft"/>
+  <outline>
+    <component base="H" xOffset="234"/>
+    <component base="uni1FDD" xOffset="-35" yOffset="-69"/>
+    <component base="uni1FBE" xOffset="483"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>H</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni1FDD</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>uni1FBE</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
