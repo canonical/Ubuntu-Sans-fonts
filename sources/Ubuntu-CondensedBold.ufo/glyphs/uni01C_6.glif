@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni01C6" format="2">
+  <advance width="842"/>
+  <unicode hex="01C6"/>
+  <anchor x="248" y="0" name="bottom_1"/>
+  <anchor x="671" y="0" name="bottom_2"/>
+  <anchor x="248" y="263" name="center_1"/>
+  <anchor x="671" y="263" name="center_2"/>
+  <anchor x="248" y="776" name="top_1"/>
+  <anchor x="671" y="527" name="top_2"/>
+  <anchor x="472" y="776" name="topright"/>
+  <outline>
+    <component base="d" xOffset="-2"/>
+    <component base="z" xOffset="473"/>
+    <component base="caron" xOffset="507"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>d</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>z</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>caron</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>1,0.4,0,1</string>
+    </dict>
+  </lib>
+</glyph>
