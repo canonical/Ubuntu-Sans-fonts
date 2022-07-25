@@ -5,8 +5,8 @@
   <anchor x="220" y="0" name="bottom"/>
   <anchor x="220" y="257" name="center"/>
   <anchor x="400" y="10" name="ogonek"/>
-  <anchor x="220" y="513" name="top"/>
-  <anchor x="425" y="513" name="topright"/>
+  <anchor x="220" y="517" name="top"/>
+  <anchor x="425" y="517" name="topright"/>
   <outline>
     <contour>
       <point x="220" y="-10" type="curve" smooth="yes"/>
@@ -40,7 +40,7 @@
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>1,0.8155,0.0349,1</string>
+      <string>0.9802,0.7714,0.8886,1</string>
     </dict>
   </lib>
 </glyph>

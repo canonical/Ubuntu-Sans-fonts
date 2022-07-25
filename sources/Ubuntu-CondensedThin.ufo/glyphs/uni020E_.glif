@@ -2,12 +2,12 @@
 <glyph name="uni020E" format="2">
   <advance width="576"/>
   <unicode hex="020E"/>
-  <anchor x="291" y="0" name="bottom"/>
-  <anchor x="291" y="347" name="center"/>
-  <anchor x="523" y="10" name="ogonek"/>
-  <anchor x="291" y="693" name="top"/>
-  <anchor x="20" y="693" name="topleft"/>
-  <anchor x="562" y="693" name="topright"/>
+  <anchor x="288" y="0" name="bottom"/>
+  <anchor x="288" y="347" name="center"/>
+  <anchor x="520" y="10" name="ogonek"/>
+  <anchor x="288" y="693" name="top"/>
+  <anchor x="17" y="693" name="topleft"/>
+  <anchor x="559" y="693" name="topright"/>
   <outline>
     <component base="O"/>
     <component base="breve_inverted" xOffset="119" yOffset="136"/>
@@ -34,7 +34,7 @@
         </dict>
       </array>
       <key>public.markColor</key>
-      <string>0.0881,0.6429,0.1637,1</string>
+      <string>0.9802,0.7714,0.8886,1</string>
     </dict>
   </lib>
 </glyph>

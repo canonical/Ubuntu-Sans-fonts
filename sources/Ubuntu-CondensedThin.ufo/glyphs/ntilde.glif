@@ -2,8 +2,8 @@
 <glyph name="ntilde" format="2">
   <advance width="453"/>
   <unicode hex="00F1"/>
-  <anchor x="229" y="0" name="bottom"/>
-  <anchor x="229" y="513" name="top"/>
+  <anchor x="227" y="0" name="bottom"/>
+  <anchor x="227" y="517" name="top"/>
   <outline>
     <component base="n"/>
     <component base="tilde" xOffset="70"/>
@@ -30,7 +30,7 @@
         </dict>
       </array>
       <key>public.markColor</key>
-      <string>0.0881,0.6429,0.1637,1</string>
+      <string>0.9802,0.7714,0.8886,1</string>
     </dict>
   </lib>
 </glyph>

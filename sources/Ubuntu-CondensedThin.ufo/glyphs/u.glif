@@ -2,10 +2,10 @@
 <glyph name="u" format="2">
   <advance width="451"/>
   <unicode hex="0075"/>
-  <anchor x="226" y="0" name="bottom"/>
-  <anchor x="408" y="10" name="ogonek"/>
-  <anchor x="226" y="513" name="top"/>
-  <anchor x="432" y="513" name="topright"/>
+  <anchor x="224" y="0" name="bottom"/>
+  <anchor x="406" y="10" name="ogonek"/>
+  <anchor x="224" y="517" name="top"/>
+  <anchor x="430" y="517" name="topright"/>
   <outline>
     <contour>
       <point x="230" y="-10" type="curve" smooth="yes"/>
@@ -31,7 +31,7 @@
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>1,0.8155,0.0349,1</string>
+      <string>0.9802,0.7714,0.8886,1</string>
     </dict>
   </lib>
 </glyph>

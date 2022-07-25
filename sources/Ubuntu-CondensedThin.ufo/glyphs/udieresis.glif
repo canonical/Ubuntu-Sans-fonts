@@ -2,10 +2,10 @@
 <glyph name="udieresis" format="2">
   <advance width="451"/>
   <unicode hex="00FC"/>
-  <anchor x="227" y="0" name="bottom"/>
-  <anchor x="409" y="10" name="ogonek"/>
-  <anchor x="227" y="513" name="top"/>
-  <anchor x="433" y="513" name="topright"/>
+  <anchor x="224" y="0" name="bottom"/>
+  <anchor x="406" y="10" name="ogonek"/>
+  <anchor x="224" y="516" name="top"/>
+  <anchor x="430" y="516" name="topright"/>
   <outline>
     <component base="u"/>
     <component base="dieresis" xOffset="66"/>
@@ -32,7 +32,7 @@
         </dict>
       </array>
       <key>public.markColor</key>
-      <string>0.0881,0.6429,0.1637,1</string>
+      <string>0.9802,0.7714,0.8886,1</string>
     </dict>
   </lib>
 </glyph>

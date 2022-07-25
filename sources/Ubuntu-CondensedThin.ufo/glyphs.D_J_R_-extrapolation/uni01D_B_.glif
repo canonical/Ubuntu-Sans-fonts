@@ -2,13 +2,13 @@
 <glyph name="uni01DB" format="2">
   <advance width="522"/>
   <unicode hex="01DB"/>
-  <anchor x="262" y="0" name="bottom"/>
-  <anchor x="471" y="10" name="ogonek"/>
-  <anchor x="262" y="693" name="top"/>
-  <anchor x="502" y="693" name="topright"/>
+  <anchor x="201" y="0" name="bottom"/>
+  <anchor x="410" y="10" name="ogonek"/>
+  <anchor x="201" y="693" name="top"/>
+  <anchor x="441" y="693" name="topright"/>
   <outline>
-    <component base="U"/>
-    <component base="dieresis_grave.cap" xOffset="108"/>
+    <component base="U" xOffset="-61"/>
+    <component base="dieresis_grave.cap" xOffset="47"/>
   </outline>
   <lib>
     <dict>

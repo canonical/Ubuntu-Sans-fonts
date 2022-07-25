@@ -2,10 +2,10 @@
 <glyph name="etatonos" format="2">
   <advance width="472"/>
   <unicode hex="03AE"/>
-  <anchor x="236" y="513" name="top"/>
+  <anchor x="-105" y="513" name="top"/>
   <outline>
-    <component base="eta"/>
-    <component base="tonos" xOffset="48"/>
+    <component base="eta" xOffset="-341"/>
+    <component base="tonos" xOffset="-293"/>
   </outline>
   <lib>
     <dict>

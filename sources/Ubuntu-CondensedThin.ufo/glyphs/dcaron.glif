@@ -2,10 +2,10 @@
 <glyph name="dcaron" format="2">
   <advance width="510"/>
   <unicode hex="010F"/>
-  <anchor x="221" y="0" name="bottom"/>
-  <anchor x="221" y="257" name="center"/>
-  <anchor x="221" y="776" name="top"/>
-  <anchor x="420" y="776" name="topright"/>
+  <anchor x="220" y="0" name="bottom"/>
+  <anchor x="220" y="257" name="center"/>
+  <anchor x="220" y="776" name="top"/>
+  <anchor x="415" y="776" name="topright"/>
   <outline>
     <component base="d"/>
     <component base="caron.alt" xOffset="300"/>
@@ -32,7 +32,7 @@
         </dict>
       </array>
       <key>public.markColor</key>
-      <string>0.0881,0.6429,0.1637,1</string>
+      <string>0.9802,0.7714,0.8886,1</string>
     </dict>
   </lib>
 </glyph>

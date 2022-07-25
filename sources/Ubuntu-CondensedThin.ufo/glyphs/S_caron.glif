@@ -2,8 +2,8 @@
 <glyph name="Scaron" format="2">
   <advance width="368"/>
   <unicode hex="0160"/>
-  <anchor x="185" y="0" name="bottom"/>
-  <anchor x="185" y="693" name="top"/>
+  <anchor x="183" y="0" name="bottom"/>
+  <anchor x="183" y="693" name="top"/>
   <outline>
     <component base="S"/>
     <component base="caron" xOffset="50" yOffset="150"/>
@@ -30,7 +30,7 @@
         </dict>
       </array>
       <key>public.markColor</key>
-      <string>0.0881,0.6429,0.1637,1</string>
+      <string>0.9802,0.7714,0.8886,1</string>
     </dict>
   </lib>
 </glyph>
