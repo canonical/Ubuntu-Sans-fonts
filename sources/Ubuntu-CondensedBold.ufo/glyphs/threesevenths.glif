@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="threesevenths" format="2">
-  <advance width="736.05"/>
+  <advance width="745"/>
   <unicode hex="F508"/>
   <outline>
-    <component base="threesuperior" xOffset="24"/>
-    <component base="fraction" xOffset="339"/>
-    <component base="sevensuperior" xOffset="458" yOffset="-298"/>
+    <component base="threesuperior"/>
+    <component base="fraction" xOffset="284"/>
+    <component base="sevensuperior" xOffset="455" yOffset="-298"/>
   </outline>
   <lib>
     <dict>
@@ -36,6 +36,8 @@
           <string>sevensuperior</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>1,0.4,0,1</string>
     </dict>
   </lib>
 </glyph>

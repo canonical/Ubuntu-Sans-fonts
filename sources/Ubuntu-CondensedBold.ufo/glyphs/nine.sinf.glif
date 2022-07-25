@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="nine.sinf" format="2">
-  <advance width="280"/>
+  <advance width="290"/>
   <unicode hex="F81D"/>
   <outline>
     <component base="ninesuperior" yOffset="-426"/>
@@ -18,6 +18,8 @@
           <string>ninesuperior</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>1,0.4,0,1</string>
     </dict>
   </lib>
 </glyph>

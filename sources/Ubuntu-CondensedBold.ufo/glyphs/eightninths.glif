@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="eightninths" format="2">
-  <advance width="741.075"/>
+  <advance width="745"/>
   <unicode hex="F511"/>
   <outline>
-    <component base="eightsuperior" xOffset="19"/>
-    <component base="fraction" xOffset="310"/>
-    <component base="ninesuperior" xOffset="458" yOffset="-297"/>
+    <component base="eightsuperior"/>
+    <component base="fraction" xOffset="306"/>
+    <component base="ninesuperior" xOffset="455" yOffset="-298"/>
   </outline>
   <lib>
     <dict>
@@ -36,6 +36,8 @@
           <string>ninesuperior</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>1,0.4,0,1</string>
     </dict>
   </lib>
 </glyph>

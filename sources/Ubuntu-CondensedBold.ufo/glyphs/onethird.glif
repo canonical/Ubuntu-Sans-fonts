@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="onethird" format="2">
-  <advance width="746.1"/>
+  <advance width="745"/>
   <unicode hex="2153"/>
   <outline>
-    <component base="onesuperior" xOffset="-6"/>
-    <component base="fraction" xOffset="308"/>
-    <component base="threesuperior" xOffset="445" yOffset="-297"/>
+    <component base="onesuperior"/>
+    <component base="fraction" xOffset="286"/>
+    <component base="threesuperior" xOffset="455" yOffset="-298"/>
   </outline>
   <lib>
     <dict>
@@ -36,6 +36,8 @@
           <string>threesuperior</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>1,0.4,0,1</string>
     </dict>
   </lib>
 </glyph>
