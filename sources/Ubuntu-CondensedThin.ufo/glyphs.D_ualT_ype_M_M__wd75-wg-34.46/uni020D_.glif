@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni020D" format="2">
+  <advance width="450"/>
+  <unicode hex="020D"/>
+  <anchor x="225.31079404466502" y="0.0" name="bottom"/>
+  <anchor x="225.31079404466502" y="256.6553970223325" name="center"/>
+  <anchor x="405.29388957816377" y="10.0" name="ogonek"/>
+  <anchor x="225.31079404466502" y="513.310794044665" name="top"/>
+  <anchor x="429.62158808933003" y="513.310794044665" name="topright"/>
+  <outline>
+    <component base="o"/>
+    <component base="double_grave" xOffset="28.94928660049628"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>o</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>double_grave</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

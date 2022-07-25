@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FA8" format="2">
+  <advance width="855"/>
+  <unicode hex="1FA8"/>
+  <anchor x="348.68920595533496" y="0.0" name="bottom"/>
+  <anchor x="26.655397022332508" y="680.2262717121588" name="top"/>
+  <anchor x="66.03380893300249" y="693.0" name="topleft"/>
+  <outline>
+    <component base="Omega" xOffset="46.03380893300248"/>
+    <component base="iota" xOffset="648.6723014888337"/>
+    <component base="uni1FBF" xOffset="-131.32769851116626" yOffset="-75.34460297766749"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Omega</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>iota</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>uni1FBF</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni01C5" format="2">
+  <advance width="850"/>
+  <unicode hex="01C5"/>
+  <anchor x="279.63849255583125" y="0.0" name="bottom_1"/>
+  <anchor x="695.4694478908189" y="0.0" name="bottom_2"/>
+  <anchor x="279.63849255583125" y="347.0" name="center_1"/>
+  <anchor x="695.4694478908189" y="256.6553970223325" name="center_2"/>
+  <anchor x="279.63849255583125" y="693.0" name="top_1"/>
+  <anchor x="695.4694478908189" y="513.310794044665" name="top_2"/>
+  <outline>
+    <component base="D"/>
+    <component base="z" xOffset="532.5201612903226"/>
+    <component base="caron" xOffset="546.1586538461538"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>D</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>z</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>caron</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

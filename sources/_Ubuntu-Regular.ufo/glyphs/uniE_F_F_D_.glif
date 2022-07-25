@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniEFFD" format="2">
+  <advance width="1326.99"/>
+  <unicode hex="EFFD"/>
+  <outline>
+    <component base="zerosuperior" yOffset="-312"/>
+    <component base="period" xOffset="360"/>
+    <component base="eightsuperior" xOffset="606" yOffset="-312"/>
+    <component base="foursuperior" xOffset="967" yOffset="-312"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>zerosuperior</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>period</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>eightsuperior</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>3</integer>
+          <key>name</key>
+          <string>foursuperior</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

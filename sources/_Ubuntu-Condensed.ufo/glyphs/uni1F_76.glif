@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1F76" format="2">
+  <advance width="243"/>
+  <unicode hex="1F76"/>
+  <guideline x="162" y="0" angle="0"/>
+  <anchor x="95" y="769" name="top"/>
+  <outline>
+    <component base="iota"/>
+    <component base="uni1FEF" xOffset="-27"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>iota</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni1FEF</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

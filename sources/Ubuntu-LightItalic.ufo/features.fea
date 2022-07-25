@@ -1,8 +1,3 @@
-table GDEF {
-  # automatic
-  GlyphClassDef
-    , # Base
-    , # Liga
-    [breve_inverted commaaccent], # Mark
-    ;
-} GDEF;
+# Prefix: External features
+include(../features/Ubuntu-Italic.fea);
+
