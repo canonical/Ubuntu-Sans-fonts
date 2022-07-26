@@ -11,24 +11,12 @@
       <point x="357" y="-79"/>
       <point x="343" y="-58"/>
       <point x="307" y="-42" type="curve"/>
-      <point x="312" y="-29"/>
-      <point x="319" y="-13"/>
-      <point x="326" y="0" type="curve"/>
-      <point x="449" y="0" type="line"/>
-      <point x="449" y="119" type="line"/>
-      <point x="220" y="119" type="line"/>
-      <point x="220" y="306" type="line"/>
-      <point x="412" y="306" type="line"/>
-      <point x="412" y="421" type="line"/>
-      <point x="220" y="421" type="line"/>
-      <point x="220" y="574" type="line"/>
-      <point x="428" y="574" type="line"/>
-      <point x="428" y="693" type="line"/>
-      <point x="78" y="693" type="line"/>
-      <point x="78" y="0" type="line"/>
-      <point x="233" y="0" type="line"/>
-      <point x="222" y="-21"/>
-      <point x="210" y="-50"/>
+      <point x="315" y="-22"/>
+      <point x="328" y="6"/>
+      <point x="336" y="20" type="curve"/>
+      <point x="244" y="20" type="line"/>
+      <point x="233" y="4"/>
+      <point x="213" y="-42"/>
       <point x="204" y="-71" type="curve"/>
       <point x="238" y="-75"/>
       <point x="255" y="-85"/>
@@ -43,11 +31,19 @@
       <point x="178" y="-206"/>
       <point x="205" y="-210"/>
     </contour>
+    <contour>
+      <point x="78" y="0" type="line"/>
+      <point x="449" y="0" type="line"/>
+      <point x="449" y="119" type="line"/>
+      <point x="220" y="119" type="line"/>
+      <point x="220" y="306" type="line"/>
+      <point x="412" y="306" type="line"/>
+      <point x="412" y="421" type="line"/>
+      <point x="220" y="421" type="line"/>
+      <point x="220" y="574" type="line"/>
+      <point x="428" y="574" type="line"/>
+      <point x="428" y="693" type="line"/>
+      <point x="78" y="693" type="line"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.4,0,1</string>
-    </dict>
-  </lib>
 </glyph>
