@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="epsilon" format="2">
-  <advance width="401.075"/>
+  <advance width="401"/>
   <unicode hex="03B5"/>
   <anchor x="200" y="527" name="top"/>
   <outline>
@@ -48,4 +48,10 @@
       <point x="122" y="-15"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1068,0.8445,0.9988,1</string>
+    </dict>
+  </lib>
 </glyph>
