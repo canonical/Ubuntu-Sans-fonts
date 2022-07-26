@@ -5,26 +5,26 @@
   <anchor x="157" y="776" name="_top"/>
   <outline>
     <contour>
-      <point x="25" y="608" type="curve"/>
-      <point x="110" y="608" type="line"/>
-      <point x="109" y="590"/>
-      <point x="85" y="671"/>
+      <point x="25" y="607" type="curve"/>
+      <point x="111" y="607" type="line"/>
+      <point x="111" y="649"/>
+      <point x="126" y="671"/>
       <point x="157" y="671" type="curve" smooth="yes"/>
-      <point x="229" y="671"/>
-      <point x="205" y="590"/>
-      <point x="204" y="608" type="curve"/>
-      <point x="289" y="608" type="line"/>
-      <point x="294" y="731"/>
-      <point x="218" y="776"/>
-      <point x="157" y="776" type="curve" smooth="yes"/>
-      <point x="95" y="776"/>
-      <point x="20" y="731"/>
+      <point x="188.0" y="671.0"/>
+      <point x="203" y="649"/>
+      <point x="203" y="607" type="curve"/>
+      <point x="289" y="607" type="line"/>
+      <point x="289" y="700"/>
+      <point x="237" y="760"/>
+      <point x="157" y="760" type="curve" smooth="yes"/>
+      <point x="77.0" y="760.0"/>
+      <point x="25" y="700"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.1068,0.8445,0.9988,1</string>
+      <string>0.9802,0.7714,0.8886,1</string>
     </dict>
   </lib>
 </glyph>

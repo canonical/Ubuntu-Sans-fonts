@@ -70,6 +70,8 @@
     <string>beta.glif</string>
     <key>ccedilla</key>
     <string>ccedilla.glif</string>
+    <key>chi</key>
+    <string>chi.glif</string>
     <key>dcroat</key>
     <string>dcroat.glif</string>
     <key>delta</key>
@@ -82,6 +84,8 @@
     <string>eight.glif</string>
     <key>eogonek</key>
     <string>eogonek.glif</string>
+    <key>epsilon</key>
+    <string>epsilon.glif</string>
     <key>eta</key>
     <string>eta.glif</string>
     <key>eth</key>
@@ -112,12 +116,22 @@
     <string>oe.glif</string>
     <key>ohorn</key>
     <string>ohorn.glif</string>
+    <key>omega</key>
+    <string>omega.glif</string>
+    <key>omegatonos</key>
+    <string>omegatonos.glif</string>
     <key>oslash</key>
     <string>oslash.glif</string>
+    <key>phi</key>
+    <string>phi.glif</string>
     <key>scedilla</key>
     <string>scedilla.glif</string>
+    <key>sigma1</key>
+    <string>sigma1.glif</string>
     <key>six</key>
     <string>six.glif</string>
+    <key>tau</key>
+    <string>tau.glif</string>
     <key>tbar</key>
     <string>tbar.glif</string>
     <key>theta</key>
@@ -146,8 +160,42 @@
     <string>uni024A_.glif</string>
     <key>uni024E</key>
     <string>uni024E_.glif</string>
+    <key>uni1F80</key>
+    <string>uni1F_80.glif</string>
+    <key>uni1F81</key>
+    <string>uni1F_81.glif</string>
+    <key>uni1FB2</key>
+    <string>uni1F_B_2.glif</string>
+    <key>uni1FB4</key>
+    <string>uni1F_B_4.glif</string>
+    <key>uni1FBF</key>
+    <string>uni1F_B_F_.glif</string>
+    <key>uni1FC0</key>
+    <string>uni1F_C_0.glif</string>
+    <key>uni1FC1</key>
+    <string>uni1F_C_1.glif</string>
+    <key>uni1FCE</key>
+    <string>uni1F_C_E_.glif</string>
+    <key>uni1FCF</key>
+    <string>uni1F_C_F_.glif</string>
+    <key>uni1FDD</key>
+    <string>uni1F_D_D_.glif</string>
+    <key>uni1FDE</key>
+    <string>uni1F_D_E_.glif</string>
+    <key>uni1FDF</key>
+    <string>uni1F_D_F_.glif</string>
+    <key>uni1FED</key>
+    <string>uni1F_E_D_.glif</string>
+    <key>uni1FEF</key>
+    <string>uni1F_E_F_.glif</string>
+    <key>uni1FFD</key>
+    <string>uni1F_F_D_.glif</string>
+    <key>uni1FFE</key>
+    <string>uni1F_F_E_.glif</string>
     <key>uogonek</key>
     <string>uogonek.glif</string>
+    <key>upsilontonos</key>
+    <string>upsilontonos.glif</string>
     <key>w</key>
     <string>w.glif</string>
     <key>xi</key>
