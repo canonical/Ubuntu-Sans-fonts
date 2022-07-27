@@ -4,12 +4,24 @@
   <unicode hex="04B2"/>
   <outline>
     <contour>
+      <point x="403" y="42" type="move"/>
       <point x="403" y="-185" type="line"/>
       <point x="538" y="-185" type="line"/>
       <point x="538" y="119" type="line"/>
-      <point x="442" y="119" type="line"/>
-      <point x="416" y="188"/>
-      <point x="382" y="266"/>
+      <point x="438" y="119" type="line"/>
+    </contour>
+    <contour>
+      <point x="6" y="0" type="curve"/>
+      <point x="148" y="0" type="line"/>
+      <point x="172" y="81"/>
+      <point x="197" y="147"/>
+      <point x="243" y="254" type="curve"/>
+      <point x="289" y="147"/>
+      <point x="314" y="81"/>
+      <point x="338" y="0" type="curve"/>
+      <point x="484" y="0" type="line"/>
+      <point x="453" y="96"/>
+      <point x="410" y="205"/>
       <point x="338" y="364" type="curve"/>
       <point x="473" y="693" type="line"/>
       <point x="326" y="693" type="line"/>
@@ -19,21 +31,6 @@
       <point x="152" y="358" type="line"/>
       <point x="80" y="201"/>
       <point x="36" y="94"/>
-      <point x="6" y="0" type="curve"/>
-      <point x="148" y="0" type="line"/>
-      <point x="172" y="81"/>
-      <point x="197" y="147"/>
-      <point x="243" y="254" type="curve"/>
-      <point x="289" y="147"/>
-      <point x="314" y="81"/>
-      <point x="338" y="0" type="curve"/>
-      <point x="403" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.4,0,1</string>
-    </dict>
-  </lib>
 </glyph>
