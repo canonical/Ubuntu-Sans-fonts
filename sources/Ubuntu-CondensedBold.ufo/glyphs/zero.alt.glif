@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zero.alt" format="2">
-  <advance width="430"/>
+  <advance width="450"/>
   <unicode hex="F800"/>
   <outline>
-    <component base="zero"/>
+    <component base="zero" xOffset="8"/>
   </outline>
   <lib>
     <dict>
@@ -18,6 +18,8 @@
           <string>zero</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.9802,0.7714,0.8886,1</string>
     </dict>
   </lib>
 </glyph>

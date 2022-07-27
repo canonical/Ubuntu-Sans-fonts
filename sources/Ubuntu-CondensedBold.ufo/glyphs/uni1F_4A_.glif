@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1F4A" format="2">
-  <advance width="861"/>
+  <advance width="906"/>
   <unicode hex="1F4A"/>
-  <anchor x="547" y="0" name="bottom"/>
-  <anchor x="547" y="347" name="center"/>
-  <anchor x="799" y="10" name="ogonek"/>
-  <anchor x="126" y="743" name="top"/>
-  <anchor x="252" y="693" name="topleft"/>
-  <anchor x="840" y="693" name="topright"/>
+  <anchor x="603" y="0" name="bottom"/>
+  <anchor x="603" y="347" name="center"/>
+  <anchor x="855" y="10" name="ogonek"/>
+  <anchor x="182" y="743" name="top"/>
+  <anchor x="308" y="693" name="topleft"/>
+  <anchor x="896" y="693" name="topright"/>
   <outline>
-    <component base="O" xOffset="232"/>
-    <component base="uni1FCD" xOffset="-32" yOffset="-69"/>
+    <component base="O" xOffset="288"/>
+    <component base="uni1FCD" xOffset="-41" yOffset="-89"/>
   </outline>
   <lib>
     <dict>
@@ -34,7 +34,7 @@
         </dict>
       </array>
       <key>public.markColor</key>
-      <string>0.1068,0.8445,0.9988,1</string>
+      <string>0.9802,0.7714,0.8886,1</string>
     </dict>
   </lib>
 </glyph>

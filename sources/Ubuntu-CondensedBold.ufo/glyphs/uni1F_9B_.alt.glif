@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1F9B.alt" format="2">
-  <advance width="830"/>
-  <anchor x="532" y="0" name="bottom"/>
-  <anchor x="532" y="347" name="center"/>
-  <anchor x="114" y="743" name="top"/>
-  <anchor x="254" y="693" name="topleft"/>
+  <advance width="862"/>
+  <anchor x="562" y="0" name="bottom"/>
+  <anchor x="562" y="347" name="center"/>
+  <anchor x="144" y="743" name="top"/>
+  <anchor x="284" y="693" name="topleft"/>
   <outline>
-    <component base="H" xOffset="234"/>
-    <component base="uni1FDD" xOffset="-35" yOffset="-69"/>
-    <component base="uni1FBE" xOffset="483"/>
+    <component base="H" xOffset="264"/>
+    <component base="uni1FDD" xOffset="4" yOffset="-89"/>
+    <component base="uni1FBE" xOffset="521"/>
   </outline>
   <lib>
     <dict>
@@ -40,7 +40,7 @@
         </dict>
       </array>
       <key>public.markColor</key>
-      <string>0.1068,0.8445,0.9988,1</string>
+      <string>0.9802,0.7714,0.8886,1</string>
     </dict>
   </lib>
 </glyph>

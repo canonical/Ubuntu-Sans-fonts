@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1F59" format="2">
-  <advance width="614"/>
+  <advance width="649"/>
   <unicode hex="1F59"/>
-  <anchor x="362" y="0" name="bottom"/>
-  <anchor x="27" y="743" name="top"/>
-  <anchor x="128" y="693" name="topleft"/>
+  <anchor x="405" y="0" name="bottom"/>
+  <anchor x="70" y="743" name="top"/>
+  <anchor x="171" y="693" name="topleft"/>
   <outline>
-    <component base="Y" xOffset="108"/>
-    <component base="uni1FFE" xOffset="-118" yOffset="-69"/>
+    <component base="Y" xOffset="151"/>
+    <component base="uni1FFE" xOffset="-75" yOffset="-89"/>
   </outline>
   <lib>
     <dict>
@@ -31,7 +31,7 @@
         </dict>
       </array>
       <key>public.markColor</key>
-      <string>0.1068,0.8445,0.9988,1</string>
+      <string>0.9802,0.7714,0.8886,1</string>
     </dict>
   </lib>
 </glyph>

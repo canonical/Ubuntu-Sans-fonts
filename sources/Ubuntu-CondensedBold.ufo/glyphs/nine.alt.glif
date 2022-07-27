@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="nine.alt" format="2">
-  <advance width="418"/>
+  <advance width="431"/>
   <unicode hex="F809"/>
   <outline>
-    <component base="nine" xOffset="-17"/>
+    <component base="nine" xOffset="-1"/>
   </outline>
   <lib>
     <dict>
@@ -18,6 +18,8 @@
           <string>nine</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.9802,0.7714,0.8886,1</string>
     </dict>
   </lib>
 </glyph>

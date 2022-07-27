@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Guillemotright" format="2">
-  <advance width="505"/>
+  <advance width="525"/>
   <outline>
-    <component base="guilsinglright" xOffset="485" yOffset="62"/>
-    <component base="guilsinglright" xOffset="-276" yOffset="62"/>
+    <component base="guilsinglright" xOffset="234" yOffset="62"/>
+    <component base="guilsinglright" yOffset="62"/>
   </outline>
   <lib>
     <dict>
@@ -26,6 +26,8 @@
           <string>guilsinglright</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.9802,0.7714,0.8886,1</string>
     </dict>
   </lib>
 </glyph>

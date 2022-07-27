@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Braceleft" format="2">
-  <advance width="293"/>
+  <advance width="292"/>
   <outline>
     <component base="braceleft" yOffset="47"/>
   </outline>
@@ -17,6 +17,8 @@
           <string>braceleft</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.9802,0.7714,0.8886,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1FBC" format="2">
-  <advance width="811"/>
+  <advance width="784"/>
   <unicode hex="1FBC"/>
   <anchor x="263" y="0" name="bottom"/>
   <anchor x="481" y="10" name="ogonek"/>
@@ -8,7 +8,7 @@
   <anchor x="672" y="527" name="top_2"/>
   <outline>
     <component base="A" xOffset="-9"/>
-    <component base="iota" xOffset="532"/>
+    <component base="iota" xOffset="509"/>
   </outline>
   <lib>
     <dict>
@@ -32,7 +32,7 @@
         </dict>
       </array>
       <key>public.markColor</key>
-      <string>0.1068,0.8445,0.9988,1</string>
+      <string>0.9802,0.7714,0.8886,1</string>
     </dict>
   </lib>
 </glyph>
