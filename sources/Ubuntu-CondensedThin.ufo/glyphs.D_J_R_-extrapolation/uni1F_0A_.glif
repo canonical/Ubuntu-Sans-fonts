@@ -2,34 +2,8 @@
 <glyph name="uni1F0A" format="2">
   <advance width="600"/>
   <unicode hex="1F0A"/>
-  <anchor x="379" y="0" name="bottom"/>
-  <anchor x="563" y="10" name="ogonek"/>
-  <anchor x="100" y="681" name="top"/>
   <outline>
     <component base="A" xOffset="147"/>
     <component base="uni1FCD" xOffset="-62" yOffset="-75"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>A</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>uni1FCD</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

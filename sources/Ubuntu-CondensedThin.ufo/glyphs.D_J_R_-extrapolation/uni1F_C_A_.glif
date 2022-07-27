@@ -2,35 +2,8 @@
 <glyph name="uni1FCA" format="2">
   <advance width="709"/>
   <unicode hex="1FCA"/>
-  <anchor x="431" y="0" name="bottom"/>
-  <anchor x="431" y="347" name="center"/>
-  <anchor x="431" y="693" name="top"/>
-  <anchor x="173" y="693" name="topleft"/>
   <outline>
     <component base="H" xOffset="153"/>
     <component base="grave" xOffset="-73" yOffset="-75"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>H</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>grave</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>
