@@ -2,8 +2,6 @@
 <glyph name="uni01A5" format="2">
   <advance width="497"/>
   <unicode hex="01A5"/>
-  <anchor x="248" y="0" name="bottom"/>
-  <anchor x="248" y="527" name="top"/>
   <outline>
     <contour>
       <point x="69" y="-185" type="line"/>
@@ -18,23 +16,9 @@
       <point x="454" y="448"/>
       <point x="379" y="542"/>
       <point x="239" y="542" type="curve"/>
-      <point x="228" y="542"/>
-      <point x="217" y="542"/>
-      <point x="207" y="541" type="curve"/>
-      <point x="207" y="592" type="line"/>
-      <point x="207" y="651"/>
-      <point x="228" y="666"/>
-      <point x="259" y="666" type="curve"/>
-      <point x="268" y="666"/>
-      <point x="282" y="664"/>
-      <point x="293" y="660" type="curve"/>
-      <point x="311" y="764" type="line"/>
-      <point x="283" y="775"/>
-      <point x="255" y="776"/>
-      <point x="238" y="776" type="curve" smooth="yes"/>
-      <point x="139" y="776"/>
-      <point x="69" y="733"/>
-      <point x="69" y="599" type="curve"/>
+      <point x="179" y="542"/>
+      <point x="126" y="535"/>
+      <point x="69" y="521" type="curve"/>
     </contour>
     <contour>
       <point x="242" y="107" type="curve"/>
@@ -51,11 +35,23 @@
       <point x="310" y="140"/>
       <point x="289" y="107"/>
     </contour>
+    <contour>
+      <point x="207" y="503" type="line"/>
+      <point x="207" y="592" type="line"/>
+      <point x="207" y="651"/>
+      <point x="228" y="666"/>
+      <point x="259" y="666" type="curve"/>
+      <point x="268" y="666"/>
+      <point x="282" y="664"/>
+      <point x="293" y="660" type="curve"/>
+      <point x="311" y="764" type="line"/>
+      <point x="283" y="775"/>
+      <point x="255" y="776"/>
+      <point x="238" y="776" type="curve" smooth="yes"/>
+      <point x="139" y="776"/>
+      <point x="69" y="733"/>
+      <point x="69" y="599" type="curve"/>
+      <point x="69" y="481" type="line"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.4,0,1</string>
-    </dict>
-  </lib>
 </glyph>
