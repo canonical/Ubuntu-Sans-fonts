@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="afii10100" format="2">
-  <advance width="368"/>
+  <advance width="363"/>
   <unicode hex="0453"/>
   <anchor x="348" y="0" name="bottomright"/>
   <anchor x="184" y="527" name="top"/>
   <outline>
     <component base="afii10068"/>
-    <component base="acute" xOffset="53"/>
+    <component base="acute" xOffset="31"/>
   </outline>
   <lib>
     <dict>
@@ -29,6 +29,8 @@
           <string>acute</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.9802,0.7714,0.8886,1</string>
     </dict>
   </lib>
 </glyph>
