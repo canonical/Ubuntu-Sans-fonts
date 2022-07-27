@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni040D" format="2">
-  <advance width="598"/>
+  <advance width="607"/>
   <unicode hex="040D"/>
   <anchor x="578" y="0" name="bottomright"/>
-  <anchor x="299" y="693" name="top"/>
+  <anchor x="304" y="693" name="top"/>
   <outline>
     <component base="afii10026"/>
-    <component base="grave" xOffset="190" yOffset="150"/>
+    <component base="grave" xOffset="177" yOffset="150"/>
   </outline>
   <lib>
     <dict>
@@ -29,6 +29,8 @@
           <string>grave</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>1,0.4,0,1</string>
     </dict>
   </lib>
 </glyph>
