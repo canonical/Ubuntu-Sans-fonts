@@ -1,31 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="afii10069" format="2">
-  <advance width="526.9"/>
+  <advance width="550"/>
   <unicode hex="0434"/>
   <outline>
     <contour>
-      <point x="13" y="-145" type="line"/>
-      <point x="146" y="-145" type="line"/>
-      <point x="146" y="0" type="line"/>
-      <point x="403" y="0" type="line"/>
-      <point x="403" y="-145" type="line"/>
-      <point x="535" y="-145" type="line"/>
-      <point x="535" y="112" type="line"/>
-      <point x="458" y="112" type="line"/>
-      <point x="458" y="532" type="line"/>
-      <point x="139" y="532" type="line"/>
-      <point x="137" y="408"/>
-      <point x="176" y="308"/>
-      <point x="83" y="112" type="curve"/>
-      <point x="13" y="112" type="line"/>
+      <point x="14" y="-145" type="line"/>
+      <point x="144" y="-145" type="line"/>
+      <point x="144" y="0" type="line"/>
+      <point x="406" y="0" type="line"/>
+      <point x="406" y="-145" type="line"/>
+      <point x="536" y="-145" type="line"/>
+      <point x="536" y="112" type="line"/>
+      <point x="459" y="112" type="line"/>
+      <point x="459" y="532" type="line"/>
+      <point x="130" y="532" type="line"/>
+      <point x="128" y="398"/>
+      <point x="144" y="232"/>
+      <point x="66" y="112" type="curve"/>
+      <point x="14" y="112" type="line"/>
     </contour>
     <contour>
-      <point x="223" y="112" type="line"/>
-      <point x="295" y="284"/>
-      <point x="262" y="403"/>
-      <point x="264" y="416" type="curve"/>
-      <point x="322" y="416" type="line"/>
-      <point x="322" y="112" type="line"/>
+      <point x="211" y="112" type="line"/>
+      <point x="261" y="208"/>
+      <point x="263" y="327"/>
+      <point x="263" y="420" type="curve"/>
+      <point x="321" y="420" type="line"/>
+      <point x="321" y="112" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9802,0.7714,0.8886,1</string>
+    </dict>
+  </lib>
 </glyph>
