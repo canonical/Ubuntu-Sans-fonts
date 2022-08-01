@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eightninths" format="2">
+  <advance width="699"/>
+  <unicode hex="F511"/>
+  <outline>
+    <component base="fraction" xOffset="462.08350158691417"/>
+    <component base="eightsuperior" xOffset="2.256958465576172"/>
+    <component base="ninesuperior" xOffset="477.25206024169927" yOffset="-301.8818551635742"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>fraction</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>eightsuperior</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>ninesuperior</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
