@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1F11" format="2">
-  <advance width="379"/>
+  <advance width="372"/>
   <unicode hex="1F11"/>
   <anchor x="203" y="771" name="top"/>
   <outline>
     <component base="epsilon"/>
-    <component base="uni1FFE" xOffset="47"/>
+    <component base="uni1FFE" xOffset="51"/>
   </outline>
   <lib>
     <dict>
@@ -28,6 +28,8 @@
           <string>uni1FFE</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

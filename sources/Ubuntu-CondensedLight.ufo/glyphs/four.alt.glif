@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="four.alt" format="2">
-  <advance width="410"/>
+  <advance width="413"/>
   <unicode hex="F804"/>
   <outline>
-    <component base="four" xOffset="-1"/>
+    <component base="four" xOffset="-5"/>
   </outline>
   <lib>
     <dict>
@@ -18,6 +18,8 @@
           <string>four</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

@@ -2,11 +2,11 @@
 <glyph name="Racute" format="2">
   <advance width="500"/>
   <unicode hex="0154"/>
-  <anchor x="250" y="0" name="bottom"/>
-  <anchor x="250" y="693" name="top"/>
+  <anchor x="246" y="693" name="top"/>
+  <anchor x="246" y="0" name="bottom"/>
   <outline>
     <component base="R"/>
-    <component base="acute" xOffset="72" yOffset="150"/>
+    <component base="acute" xOffset="84" yOffset="150"/>
   </outline>
   <lib>
     <dict>
@@ -29,6 +29,8 @@
           <string>acute</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

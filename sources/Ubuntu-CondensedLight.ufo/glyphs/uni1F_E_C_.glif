@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1FEC" format="2">
-  <advance width="538"/>
+  <advance width="543"/>
   <unicode hex="1FEC"/>
-  <anchor x="303" y="0" name="bottom"/>
-  <anchor x="41" y="697" name="top"/>
+  <anchor x="50" y="698" name="top"/>
+  <anchor x="312" y="0" name="bottom"/>
   <outline>
-    <component base="P" xOffset="66"/>
-    <component base="uni1FFE" xOffset="-114" yOffset="-73"/>
+    <component base="P" xOffset="75"/>
+    <component base="uni1FFE" xOffset="-99" yOffset="-79"/>
   </outline>
   <lib>
     <dict>
@@ -29,6 +29,8 @@
           <string>uni1FFE</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

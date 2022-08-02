@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ncaron" format="2">
-  <advance width="573"/>
+  <advance width="575"/>
   <unicode hex="0147"/>
-  <anchor x="287" y="0" name="bottom"/>
   <anchor x="287" y="693" name="top"/>
+  <anchor x="287" y="0" name="bottom"/>
   <outline>
     <component base="N"/>
-    <component base="caron" xOffset="130" yOffset="150"/>
+    <component base="caron" xOffset="128" yOffset="150"/>
   </outline>
   <lib>
     <dict>
@@ -29,6 +29,8 @@
           <string>caron</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

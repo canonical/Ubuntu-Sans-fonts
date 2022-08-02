@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="rcaron" format="2">
-  <advance width="314"/>
+  <advance width="315"/>
   <unicode hex="0159"/>
+  <anchor x="156" y="520" name="top"/>
   <anchor x="156" y="0" name="bottom"/>
-  <anchor x="156" y="517" name="top"/>
   <outline>
     <component base="r"/>
     <component base="caron" xOffset="35"/>
@@ -29,6 +29,8 @@
           <string>caron</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

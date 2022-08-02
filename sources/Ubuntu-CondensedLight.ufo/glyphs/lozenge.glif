@@ -1,35 +1,41 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lozenge" format="2">
-  <advance width="423"/>
+  <advance width="432"/>
   <unicode hex="25CA"/>
   <outline>
     <contour>
-      <point x="212" y="-17" type="curve"/>
-      <point x="274" y="99"/>
-      <point x="342" y="240"/>
-      <point x="390" y="347" type="curve"/>
-      <point x="344" y="451"/>
-      <point x="275" y="593"/>
-      <point x="212" y="711" type="curve"/>
-      <point x="147" y="594"/>
-      <point x="79" y="451"/>
-      <point x="33" y="347" type="curve"/>
-      <point x="79" y="240"/>
-      <point x="150" y="99"/>
+      <point x="215" y="-19" type="curve"/>
+      <point x="279" y="100"/>
+      <point x="325" y="201"/>
+      <point x="394" y="347" type="curve"/>
+      <point x="325" y="492"/>
+      <point x="279" y="594"/>
+      <point x="215" y="712" type="curve"/>
+      <point x="151" y="594"/>
+      <point x="106" y="492"/>
+      <point x="37" y="347" type="curve"/>
+      <point x="105" y="201"/>
+      <point x="152" y="100"/>
     </contour>
     <contour>
-      <point x="212" y="100" type="curve"/>
-      <point x="182" y="157"/>
-      <point x="127" y="268"/>
-      <point x="88" y="347" type="curve"/>
-      <point x="129" y="426"/>
-      <point x="182" y="536"/>
-      <point x="212" y="593" type="curve"/>
-      <point x="240" y="536"/>
-      <point x="294" y="426"/>
+      <point x="215" y="87" type="curve"/>
+      <point x="171" y="175"/>
+      <point x="137" y="254"/>
+      <point x="96" y="347" type="curve"/>
+      <point x="137" y="440"/>
+      <point x="170" y="519"/>
+      <point x="215" y="607" type="curve"/>
+      <point x="261" y="519"/>
+      <point x="293" y="440"/>
       <point x="335" y="347" type="curve"/>
-      <point x="295" y="268"/>
-      <point x="240" y="157"/>
+      <point x="294" y="254"/>
+      <point x="260" y="175"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

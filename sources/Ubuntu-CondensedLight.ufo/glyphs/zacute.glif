@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zacute" format="2">
-  <advance width="342"/>
+  <advance width="335"/>
   <unicode hex="017A"/>
-  <anchor x="171" y="0" name="bottom"/>
-  <anchor x="171" y="259" name="center"/>
-  <anchor x="171" y="517" name="top"/>
+  <anchor x="168" y="520" name="top"/>
+  <anchor x="168" y="259" name="center"/>
+  <anchor x="168" y="0" name="bottom"/>
   <outline>
     <component base="z"/>
-    <component base="acute" xOffset="26"/>
+    <component base="acute" xOffset="33"/>
   </outline>
   <lib>
     <dict>
@@ -30,6 +30,8 @@
           <string>acute</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

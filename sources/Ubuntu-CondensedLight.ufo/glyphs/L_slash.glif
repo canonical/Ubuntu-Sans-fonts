@@ -1,23 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Lslash" format="2">
-  <advance width="399"/>
+  <advance width="413"/>
   <unicode hex="0141"/>
   <outline>
     <contour>
       <point x="94" y="0" type="line"/>
-      <point x="382" y="0" type="line"/>
-      <point x="382" y="57" type="line"/>
-      <point x="159" y="57" type="line"/>
-      <point x="159" y="337" type="line"/>
-      <point x="294" y="421" type="line"/>
-      <point x="266" y="462" type="line"/>
-      <point x="159" y="395" type="line"/>
-      <point x="159" y="693" type="line"/>
+      <point x="381" y="0" type="line"/>
+      <point x="381" y="54" type="line"/>
+      <point x="157" y="54" type="line"/>
+      <point x="157" y="335" type="line"/>
+      <point x="294" y="422" type="line"/>
+      <point x="269" y="463" type="line"/>
+      <point x="157" y="392" type="line"/>
+      <point x="157" y="693" type="line"/>
       <point x="94" y="693" type="line"/>
-      <point x="94" y="353" type="line"/>
-      <point x="9" y="299" type="line"/>
-      <point x="35" y="259" type="line"/>
-      <point x="94" y="295" type="line"/>
+      <point x="94" y="354" type="line"/>
+      <point x="6" y="298" type="line"/>
+      <point x="32" y="257" type="line"/>
+      <point x="94" y="297" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

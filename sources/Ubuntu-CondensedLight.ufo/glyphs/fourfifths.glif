@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fourfifths" format="2">
-  <advance width="711"/>
+  <advance width="716"/>
   <unicode hex="2158"/>
   <outline>
-    <component base="foursuperior" xOffset="19"/>
-    <component base="fraction" xOffset="284"/>
-    <component base="fivesuperior" xOffset="417" yOffset="-307"/>
+    <component base="foursuperior" yOffset="2"/>
+    <component base="fraction" xOffset="300"/>
+    <component base="fivesuperior" xOffset="448" yOffset="-306"/>
   </outline>
   <lib>
     <dict>
@@ -36,6 +36,8 @@
           <string>fivesuperior</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

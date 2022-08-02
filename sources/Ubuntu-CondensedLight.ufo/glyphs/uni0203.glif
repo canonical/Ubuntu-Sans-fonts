@@ -1,12 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0203" format="2">
-  <advance width="427"/>
+  <advance width="420"/>
   <unicode hex="0203"/>
-  <anchor x="213" y="0" name="bottom"/>
-  <anchor x="385" y="10" name="ogonek"/>
-  <anchor x="213" y="517" name="top"/>
+  <anchor x="206" y="520" name="top"/>
+  <anchor x="378" y="10" name="ogonek"/>
+  <anchor x="206" y="0" name="bottom"/>
   <outline>
     <component base="a"/>
-    <component base="breve_inverted" xOffset="208"/>
+    <component base="breve_inverted" xOffset="46"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>a</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>breve_inverted</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

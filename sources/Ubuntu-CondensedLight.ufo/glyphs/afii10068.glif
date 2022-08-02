@@ -1,17 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="afii10068" format="2">
-  <advance width="313"/>
+  <advance width="314"/>
   <unicode hex="0433"/>
-  <anchor x="293" y="0" name="bottomright"/>
-  <anchor x="157" y="517" name="top"/>
+  <anchor x="155" y="520" name="top"/>
+  <anchor x="291" y="0" name="bottomright"/>
   <outline>
     <contour>
-      <point x="83" y="0" type="line"/>
-      <point x="144" y="0" type="line"/>
-      <point x="144" y="468" type="line"/>
-      <point x="299" y="468" type="line"/>
-      <point x="299" y="522" type="line"/>
-      <point x="83" y="522" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="140" y="468" type="line"/>
+      <point x="303" y="468" type="line"/>
+      <point x="303" y="521" type="line"/>
+      <point x="80" y="521" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

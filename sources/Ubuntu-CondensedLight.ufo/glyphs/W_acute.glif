@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Wacute" format="2">
-  <advance width="745"/>
+  <advance width="727"/>
   <unicode hex="1E82"/>
-  <anchor x="372" y="0" name="bottom"/>
-  <anchor x="372" y="693" name="top"/>
+  <anchor x="364" y="693" name="top"/>
+  <anchor x="364" y="0" name="bottom"/>
   <outline>
     <component base="W"/>
-    <component base="acute" xOffset="189" yOffset="150"/>
+    <component base="acute" xOffset="234" yOffset="150"/>
   </outline>
   <lib>
     <dict>
@@ -29,6 +29,8 @@
           <string>acute</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

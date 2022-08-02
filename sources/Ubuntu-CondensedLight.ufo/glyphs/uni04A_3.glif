@@ -1,25 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni04A3" format="2">
-  <advance width="478"/>
+  <advance width="496"/>
   <unicode hex="04A3"/>
   <outline>
     <contour>
-      <point x="393" y="-145" type="line"/>
-      <point x="454" y="-145" type="line"/>
-      <point x="454" y="50" type="line"/>
-      <point x="402" y="50" type="line"/>
-      <point x="402" y="522" type="line"/>
-      <point x="341" y="522" type="line"/>
-      <point x="341" y="297" type="line"/>
-      <point x="144" y="297" type="line"/>
-      <point x="144" y="522" type="line"/>
-      <point x="83" y="522" type="line"/>
-      <point x="83" y="0" type="line"/>
-      <point x="144" y="0" type="line"/>
-      <point x="144" y="244" type="line"/>
-      <point x="341" y="244" type="line"/>
-      <point x="341" y="0" type="line"/>
-      <point x="393" y="0" type="line"/>
+      <point x="307" y="-106" type="line"/>
+      <point x="368" y="-106" type="line"/>
+      <point x="368" y="78" type="line"/>
+      <point x="370" y="78" type="line"/>
+      <point x="370" y="379" type="line"/>
+      <point x="369" y="379" type="line"/>
+      <point x="369" y="170" type="line"/>
+      <point x="223" y="170" type="line"/>
+      <point x="223" y="409" type="line"/>
+      <point x="179" y="409" type="line"/>
+      <point x="179" y="142" type="line"/>
+      <point x="166" y="142" type="line"/>
+      <point x="166" y="275" type="line"/>
+      <point x="321" y="275" type="line"/>
+      <point x="321" y="142" type="line"/>
+      <point x="307" y="142" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

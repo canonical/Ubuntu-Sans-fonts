@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1FE3" format="2">
-  <advance width="477"/>
+  <advance width="470"/>
   <unicode hex="1FE3"/>
-  <anchor x="239" y="517" name="top"/>
+  <anchor x="235" y="520" name="top"/>
   <outline>
     <component base="upsilon"/>
-    <component base="dieresistonos" xOffset="116"/>
+    <component base="dieresistonos" xOffset="115"/>
   </outline>
   <lib>
     <dict>
@@ -28,6 +28,8 @@
           <string>dieresistonos</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

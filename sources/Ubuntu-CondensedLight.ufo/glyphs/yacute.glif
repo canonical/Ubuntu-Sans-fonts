@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="yacute" format="2">
-  <advance width="376"/>
+  <advance width="380"/>
   <unicode hex="00FD"/>
+  <anchor x="188" y="520" name="top"/>
   <anchor x="188" y="0" name="bottom"/>
-  <anchor x="188" y="517" name="top"/>
   <outline>
     <component base="y"/>
-    <component base="acute" xOffset="41"/>
+    <component base="acute" xOffset="51"/>
   </outline>
   <lib>
     <dict>
@@ -29,6 +29,8 @@
           <string>acute</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

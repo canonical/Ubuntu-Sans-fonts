@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oneninth" format="2">
-  <advance width="719"/>
+  <advance width="716"/>
   <unicode hex="F50C"/>
   <outline>
-    <component base="onesuperior" xOffset="-6"/>
-    <component base="fraction" xOffset="248"/>
-    <component base="ninesuperior" xOffset="436" yOffset="-307"/>
+    <component base="onesuperior" yOffset="2"/>
+    <component base="fraction" xOffset="272"/>
+    <component base="ninesuperior" xOffset="434" yOffset="-308"/>
   </outline>
   <lib>
     <dict>
@@ -36,6 +36,8 @@
           <string>ninesuperior</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

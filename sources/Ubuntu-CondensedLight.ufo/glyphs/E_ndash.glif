@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Endash" format="2">
-  <advance width="367"/>
+  <advance width="373"/>
   <outline>
     <component base="endash" yOffset="38"/>
   </outline>
@@ -17,6 +17,8 @@
           <string>endash</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

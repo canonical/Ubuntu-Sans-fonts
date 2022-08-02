@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="five.alt" format="2">
-  <advance width="362"/>
+  <advance width="377"/>
   <unicode hex="F805"/>
   <outline>
-    <component base="five" xOffset="-40"/>
+    <component base="five" xOffset="-32"/>
   </outline>
   <lib>
     <dict>
@@ -18,6 +18,8 @@
           <string>five</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

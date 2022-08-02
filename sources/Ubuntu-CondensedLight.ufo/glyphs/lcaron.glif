@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lcaron" format="2">
-  <advance width="283"/>
+  <advance width="294"/>
   <unicode hex="013E"/>
-  <anchor x="112" y="0" name="bottom"/>
-  <anchor x="112" y="388" name="center"/>
-  <anchor x="112" y="776" name="top"/>
-  <anchor x="204" y="776" name="topright"/>
+  <anchor x="108" y="776" name="top"/>
+  <anchor x="108" y="388" name="center"/>
+  <anchor x="200" y="776" name="topright"/>
+  <anchor x="108" y="0" name="bottom"/>
   <outline>
     <component base="l"/>
-    <component base="caron.alt" xOffset="82"/>
+    <component base="caron.alt" xOffset="104"/>
   </outline>
   <lib>
     <dict>
@@ -31,6 +31,8 @@
           <string>caron.alt</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>
