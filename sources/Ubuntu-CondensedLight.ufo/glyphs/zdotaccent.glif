@@ -2,9 +2,9 @@
 <glyph name="zdotaccent" format="2">
   <advance width="335"/>
   <unicode hex="017C"/>
-  <anchor x="168" y="520" name="top"/>
-  <anchor x="168" y="259" name="center"/>
   <anchor x="168" y="0" name="bottom"/>
+  <anchor x="168" y="259" name="center"/>
+  <anchor x="168" y="520" name="top"/>
   <outline>
     <component base="z"/>
     <component base="dotaccent" xOffset="24"/>

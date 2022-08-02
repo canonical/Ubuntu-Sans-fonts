@@ -2,12 +2,12 @@
 <glyph name="uni1F49" format="2">
   <advance width="655"/>
   <unicode hex="1F49"/>
-  <anchor x="109" y="693" name="topleft"/>
-  <anchor x="361" y="347" name="center"/>
   <anchor x="361" y="0" name="bottom"/>
-  <anchor x="56" y="698" name="top"/>
-  <anchor x="638" y="693" name="topright"/>
+  <anchor x="361" y="347" name="center"/>
   <anchor x="599" y="10" name="ogonek"/>
+  <anchor x="56" y="698" name="top"/>
+  <anchor x="109" y="693" name="topleft"/>
+  <anchor x="638" y="693" name="topright"/>
   <outline>
     <component base="O" xOffset="68"/>
     <component base="uni1FFE" xOffset="-99" yOffset="-79"/>

@@ -2,12 +2,12 @@
 <glyph name="O" format="2">
   <advance width="587"/>
   <unicode hex="004F"/>
-  <anchor x="16" y="693" name="topleft"/>
-  <anchor x="294" y="347" name="center"/>
   <anchor x="294" y="0" name="bottom"/>
-  <anchor x="294" y="693" name="top"/>
-  <anchor x="570" y="693" name="topright"/>
+  <anchor x="294" y="347" name="center"/>
   <anchor x="531" y="10" name="ogonek"/>
+  <anchor x="294" y="693" name="top"/>
+  <anchor x="16" y="693" name="topleft"/>
+  <anchor x="570" y="693" name="topright"/>
   <outline>
     <contour>
       <point x="294" y="-10" type="curve" smooth="yes"/>

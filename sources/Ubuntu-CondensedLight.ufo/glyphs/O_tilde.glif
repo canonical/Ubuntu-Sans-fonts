@@ -2,12 +2,12 @@
 <glyph name="Otilde" format="2">
   <advance width="587"/>
   <unicode hex="00D5"/>
-  <anchor x="18" y="693" name="topleft"/>
-  <anchor x="295" y="347" name="center"/>
   <anchor x="295" y="0" name="bottom"/>
-  <anchor x="295" y="693" name="top"/>
-  <anchor x="572" y="693" name="topright"/>
+  <anchor x="295" y="347" name="center"/>
   <anchor x="533" y="10" name="ogonek"/>
+  <anchor x="295" y="693" name="top"/>
+  <anchor x="18" y="693" name="topleft"/>
+  <anchor x="572" y="693" name="topright"/>
   <outline>
     <component base="O"/>
     <component base="tilde" xOffset="142" yOffset="150"/>

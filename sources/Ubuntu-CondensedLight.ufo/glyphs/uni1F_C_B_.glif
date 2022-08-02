@@ -2,10 +2,10 @@
 <glyph name="uni1FCB" format="2">
   <advance width="688"/>
   <unicode hex="1FCB"/>
-  <anchor x="146" y="693" name="topleft"/>
-  <anchor x="409" y="693" name="top"/>
-  <anchor x="409" y="347" name="center"/>
   <anchor x="409" y="0" name="bottom"/>
+  <anchor x="409" y="347" name="center"/>
+  <anchor x="409" y="693" name="top"/>
+  <anchor x="146" y="693" name="topleft"/>
   <outline>
     <component base="H" xOffset="127"/>
     <component base="acute" xOffset="-85" yOffset="-68"/>
