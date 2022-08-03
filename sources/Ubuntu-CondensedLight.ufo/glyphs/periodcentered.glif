@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="periodcentered" format="2">
-  <advance width="209"/>
+  <advance width="206"/>
   <unicode hex="00B7"/>
   <outline>
-    <component base="period" xOffset="-3" yOffset="257"/>
+    <component base="period" yOffset="256"/>
   </outline>
   <lib>
     <dict>
@@ -18,6 +18,8 @@
           <string>period</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

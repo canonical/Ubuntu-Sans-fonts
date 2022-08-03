@@ -4,7 +4,7 @@
   <unicode hex="007B"/>
   <outline>
     <contour>
-      <point x="273" y="-185" type="curve"/>
+      <point x="273" y="-185" type="curve" smooth="yes"/>
       <point x="287" y="-185" type="line"/>
       <point x="287" y="-85" type="line"/>
       <point x="277" y="-85" type="line"/>
@@ -24,7 +24,7 @@
       <point x="280" y="682" type="curve"/>
       <point x="287" y="682" type="line"/>
       <point x="287" y="783" type="line"/>
-      <point x="273" y="783" type="line"/>
+      <point x="273" y="783" type="line" smooth="yes"/>
       <point x="159" y="783"/>
       <point x="90" y="739"/>
       <point x="90" y="620" type="curve" smooth="yes"/>

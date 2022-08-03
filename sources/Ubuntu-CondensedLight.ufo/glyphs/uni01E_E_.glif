@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni01EE" format="2">
-  <advance width="395"/>
+  <advance width="405"/>
   <unicode hex="01EE"/>
-  <anchor x="198" y="0" name="bottom"/>
-  <anchor x="198" y="693" name="top"/>
+  <anchor x="200" y="0" name="bottom"/>
+  <anchor x="200" y="693" name="top"/>
   <outline>
     <component base="uni01B7"/>
-    <component base="caron" xOffset="20" yOffset="156"/>
+    <component base="caron" xOffset="39" yOffset="154"/>
   </outline>
   <lib>
     <dict>
@@ -29,6 +29,8 @@
           <string>caron</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

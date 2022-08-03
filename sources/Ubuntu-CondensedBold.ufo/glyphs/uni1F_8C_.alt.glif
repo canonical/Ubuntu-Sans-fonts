@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1F8C.alt" format="2">
-  <advance width="620"/>
-  <anchor x="359" y="0" name="bottom"/>
-  <anchor x="577" y="10" name="ogonek"/>
-  <anchor x="106" y="743" name="top"/>
+  <advance width="700"/>
+  <anchor x="454" y="0" name="bottom"/>
+  <anchor x="672" y="10" name="ogonek"/>
+  <anchor x="201" y="743" name="top"/>
   <outline>
-    <component base="A" xOffset="87"/>
-    <component base="uni1FCE" xOffset="-102" yOffset="-69"/>
-    <component base="uni1FBE" xOffset="303"/>
+    <component base="A" xOffset="182"/>
+    <component base="uni1FCE" xOffset="10" yOffset="-89"/>
+    <component base="uni1FBE" xOffset="398"/>
   </outline>
   <lib>
     <dict>
@@ -38,6 +38,8 @@
           <string>uni1FBE</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.9802,0.7714,0.8886,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,26 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Delta" format="2">
-  <advance width="540.8"/>
+  <advance width="502"/>
   <unicode hex="2206"/>
   <outline>
     <contour>
-      <point x="13" y="0" type="curve"/>
-      <point x="527" y="0" type="line"/>
-      <point x="431" y="406"/>
-      <point x="429" y="458"/>
-      <point x="343" y="695" type="curve"/>
-      <point x="200" y="695" type="line"/>
-      <point x="113" y="458"/>
-      <point x="110" y="406"/>
+      <point x="8" y="0" type="curve"/>
+      <point x="494" y="0" type="line"/>
+      <point x="451" y="220"/>
+      <point x="395" y="457"/>
+      <point x="322" y="693" type="curve"/>
+      <point x="180" y="693" type="line"/>
+      <point x="107" y="457"/>
+      <point x="51" y="220"/>
     </contour>
     <contour>
-      <point x="180" y="122" type="line"/>
-      <point x="219" y="344"/>
-      <point x="280" y="543"/>
-      <point x="266" y="522" type="curve"/>
-      <point x="253" y="544"/>
-      <point x="310" y="345"/>
-      <point x="349" y="122" type="curve"/>
+      <point x="169" y="119" type="line"/>
+      <point x="189" y="246"/>
+      <point x="219" y="402"/>
+      <point x="252" y="544" type="curve"/>
+      <point x="285" y="409"/>
+      <point x="316" y="252"/>
+      <point x="338" y="119" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.4,0,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni01CE" format="2">
-  <advance width="427"/>
+  <advance width="420"/>
   <unicode hex="01CE"/>
-  <anchor x="213" y="0" name="bottom"/>
-  <anchor x="385" y="10" name="ogonek"/>
-  <anchor x="213" y="517" name="top"/>
+  <anchor x="206" y="0" name="bottom"/>
+  <anchor x="378" y="10" name="ogonek"/>
+  <anchor x="206" y="520" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="caron" xOffset="61"/>
+    <component base="caron" xOffset="54"/>
   </outline>
   <lib>
     <dict>
@@ -30,6 +30,8 @@
           <string>caron</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ij" format="2">
-  <advance width="453"/>
+  <advance width="435"/>
   <unicode hex="0133"/>
-  <anchor x="114" y="0" name="bottom"/>
+  <anchor x="107" y="0" name="bottom"/>
   <outline>
     <component base="i"/>
-    <component base="j" xOffset="224"/>
+    <component base="j" xOffset="217"/>
   </outline>
   <lib>
     <dict>
@@ -28,6 +28,8 @@
           <string>j</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

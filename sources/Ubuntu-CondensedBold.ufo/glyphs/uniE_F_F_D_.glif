@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniEFFD" format="2">
-  <advance width="1109"/>
+  <advance width="1085"/>
   <unicode hex="EFFD"/>
   <outline>
     <component base="zerosuperior" yOffset="-303"/>
-    <component base="period" xOffset="280"/>
-    <component base="eightsuperior" xOffset="549" yOffset="-303"/>
-    <component base="foursuperior" xOffset="829" yOffset="-303"/>
+    <component base="period" xOffset="264"/>
+    <component base="eightsuperior" xOffset="495" yOffset="-303"/>
+    <component base="foursuperior" xOffset="795" yOffset="-303"/>
   </outline>
   <lib>
     <dict>
@@ -45,6 +45,8 @@
           <string>foursuperior</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>1,0.4,0,1</string>
     </dict>
   </lib>
 </glyph>

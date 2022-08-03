@@ -2,13 +2,13 @@
 <glyph name="lacute" format="2">
   <advance width="224"/>
   <unicode hex="013A"/>
-  <anchor x="112" y="0" name="bottom"/>
-  <anchor x="112" y="388" name="center"/>
-  <anchor x="112" y="776" name="top"/>
-  <anchor x="204" y="776" name="topright"/>
+  <anchor x="108" y="0" name="bottom"/>
+  <anchor x="108" y="388" name="center"/>
+  <anchor x="108" y="776" name="top"/>
+  <anchor x="199" y="776" name="topright"/>
   <outline>
     <component base="l"/>
-    <component base="acute.asc" xOffset="-28"/>
+    <component base="acute.asc" xOffset="-25"/>
   </outline>
   <lib>
     <dict>
@@ -31,6 +31,8 @@
           <string>acute.asc</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni01C4" format="2">
-  <advance width="964"/>
+  <advance width="958"/>
   <unicode hex="01C4"/>
-  <anchor x="284" y="0" name="bottom_1"/>
-  <anchor x="763" y="0" name="bottom_2"/>
-  <anchor x="284" y="347" name="center_1"/>
-  <anchor x="763" y="347" name="center_2"/>
-  <anchor x="284" y="693" name="top_1"/>
-  <anchor x="763" y="693" name="top_2"/>
+  <anchor x="278" y="0" name="bottom_1"/>
+  <anchor x="748" y="0" name="bottom_2"/>
+  <anchor x="278" y="347" name="center_1"/>
+  <anchor x="748" y="347" name="center_2"/>
+  <anchor x="278" y="693" name="top_1"/>
+  <anchor x="748" y="693" name="top_2"/>
   <outline>
     <component base="D"/>
-    <component base="Z" xOffset="553"/>
-    <component base="caron" xOffset="605" yOffset="150"/>
+    <component base="Z" xOffset="543"/>
+    <component base="caron" xOffset="597" yOffset="150"/>
   </outline>
   <lib>
     <dict>
@@ -42,6 +42,8 @@
           <string>caron</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

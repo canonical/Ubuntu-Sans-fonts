@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="twofifths" format="2">
-  <advance width="757.825"/>
+  <advance width="745"/>
   <unicode hex="2156"/>
   <outline>
-    <component base="twosuperior" xOffset="19"/>
-    <component base="fraction" xOffset="344"/>
-    <component base="fivesuperior" xOffset="451" yOffset="-297"/>
+    <component base="twosuperior"/>
+    <component base="fraction" xOffset="323"/>
+    <component base="fivesuperior" xOffset="455" yOffset="-298"/>
   </outline>
   <lib>
     <dict>
@@ -36,6 +36,8 @@
           <string>fivesuperior</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>1,0.4,0,1</string>
     </dict>
   </lib>
 </glyph>

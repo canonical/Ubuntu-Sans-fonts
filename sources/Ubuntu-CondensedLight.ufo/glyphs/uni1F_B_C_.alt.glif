@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1FBC.alt" format="2">
-  <advance width="484"/>
-  <anchor x="242" y="0" name="bottom"/>
-  <anchor x="435" y="10" name="ogonek"/>
-  <anchor x="242" y="693" name="top"/>
+  <advance width="478"/>
+  <anchor x="238" y="0" name="bottom"/>
+  <anchor x="438" y="10" name="ogonek"/>
+  <anchor x="237" y="693" name="top"/>
   <outline>
     <component base="A"/>
     <component base="uni1FBE" xOffset="86"/>
@@ -29,6 +29,8 @@
           <string>uni1FBE</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ibreve" format="2">
-  <advance width="228"/>
+  <advance width="217"/>
   <unicode hex="012D"/>
-  <anchor x="114" y="0" name="bottom"/>
-  <anchor x="206" y="10" name="ogonek"/>
-  <anchor x="114" y="517" name="top"/>
+  <anchor x="109" y="0" name="bottom"/>
+  <anchor x="202" y="10" name="ogonek"/>
+  <anchor x="109" y="520" name="top"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="breve" xOffset="-38"/>
+    <component base="breve" xOffset="-45"/>
   </outline>
   <lib>
     <dict>
@@ -30,6 +30,8 @@
           <string>breve</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

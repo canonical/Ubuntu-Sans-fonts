@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni01CA" format="2">
-  <advance width="1025"/>
+  <advance width="1027"/>
   <unicode hex="01CA"/>
   <anchor x="299" y="0" name="bottom_1"/>
   <anchor x="813" y="0" name="bottom_2"/>
@@ -8,7 +8,7 @@
   <anchor x="813" y="693" name="top_2"/>
   <outline>
     <component base="N"/>
-    <component base="J" xOffset="598"/>
+    <component base="J" xOffset="607"/>
   </outline>
   <lib>
     <dict>
@@ -31,6 +31,8 @@
           <string>J</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>1,0.4,0,1</string>
     </dict>
   </lib>
 </glyph>

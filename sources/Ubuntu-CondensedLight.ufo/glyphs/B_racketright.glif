@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Bracketright" format="2">
-  <advance width="263"/>
+  <advance width="250"/>
   <outline>
     <component base="bracketright" yOffset="47"/>
   </outline>
@@ -17,6 +17,8 @@
           <string>bracketright</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

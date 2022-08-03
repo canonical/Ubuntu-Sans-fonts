@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1FEA" format="2">
-  <advance width="591"/>
+  <advance width="679"/>
   <unicode hex="1FEA"/>
-  <anchor x="339" y="0" name="bottom"/>
-  <anchor x="339" y="693" name="top"/>
-  <anchor x="105" y="693" name="topleft"/>
+  <anchor x="435" y="0" name="bottom"/>
+  <anchor x="435" y="693" name="top"/>
+  <anchor x="201" y="693" name="topleft"/>
   <outline>
-    <component base="Y" xOffset="85"/>
-    <component base="grave" xOffset="-67" yOffset="-69"/>
+    <component base="Y" xOffset="181"/>
+    <component base="grave" xOffset="-11" yOffset="-69"/>
   </outline>
   <lib>
     <dict>
@@ -30,6 +30,8 @@
           <string>grave</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.9802,0.7714,0.8886,1</string>
     </dict>
   </lib>
 </glyph>

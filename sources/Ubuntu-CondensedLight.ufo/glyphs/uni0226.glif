@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0226" format="2">
-  <advance width="484"/>
+  <advance width="476"/>
   <unicode hex="0226"/>
-  <anchor x="242" y="0" name="bottom"/>
-  <anchor x="435" y="10" name="ogonek"/>
-  <anchor x="242" y="693" name="top"/>
+  <anchor x="238" y="0" name="bottom"/>
+  <anchor x="438" y="10" name="ogonek"/>
+  <anchor x="237" y="693" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="dotaccent" xOffset="86" yOffset="152"/>
+    <component base="dotaccent" xOffset="90" yOffset="152"/>
   </outline>
   <lib>
     <dict>
@@ -30,6 +30,8 @@
           <string>dotaccent</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

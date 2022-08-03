@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni01ED" format="2">
-  <advance width="476.4"/>
+  <advance width="486"/>
   <unicode hex="01ED"/>
-  <anchor x="239" y="527" name="top"/>
+  <anchor x="243" y="527" name="top"/>
   <outline>
     <component base="uni01EB"/>
-    <component base="macron" xOffset="80"/>
+    <component base="macron" xOffset="85"/>
   </outline>
   <lib>
     <dict>
@@ -28,6 +28,8 @@
           <string>macron</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>1,0.4,0,1</string>
     </dict>
   </lib>
 </glyph>

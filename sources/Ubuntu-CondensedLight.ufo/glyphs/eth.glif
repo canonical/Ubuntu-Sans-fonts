@@ -1,59 +1,65 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="eth" format="2">
-  <advance width="451"/>
+  <advance width="452"/>
   <unicode hex="00F0"/>
-  <anchor x="226" y="0" name="bottom"/>
-  <anchor x="226" y="776" name="top"/>
+  <anchor x="225" y="0" name="bottom"/>
+  <anchor x="227" y="776" name="top"/>
   <outline>
     <contour>
-      <point x="226" y="-9" type="curve" smooth="yes"/>
-      <point x="316" y="-9"/>
-      <point x="395" y="65"/>
-      <point x="395" y="290" type="curve" smooth="yes"/>
-      <point x="395" y="421"/>
-      <point x="369" y="536"/>
-      <point x="317" y="634" type="curve"/>
-      <point x="407" y="677" type="line"/>
-      <point x="388" y="720" type="line"/>
-      <point x="294" y="675" type="line"/>
-      <point x="272" y="711"/>
-      <point x="245" y="745"/>
-      <point x="214" y="775" type="curve"/>
-      <point x="169" y="744" type="line"/>
-      <point x="199" y="714"/>
-      <point x="223" y="683"/>
-      <point x="245" y="650" type="curve"/>
-      <point x="154" y="608" type="line"/>
-      <point x="173" y="565" type="line"/>
-      <point x="264" y="607" type="line"/>
-      <point x="288" y="569"/>
-      <point x="302" y="525"/>
-      <point x="314" y="463" type="curve"/>
-      <point x="278" y="488"/>
-      <point x="247" y="486"/>
-      <point x="231" y="486" type="curve" smooth="yes"/>
-      <point x="126" y="486"/>
-      <point x="51" y="400"/>
-      <point x="51" y="233" type="curve" smooth="yes"/>
-      <point x="51" y="79"/>
-      <point x="112" y="-9"/>
+      <point x="230" y="-7" type="curve" smooth="yes"/>
+      <point x="294" y="-7"/>
+      <point x="396" y="30"/>
+      <point x="396" y="292" type="curve" smooth="yes"/>
+      <point x="396" y="426"/>
+      <point x="368" y="541"/>
+      <point x="314" y="639" type="curve"/>
+      <point x="401" y="681" type="line"/>
+      <point x="383" y="722" type="line"/>
+      <point x="293" y="678" type="line"/>
+      <point x="270" y="713"/>
+      <point x="243" y="746"/>
+      <point x="212" y="775" type="curve"/>
+      <point x="164" y="746" type="line"/>
+      <point x="197" y="716"/>
+      <point x="222" y="687"/>
+      <point x="245" y="653" type="curve"/>
+      <point x="149" y="609" type="line"/>
+      <point x="168" y="568" type="line"/>
+      <point x="264" y="612" type="line"/>
+      <point x="290" y="575"/>
+      <point x="305" y="528"/>
+      <point x="319" y="456" type="curve"/>
+      <point x="276" y="490"/>
+      <point x="243" y="484"/>
+      <point x="232" y="484" type="curve" smooth="yes"/>
+      <point x="121" y="484"/>
+      <point x="51" y="393"/>
+      <point x="51" y="229" type="curve" smooth="yes"/>
+      <point x="51" y="72"/>
+      <point x="116" y="-7"/>
     </contour>
     <contour>
-      <point x="221" y="44" type="curve" smooth="yes"/>
-      <point x="163" y="44"/>
-      <point x="115" y="91"/>
-      <point x="115" y="231" type="curve" smooth="yes"/>
-      <point x="115" y="376"/>
-      <point x="166" y="437"/>
-      <point x="239" y="437" type="curve" smooth="yes"/>
-      <point x="276" y="437"/>
-      <point x="304" y="421"/>
-      <point x="324" y="403" type="curve"/>
-      <point x="328" y="373"/>
-      <point x="330" y="341"/>
-      <point x="330" y="292" type="curve" smooth="yes"/>
-      <point x="330" y="99"/>
-      <point x="272" y="44"/>
+      <point x="225" y="46" type="curve" smooth="yes"/>
+      <point x="167" y="46"/>
+      <point x="116" y="88"/>
+      <point x="116" y="228" type="curve" smooth="yes"/>
+      <point x="116" y="381"/>
+      <point x="172" y="435"/>
+      <point x="240" y="435" type="curve" smooth="yes"/>
+      <point x="277" y="435"/>
+      <point x="305" y="419"/>
+      <point x="325" y="401" type="curve"/>
+      <point x="329" y="373"/>
+      <point x="331" y="346"/>
+      <point x="331" y="292" type="curve" smooth="yes"/>
+      <point x="331" y="78"/>
+      <point x="258" y="46"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

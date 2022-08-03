@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_f" format="2">
-  <advance width="569"/>
+  <advance width="566"/>
   <unicode hex="FB00"/>
-  <anchor x="284" y="0" name="caret_1"/>
+  <anchor x="285" y="0" name="caret_1"/>
   <anchor x="146" y="0" name="bottom_1"/>
-  <anchor x="423" y="0" name="bottom_2"/>
+  <anchor x="424" y="0" name="bottom_2"/>
   <anchor x="146" y="776" name="top_1"/>
-  <anchor x="423" y="776" name="top_2"/>
+  <anchor x="424" y="776" name="top_2"/>
   <outline>
     <component base="f"/>
-    <component base="f" xOffset="277"/>
+    <component base="f" xOffset="283"/>
   </outline>
   <lib>
     <dict>
@@ -32,6 +32,8 @@
           <string>f</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

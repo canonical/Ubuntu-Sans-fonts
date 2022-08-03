@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Omicrontonos" format="2">
-  <advance width="624"/>
+  <advance width="626"/>
   <unicode hex="038C"/>
-  <anchor x="327" y="0" name="bottom"/>
-  <anchor x="327" y="347" name="center"/>
-  <anchor x="564" y="10" name="ogonek"/>
-  <anchor x="327" y="693" name="top"/>
-  <anchor x="50" y="693" name="topleft"/>
-  <anchor x="604" y="693" name="topright"/>
+  <anchor x="333" y="0" name="bottom"/>
+  <anchor x="333" y="347" name="center"/>
+  <anchor x="570" y="10" name="ogonek"/>
+  <anchor x="333" y="693" name="top"/>
+  <anchor x="56" y="693" name="topleft"/>
+  <anchor x="610" y="693" name="topright"/>
   <outline>
-    <component base="O" xOffset="30"/>
-    <component base="tonos.cap" xOffset="-109"/>
+    <component base="O" xOffset="39"/>
+    <component base="tonos.cap" xOffset="-96"/>
   </outline>
   <lib>
     <dict>
@@ -33,6 +33,8 @@
           <string>tonos.cap</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

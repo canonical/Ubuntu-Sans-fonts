@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1FEB" format="2">
-  <advance width="666"/>
+  <advance width="719"/>
   <unicode hex="1FEB"/>
-  <anchor x="414" y="0" name="bottom"/>
-  <anchor x="414" y="693" name="top"/>
-  <anchor x="180" y="693" name="topleft"/>
+  <anchor x="475" y="0" name="bottom"/>
+  <anchor x="475" y="693" name="top"/>
+  <anchor x="241" y="693" name="topleft"/>
   <outline>
-    <component base="Y" xOffset="160"/>
-    <component base="acute" xOffset="-162" yOffset="-69"/>
+    <component base="Y" xOffset="221"/>
+    <component base="acute" xOffset="-88" yOffset="-69"/>
   </outline>
   <lib>
     <dict>
@@ -30,6 +30,8 @@
           <string>acute</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.9802,0.7714,0.8886,1</string>
     </dict>
   </lib>
 </glyph>

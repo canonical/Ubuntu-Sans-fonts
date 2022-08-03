@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="two.sinf" format="2">
-  <advance width="280"/>
+  <advance width="290"/>
   <unicode hex="F816"/>
   <outline>
-    <component base="twosuperior" yOffset="-427"/>
+    <component base="twosuperior" yOffset="-426"/>
   </outline>
   <lib>
     <dict>
@@ -18,6 +18,8 @@
           <string>twosuperior</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>1,0.4,0,1</string>
     </dict>
   </lib>
 </glyph>

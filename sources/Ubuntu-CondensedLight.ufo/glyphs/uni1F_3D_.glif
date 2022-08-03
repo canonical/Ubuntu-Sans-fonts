@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1F3D" format="2">
-  <advance width="451"/>
+  <advance width="444"/>
   <unicode hex="1F3D"/>
-  <anchor x="332" y="0" name="bottom"/>
-  <anchor x="427" y="10" name="ogonek"/>
-  <anchor x="108" y="697" name="top"/>
-  <anchor x="231" y="693" name="topleft"/>
+  <anchor x="326" y="0" name="bottom"/>
+  <anchor x="422" y="10" name="ogonek"/>
+  <anchor x="102" y="698" name="top"/>
+  <anchor x="226" y="693" name="topleft"/>
   <outline>
     <component base="I" xOffset="211"/>
-    <component base="uni1FDE" xOffset="-46" yOffset="-73"/>
+    <component base="uni1FDE" xOffset="-38" yOffset="-79"/>
   </outline>
   <lib>
     <dict>
@@ -31,6 +31,8 @@
           <string>uni1FDE</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

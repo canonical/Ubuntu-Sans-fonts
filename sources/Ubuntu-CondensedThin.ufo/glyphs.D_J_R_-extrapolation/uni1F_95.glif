@@ -2,41 +2,9 @@
 <glyph name="uni1F95" format="2">
   <advance width="472"/>
   <unicode hex="1F95"/>
-  <anchor x="229" y="756" name="top"/>
   <outline>
     <component base="eta"/>
     <component base="uni1FBE" xOffset="-85"/>
     <component base="uni1FDE" xOffset="80"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>eta</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>uni1FBE</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>2</integer>
-          <key>name</key>
-          <string>uni1FDE</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

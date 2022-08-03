@@ -1,17 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni04CF" format="2">
-  <advance width="248"/>
+  <advance width="228"/>
   <unicode hex="04CF"/>
-  <anchor x="129" y="0" name="bottom"/>
-  <anchor x="232" y="10" name="ogonek"/>
-  <anchor x="129" y="693" name="top"/>
-  <anchor x="20" y="693" name="topleft"/>
+  <anchor x="114" y="0" name="bottom"/>
+  <anchor x="214" y="10" name="ogonek"/>
+  <anchor x="114" y="693" name="top"/>
+  <anchor x="2" y="693" name="topleft"/>
   <outline>
     <contour>
-      <point x="90" y="0" type="line"/>
-      <point x="158" y="0" type="line"/>
-      <point x="158" y="693" type="line"/>
-      <point x="90" y="693" type="line"/>
+      <point x="83" y="0" type="line"/>
+      <point x="145" y="0" type="line"/>
+      <point x="145" y="693" type="line"/>
+      <point x="83" y="693" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kgreenlandic.case" format="2">
-  <advance width="536"/>
-  <anchor x="267" y="0" name="bottom"/>
-  <anchor x="267" y="693" name="top"/>
+  <advance width="531"/>
+  <anchor x="249" y="0" name="bottom"/>
+  <anchor x="249" y="693" name="top"/>
   <outline>
     <component base="K"/>
-    <component base="quoteleft" xOffset="406"/>
+    <component base="quoteleft" xOffset="396"/>
   </outline>
   <lib>
     <dict>
@@ -28,6 +28,8 @@
           <string>quoteleft</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

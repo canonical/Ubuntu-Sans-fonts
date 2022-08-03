@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni04EB" format="2">
-  <advance width="476"/>
+  <advance width="486"/>
   <unicode hex="04EB"/>
   <anchor x="239" y="527" name="top"/>
   <outline>
     <component base="uni04E9"/>
-    <component base="dieresis" xOffset="79"/>
+    <component base="dieresis" xOffset="40"/>
   </outline>
   <lib>
     <dict>
@@ -28,6 +28,8 @@
           <string>dieresis</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>1,0.4,0,1</string>
     </dict>
   </lib>
 </glyph>
