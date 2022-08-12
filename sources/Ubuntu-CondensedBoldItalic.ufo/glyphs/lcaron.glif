@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lcaron" format="2">
-  <advance width="279"/>
+  <advance width="330"/>
   <unicode hex="013E"/>
   <outline>
-    <component base="l" xOffset="-23.80360748291016"/>
-    <component base="caron.alt" xOffset="265.9755088806152"/>
+    <component base="l" xOffset="-0.49020328994935625"/>
+    <component base="caron.alt" xOffset="192.31340419296083"/>
   </outline>
   <lib>
     <dict>
@@ -27,6 +27,8 @@
           <string>caron.alt</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

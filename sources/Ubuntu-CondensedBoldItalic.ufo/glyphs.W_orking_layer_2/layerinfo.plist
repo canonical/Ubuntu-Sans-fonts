@@ -3,11 +3,13 @@
 <plist version="1.0">
   <dict>
     <key>color</key>
-    <string>0,0.6613,0.6645,0.7</string>
+    <string>0,0.2425,0.9294,0.7</string>
     <key>lib</key>
     <dict>
       <key>com.typemytype.robofont.layerShow</key>
       <true/>
+      <key>com.typemytype.robofont.layerShowPoints</key>
+      <false/>
     </dict>
   </dict>
 </plist>

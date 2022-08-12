@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name=".notdef" format="2">
-  <advance width="396.95027160644537"/>
+  <advance width="397"/>
   <outline>
     <contour>
       <point x="39.61164901334369" y="0.0" type="line"/>
@@ -15,4 +15,10 @@
       <point x="321.2633629278267" y="50.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

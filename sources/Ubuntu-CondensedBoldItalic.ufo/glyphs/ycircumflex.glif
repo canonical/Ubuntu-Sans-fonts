@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ycircumflex" format="2">
-  <advance width="443"/>
+  <advance width="431"/>
   <unicode hex="0177"/>
   <outline>
     <component base="y"/>
-    <component base="circumflex" xOffset="66.1914942932129"/>
+    <component base="circumflex" xOffset="54"/>
   </outline>
   <lib>
     <dict>
@@ -27,6 +27,8 @@
           <string>circumflex</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

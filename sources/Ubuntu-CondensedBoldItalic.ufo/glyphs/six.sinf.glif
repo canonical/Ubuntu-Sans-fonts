@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="six.sinf" format="2">
-  <advance width="287.63789718627936"/>
+  <advance width="282"/>
   <unicode hex="F81A"/>
   <outline>
-    <component base="sixsuperior" xOffset="-88.0" yOffset="-422.4699349021912"/>
+    <component base="sixsuperior" xOffset="-101" yOffset="-422.4699349021912"/>
   </outline>
   <lib>
     <dict>
@@ -18,6 +18,8 @@
           <string>sixsuperior</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

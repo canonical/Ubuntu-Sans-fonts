@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lacute" format="2">
-  <advance width="262"/>
+  <advance width="272"/>
   <unicode hex="013A"/>
   <outline>
-    <component base="l"/>
-    <component base="acute.asc" xOffset="33.924739379882816"/>
+    <component base="l" xOffset="-0.49020328994934914"/>
+    <component base="acute.asc" xOffset="-22.49020328994935"/>
   </outline>
   <lib>
     <dict>
@@ -27,6 +27,8 @@
           <string>acute.asc</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

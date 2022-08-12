@@ -4,7 +4,7 @@
   <unicode hex="00E5"/>
   <outline>
     <component base="a"/>
-    <component base="ring" xOffset="130.3551547241211"/>
+    <component base="ring" xOffset="93"/>
   </outline>
   <lib>
     <dict>
@@ -27,6 +27,8 @@
           <string>ring</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

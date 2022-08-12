@@ -1,8 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="nu" format="2">
-  <advance width="457"/>
+  <advance width="452"/>
   <unicode hex="03BD"/>
   <outline>
-    <component base="v"/>
+    <contour>
+      <point x="137" y="0" type="curve"/>
+      <point x="279" y="0" type="line"/>
+      <point x="381" y="132"/>
+      <point x="502" y="327"/>
+      <point x="559" y="532" type="curve"/>
+      <point x="416" y="532" type="line"/>
+      <point x="379" y="403"/>
+      <point x="329" y="281"/>
+      <point x="276" y="175" type="curve"/>
+      <point x="291" y="297"/>
+      <point x="295" y="428"/>
+      <point x="290" y="532" type="curve"/>
+      <point x="146" y="532" type="line"/>
+      <point x="163" y="390"/>
+      <point x="154" y="146"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

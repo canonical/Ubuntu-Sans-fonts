@@ -4,7 +4,7 @@
   <unicode hex="0125"/>
   <outline>
     <component base="h"/>
-    <component base="circumflex.asc" xOffset="65.73324508666992"/>
+    <component base="circumflex.asc" xOffset="-8"/>
   </outline>
   <lib>
     <dict>
@@ -27,6 +27,8 @@
           <string>circumflex.asc</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

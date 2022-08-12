@@ -4,7 +4,7 @@
   <unicode hex="01E1"/>
   <outline>
     <component base="a"/>
-    <component base="dot_macron" xOffset="156.35025650024414"/>
+    <component base="dot_macron" xOffset="131"/>
   </outline>
   <lib>
     <dict>
@@ -27,6 +27,8 @@
           <string>dot_macron</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

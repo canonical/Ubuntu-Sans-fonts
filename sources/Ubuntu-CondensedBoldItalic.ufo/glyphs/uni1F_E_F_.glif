@@ -1,13 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1FEF" format="2">
-  <advance width="190.9547712389116"/>
+  <advance width="300"/>
   <unicode hex="1FEF"/>
   <outline>
     <contour>
-      <point x="301.32389520760665" y="579.4704637908935" type="line"/>
-      <point x="349.1365633394133" y="653.177746143341" type="line"/>
-      <point x="176.70713770720891" y="787.1181448364258" type="line"/>
-      <point x="117.70085867416168" y="690.8222538566589" type="line"/>
+      <point x="351" y="573.0" type="line"/>
+      <point x="412" y="634.0" type="line"/>
+      <point x="288" y="785.0" type="line"/>
+      <point x="206" y="697.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

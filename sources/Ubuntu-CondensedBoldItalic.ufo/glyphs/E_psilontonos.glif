@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Epsilontonos" format="2">
-  <advance width="631"/>
+  <advance width="570"/>
   <unicode hex="0388"/>
   <outline>
-    <component base="E" xOffset="176.76107894897464"/>
-    <component base="tonos.cap" xOffset="-93.84613601684572"/>
+    <component base="E" xOffset="94"/>
+    <component base="tonos.cap" xOffset="-96"/>
   </outline>
   <lib>
     <dict>
@@ -27,6 +27,8 @@
           <string>tonos.cap</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

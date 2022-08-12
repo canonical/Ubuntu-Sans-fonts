@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="nineinferior" format="2">
-  <advance width="287.63789718627936"/>
+  <advance width="283"/>
   <unicode hex="2089"/>
   <outline>
-    <component base="ninesuperior" xOffset="-51.873969879150394" yOffset="-302.46993490219114"/>
+    <component base="ninesuperior" xOffset="-72" yOffset="-302.46993490219114"/>
   </outline>
   <lib>
     <dict>
@@ -18,6 +18,8 @@
           <string>ninesuperior</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

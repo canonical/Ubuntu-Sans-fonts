@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni04D6" format="2">
-  <advance width="490"/>
+  <advance width="476"/>
   <unicode hex="04D6"/>
+  <guideline x="332" y="755" angle="0" identifier="4pogiEo81s"/>
   <outline>
     <component base="E"/>
-    <component base="kratka" xOffset="143.22422637939457" yOffset="153.47046379089355"/>
+    <component base="kratka" xOffset="123" yOffset="151"/>
   </outline>
   <lib>
     <dict>
@@ -27,6 +28,8 @@
           <string>kratka</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

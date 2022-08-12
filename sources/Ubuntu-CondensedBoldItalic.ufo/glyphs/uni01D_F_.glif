@@ -4,7 +4,7 @@
   <unicode hex="01DF"/>
   <outline>
     <component base="a"/>
-    <component base="dieresis_macron" xOffset="148.1538639831543"/>
+    <component base="dieresis_macron" xOffset="115"/>
   </outline>
   <lib>
     <dict>
@@ -27,6 +27,8 @@
           <string>dieresis_macron</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

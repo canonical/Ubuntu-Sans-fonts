@@ -1,25 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni04A2" format="2">
-  <advance width="625.9360026220684"/>
+  <advance width="600"/>
   <unicode hex="04A2"/>
   <outline>
     <contour>
-      <point x="433.6168175155804" y="-185.0" type="line"/>
-      <point x="575.1691008237759" y="-185.0" type="line"/>
-      <point x="654.9037311459361" y="123.41403581619262" type="line"/>
-      <point x="553.6787382507704" y="123.41403581619262" type="line"/>
-      <point x="684.4657414963823" y="693.0" type="line"/>
-      <point x="537.3542713350413" y="693.0" type="line"/>
-      <point x="475.45393431029186" y="422.88344182968143" type="line"/>
-      <point x="308.2409160489513" y="422.88344182968143" type="line"/>
-      <point x="369.6267306777887" y="693.0" type="line"/>
-      <point x="222.51526051644774" y="693.0" type="line"/>
-      <point x="56.98655061410573" y="0.0" type="line"/>
-      <point x="203.0428590342778" y="0.0" type="line"/>
-      <point x="271.6722640571841" y="299.46940601348876" type="line"/>
-      <point x="439.1425435164806" y="299.46940601348876" type="line"/>
-      <point x="370.5131384935744" y="0.0" type="line"/>
-      <point x="478.35247998305425" y="0.0" type="line"/>
+      <point x="419" y="-185" type="line"/>
+      <point x="554" y="-185" type="line"/>
+      <point x="627" y="119" type="line"/>
+      <point x="531" y="119" type="line"/>
+      <point x="668" y="693" type="line"/>
+      <point x="526" y="693" type="line"/>
+      <point x="461" y="420" type="line"/>
+      <point x="313" y="420" type="line"/>
+      <point x="378" y="693" type="line"/>
+      <point x="236" y="693" type="line"/>
+      <point x="70" y="0" type="line"/>
+      <point x="212" y="0" type="line"/>
+      <point x="284" y="300" type="line"/>
+      <point x="432" y="300" type="line"/>
+      <point x="360" y="0" type="line"/>
+      <point x="463" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

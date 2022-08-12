@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1F08" format="2">
-  <advance width="607"/>
+  <advance width="534"/>
   <unicode hex="1F08"/>
   <outline>
-    <component base="A" xOffset="19.8363395690918"/>
-    <component base="uni1FBF" xOffset="-80.23402282714845" yOffset="-109.00211555480956"/>
+    <component base="A" xOffset="26"/>
+    <component base="uni1FBF" xOffset="-103.83633956909179" yOffset="-89"/>
   </outline>
   <lib>
     <dict>
@@ -27,6 +27,8 @@
           <string>uni1FBF</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

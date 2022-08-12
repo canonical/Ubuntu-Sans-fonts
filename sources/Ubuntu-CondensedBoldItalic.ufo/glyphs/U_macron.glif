@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Umacron" format="2">
-  <advance width="552"/>
+  <advance width="550"/>
   <unicode hex="016A"/>
   <outline>
     <component base="U"/>
-    <component base="macron" xOffset="169.00489822387698" yOffset="151.47099267959595"/>
+    <component base="macron" xOffset="156" yOffset="150"/>
   </outline>
   <lib>
     <dict>
@@ -27,6 +27,8 @@
           <string>macron</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

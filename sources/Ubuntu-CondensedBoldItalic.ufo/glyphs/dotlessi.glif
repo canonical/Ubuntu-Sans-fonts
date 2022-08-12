@@ -1,13 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotlessi" format="2">
-  <advance width="236.15439123113717"/>
+  <advance width="265"/>
   <unicode hex="0131"/>
   <outline>
     <contour>
-      <point x="51.71074190826116" y="0.0" type="line"/>
-      <point x="191.15270173411886" y="0.0" type="line"/>
-      <point x="317.00113686107926" y="524.9414564704895" type="line"/>
-      <point x="176.5040152940526" y="524.9414564704895" type="line"/>
+      <point x="63" y="0.0" type="line"/>
+      <point x="202" y="0.0" type="line"/>
+      <point x="330" y="532" type="line"/>
+      <point x="190" y="532" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

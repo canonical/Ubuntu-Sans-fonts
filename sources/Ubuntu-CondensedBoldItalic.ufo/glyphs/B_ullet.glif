@@ -1,7 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Bullet" format="2">
-  <advance width="320.9629930603148"/>
+  <advance width="320"/>
   <outline>
-    <component base="bullet" yOffset="-0.705695686340332"/>
+    <component base="bullet" xOffset="-1" yOffset="-0.705695686340332"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="seven.alt" format="2">
-  <advance width="424"/>
+  <advance width="384"/>
   <unicode hex="F807"/>
   <outline>
-    <component base="seven" xOffset="-18.490981292724612"/>
+    <component base="seven" xOffset="-26"/>
   </outline>
   <lib>
     <dict>
@@ -18,6 +18,8 @@
           <string>seven</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

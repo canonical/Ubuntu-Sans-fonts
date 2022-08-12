@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Tcaron" format="2">
-  <advance width="489"/>
+  <advance width="453"/>
   <unicode hex="0164"/>
+  <guideline x="342" y="733" angle="0" identifier="4MoTGsYmHL"/>
   <outline>
     <component base="T"/>
-    <component base="caron" xOffset="120.45335098266602" yOffset="160.05907241821288"/>
+    <component base="caron" xOffset="107" yOffset="152"/>
   </outline>
   <lib>
     <dict>
@@ -27,6 +28,8 @@
           <string>caron</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

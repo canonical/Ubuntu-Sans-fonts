@@ -1,8 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Nu" format="2">
-  <advance width="609"/>
+  <advance width="583"/>
   <unicode hex="039D"/>
   <outline>
     <component base="N"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

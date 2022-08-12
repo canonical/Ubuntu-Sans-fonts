@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="three.alt" format="2">
-  <advance width="433"/>
+  <advance width="399"/>
   <unicode hex="F803"/>
   <outline>
-    <component base="three" xOffset="-13.004898223876953"/>
+    <component base="three" xOffset="-16"/>
   </outline>
   <lib>
     <dict>
@@ -18,6 +18,8 @@
           <string>three</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

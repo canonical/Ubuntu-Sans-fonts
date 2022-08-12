@@ -4,7 +4,7 @@
   <unicode hex="00E3"/>
   <outline>
     <component base="a"/>
-    <component base="tilde" xOffset="118.8363395690918"/>
+    <component base="tilde" xOffset="97"/>
   </outline>
   <lib>
     <dict>
@@ -27,6 +27,8 @@
           <string>tilde</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

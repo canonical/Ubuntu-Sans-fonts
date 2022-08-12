@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Zacute" format="2">
-  <advance width="530"/>
+  <advance width="452"/>
   <unicode hex="0179"/>
+  <guideline x="319" y="728" angle="0" identifier="FvMNQdHgMK"/>
   <outline>
     <component base="Z"/>
-    <component base="acute" xOffset="248.60231674194338" yOffset="158.82384052276612"/>
+    <component base="acute" xOffset="124" yOffset="150"/>
   </outline>
   <lib>
     <dict>
@@ -27,6 +28,8 @@
           <string>acute</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

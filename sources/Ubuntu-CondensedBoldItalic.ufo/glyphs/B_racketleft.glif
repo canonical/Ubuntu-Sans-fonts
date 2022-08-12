@@ -1,7 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Bracketleft" format="2">
-  <advance width="313"/>
+  <advance width="319"/>
   <outline>
     <component base="bracketleft" xOffset="11" yOffset="47"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

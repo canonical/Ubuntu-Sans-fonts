@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1FEB" format="2">
-  <advance width="761"/>
+  <advance width="683"/>
   <unicode hex="1FEB"/>
   <outline>
-    <component base="Y" xOffset="272.8920072937012"/>
-    <component base="acute" xOffset="-31.523713378906255" yOffset="-82.64768104553224"/>
+    <component base="Y" xOffset="186.89200729370123"/>
+    <component base="acute" xOffset="-84" yOffset="-69"/>
   </outline>
   <lib>
     <dict>
@@ -27,6 +27,8 @@
           <string>acute</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

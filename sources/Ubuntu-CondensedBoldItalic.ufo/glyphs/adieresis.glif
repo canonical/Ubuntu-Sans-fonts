@@ -4,7 +4,7 @@
   <unicode hex="00E4"/>
   <outline>
     <component base="a"/>
-    <component base="dieresis" xOffset="-7.176799621582035"/>
+    <component base="dieresis" xOffset="62"/>
   </outline>
   <lib>
     <dict>
@@ -27,6 +27,8 @@
           <string>dieresis</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

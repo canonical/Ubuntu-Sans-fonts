@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="seven.sups" format="2">
-  <advance width="287.63789718627936"/>
+  <advance width="282"/>
   <unicode hex="F811"/>
   <outline>
-    <component base="sevensuperior" xOffset="3.8739698791503923" yOffset="120.0"/>
+    <component base="sevensuperior" xOffset="29" yOffset="120"/>
   </outline>
   <lib>
     <dict>
@@ -18,6 +18,8 @@
           <string>sevensuperior</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

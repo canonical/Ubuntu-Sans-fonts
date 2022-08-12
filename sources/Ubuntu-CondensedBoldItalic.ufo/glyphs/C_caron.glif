@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ccaron" format="2">
-  <advance width="514"/>
+  <advance width="474"/>
   <unicode hex="010C"/>
   <outline>
     <component base="C"/>
-    <component base="caron" xOffset="191.1685586547852" yOffset="160.05907241821288"/>
+    <component base="caron" xOffset="184" yOffset="157"/>
   </outline>
   <lib>
     <dict>
@@ -27,6 +27,8 @@
           <string>caron</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

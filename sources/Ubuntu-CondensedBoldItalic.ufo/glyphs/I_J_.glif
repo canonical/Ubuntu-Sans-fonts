@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="IJ" format="2">
-  <advance width="705"/>
+  <advance width="679"/>
   <unicode hex="0132"/>
   <outline>
     <component base="I" xOffset="-1.6121131896972658"/>
-    <component base="J" xOffset="349.18169784545904"/>
+    <component base="J" xOffset="280"/>
   </outline>
   <lib>
     <dict>
@@ -27,6 +27,8 @@
           <string>J</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

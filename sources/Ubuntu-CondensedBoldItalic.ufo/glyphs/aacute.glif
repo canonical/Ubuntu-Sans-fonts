@@ -2,9 +2,10 @@
 <glyph name="aacute" format="2">
   <advance width="484"/>
   <unicode hex="00E1"/>
+  <guideline x="375" y="578" angle="0" identifier="U1gFFIUF6h"/>
   <outline>
     <component base="a"/>
-    <component base="acute" xOffset="184.12603012084963"/>
+    <component base="acute" xOffset="144"/>
   </outline>
   <lib>
     <dict>
@@ -27,6 +28,8 @@
           <string>acute</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,23 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="afii10026" format="2">
-  <advance width="599.0424366969336"/>
+  <advance width="583"/>
   <unicode hex="0418"/>
   <outline>
     <contour>
-      <point x="56.98655061410573" y="0.0" type="line"/>
-      <point x="176.92107670301095" y="0.0" type="line"/>
-      <point x="290.3740852678605" y="156.35337673187254"/>
-      <point x="353.96560216899496" y="313.2299430084228"/>
-      <point x="490.1651590995417" y="468.93722536087034" type="curve"/>
-      <point x="388.5292389414803" y="0.0" type="line"/>
-      <point x="534.3021692143515" y="0.0" type="line"/>
-      <point x="700.6287796599064" y="693.0" type="line"/>
-      <point x="582.3161716067718" y="693.0" type="line"/>
-      <point x="490.4941325424866" y="581.765825881958"/>
-      <point x="398.5406258949717" y="408.65244104385374"/>
-      <point x="279.68468578875957" y="264.71098457336427" type="curve"/>
-      <point x="369.08609133253185" y="693.0" type="line"/>
-      <point x="222.25799931849173" y="693.0" type="line"/>
+      <point x="70" y="0" type="line"/>
+      <point x="184" y="0" type="line"/>
+      <point x="247" y="102"/>
+      <point x="344" y="250"/>
+      <point x="483" y="430" type="curve"/>
+      <point x="380" y="0" type="line"/>
+      <point x="513" y="0" type="line"/>
+      <point x="679" y="693" type="line"/>
+      <point x="564" y="693" type="line"/>
+      <point x="474" y="585"/>
+      <point x="377" y="459"/>
+      <point x="279" y="320" type="curve"/>
+      <point x="369" y="693" type="line"/>
+      <point x="236" y="693" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

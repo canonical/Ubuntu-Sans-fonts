@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="twothirds" format="2">
-  <advance width="699"/>
+  <advance width="708"/>
   <unicode hex="2154"/>
   <outline>
-    <component base="fraction" xOffset="476.91984115600593"/>
-    <component base="twosuperior" xOffset="-42.86417343139649"/>
-    <component base="threesuperior" xOffset="488.3780903625489" yOffset="-308.94092758178715"/>
+    <component base="fraction" xOffset="287"/>
+    <component base="twosuperior"/>
+    <component base="threesuperior" xOffset="353" yOffset="-299"/>
   </outline>
   <lib>
     <dict>
@@ -36,6 +36,8 @@
           <string>threesuperior</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

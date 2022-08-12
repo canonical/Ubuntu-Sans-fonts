@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="threequarters" format="2">
-  <advance width="699"/>
+  <advance width="708"/>
   <unicode hex="00BE"/>
   <outline>
-    <component base="fraction" xOffset="478.5319543457032"/>
-    <component base="threesuperior" xOffset="-8.677577362060548"/>
-    <component base="foursuperior" xOffset="453.093298034668" yOffset="-301.8818551635742"/>
+    <component base="fraction" xOffset="308"/>
+    <component base="threesuperior"/>
+    <component base="foursuperior" xOffset="354" yOffset="-298"/>
   </outline>
   <lib>
     <dict>
@@ -36,6 +36,8 @@
           <string>foursuperior</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="onehalf" format="2">
-  <advance width="699"/>
+  <advance width="708"/>
   <unicode hex="00BD"/>
   <outline>
-    <component base="fraction" xOffset="436.9853053283691"/>
-    <component base="onesuperior" xOffset="-8.355154724121096"/>
-    <component base="twosuperior" xOffset="477.541750793457" yOffset="-301.8818551635742"/>
+    <component base="fraction" xOffset="263"/>
+    <component base="onesuperior"/>
+    <component base="twosuperior" xOffset="354" yOffset="-298"/>
   </outline>
   <lib>
     <dict>
@@ -36,6 +36,8 @@
           <string>twosuperior</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

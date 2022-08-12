@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni04ED" format="2">
-  <advance width="412.2292417877378"/>
+  <advance width="422"/>
   <unicode hex="04ED"/>
   <outline>
-    <component base="afii10095"/>
-    <component base="dieresis" xOffset="-63.79870925903321"/>
+    <component base="afii10095" xOffset="21"/>
+    <component base="dieresis" xOffset="-14"/>
   </outline>
   <lib>
     <dict>
@@ -27,6 +27,8 @@
           <string>dieresis</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

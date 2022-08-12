@@ -1,17 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="apostrophe" format="2">
-  <advance width="224.29035088032307"/>
+  <advance width="231"/>
   <unicode hex="02BC"/>
   <outline>
     <contour>
-      <point x="254.06143182952871" y="554.8818551635742" type="line"/>
-      <point x="304.3533996841985" y="627.6466232681274"/>
-      <point x="325.74689326577754" y="672.4694060134889"/>
-      <point x="355.3189068187713" y="776.0" type="curve"/>
-      <point x="236.92794791760215" y="776.0" type="line"/>
-      <point x="225.65158441431933" y="705.8227827453613"/>
-      <point x="212.1790633481653" y="654.9414564704895"/>
-      <point x="172.87258021329254" y="584.2352318954468" type="curve"/>
+      <point x="257" y="555.0" type="line"/>
+      <point x="319" y="617"/>
+      <point x="361" y="682"/>
+      <point x="378" y="781.0" type="curve"/>
+      <point x="262" y="781.0" type="line"/>
+      <point x="256" y="720"/>
+      <point x="234" y="650"/>
+      <point x="179" y="581.0" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

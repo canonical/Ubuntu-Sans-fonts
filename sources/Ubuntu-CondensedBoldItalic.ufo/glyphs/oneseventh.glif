@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oneseventh" format="2">
-  <advance width="699"/>
+  <advance width="708"/>
   <unicode hex="F506"/>
   <outline>
-    <component base="fraction" xOffset="416.9247393798829"/>
-    <component base="onesuperior" xOffset="-12.869071655273439"/>
-    <component base="sevensuperior" xOffset="440.5139169311524" yOffset="-301.8818551635742"/>
+    <component base="fraction" xOffset="268"/>
+    <component base="onesuperior"/>
+    <component base="sevensuperior" xOffset="355" yOffset="-298"/>
   </outline>
   <lib>
     <dict>
@@ -36,6 +36,8 @@
           <string>sevensuperior</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

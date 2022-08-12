@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="onesixth" format="2">
-  <advance width="699"/>
+  <advance width="708"/>
   <unicode hex="2159"/>
   <outline>
-    <component base="fraction" xOffset="452.72834686279293"/>
-    <component base="onesuperior" xOffset="13.836339569091798"/>
-    <component base="sixsuperior" xOffset="447.5793811035157" yOffset="-301.8818551635742"/>
+    <component base="fraction" xOffset="288"/>
+    <component base="onesuperior"/>
+    <component base="sixsuperior" xOffset="355" yOffset="-298"/>
   </outline>
   <lib>
     <dict>
@@ -36,6 +36,8 @@
           <string>sixsuperior</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

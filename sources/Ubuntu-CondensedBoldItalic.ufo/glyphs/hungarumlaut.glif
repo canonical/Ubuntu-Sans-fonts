@@ -1,19 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hungarumlaut" format="2">
-  <advance width="369.5004331540848"/>
+  <advance width="370"/>
   <unicode hex="02DD"/>
   <outline>
     <contour>
-      <point x="392.7902504677619" y="577.5880797386169" type="line"/>
-      <point x="531.7201485071591" y="714.4113913726807" type="line"/>
-      <point x="471.21675109420437" y="795.9419853591919" type="line"/>
-      <point x="346.28372318298597" y="635.294833202362" type="line"/>
+      <point x="383" y="583.0" type="line"/>
+      <point x="540" y="741.0" type="line"/>
+      <point x="461" y="799.0" type="line"/>
+      <point x="325" y="624.0" type="line"/>
     </contour>
     <contour>
-      <point x="218.98242508956807" y="577.5880797386169" type="line"/>
-      <point x="357.9123231289652" y="714.4113913726807" type="line"/>
-      <point x="297.4089257160106" y="795.9419853591919" type="line"/>
-      <point x="172.47589780479214" y="635.294833202362" type="line"/>
+      <point x="217" y="583.0" type="line"/>
+      <point x="374" y="741.0" type="line"/>
+      <point x="295" y="799.0" type="line"/>
+      <point x="158" y="624.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

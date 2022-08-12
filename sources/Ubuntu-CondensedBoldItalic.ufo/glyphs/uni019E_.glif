@@ -1,8 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni019E" format="2">
-  <advance width="450.9985729501634"/>
+  <advance width="451"/>
   <unicode hex="019E"/>
   <outline>
     <component base="eta"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,22 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tenge" format="2">
-  <advance width="452.236553336746"/>
+  <advance width="452"/>
   <outline>
     <contour>
-      <point x="138.79027721133772" y="0.0" type="line"/>
-      <point x="286.67353096654676" y="0.0" type="line"/>
-      <point x="371.9044071415193" y="388.40874692916873" type="line"/>
-      <point x="497.40984497004655" y="388.40874692916873" type="line"/>
-      <point x="529.9025982510789" y="503.52847843170167" type="line"/>
-      <point x="133.11879232115314" y="503.52847843170167" type="line"/>
-      <point x="100.62603904012089" y="388.40874692916873" type="line"/>
-      <point x="224.02115338631035" y="388.40874692916873" type="line"/>
+      <point x="156" y="0.0" type="line"/>
+      <point x="296" y="0.0" type="line"/>
+      <point x="391" y="394.0" type="line"/>
+      <point x="522" y="394.0" type="line"/>
+      <point x="549" y="507.0" type="line"/>
+      <point x="147" y="507.0" type="line"/>
+      <point x="120" y="394.0" type="line"/>
+      <point x="251" y="394.0" type="line"/>
     </contour>
     <contour>
-      <point x="148.1738582885021" y="577.880268497467" type="line"/>
-      <point x="544.9576642184278" y="577.880268497467" type="line"/>
-      <point x="578.505579240629" y="693.0" type="line"/>
-      <point x="181.72177331070324" y="693.0" type="line"/>
+      <point x="164" y="580.0" type="line"/>
+      <point x="566" y="580.0" type="line"/>
+      <point x="593" y="693.0" type="line"/>
+      <point x="191" y="693.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

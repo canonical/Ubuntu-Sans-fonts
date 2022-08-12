@@ -1,8 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zero.sups" format="2">
-  <advance width="287.63789718627936"/>
+  <advance width="282"/>
   <unicode hex="F80A"/>
   <outline>
-    <component base="zerosuperior" xOffset="25.130928344726563" yOffset="120.0"/>
+    <component base="zerosuperior" xOffset="29.000000000000007" yOffset="120"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

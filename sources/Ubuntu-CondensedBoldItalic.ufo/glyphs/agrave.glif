@@ -2,9 +2,10 @@
 <glyph name="agrave" format="2">
   <advance width="484"/>
   <unicode hex="00E0"/>
+  <guideline x="277" y="578" angle="0" identifier="2wsPyFPKqK"/>
   <outline>
     <component base="a"/>
-    <component base="grave" xOffset="231.88710906982422"/>
+    <component base="grave" xOffset="110"/>
   </outline>
   <lib>
     <dict>
@@ -27,6 +28,8 @@
           <string>grave</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="two.alt" format="2">
-  <advance width="452"/>
+  <advance width="408"/>
   <unicode hex="F802"/>
   <outline>
-    <component base="two" xOffset="15.153863983154297"/>
+    <component base="two" xOffset="-21"/>
   </outline>
   <lib>
     <dict>
@@ -18,6 +18,8 @@
           <string>two</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Alphatonos" format="2">
-  <advance width="618"/>
+  <advance width="508"/>
   <unicode hex="0386"/>
   <outline>
     <component base="A" xOffset="33.06056594848633"/>
-    <component base="tonos.cap" xOffset="-98.80360748291017"/>
+    <component base="tonos.cap" xOffset="-61"/>
   </outline>
   <lib>
     <dict>
@@ -27,6 +27,8 @@
           <string>tonos.cap</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

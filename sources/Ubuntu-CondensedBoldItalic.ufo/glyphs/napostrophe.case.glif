@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="napostrophe.case" format="2">
-  <advance width="753"/>
+  <advance width="695"/>
   <outline>
-    <component base="N" xOffset="168.08350158691408"/>
-    <component base="apostrophe" xOffset="-57.841237792968755"/>
+    <component base="N" xOffset="112.08350158691408"/>
+    <component base="apostrophe" xOffset="-54"/>
   </outline>
   <lib>
     <dict>
@@ -26,6 +26,8 @@
           <string>apostrophe</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

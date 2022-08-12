@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Uring" format="2">
-  <advance width="552"/>
+  <advance width="550"/>
   <unicode hex="016E"/>
+  <guideline x="371" y="739" angle="0" identifier="fzSd0bAGnw"/>
   <outline>
     <component base="U"/>
-    <component base="ring" xOffset="185.45335098266605" yOffset="137.82278274536134"/>
+    <component base="ring" xOffset="147" yOffset="150"/>
   </outline>
   <lib>
     <dict>
@@ -27,6 +28,8 @@
           <string>ring</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,22 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kratka" format="2">
-  <advance width="328.34912524849716"/>
+  <advance width="293"/>
   <outline>
     <contour>
-      <point x="301.07626141821027" y="598.8233116340637" type="curve" smooth="yes"/>
-      <point x="381.2763703380321" y="598.8233116340637"/>
-      <point x="442.7312416950044" y="641.8233116340638"/>
-      <point x="472.8648188176302" y="732.8238405227661" type="curve"/>
-      <point x="387.96900069849914" y="762.7067534637451" type="line"/>
-      <point x="364.79101617745556" y="710.6476810455322"/>
-      <point x="345.2922987930877" y="693.6482099342346"/>
-      <point x="319.9383917601968" y="693.6482099342346" type="curve" smooth="yes"/>
-      <point x="299.5246813871599" y="693.6482099342346"/>
-      <point x="277.91618155437243" y="713.294833202362"/>
-      <point x="278.74706849218353" y="763.5891375160218" type="curve"/>
-      <point x="181.1880867659571" y="739.0005288887024" type="line"/>
-      <point x="181.38061265869274" y="649.7647681045532"/>
-      <point x="233.59032729110504" y="598.8233116340637"/>
+      <point x="308" y="604.0" type="curve" smooth="yes"/>
+      <point x="384" y="604"/>
+      <point x="442" y="645"/>
+      <point x="468" y="742.0" type="curve"/>
+      <point x="381" y="761.0" type="line"/>
+      <point x="363" y="706"/>
+      <point x="342" y="694"/>
+      <point x="318" y="694.0" type="curve" smooth="yes"/>
+      <point x="291" y="694"/>
+      <point x="276" y="708"/>
+      <point x="278" y="762.0" type="curve"/>
+      <point x="182" y="743.0" type="line"/>
+      <point x="178" y="646"/>
+      <point x="233" y="604"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni01D0" format="2">
-  <advance width="236.15439123113717"/>
+  <advance width="264"/>
   <unicode hex="01D0"/>
+  <guideline x="180" y="583" angle="0" identifier="y33EYF4ZoR"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="caron" xOffset="-48.35515472412109"/>
+    <component base="caron" xOffset="-18" yOffset="2"/>
   </outline>
   <lib>
     <dict>
@@ -27,6 +28,8 @@
           <string>caron</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

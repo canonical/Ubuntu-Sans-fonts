@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0214" format="2">
-  <advance width="552"/>
+  <advance width="550"/>
   <unicode hex="0214"/>
+  <guideline x="375" y="733" angle="0" identifier="5IWzyGPjyv"/>
   <outline>
     <component base="U"/>
-    <component base="double_grave" xOffset="104.00489822387695" yOffset="161.29430431365967"/>
+    <component base="double_grave" xOffset="65" yOffset="150"/>
   </outline>
   <lib>
     <dict>
@@ -27,6 +28,8 @@
           <string>double_grave</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

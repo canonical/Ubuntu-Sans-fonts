@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fiveeighths" format="2">
-  <advance width="699"/>
+  <advance width="708"/>
   <unicode hex="215D"/>
   <outline>
-    <component base="fraction" xOffset="450.4713883972168"/>
-    <component base="fivesuperior" xOffset="-7.546649017333985"/>
-    <component base="eightsuperior" xOffset="467.21932815551764" yOffset="-301.8818551635742"/>
+    <component base="fraction" xOffset="285"/>
+    <component base="fivesuperior"/>
+    <component base="eightsuperior" xOffset="355" yOffset="-297"/>
   </outline>
   <lib>
     <dict>
@@ -36,6 +36,8 @@
           <string>eightsuperior</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

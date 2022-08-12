@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0226" format="2">
-  <advance width="591"/>
+  <advance width="508"/>
   <unicode hex="0226"/>
+  <guideline x="380" y="755" angle="0" identifier="fS2U6MAq1k"/>
   <outline>
     <component base="A"/>
-    <component base="dotaccent" xOffset="114.29948699951171" yOffset="159.52953620910645"/>
+    <component base="dotaccent" xOffset="167" yOffset="152"/>
   </outline>
   <lib>
     <dict>
@@ -27,6 +28,8 @@
           <string>dotaccent</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

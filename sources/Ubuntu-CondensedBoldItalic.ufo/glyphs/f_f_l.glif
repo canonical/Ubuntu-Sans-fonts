@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_f_l" format="2">
-  <advance width="974"/>
+  <advance width="985"/>
   <unicode hex="FB04"/>
   <outline>
     <component base="f"/>
-    <component base="fl" xOffset="451.24226379394537"/>
+    <component base="fl" xOffset="357"/>
   </outline>
   <lib>
     <dict>
@@ -27,6 +27,8 @@
           <string>fl</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

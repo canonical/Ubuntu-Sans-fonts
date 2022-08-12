@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Utilde" format="2">
-  <advance width="552"/>
+  <advance width="550"/>
   <unicode hex="0168"/>
+  <guideline x="425" y="759" angle="0" identifier="fBVp6JKDm8"/>
   <outline>
     <component base="U"/>
-    <component base="tilde" xOffset="172.13092834472658" yOffset="161.70622457504274"/>
+    <component base="tilde" xOffset="156" yOffset="150"/>
   </outline>
   <lib>
     <dict>
@@ -27,6 +28,8 @@
           <string>tilde</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

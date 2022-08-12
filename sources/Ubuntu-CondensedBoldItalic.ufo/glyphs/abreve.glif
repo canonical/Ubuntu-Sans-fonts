@@ -4,7 +4,7 @@
   <unicode hex="0103"/>
   <outline>
     <component base="a"/>
-    <component base="breve" xOffset="134.7381433105469"/>
+    <component base="breve" xOffset="98"/>
   </outline>
   <lib>
     <dict>
@@ -27,6 +27,8 @@
           <string>breve</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

@@ -2,9 +2,10 @@
 <glyph name="Wgrave" format="2">
   <advance width="763"/>
   <unicode hex="1E80"/>
+  <guideline x="448" y="728" angle="0" identifier="lLDjlf2960"/>
   <outline>
     <component base="W"/>
-    <component base="grave" xOffset="316.7054112243653" yOffset="157.64715215682983"/>
+    <component base="grave" xOffset="200" yOffset="150"/>
   </outline>
   <lib>
     <dict>
@@ -27,6 +28,8 @@
           <string>grave</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

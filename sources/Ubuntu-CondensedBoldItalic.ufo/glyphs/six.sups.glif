@@ -1,8 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="six.sups" format="2">
-  <advance width="287.63789718627936"/>
+  <advance width="282"/>
   <unicode hex="F810"/>
   <outline>
-    <component base="sixsuperior" xOffset="24.163660430908205" yOffset="120.0"/>
+    <component base="sixsuperior" xOffset="28.999999999999996" yOffset="120"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

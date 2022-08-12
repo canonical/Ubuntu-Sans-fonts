@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1FAC.alt" format="2">
-  <advance width="940.244857862781"/>
+  <advance width="858"/>
   <outline>
-    <component base="Omega" xOffset="348.1113354492188"/>
-    <component base="uni1FCE" xOffset="-140.66778091430666" yOffset="-108.23734745025635"/>
-    <component base="uni1FBE" xOffset="591.4337580871583"/>
+    <component base="Omega" xOffset="266.1113354492188"/>
+    <component base="uni1FCE" xOffset="-7" yOffset="-89"/>
+    <component base="uni1FBE" xOffset="532"/>
   </outline>
   <lib>
     <dict>
@@ -35,6 +35,8 @@
           <string>uni1FBE</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

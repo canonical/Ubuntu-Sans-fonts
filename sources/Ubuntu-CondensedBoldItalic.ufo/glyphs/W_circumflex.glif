@@ -2,9 +2,10 @@
 <glyph name="Wcircumflex" format="2">
   <advance width="763"/>
   <unicode hex="0174"/>
+  <guideline x="555" y="726" angle="0" identifier="iNAGNp3Qmm"/>
   <outline>
     <component base="W"/>
-    <component base="circumflex" xOffset="290.90670196533205" yOffset="154.11814483642578"/>
+    <component base="circumflex" xOffset="218" yOffset="145"/>
   </outline>
   <lib>
     <dict>
@@ -27,6 +28,8 @@
           <string>circumflex</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

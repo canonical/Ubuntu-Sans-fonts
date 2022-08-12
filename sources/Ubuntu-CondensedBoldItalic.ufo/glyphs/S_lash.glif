@@ -1,7 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Slash" format="2">
-  <advance width="361"/>
+  <advance width="324"/>
   <outline>
-    <component base="slash" xOffset="24.224226379394533" yOffset="47"/>
+    <component base="slash" xOffset="10.999999999999996" yOffset="47"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

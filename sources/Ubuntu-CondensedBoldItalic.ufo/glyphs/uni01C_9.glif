@@ -4,7 +4,7 @@
   <unicode hex="01C9"/>
   <outline>
     <component base="l" xOffset="-23.80360748291016"/>
-    <component base="j" xOffset="348.9853053283692"/>
+    <component base="j" xOffset="248"/>
   </outline>
   <lib>
     <dict>
@@ -27,6 +27,8 @@
           <string>j</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

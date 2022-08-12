@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ldot" format="2">
-  <advance width="469"/>
+  <advance width="437"/>
   <unicode hex="013F"/>
   <outline>
     <component base="L"/>
-    <component base="dotaccent" xOffset="115.35515472412109" yOffset="-283.2336452293396"/>
+    <component base="dotaccent" xOffset="151" yOffset="-297"/>
   </outline>
   <lib>
     <dict>
@@ -19,6 +19,8 @@
           <string>dotaccent</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

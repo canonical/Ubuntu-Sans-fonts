@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1FFC" format="2">
-  <advance width="928.8992482033714"/>
+  <advance width="864"/>
   <unicode hex="1FFC"/>
   <outline>
-    <component base="iota" xOffset="808.3453582763673"/>
+    <component base="iota" xOffset="598"/>
     <component base="Omega"/>
   </outline>
   <lib>
@@ -27,6 +27,8 @@
           <string>Omega</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

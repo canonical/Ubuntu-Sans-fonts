@@ -1,25 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1FBF" format="2">
-  <advance width="271.4526503689025"/>
+  <advance width="300"/>
   <unicode hex="1FBF"/>
   <outline>
     <contour>
-      <point x="233.5576709959536" y="581.1766883659362" type="line"/>
-      <point x="316.2856116873297" y="648.1181448364258"/>
-      <point x="353.62378339443467" y="706.1772172546387"/>
-      <point x="356.00751287388744" y="756.1186737251281" type="curve" smooth="yes"/>
-      <point x="358.2115734245448" y="802.2958909797668"/>
-      <point x="325.40322810764053" y="824.5311228752136"/>
-      <point x="294.59460201898344" y="824.5311228752136" type="curve" smooth="yes"/>
-      <point x="262.24240874259027" y="824.5311228752136"/>
-      <point x="229.37150898996103" y="802.8839707183838"/>
-      <point x="227.2123846045846" y="757.6482099342346" type="curve" smooth="yes"/>
-      <point x="226.15388071722285" y="735.4715215682984"/>
-      <point x="232.57024566223967" y="714.0596013069153"/>
-      <point x="255.98705676699586" y="699.4124491500854" type="curve"/>
-      <point x="235.16033792237172" y="669.1181448364257"/>
-      <point x="221.63789121496575" y="649.5300650978088"/>
-      <point x="193.96621654366623" y="622.5300650978088" type="curve"/>
+      <point x="263" y="570" type="line"/>
+      <point x="317" y="611"/>
+      <point x="396" y="672"/>
+      <point x="396" y="747" type="curve" smooth="yes"/>
+      <point x="396" y="786"/>
+      <point x="372" y="807"/>
+      <point x="339" y="807" type="curve" smooth="yes"/>
+      <point x="300" y="807"/>
+      <point x="267" y="773"/>
+      <point x="267" y="732" type="curve" smooth="yes"/>
+      <point x="267" y="714"/>
+      <point x="274" y="694"/>
+      <point x="296" y="683" type="curve"/>
+      <point x="271" y="652"/>
+      <point x="246" y="626"/>
+      <point x="225" y="607" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

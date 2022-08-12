@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1F8D" format="2">
-  <advance width="1048"/>
+  <advance width="981"/>
   <unicode hex="1F8D"/>
   <outline>
-    <component base="A" xOffset="245.63015060424806"/>
-    <component base="iota" xOffset="958.8445805358887"/>
-    <component base="uni1FDE" xOffset="-296.6760218811035" yOffset="-108.23734745025635"/>
+    <component base="A" xOffset="206.63015060424806"/>
+    <component base="iota" xOffset="716"/>
+    <component base="uni1FDE" xOffset="-7" yOffset="-89"/>
   </outline>
   <lib>
     <dict>
@@ -36,6 +36,8 @@
           <string>uni1FDE</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>
