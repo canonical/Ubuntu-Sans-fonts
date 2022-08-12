@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="one" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one" format="2">
   <advance width="427"/>
   <unicode hex="0031"/>
   <outline>
@@ -8,19 +8,19 @@
       <point x="285" y="0" type="line"/>
       <point x="451" y="693" type="line"/>
       <point x="404" y="693" type="line"/>
-      <point x="353" y="626"/>
-      <point x="286" y="584"/>
-      <point x="226" y="555" type="curve"/>
-      <point x="246" y="509" type="line"/>
-      <point x="283" y="526"/>
-      <point x="332" y="557"/>
+      <point x="354" y="627"/>
+      <point x="288" y="585"/>
+      <point x="229" y="557" type="curve"/>
+      <point x="249" y="510" type="line"/>
+      <point x="286" y="527"/>
+      <point x="333" y="557"/>
       <point x="366" y="594" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.0881,0.6429,0.1637,1</string>
+      <string>1,0.8155,0.0349,1</string>
     </dict>
   </lib>
 </glyph>

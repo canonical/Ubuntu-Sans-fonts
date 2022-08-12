@@ -1,8 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="afii10028" format="1">
-  <advance width="477"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="afii10028" format="2">
+  <advance width="456"/>
   <unicode hex="041A"/>
   <outline>
     <component base="K"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

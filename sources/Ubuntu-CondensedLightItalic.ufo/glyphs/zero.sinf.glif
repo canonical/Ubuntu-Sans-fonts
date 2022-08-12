@@ -1,8 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="zero.sinf" format="1">
-  <advance width="288"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.sinf" format="2">
+  <advance width="281"/>
   <unicode hex="F814"/>
   <outline>
-    <component base="zerosuperior" xOffset="-87" yOffset="-442"/>
+    <component base="zerosuperior" xOffset="-106" yOffset="-442"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,10 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni1F88" format="1">
-  <advance width="692"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1F88" format="2">
+  <advance width="678"/>
   <unicode hex="1F88"/>
   <outline>
-    <component base="A" xOffset="2"/>
-    <component base="iota" xOffset="632"/>
-    <component base="uni1FBF" xOffset="-142" yOffset="-45"/>
+    <component base="A" xOffset="5"/>
+    <component base="iota" xOffset="462"/>
+    <component base="uni1FBF" xOffset="-117" yOffset="-79"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,9 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni04F2" format="1">
-  <advance width="424"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04F2" format="2">
+  <advance width="401"/>
   <unicode hex="04F2"/>
   <outline>
     <component base="afii10037"/>
-    <component base="hungarumlaut" xOffset="156" yOffset="153"/>
+    <component base="hungarumlaut" xOffset="113" yOffset="150"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

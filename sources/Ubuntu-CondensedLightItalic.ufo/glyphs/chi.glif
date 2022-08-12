@@ -1,8 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="chi" format="1">
-  <advance width="369"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chi" format="2">
+  <advance width="347"/>
   <unicode hex="03C7"/>
   <outline>
-    <component base="x"/>
+    <contour>
+      <point x="-53" y="-185" type="curve"/>
+      <point x="10" y="-185" type="line"/>
+      <point x="18" y="-165"/>
+      <point x="180" y="106"/>
+      <point x="195" y="133" type="curve"/>
+      <point x="214" y="20"/>
+      <point x="224" y="-87"/>
+      <point x="228" y="-185" type="curve"/>
+      <point x="289" y="-185" type="line"/>
+      <point x="284" y="-82"/>
+      <point x="272" y="42"/>
+      <point x="243" y="184" type="curve"/>
+      <point x="309" y="280"/>
+      <point x="409" y="456"/>
+      <point x="445" y="521" type="curve"/>
+      <point x="384" y="521" type="line"/>
+      <point x="352" y="460"/>
+      <point x="274" y="320"/>
+      <point x="222" y="242" type="curve"/>
+      <point x="190" y="521" type="line"/>
+      <point x="127" y="521" type="line"/>
+      <point x="172" y="190" type="line"/>
+      <point x="148" y="150"/>
+      <point x="-38" y="-154"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

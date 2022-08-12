@@ -1,12 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="caron.alt.short" format="1">
-  <advance width="252"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caron.alt.short" format="2">
+  <advance width="304"/>
   <outline>
     <contour>
-      <point x="245" y="582" type="line"/>
-      <point x="289" y="582" type="line"/>
-      <point x="354" y="776" type="line"/>
-      <point x="293" y="776" type="line"/>
+      <point x="275" y="581" type="line"/>
+      <point x="311" y="581" type="line"/>
+      <point x="375" y="776" type="line"/>
+      <point x="322" y="776" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,8 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="eight.alt" format="1">
-  <advance width="425"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eight.alt" format="2">
+  <advance width="397"/>
   <unicode hex="F808"/>
   <outline>
-    <component base="eight" xOffset="-3"/>
+    <component base="eight" xOffset="-15"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

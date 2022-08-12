@@ -1,10 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="threefifths" format="1">
-  <advance width="685"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threefifths" format="2">
+  <advance width="707"/>
   <unicode hex="2157"/>
   <outline>
-    <component base="fraction" xOffset="357"/>
-    <component base="threesuperior" xOffset="-8"/>
-    <component base="fivesuperior" xOffset="441" yOffset="-317"/>
+    <component base="fraction" xOffset="287"/>
+    <component base="threesuperior" xOffset="-1"/>
+    <component base="fivesuperior" xOffset="353" yOffset="-303"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

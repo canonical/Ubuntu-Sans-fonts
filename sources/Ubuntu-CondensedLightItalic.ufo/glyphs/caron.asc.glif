@@ -1,14 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="caron.asc" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caron.asc" format="2">
   <advance width="271"/>
   <outline>
     <contour>
-      <point x="333" y="826" type="line"/>
-      <point x="442" y="919" type="line"/>
-      <point x="426" y="956" type="line"/>
-      <point x="345" y="887" type="line"/>
-      <point x="292" y="957" type="line"/>
-      <point x="265" y="924" type="line"/>
+      <point x="327" y="830" type="line"/>
+      <point x="463" y="930" type="line"/>
+      <point x="444" y="958" type="line"/>
+      <point x="339" y="890" type="line"/>
+      <point x="267" y="958" type="line"/>
+      <point x="241" y="931" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

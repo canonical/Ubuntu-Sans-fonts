@@ -1,8 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni00AD" format="1">
-  <advance width="231"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni00AD" format="2">
+  <advance width="226"/>
   <unicode hex="00AD"/>
   <outline>
-    <component base="hyphen"/>
+    <component base="hyphen" xOffset="-2"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

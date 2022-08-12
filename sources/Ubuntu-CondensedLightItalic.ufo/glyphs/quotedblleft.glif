@@ -1,9 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="quotedblleft" format="1">
-  <advance width="320"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblleft" format="2">
+  <advance width="329"/>
   <unicode hex="201C"/>
   <outline>
     <component base="quoteleft"/>
-    <component base="quoteleft" xOffset="171"/>
+    <component base="quoteleft" xOffset="133"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

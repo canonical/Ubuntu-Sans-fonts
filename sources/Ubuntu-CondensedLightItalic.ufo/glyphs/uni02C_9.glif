@@ -1,8 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni02C9" format="1">
-  <advance width="272"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni02C9" format="2">
+  <advance width="273"/>
   <unicode hex="02C9"/>
   <outline>
-    <component base="macron"/>
+    <component base="macron" xOffset="-9" yOffset="-1"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

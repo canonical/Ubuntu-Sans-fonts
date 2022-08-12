@@ -1,9 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni1F2C" format="1">
-  <advance width="715"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1F2C" format="2">
+  <advance width="747"/>
   <unicode hex="1F2C"/>
   <outline>
-    <component base="H" xOffset="251"/>
-    <component base="uni1FCE" xOffset="-67" yOffset="-45"/>
+    <component base="H" xOffset="208"/>
+    <component base="uni1FCE" xOffset="-61" yOffset="-79"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,10 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="twosevenths" format="1">
-  <advance width="685"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twosevenths" format="2">
+  <advance width="707"/>
   <unicode hex="F507"/>
   <outline>
-    <component base="fraction" xOffset="369"/>
-    <component base="twosuperior" xOffset="11"/>
-    <component base="sevensuperior" xOffset="427" yOffset="-317"/>
+    <component base="fraction" xOffset="302"/>
+    <component base="twosuperior"/>
+    <component base="sevensuperior" xOffset="353" yOffset="-305"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

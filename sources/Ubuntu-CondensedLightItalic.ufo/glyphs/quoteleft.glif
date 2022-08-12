@@ -1,17 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="quoteleft" format="1">
-  <advance width="191"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quoteleft" format="2">
+  <advance width="196"/>
   <unicode hex="2018"/>
   <outline>
     <contour>
-      <point x="178" y="535" type="curve"/>
-      <point x="248" y="535" type="line"/>
-      <point x="260" y="610"/>
-      <point x="285" y="660"/>
-      <point x="325" y="730" type="curve"/>
-      <point x="283" y="750" type="line"/>
-      <point x="240" y="694"/>
-      <point x="194" y="614"/>
+      <point x="195" y="527" type="curve"/>
+      <point x="254" y="527" type="line"/>
+      <point x="261" y="581"/>
+      <point x="273" y="645"/>
+      <point x="334" y="728" type="curve"/>
+      <point x="296" y="744" type="line"/>
+      <point x="236" y="677"/>
+      <point x="202" y="608"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

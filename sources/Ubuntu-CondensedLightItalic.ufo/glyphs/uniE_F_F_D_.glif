@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uniEFFD" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniEFFD" format="2">
   <advance width="1315"/>
   <unicode hex="EFFD"/>
   <outline>
@@ -9,4 +9,10 @@
     <component base="zerosuperior" xOffset="878" yOffset="-322"/>
     <component base="zerosuperior" xOffset="1230" yOffset="-322"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1708,0.1708,0.1708,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,8 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="periodcentered" format="1">
-  <advance width="169"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="periodcentered" format="2">
+  <advance width="191"/>
   <unicode hex="00B7"/>
   <outline>
-    <component base="period" xOffset="40" yOffset="306"/>
+    <component base="period" xOffset="73" yOffset="307"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

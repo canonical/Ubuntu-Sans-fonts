@@ -1,8 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="quotesinglbase" format="1">
-  <advance width="184"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotesinglbase" format="2">
+  <advance width="196"/>
   <unicode hex="201A"/>
   <outline>
-    <component base="quoteright" xOffset="-158" yOffset="-648"/>
+    <component base="quoteright" xOffset="-156" yOffset="-649"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

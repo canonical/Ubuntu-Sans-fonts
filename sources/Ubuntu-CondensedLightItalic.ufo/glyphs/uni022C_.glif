@@ -1,9 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni022C" format="1">
-  <advance width="586"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni022C" format="2">
+  <advance width="584"/>
   <unicode hex="022C"/>
   <outline>
     <component base="O"/>
-    <component base="tilde_macron" xOffset="222" yOffset="157"/>
+    <component base="tilde_macron" xOffset="179" yOffset="147"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
 </glyph>

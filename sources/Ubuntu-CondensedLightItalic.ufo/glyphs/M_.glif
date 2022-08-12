@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="M" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M" format="2">
   <advance width="676"/>
   <unicode hex="004D"/>
   <outline>
@@ -7,17 +7,17 @@
       <point x="68" y="0" type="curve"/>
       <point x="129" y="0" type="line"/>
       <point x="176" y="184"/>
-      <point x="231" y="391"/>
-      <point x="295" y="600" type="curve"/>
-      <point x="322" y="418"/>
+      <point x="231" y="389"/>
+      <point x="294" y="599" type="curve"/>
+      <point x="322" y="417"/>
       <point x="325" y="258"/>
-      <point x="333" y="99" type="curve"/>
-      <point x="392" y="99" type="line"/>
-      <point x="474" y="253"/>
-      <point x="557" y="414"/>
-      <point x="668" y="591" type="curve"/>
-      <point x="631" y="384"/>
-      <point x="588" y="182"/>
+      <point x="332" y="99" type="curve"/>
+      <point x="393" y="99" type="line"/>
+      <point x="475" y="253"/>
+      <point x="557" y="412"/>
+      <point x="668" y="589" type="curve"/>
+      <point x="630" y="384"/>
+      <point x="588" y="181"/>
       <point x="548" y="0" type="curve"/>
       <point x="609" y="0" type="line"/>
       <point x="660" y="238"/>
@@ -38,7 +38,7 @@
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.0881,0.6429,0.1637,1</string>
+      <string>1,0.8155,0.0349,1</string>
     </dict>
   </lib>
 </glyph>
