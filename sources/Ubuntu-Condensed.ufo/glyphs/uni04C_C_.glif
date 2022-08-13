@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04CC" format="2">
+  <advance width="450"/>
+  <unicode hex="04CC"/>
+  <outline>
+    <contour>
+      <point x="228" y="-145" type="line"/>
+      <point x="310" y="-145" type="line"/>
+      <point x="310" y="0" type="line"/>
+      <point x="373" y="0" type="line"/>
+      <point x="373" y="525" type="line"/>
+      <point x="287" y="525" type="line"/>
+      <point x="287" y="286" type="line"/>
+      <point x="263" y="279"/>
+      <point x="235" y="273"/>
+      <point x="209" y="273" type="curve" smooth="yes"/>
+      <point x="151" y="273"/>
+      <point x="129" y="301"/>
+      <point x="129" y="370" type="curve" smooth="yes"/>
+      <point x="129" y="525" type="line"/>
+      <point x="42" y="525" type="line"/>
+      <point x="42" y="368" type="line" smooth="yes"/>
+      <point x="42" y="235"/>
+      <point x="107" y="197"/>
+      <point x="198" y="197" type="curve" smooth="yes"/>
+      <point x="229" y="197"/>
+      <point x="261" y="206"/>
+      <point x="287" y="214" type="curve"/>
+      <point x="287" y="71" type="line"/>
+      <point x="228" y="71" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
+</glyph>

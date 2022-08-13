@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FF9" format="2">
+  <advance width="697"/>
+  <unicode hex="1FF9"/>
+  <anchor x="104" y="693" name="topleft"/>
+  <anchor x="401" y="347" name="center"/>
+  <anchor x="401" y="0" name="bottom"/>
+  <anchor x="401" y="693" name="top"/>
+  <anchor x="684" y="693" name="topright"/>
+  <anchor x="644" y="10" name="ogonek"/>
+  <outline>
+    <component base="O" xOffset="100"/>
+    <component base="acute" xOffset="-86" yOffset="-68"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>O</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>acute</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
+</glyph>

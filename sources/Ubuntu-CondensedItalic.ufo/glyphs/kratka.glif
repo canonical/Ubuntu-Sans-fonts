@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kratka" format="2">
+  <advance width="274"/>
+  <outline>
+    <contour>
+      <point x="294" y="607" type="curve" smooth="yes"/>
+      <point x="361" y="607"/>
+      <point x="411" y="650"/>
+      <point x="435" y="732" type="curve"/>
+      <point x="380" y="744" type="line"/>
+      <point x="358" y="685"/>
+      <point x="331" y="667"/>
+      <point x="298" y="667" type="curve" smooth="yes"/>
+      <point x="264" y="667"/>
+      <point x="244" y="687"/>
+      <point x="246" y="744" type="curve"/>
+      <point x="185" y="732" type="line"/>
+      <point x="180" y="650"/>
+      <point x="223" y="607"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
+</glyph>

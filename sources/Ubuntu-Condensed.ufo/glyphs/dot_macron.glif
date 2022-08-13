@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dot_macron" format="2">
+  <advance width="313"/>
+  <outline>
+    <contour>
+      <point x="56" y="749" type="line"/>
+      <point x="259" y="749" type="line"/>
+      <point x="259" y="806" type="line"/>
+      <point x="56" y="806" type="line"/>
+    </contour>
+    <contour>
+      <point x="157" y="599" type="curve" smooth="yes"/>
+      <point x="183" y="599"/>
+      <point x="205" y="620"/>
+      <point x="205" y="647" type="curve" smooth="yes"/>
+      <point x="205" y="677"/>
+      <point x="183" y="697"/>
+      <point x="157" y="697" type="curve" smooth="yes"/>
+      <point x="130" y="697"/>
+      <point x="108" y="677"/>
+      <point x="108" y="647" type="curve" smooth="yes"/>
+      <point x="108" y="620"/>
+      <point x="130" y="599"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
+</glyph>

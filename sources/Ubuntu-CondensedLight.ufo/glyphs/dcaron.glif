@@ -2,10 +2,10 @@
 <glyph name="dcaron" format="2">
   <advance width="528"/>
   <unicode hex="010F"/>
-  <anchor x="227" y="0" name="bottom"/>
-  <anchor x="227" y="259" name="center"/>
   <anchor x="227" y="776" name="top"/>
+  <anchor x="227" y="259" name="center"/>
   <anchor x="425" y="776" name="topright"/>
+  <anchor x="227" y="0" name="bottom"/>
   <outline>
     <component base="d"/>
     <component base="caron.alt" xOffset="337"/>

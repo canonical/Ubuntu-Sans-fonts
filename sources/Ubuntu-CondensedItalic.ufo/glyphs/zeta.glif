@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zeta" format="2">
+  <advance width="362"/>
+  <unicode hex="03B6"/>
+  <outline>
+    <contour>
+      <point x="272" y="-185" type="line"/>
+      <point x="315" y="-136"/>
+      <point x="355" y="-85"/>
+      <point x="355" y="-20" type="curve" smooth="yes"/>
+      <point x="355" y="26"/>
+      <point x="327" y="51"/>
+      <point x="267" y="79" type="curve" smooth="yes"/>
+      <point x="206" y="110"/>
+      <point x="177" y="132"/>
+      <point x="177" y="184" type="curve" smooth="yes"/>
+      <point x="177" y="338"/>
+      <point x="355" y="564"/>
+      <point x="518" y="703" type="curve"/>
+      <point x="533" y="769" type="line"/>
+      <point x="249" y="769" type="line"/>
+      <point x="231" y="695" type="line"/>
+      <point x="412" y="695" type="line"/>
+      <point x="277" y="571"/>
+      <point x="89" y="351"/>
+      <point x="89" y="161" type="curve" smooth="yes"/>
+      <point x="89" y="86"/>
+      <point x="123" y="53"/>
+      <point x="193" y="21" type="curve" smooth="yes"/>
+      <point x="245" y="-4"/>
+      <point x="263" y="-19"/>
+      <point x="263" y="-46" type="curve" smooth="yes"/>
+      <point x="263" y="-84"/>
+      <point x="236" y="-120"/>
+      <point x="202" y="-158" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.0881,0.6429,0.1637,1</string>
+    </dict>
+  </lib>
+</glyph>

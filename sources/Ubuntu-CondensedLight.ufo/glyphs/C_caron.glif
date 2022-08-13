@@ -2,8 +2,8 @@
 <glyph name="Ccaron" format="2">
   <advance width="460"/>
   <unicode hex="010C"/>
-  <anchor x="230" y="0" name="bottom"/>
   <anchor x="230" y="693" name="top"/>
+  <anchor x="230" y="0" name="bottom"/>
   <outline>
     <component base="C"/>
     <component base="caron" xOffset="133" yOffset="151"/>

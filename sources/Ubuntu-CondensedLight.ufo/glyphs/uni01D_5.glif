@@ -2,10 +2,10 @@
 <glyph name="uni01D5" format="2">
   <advance width="533"/>
   <unicode hex="01D5"/>
-  <anchor x="267" y="0" name="bottom"/>
-  <anchor x="482" y="10" name="ogonek"/>
   <anchor x="267" y="693" name="top"/>
+  <anchor x="482" y="10" name="ogonek"/>
   <anchor x="515" y="693" name="topright"/>
+  <anchor x="267" y="0" name="bottom"/>
   <outline>
     <component base="U"/>
     <component base="dieresis_macron" xOffset="109" yOffset="168"/>

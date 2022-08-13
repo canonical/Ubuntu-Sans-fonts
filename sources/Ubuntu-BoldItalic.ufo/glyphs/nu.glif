@@ -1,8 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="nu" format="2">
-  <advance width="546"/>
+  <advance width="539"/>
   <unicode hex="03BD"/>
   <outline>
-    <component base="v"/>
+    <contour>
+      <point x="140" y="0" type="curve"/>
+      <point x="304" y="0" type="line"/>
+      <point x="464" y="166"/>
+      <point x="570" y="330"/>
+      <point x="643" y="526" type="curve"/>
+      <point x="485" y="526" type="line"/>
+      <point x="447" y="408"/>
+      <point x="385" y="293"/>
+      <point x="284" y="156" type="curve"/>
+      <point x="298" y="268"/>
+      <point x="301" y="403"/>
+      <point x="292" y="526" type="curve"/>
+      <point x="141" y="526" type="line"/>
+      <point x="158" y="383"/>
+      <point x="158" y="152"/>
+    </contour>
   </outline>
 </glyph>
