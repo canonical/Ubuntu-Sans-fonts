@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="onesixth" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onesixth" format="2">
   <advance width="685"/>
   <unicode hex="2159"/>
   <outline>
@@ -7,4 +7,37 @@
     <component base="onesuperior" xOffset="-4"/>
     <component base="sixsuperior" xOffset="438" yOffset="-317"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>fraction</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>onesuperior</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>sixsuperior</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-08-14 14:36:42 +0000</string>
+    </dict>
+  </lib>
 </glyph>

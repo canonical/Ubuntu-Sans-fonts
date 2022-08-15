@@ -1,41 +1,41 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fivesixths" format="2">
-  <advance width="699"/>
-  <unicode hex="215A"/>
-  <outline>
-    <component base="fraction" xOffset="486.9198411560059"/>
-    <component base="fivesuperior" xOffset="16.256958465576172"/>
-    <component base="sixsuperior" xOffset="474.0278338623047" yOffset="-301.8818551635742"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>fraction</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>fivesuperior</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>2</integer>
-          <key>name</key>
-          <string>sixsuperior</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
+	<advance width="699"/>
+	<unicode hex="215A"/>
+	<outline>
+		<component base="fraction" xOffset="486.920"/>
+		<component base="fivesuperior" xOffset="16.257"/>
+		<component base="sixsuperior" xOffset="474.028" yOffset="-301.882"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>fraction</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>fivesuperior</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>sixsuperior</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
 </glyph>

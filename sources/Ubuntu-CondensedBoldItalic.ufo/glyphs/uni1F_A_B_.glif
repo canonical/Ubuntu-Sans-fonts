@@ -1,41 +1,41 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FAB" format="2">
-  <advance width="1250.3108574849655"/>
-  <unicode hex="1FAB"/>
-  <outline>
-    <component base="Omega" xOffset="407.0458712768555"/>
-    <component base="iota" xOffset="1214.391229553223"/>
-    <component base="uni1FDD" xOffset="-275.9427767944336" yOffset="-109.88449960708617"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>Omega</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>iota</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>2</integer>
-          <key>name</key>
-          <string>uni1FDD</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
+	<advance width="1250.31086"/>
+	<unicode hex="1FAB"/>
+	<outline>
+		<component base="Omega" xOffset="407.046"/>
+		<component base="iota" xOffset="1214.391"/>
+		<component base="uni1FDD" xOffset="-275.943" yOffset="-109.884"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>Omega</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>iota</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>uni1FDD</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
 </glyph>

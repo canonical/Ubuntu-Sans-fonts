@@ -1,32 +1,32 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ldot" format="2">
-  <advance width="448"/>
-  <unicode hex="0140"/>
-  <outline>
-    <component base="l" xOffset="-23.80360748291016"/>
-    <component base="dotaccent" xOffset="78.47628662109376" yOffset="-275.2921887588501"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>l</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>dotaccent</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
+	<advance width="448"/>
+	<unicode hex="0140"/>
+	<outline>
+		<component base="l" xOffset="-23.804"/>
+		<component base="dotaccent" xOffset="78.476" yOffset="-275.292"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>l</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>dotaccent</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
 </glyph>

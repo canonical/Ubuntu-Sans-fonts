@@ -1,40 +1,40 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FA9.alt" format="2">
-  <advance width="814.4899754272822"/>
-  <outline>
-    <component base="Omega" xOffset="190.50412048339845"/>
-    <component base="uni1FFE" xOffset="-68.9213966369629" yOffset="-109.00211555480956"/>
-    <component base="uni1FBE" xOffset="433.50412048339854"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>Omega</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>uni1FFE</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>2</integer>
-          <key>name</key>
-          <string>uni1FBE</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
+	<advance width="814.48998"/>
+	<outline>
+		<component base="Omega" xOffset="190.504"/>
+		<component base="uni1FFE" xOffset="-68.921" yOffset="-109.002"/>
+		<component base="uni1FBE" xOffset="433.504"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>Omega</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>uni1FFE</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>uni1FBE</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
 </glyph>

@@ -1,41 +1,41 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="foursevenths" format="2">
-  <advance width="699"/>
-  <unicode hex="F509"/>
-  <outline>
-    <component base="fraction" xOffset="435.9574714660645"/>
-    <component base="foursuperior" xOffset="-28.607214965820315"/>
-    <component base="sevensuperior" xOffset="466.9623696899414" yOffset="-301.8818551635742"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>fraction</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>foursuperior</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>2</integer>
-          <key>name</key>
-          <string>sevensuperior</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
+	<advance width="699"/>
+	<unicode hex="F509"/>
+	<outline>
+		<component base="fraction" xOffset="435.957"/>
+		<component base="foursuperior" xOffset="-28.607"/>
+		<component base="sevensuperior" xOffset="466.962" yOffset="-301.882"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>fraction</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>foursuperior</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>sevensuperior</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
 </glyph>

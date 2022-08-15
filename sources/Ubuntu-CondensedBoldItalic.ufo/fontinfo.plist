@@ -32,6 +32,8 @@
     <string>Dalton Maag Ltd</string>
     <key>openTypeNameManufacturerURL</key>
     <string>http://www.daltonmaag.com/</string>
+    <key>openTypeNamePreferredSubfamilyName</key>
+    <string>Condensed Bold Italic</string>
     <key>openTypeNameVersion</key>
     <string>Version 0.83</string>
     <key>openTypeOS2CodePageRanges</key>
@@ -98,6 +100,10 @@
     </array>
     <key>openTypeOS2VendorID</key>
     <string>DAMA</string>
+    <key>openTypeOS2WeightClass</key>
+    <integer>400</integer>
+    <key>openTypeOS2WidthClass</key>
+    <integer>5</integer>
     <key>openTypeOS2WinAscent</key>
     <integer>932</integer>
     <key>openTypeOS2WinDescent</key>
@@ -112,6 +118,8 @@
     <array/>
     <key>postscriptFamilyOtherBlues</key>
     <array/>
+    <key>postscriptFontName</key>
+    <string>Ubuntu-CondensedBoldItalic</string>
     <key>postscriptOtherBlues</key>
     <array/>
     <key>postscriptStemSnapH</key>
@@ -121,7 +129,11 @@
     <key>postscriptUnderlinePosition</key>
     <integer>-123</integer>
     <key>postscriptUnderlineThickness</key>
-    <real>108.23840522766113</real>
+    <integer>108</integer>
+    <key>styleMapFamilyName</key>
+    <string>Ubuntu Condensed Bold Italic</string>
+    <key>styleMapStyleName</key>
+    <string>regular</string>
     <key>styleName</key>
     <string>Condensed Bold Italic</string>
     <key>trademark</key>

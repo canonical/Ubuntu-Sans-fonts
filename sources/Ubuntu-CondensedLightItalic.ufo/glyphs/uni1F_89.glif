@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni1F89" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1F89" format="2">
   <advance width="693"/>
   <unicode hex="1F89"/>
   <outline>
@@ -7,4 +7,37 @@
     <component base="iota" xOffset="634"/>
     <component base="uni1FFE" xOffset="-148" yOffset="-45"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>A</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>iota</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>uni1FFE</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-08-14 14:36:42 +0000</string>
+    </dict>
+  </lib>
 </glyph>

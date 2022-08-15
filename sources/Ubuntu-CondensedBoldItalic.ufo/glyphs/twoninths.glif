@@ -1,41 +1,41 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="twoninths" format="2">
-  <advance width="699"/>
-  <unicode hex="F50D"/>
-  <outline>
-    <component base="fraction" xOffset="489.4992222595215"/>
-    <component base="twosuperior" xOffset="-13.191494293212893"/>
-    <component base="ninesuperior" xOffset="492.0883998107911" yOffset="-301.8818551635742"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>fraction</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>twosuperior</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>2</integer>
-          <key>name</key>
-          <string>ninesuperior</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
+	<advance width="699"/>
+	<unicode hex="F50D"/>
+	<outline>
+		<component base="fraction" xOffset="489.499"/>
+		<component base="twosuperior" xOffset="-13.191"/>
+		<component base="ninesuperior" xOffset="492.088" yOffset="-301.882"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>fraction</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>twosuperior</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>ninesuperior</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
 </glyph>

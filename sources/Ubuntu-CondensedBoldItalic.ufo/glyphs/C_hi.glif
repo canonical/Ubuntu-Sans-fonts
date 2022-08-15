@@ -1,8 +1,25 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Chi" format="2">
-  <advance width="562"/>
-  <unicode hex="03A7"/>
-  <outline>
-    <component base="X"/>
-  </outline>
+	<advance width="562"/>
+	<unicode hex="03A7"/>
+	<outline>
+		<component base="X"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>X</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-08-14 14:36:17 +0000</string>
+		</dict>
+	</lib>
 </glyph>

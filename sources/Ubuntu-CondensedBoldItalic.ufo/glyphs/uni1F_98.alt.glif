@@ -1,40 +1,40 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1F98.alt" format="2">
-  <advance width="716"/>
-  <outline>
-    <component base="H" xOffset="166.21442993164064"/>
-    <component base="uni1FBF" xOffset="-70.82809860229494" yOffset="-109.00211555480956"/>
-    <component base="uni1FBE" xOffset="364.9574714660645"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>H</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>uni1FBF</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>2</integer>
-          <key>name</key>
-          <string>uni1FBE</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
+	<advance width="716"/>
+	<outline>
+		<component base="H" xOffset="166.214"/>
+		<component base="uni1FBF" xOffset="-70.828" yOffset="-109.002"/>
+		<component base="uni1FBE" xOffset="364.957"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>H</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>uni1FBF</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>uni1FBE</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
 </glyph>

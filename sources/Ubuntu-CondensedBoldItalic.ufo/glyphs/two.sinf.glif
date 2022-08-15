@@ -1,23 +1,23 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="two.sinf" format="2">
-  <advance width="287.63789718627936"/>
-  <unicode hex="F816"/>
-  <outline>
-    <component base="twosuperior" xOffset="-74.16366043090822" yOffset="-422.4699349021912"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>twosuperior</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
+	<advance width="287.6379"/>
+	<unicode hex="F816"/>
+	<outline>
+		<component base="twosuperior" xOffset="-74.164" yOffset="-422.470"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>twosuperior</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
 </glyph>

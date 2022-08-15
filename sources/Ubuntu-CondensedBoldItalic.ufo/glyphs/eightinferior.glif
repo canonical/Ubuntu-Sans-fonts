@@ -1,23 +1,23 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eightinferior" format="2">
-  <advance width="287.63789718627936"/>
-  <unicode hex="2088"/>
-  <outline>
-    <component base="eightsuperior" xOffset="-51.873969879150394" yOffset="-302.46993490219114"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>eightsuperior</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
+	<advance width="287.6379"/>
+	<unicode hex="2088"/>
+	<outline>
+		<component base="eightsuperior" xOffset="-51.874" yOffset="-302.470"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>eightsuperior</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
 </glyph>
