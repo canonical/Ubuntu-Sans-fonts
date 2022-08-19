@@ -2,8 +2,8 @@
 <glyph name="Gdotaccent" format="2">
   <advance width="517"/>
   <unicode hex="0120"/>
-  <anchor x="260" y="693" name="top"/>
   <anchor x="260" y="0" name="bottom"/>
+  <anchor x="260" y="693" name="top"/>
   <outline>
     <component base="G"/>
     <component base="dotaccent" xOffset="141" yOffset="150"/>
@@ -29,8 +29,6 @@
           <string>dotaccent</string>
         </dict>
       </array>
-      <key>public.markColor</key>
-      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

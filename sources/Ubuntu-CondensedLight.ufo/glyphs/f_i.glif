@@ -2,11 +2,11 @@
 <glyph name="f_i" format="2">
   <advance width="497"/>
   <unicode hex="FB01"/>
-  <anchor x="129" y="776" name="top_1"/>
-  <anchor x="255" y="0" name="caret_1"/>
-  <anchor x="370" y="776" name="top_2"/>
   <anchor x="129" y="0" name="bottom_1"/>
   <anchor x="370" y="0" name="bottom_2"/>
+  <anchor x="255" y="0" name="caret_1"/>
+  <anchor x="129" y="776" name="top_1"/>
+  <anchor x="370" y="776" name="top_2"/>
   <outline>
     <component base="f"/>
     <component base="i" xOffset="280"/>
@@ -32,8 +32,6 @@
           <string>i</string>
         </dict>
       </array>
-      <key>public.markColor</key>
-      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

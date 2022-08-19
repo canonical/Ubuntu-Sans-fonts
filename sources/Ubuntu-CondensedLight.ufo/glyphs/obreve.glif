@@ -2,11 +2,11 @@
 <glyph name="obreve" format="2">
   <advance width="452"/>
   <unicode hex="014F"/>
-  <anchor x="226" y="517" name="top"/>
-  <anchor x="409" y="10" name="ogonek"/>
-  <anchor x="434" y="517" name="topright"/>
-  <anchor x="226" y="259" name="center"/>
   <anchor x="226" y="0" name="bottom"/>
+  <anchor x="226" y="259" name="center"/>
+  <anchor x="409" y="10" name="ogonek"/>
+  <anchor x="226" y="517" name="top"/>
+  <anchor x="434" y="517" name="topright"/>
   <outline>
     <component base="o"/>
     <component base="breve" xOffset="73"/>
@@ -32,8 +32,6 @@
           <string>breve</string>
         </dict>
       </array>
-      <key>public.markColor</key>
-      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

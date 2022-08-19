@@ -2,8 +2,8 @@
 <glyph name="uni0211" format="2">
   <advance width="307"/>
   <unicode hex="0211"/>
-  <anchor x="156" y="517" name="top"/>
   <anchor x="156" y="0" name="bottom"/>
+  <anchor x="156" y="517" name="top"/>
   <outline>
     <component base="r"/>
     <component base="double_grave" xOffset="-9"/>
@@ -29,8 +29,6 @@
           <string>double_grave</string>
         </dict>
       </array>
-      <key>public.markColor</key>
-      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

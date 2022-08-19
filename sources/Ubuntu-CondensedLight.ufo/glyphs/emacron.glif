@@ -2,9 +2,9 @@
 <glyph name="emacron" format="2">
   <advance width="425"/>
   <unicode hex="0113"/>
-  <anchor x="215" y="520" name="top"/>
-  <anchor x="385" y="10" name="ogonek"/>
   <anchor x="215" y="0" name="bottom"/>
+  <anchor x="385" y="10" name="ogonek"/>
+  <anchor x="215" y="520" name="top"/>
   <outline>
     <component base="e"/>
     <component base="macron" xOffset="65"/>
@@ -30,8 +30,6 @@
           <string>macron</string>
         </dict>
       </array>
-      <key>public.markColor</key>
-      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

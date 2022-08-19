@@ -2,10 +2,33 @@
 <glyph name="uni0212" format="2">
   <advance width="484"/>
   <unicode hex="0212"/>
-  <anchor x="241.9492866004963" y="0.0" name="bottom"/>
-  <anchor x="241.9492866004963" y="693.0" name="top"/>
+  <anchor x="241.949" y="0" name="bottom"/>
+  <anchor x="241.949" y="693" name="top"/>
   <outline>
     <component base="R"/>
-    <component base="breve_inverted" xOffset="398.35887096774195" yOffset="136"/>
+    <component base="breve_inverted" xOffset="398.359" yOffset="136"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>R</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>breve_inverted</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

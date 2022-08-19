@@ -4,6 +4,29 @@
   <unicode hex="013A"/>
   <outline>
     <component base="l"/>
-    <component base="acute.asc" xOffset="-28.672301488833746"/>
+    <component base="acute.asc" xOffset="-29"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>l</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>acute.asc</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -4,6 +4,29 @@
   <unicode hex="04D1"/>
   <outline>
     <component base="a"/>
-    <component base="kratka" xOffset="68"/>
+    <component base="brevecomb.cyr" xOffset="68"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>a</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>brevecomb.cyr</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -2,8 +2,8 @@
 <glyph name="Oslash" format="2">
   <advance width="587"/>
   <unicode hex="00D8"/>
-  <anchor x="295" y="693" name="top"/>
   <anchor x="295" y="0" name="bottom"/>
+  <anchor x="295" y="693" name="top"/>
   <outline>
     <contour>
       <point x="107" y="-31" type="line"/>
@@ -56,10 +56,4 @@
       <point x="404" y="45"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.0881,0.6429,0.1637,1</string>
-    </dict>
-  </lib>
 </glyph>

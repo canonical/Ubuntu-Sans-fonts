@@ -4,12 +4,29 @@
   <unicode hex="04D7"/>
   <outline>
     <component base="e"/>
-    <component base="kratka" xOffset="61"/>
+    <component base="brevecomb.cyr" xOffset="61"/>
   </outline>
   <lib>
     <dict>
-      <key>public.markColor</key>
-      <string>0.0881,0.6429,0.1637,1</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>e</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>brevecomb.cyr</string>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

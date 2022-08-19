@@ -2,13 +2,13 @@
 <glyph name="Epsilontonos" format="2">
   <advance width="486"/>
   <unicode hex="0388"/>
-  <anchor x="272.9492866004963" y="0.0" name="bottom"/>
-  <anchor x="443.24317617866006" y="10.0" name="ogonek"/>
-  <anchor x="272.9492866004963" y="693.0" name="top"/>
-  <anchor x="80.0" y="693.0" name="topleft"/>
+  <anchor x="272.949" y="0" name="bottom"/>
+  <anchor x="443.243" y="10" name="ogonek"/>
+  <anchor x="272.949" y="693" name="top"/>
+  <anchor x="80" y="693" name="topleft"/>
   <outline>
     <component base="E" xOffset="60"/>
-    <component base="tonos.cap" xOffset="-90.89857320099256"/>
+    <component base="tonos.cap" xOffset="-90.899"/>
   </outline>
   <lib>
     <dict>

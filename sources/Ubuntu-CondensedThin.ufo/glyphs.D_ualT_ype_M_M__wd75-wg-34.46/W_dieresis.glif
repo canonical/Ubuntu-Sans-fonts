@@ -2,11 +2,11 @@
 <glyph name="Wdieresis" format="2">
   <advance width="734"/>
   <unicode hex="1E84"/>
-  <anchor x="366.29388957816377" y="0.0" name="bottom"/>
-  <anchor x="366.29388957816377" y="693.0" name="top"/>
+  <anchor x="366.294" y="0" name="bottom"/>
+  <anchor x="366.294" y="693" name="top"/>
   <outline>
     <component base="W"/>
-    <component base="dieresis" xOffset="212.63849255583125" yOffset="150"/>
+    <component base="dieresis" xOffset="212.638" yOffset="150"/>
   </outline>
   <lib>
     <dict>

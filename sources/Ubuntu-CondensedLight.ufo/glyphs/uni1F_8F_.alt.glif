@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1F8F.alt" format="2">
   <advance width="552"/>
-  <anchor x="96" y="774" name="top"/>
-  <anchor x="511" y="10" name="ogonek"/>
   <anchor x="318" y="0" name="bottom"/>
+  <anchor x="511" y="10" name="ogonek"/>
+  <anchor x="96" y="774" name="top"/>
   <outline>
     <component base="A" xOffset="76"/>
     <component base="uni1FDF" xOffset="-57" yOffset="-111"/>
@@ -38,8 +38,6 @@
           <string>uni1FBE</string>
         </dict>
       </array>
-      <key>public.markColor</key>
-      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

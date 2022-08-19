@@ -2,12 +2,14 @@
 <designspace format="4.1">
   <axes>
     <axis tag="wdth" name="Width" minimum="75" maximum="100" default="100"/>
-    <axis tag="wght" name="Weight" minimum="100" maximum="700" default="300">
+    <axis tag="wght" name="Weight" minimum="100" maximum="800" default="300">
       <map input="100" output="100"/>
       <map input="300" output="300"/>
       <map input="400" output="434"/>
       <map input="500" output="564"/>
       <map input="700" output="700"/>
+      <map input="800" output="800"/>
+
     </axis>
   </axes>
   <sources>
@@ -27,10 +29,10 @@
         <dimension name="Weight" xvalue="300"/>
       </location>
     </source>
-    <source filename="Ubuntu-Bold.ufo" name="Ubuntu Bold" familyname="Ubuntu" stylename="Bold">
+    <source filename="Ubuntu-ExtraBold.ufo" name="Ubuntu Extra Bold" familyname="Ubuntu" stylename="Bold">
       <location>
         <dimension name="Width" xvalue="100"/>
-        <dimension name="Weight" xvalue="700"/>
+        <dimension name="Weight" xvalue="800"/>
       </location>
     </source>
     <source filename="Ubuntu-CondensedLight.ufo" name="Ubuntu Condensed Light" familyname="Ubuntu" stylename="Light">
@@ -39,10 +41,10 @@
         <dimension name="Weight" xvalue="300"/>
       </location>
     </source>
-    <source filename="Ubuntu-CondensedBold.ufo" familyname="Ubuntu" stylename="Condensed Bold">
+    <source filename="Ubuntu-CondensedExtraBold.ufo" familyname="Ubuntu" stylename="Condensed Extra Bold">
       <location>
         <dimension name="Width" xvalue="75"/>
-        <dimension name="Weight" xvalue="700"/>
+        <dimension name="Weight" xvalue="800"/>
       </location>
     </source>
     <source filename="Ubuntu-CondensedThin.ufo" familyname="Ubuntu" stylename="Condensed Thin">
@@ -114,6 +116,7 @@
       <kerning/>
       <info/>
     </instance>
+    
     <instance 
         name="Ubuntu Bold" 
         familyname="Ubuntu" 
@@ -129,6 +132,23 @@
       <kerning/>
       <info/>
     </instance>
+    
+    <instance 
+        name="Ubuntu Extra Bold" 
+        familyname="Ubuntu" 
+        stylename="Extra Bold" 
+        filename="../instance_ufo/Ubuntu-ExtraBold.ufo" 
+        stylemapfamilyname="Ubuntu Extra Bold" 
+        stylemapstylename="regular"
+    >
+      <location>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Weight" xvalue="800"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    
     <!-- condensed width -->
     <instance 
         name="Ubuntu Condensed Thin" 
@@ -205,6 +225,23 @@
       <kerning/>
       <info/>
     </instance>
+    
+    <instance 
+        name="Ubuntu Condensed Extra Bold" 
+        familyname="Ubuntu" 
+        stylename="Condensed Extra Bold" 
+        filename="../instance_ufo/UbuntuCondensed-ExtraBold.ufo" 
+        stylemapfamilyname="Ubuntu Condensed" 
+        stylemapstylename="regular"
+    >
+      <location>
+        <dimension name="Width" xvalue="75"/>
+        <dimension name="Weight" xvalue="800"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    
   </instances>
   <lib>
     <dict>

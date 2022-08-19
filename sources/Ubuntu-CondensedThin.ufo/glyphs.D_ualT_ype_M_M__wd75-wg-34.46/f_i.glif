@@ -2,14 +2,14 @@
 <glyph name="f_i" format="2">
   <advance width="479"/>
   <unicode hex="FB01"/>
-  <anchor x="121.62158808933003" y="0.0" name="bottom_1"/>
-  <anchor x="360.52016129032256" y="0.0" name="bottom_2"/>
-  <anchor x="239.73472394540943" y="0.0" name="caret_1"/>
-  <anchor x="121.62158808933003" y="776.0" name="top_1"/>
-  <anchor x="360.52016129032256" y="776.0" name="top_2"/>
+  <anchor x="121.622" y="0" name="bottom_1"/>
+  <anchor x="360.52" y="0" name="bottom_2"/>
+  <anchor x="239.735" y="0" name="caret_1"/>
+  <anchor x="121.622" y="776" name="top_1"/>
+  <anchor x="360.52" y="776" name="top_2"/>
   <outline>
     <component base="f"/>
-    <component base="i" xOffset="265.8985732009926"/>
+    <component base="i" xOffset="265.899"/>
   </outline>
   <lib>
     <dict>

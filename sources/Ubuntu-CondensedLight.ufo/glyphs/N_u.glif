@@ -2,8 +2,8 @@
 <glyph name="Nu" format="2">
   <advance width="570"/>
   <unicode hex="039D"/>
-  <anchor x="287" y="693" name="top"/>
   <anchor x="287" y="0" name="bottom"/>
+  <anchor x="287" y="693" name="top"/>
   <outline>
     <component base="N"/>
   </outline>
@@ -20,8 +20,6 @@
           <string>N</string>
         </dict>
       </array>
-      <key>public.markColor</key>
-      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

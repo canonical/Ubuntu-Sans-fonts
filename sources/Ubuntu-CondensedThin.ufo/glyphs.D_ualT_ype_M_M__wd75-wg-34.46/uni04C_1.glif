@@ -2,11 +2,11 @@
 <glyph name="uni04C1" format="2">
   <advance width="579"/>
   <unicode hex="04C1"/>
-  <anchor x="559.4525434243176" y="0.0" name="bottomright"/>
-  <anchor x="290.2262717121588" y="693.0" name="top"/>
+  <anchor x="559.453" y="0" name="bottomright"/>
+  <anchor x="290.226" y="693" name="top"/>
   <outline>
     <component base="afii10024"/>
-    <component base="kratka" xOffset="143.58777915632754" yOffset="150"/>
+    <component base="brevecomb.cyr" xOffset="143.588" yOffset="150"/>
   </outline>
   <lib>
     <dict>
@@ -26,7 +26,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>kratka</string>
+          <string>brevecomb.cyr</string>
         </dict>
       </array>
     </dict>

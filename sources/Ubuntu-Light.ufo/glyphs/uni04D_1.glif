@@ -8,7 +8,7 @@
   <anchor x="255" y="517" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="kratka" xOffset="72"/>
+    <component base="brevecomb.cyr" xOffset="72"/>
   </outline>
   <lib>
     <dict>
@@ -28,7 +28,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>kratka</string>
+          <string>brevecomb.cyr</string>
         </dict>
       </array>
     </dict>

@@ -2,9 +2,24 @@
 <glyph name="Kappa" format="2">
   <advance width="461"/>
   <unicode hex="039A"/>
-  <anchor x="231.24317617866006" y="0.0" name="bottom"/>
-  <anchor x="231.24317617866006" y="693.0" name="top"/>
+  <anchor x="231.243" y="0" name="bottom"/>
+  <anchor x="231.243" y="693" name="top"/>
   <outline>
     <component base="K"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>K</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

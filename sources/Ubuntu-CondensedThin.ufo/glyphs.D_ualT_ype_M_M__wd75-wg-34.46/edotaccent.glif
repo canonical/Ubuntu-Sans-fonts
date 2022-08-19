@@ -4,6 +4,29 @@
   <unicode hex="0117"/>
   <outline>
     <component base="e"/>
-    <component base="dotaccent" xOffset="62.65539702233251"/>
+    <component base="dotaccent" xOffset="63"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>e</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dotaccent</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

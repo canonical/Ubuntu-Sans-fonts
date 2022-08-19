@@ -2,8 +2,8 @@
 <glyph name="omega" format="2">
   <advance width="663"/>
   <unicode hex="03C9"/>
-  <anchor x="331" y="520" name="top"/>
   <anchor x="331" y="0" name="bottom"/>
+  <anchor x="331" y="520" name="top"/>
   <outline>
     <contour>
       <point x="202" y="-9" type="curve" smooth="yes"/>
@@ -49,10 +49,4 @@
       <point x="109" y="-9"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.0881,0.6429,0.1637,1</string>
-    </dict>
-  </lib>
 </glyph>

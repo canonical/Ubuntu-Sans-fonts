@@ -2,16 +2,16 @@
 <glyph name="f_f_l" format="2">
   <advance width="728"/>
   <unicode hex="FB04"/>
-  <anchor x="624" y="0" name="bottom_3"/>
-  <anchor x="621" y="388" name="center"/>
-  <anchor x="623" y="776" name="top_3"/>
-  <anchor x="712" y="776" name="topright"/>
-  <anchor x="233" y="0" name="caret_1"/>
-  <anchor x="507" y="0" name="caret_2"/>
   <anchor x="149" y="0" name="bottom_1"/>
   <anchor x="419" y="0" name="bottom_2"/>
+  <anchor x="624" y="0" name="bottom_3"/>
+  <anchor x="233" y="0" name="caret_1"/>
+  <anchor x="507" y="0" name="caret_2"/>
+  <anchor x="621" y="388" name="center"/>
   <anchor x="148" y="776" name="top_1"/>
   <anchor x="420" y="776" name="top_2"/>
+  <anchor x="623" y="776" name="top_3"/>
+  <anchor x="712" y="776" name="topright"/>
   <outline>
     <component base="f"/>
     <component base="f" xOffset="263"/>
@@ -46,8 +46,6 @@
           <string>l</string>
         </dict>
       </array>
-      <key>public.markColor</key>
-      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

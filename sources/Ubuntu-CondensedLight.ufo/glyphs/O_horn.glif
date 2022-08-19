@@ -2,8 +2,8 @@
 <glyph name="Ohorn" format="2">
   <advance width="603"/>
   <unicode hex="01A0"/>
-  <anchor x="293" y="693" name="top"/>
   <anchor x="293" y="0" name="bottom"/>
+  <anchor x="293" y="693" name="top"/>
   <outline>
     <contour>
       <point x="294" y="-10" type="curve" smooth="yes"/>
@@ -50,10 +50,4 @@
       <point x="404" y="45"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.0881,0.6429,0.1637,1</string>
-    </dict>
-  </lib>
 </glyph>

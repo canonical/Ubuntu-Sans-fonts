@@ -2,10 +2,10 @@
 <glyph name="Uacute" format="2">
   <advance width="533"/>
   <unicode hex="00DA"/>
-  <anchor x="267" y="693" name="top"/>
-  <anchor x="482" y="10" name="ogonek"/>
-  <anchor x="515" y="693" name="topright"/>
   <anchor x="267" y="0" name="bottom"/>
+  <anchor x="482" y="10" name="ogonek"/>
+  <anchor x="267" y="693" name="top"/>
+  <anchor x="515" y="693" name="topright"/>
   <outline>
     <component base="U"/>
     <component base="acute" xOffset="127" yOffset="150"/>
@@ -31,8 +31,6 @@
           <string>acute</string>
         </dict>
       </array>
-      <key>public.markColor</key>
-      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

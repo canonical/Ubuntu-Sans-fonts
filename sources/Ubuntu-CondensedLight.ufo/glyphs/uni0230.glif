@@ -2,12 +2,12 @@
 <glyph name="uni0230" format="2">
   <advance width="587"/>
   <unicode hex="0230"/>
-  <anchor x="18" y="693" name="topleft"/>
-  <anchor x="294" y="347" name="center"/>
   <anchor x="294" y="0" name="bottom"/>
-  <anchor x="294" y="693" name="top"/>
-  <anchor x="572" y="693" name="topright"/>
+  <anchor x="294" y="347" name="center"/>
   <anchor x="533" y="10" name="ogonek"/>
+  <anchor x="294" y="693" name="top"/>
+  <anchor x="18" y="693" name="topleft"/>
+  <anchor x="572" y="693" name="topright"/>
   <outline>
     <component base="O"/>
     <component base="dot_macron" xOffset="137" yOffset="173"/>
@@ -33,8 +33,6 @@
           <string>dot_macron</string>
         </dict>
       </array>
-      <key>public.markColor</key>
-      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

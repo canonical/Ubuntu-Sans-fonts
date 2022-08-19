@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wdieresis" format="2">
+  <advance width="788"/>
+  <unicode hex="1E84"/>
+  <anchor x="393.821" y="0" name="bottom"/>
+  <anchor x="393.821" y="693" name="top"/>
+  <outline>
+    <component base="W"/>
+    <component base="dieresis" xOffset="186.021" yOffset="146.894"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>W</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dieresis</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -2,12 +2,12 @@
 <glyph name="uni04D0" format="2">
   <advance width="463"/>
   <unicode hex="04D0"/>
-  <anchor x="231.93238213399502" y="0.0" name="bottom"/>
-  <anchor x="416.2093672456576" y="10.0" name="ogonek"/>
-  <anchor x="231.93238213399502" y="693.0" name="top"/>
+  <anchor x="231.932" y="0" name="bottom"/>
+  <anchor x="416.209" y="10" name="ogonek"/>
+  <anchor x="231.932" y="693" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="kratka" xOffset="92.29388957816377" yOffset="150"/>
+    <component base="brevecomb.cyr" xOffset="92.294" yOffset="150"/>
   </outline>
   <lib>
     <dict>
@@ -27,7 +27,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>kratka</string>
+          <string>brevecomb.cyr</string>
         </dict>
       </array>
     </dict>

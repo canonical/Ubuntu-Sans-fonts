@@ -2,13 +2,13 @@
 <glyph name="Ecircumflex" format="2">
   <advance width="428"/>
   <unicode hex="00CA"/>
-  <anchor x="212.9492866004963" y="0.0" name="bottom"/>
-  <anchor x="383.24317617866006" y="10.0" name="ogonek"/>
-  <anchor x="212.9492866004963" y="693.0" name="top"/>
-  <anchor x="20.0" y="693.0" name="topleft"/>
+  <anchor x="212.949" y="0" name="bottom"/>
+  <anchor x="383.243" y="10" name="ogonek"/>
+  <anchor x="212.949" y="693" name="top"/>
+  <anchor x="20" y="693" name="topleft"/>
   <outline>
     <component base="E"/>
-    <component base="circumflex" xOffset="91.68920595533498" yOffset="150"/>
+    <component base="circumflex" xOffset="91.689" yOffset="150"/>
   </outline>
   <lib>
     <dict>

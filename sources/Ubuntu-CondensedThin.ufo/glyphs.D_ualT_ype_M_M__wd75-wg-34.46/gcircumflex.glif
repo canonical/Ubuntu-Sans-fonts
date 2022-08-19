@@ -4,6 +4,29 @@
   <unicode hex="011D"/>
   <outline>
     <component base="g"/>
-    <component base="circumflex" xOffset="49.55397022332507"/>
+    <component base="circumflex" xOffset="50"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>g</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>circumflex</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

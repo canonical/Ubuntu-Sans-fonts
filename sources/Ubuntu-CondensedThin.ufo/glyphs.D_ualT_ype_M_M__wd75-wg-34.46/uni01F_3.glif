@@ -2,14 +2,37 @@
 <glyph name="uni01F3" format="2">
   <advance width="768"/>
   <unicode hex="01F3"/>
-  <anchor x="384.57087468982627" y="513.310794044665" name="top"/>
-  <anchor x="208.62158808933003" y="0.0" name="bottom_1"/>
-  <anchor x="605.1924627791564" y="0.0" name="bottom_2"/>
-  <anchor x="208.62158808933003" y="256.6553970223325" name="center_1"/>
-  <anchor x="605.1924627791564" y="256.6553970223325" name="center_2"/>
-  <anchor x="408.24317617866006" y="776.0" name="topright"/>
+  <anchor x="208.622" y="0" name="bottom_1"/>
+  <anchor x="605.192" y="0" name="bottom_2"/>
+  <anchor x="208.622" y="256.655" name="center_1"/>
+  <anchor x="605.192" y="256.655" name="center_2"/>
+  <anchor x="384.571" y="513.311" name="top"/>
+  <anchor x="408.243" y="776" name="topright"/>
   <outline>
     <component base="d" xOffset="-12"/>
-    <component base="z" xOffset="442.24317617866006"/>
+    <component base="z" xOffset="442"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>d</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>z</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="commaaccent" format="2">
-  <advance width="500"/>
   <outline>
     <contour>
       <point x="254" y="-181" type="curve" smooth="yes"/>
@@ -22,4 +21,10 @@
       <point x="241" y="-181"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>500</integer>
+    </dict>
+  </lib>
 </glyph>

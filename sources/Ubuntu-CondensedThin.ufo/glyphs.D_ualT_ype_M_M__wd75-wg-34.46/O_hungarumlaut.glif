@@ -4,6 +4,29 @@
   <unicode hex="0150"/>
   <outline>
     <component base="O"/>
-    <component base="hungarumlaut" xOffset="195.44602977667495" yOffset="166.72301488833747"/>
+    <component base="hungarumlaut" xOffset="195" yOffset="167"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>O</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>hungarumlaut</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -4,6 +4,29 @@
   <unicode hex="00ED"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="acute" xOffset="-58.378411910669975"/>
+    <component base="acute" xOffset="-58"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dotlessi</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>acute</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

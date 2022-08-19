@@ -4,6 +4,29 @@
   <unicode hex="0133"/>
   <outline>
     <component base="i"/>
-    <component base="j" xOffset="205.20936724565757"/>
+    <component base="j" xOffset="205"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>i</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>j</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -2,13 +2,13 @@
 <glyph name="Etatonos" format="2">
   <advance width="616"/>
   <unicode hex="0389"/>
-  <anchor x="337.63849255583125" y="0.0" name="bottom"/>
-  <anchor x="337.63849255583125" y="347.0" name="center"/>
-  <anchor x="337.63849255583125" y="693.0" name="top"/>
-  <anchor x="79.67230148883374" y="693.0" name="topleft"/>
+  <anchor x="337.638" y="0" name="bottom"/>
+  <anchor x="337.638" y="347" name="center"/>
+  <anchor x="337.638" y="693" name="top"/>
+  <anchor x="79.672" y="693" name="topleft"/>
   <outline>
-    <component base="H" xOffset="59.672301488833746"/>
-    <component base="tonos.cap" xOffset="-92.89857320099256"/>
+    <component base="H" xOffset="59.672"/>
+    <component base="tonos.cap" xOffset="-92.899"/>
   </outline>
   <lib>
     <dict>

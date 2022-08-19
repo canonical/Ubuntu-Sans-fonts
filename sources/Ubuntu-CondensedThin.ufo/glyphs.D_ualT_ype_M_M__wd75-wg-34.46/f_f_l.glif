@@ -2,20 +2,20 @@
 <glyph name="f_f_l" format="2">
   <advance width="763"/>
   <unicode hex="FB04"/>
-  <anchor x="254.3400245037222" y="0.0" name="caret_1"/>
-  <anchor x="508.68339361042194" y="0.0" name="caret_2"/>
-  <anchor x="137.9492866004963" y="0.0" name="bottom_1"/>
-  <anchor x="418.86476426799004" y="0.0" name="bottom_2"/>
-  <anchor x="662.091035980149" y="0.0" name="bottom_3"/>
-  <anchor x="662.091035980149" y="388.0" name="center"/>
-  <anchor x="137.9492866004963" y="776.0" name="top_1"/>
-  <anchor x="418.86476426799004" y="776.0" name="top_2"/>
-  <anchor x="662.091035980149" y="776.0" name="top_3"/>
-  <anchor x="743.0234181141439" y="776.0" name="topright"/>
+  <anchor x="137.949" y="0" name="bottom_1"/>
+  <anchor x="418.865" y="0" name="bottom_2"/>
+  <anchor x="662.091" y="0" name="bottom_3"/>
+  <anchor x="254.34" y="0" name="caret_1"/>
+  <anchor x="508.683" y="0" name="caret_2"/>
+  <anchor x="662.091" y="388" name="center"/>
+  <anchor x="137.949" y="776" name="top_1"/>
+  <anchor x="418.865" y="776" name="top_2"/>
+  <anchor x="662.091" y="776" name="top_3"/>
+  <anchor x="743.023" y="776" name="topright"/>
   <outline>
     <component base="f"/>
-    <component base="f" xOffset="280.9154776674938"/>
-    <component base="l" xOffset="560.1586538461538"/>
+    <component base="f" xOffset="280.915"/>
+    <component base="l" xOffset="560.159"/>
   </outline>
   <lib>
     <dict>

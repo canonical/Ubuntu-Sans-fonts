@@ -2,9 +2,24 @@
 <glyph name="afii10103" format="2">
   <advance width="214"/>
   <unicode hex="0456"/>
-  <anchor x="105.94928660049628" y="513.310794044665" name="top"/>
-  <anchor x="105.94928660049628" y="0.0" name="bottom"/>
+  <anchor x="105.949" y="0" name="bottom"/>
+  <anchor x="105.949" y="513.311" name="top"/>
   <outline>
     <component base="i"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>i</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -2,7 +2,30 @@
 <glyph name="napostrophe.case" format="2">
   <advance width="563"/>
   <outline>
-    <component base="N" xOffset="-0.56436104218362"/>
-    <component base="apostrophe" xOffset="-143.77372828784118"/>
+    <component base="N"/>
+    <component base="apostrophe" xOffset="-143.774"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>N</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>apostrophe</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

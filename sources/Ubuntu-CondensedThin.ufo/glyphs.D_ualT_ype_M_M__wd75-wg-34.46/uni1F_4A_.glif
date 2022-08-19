@@ -2,15 +2,15 @@
 <glyph name="uni1F4A" format="2">
   <advance width="807"/>
   <unicode hex="1F4A"/>
-  <anchor x="516.9492866004963" y="0.0" name="bottom"/>
-  <anchor x="516.9492866004963" y="347.0" name="center"/>
-  <anchor x="748.9154776674939" y="10.0" name="ogonek"/>
-  <anchor x="99.62158808933003" y="680.2262717121588" name="top"/>
-  <anchor x="245.6553970223325" y="693.0" name="topleft"/>
-  <anchor x="787.2431761786601" y="693.0" name="topright"/>
+  <anchor x="516.949" y="0" name="bottom"/>
+  <anchor x="516.949" y="347" name="center"/>
+  <anchor x="748.915" y="10" name="ogonek"/>
+  <anchor x="99.622" y="680.226" name="top"/>
+  <anchor x="245.655" y="693" name="topleft"/>
+  <anchor x="787.243" y="693" name="topright"/>
   <outline>
-    <component base="O" xOffset="225.6553970223325"/>
-    <component base="uni1FCD" xOffset="-62.05071339950372" yOffset="-75.34460297766749"/>
+    <component base="O" xOffset="225.655"/>
+    <component base="uni1FCD" xOffset="-62.051" yOffset="-75.345"/>
   </outline>
   <lib>
     <dict>

@@ -2,8 +2,8 @@
 <glyph name="uni04D5" format="2">
   <advance width="653"/>
   <unicode hex="04D5"/>
-  <anchor x="324" y="520" name="top"/>
   <anchor x="324" y="0" name="bottom"/>
+  <anchor x="324" y="520" name="top"/>
   <outline>
     <component base="ae"/>
   </outline>
@@ -20,8 +20,6 @@
           <string>ae</string>
         </dict>
       </array>
-      <key>public.markColor</key>
-      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

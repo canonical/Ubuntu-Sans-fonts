@@ -2,11 +2,34 @@
 <glyph name="uni020B" format="2">
   <advance width="214"/>
   <unicode hex="020B"/>
-  <anchor x="105.94928660049628" y="0.0" name="bottom"/>
-  <anchor x="192.9154776674938" y="10.0" name="ogonek"/>
-  <anchor x="105.94928660049628" y="513.310794044665" name="top"/>
+  <anchor x="105.949" y="0" name="bottom"/>
+  <anchor x="192.915" y="10" name="ogonek"/>
+  <anchor x="105.949" y="513.311" name="top"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="breve_inverted" xOffset="263.3419665012407"/>
+    <component base="breve_inverted" xOffset="263.342"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dotlessi</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>breve_inverted</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

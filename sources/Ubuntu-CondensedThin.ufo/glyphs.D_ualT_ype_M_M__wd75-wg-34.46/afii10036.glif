@@ -2,10 +2,25 @@
 <glyph name="afii10036" format="2">
   <advance width="401"/>
   <unicode hex="0422"/>
-  <anchor x="380.9154776674938" y="0.0" name="bottomright"/>
-  <anchor x="201.29388957816377" y="347.0" name="center"/>
-  <anchor x="201.29388957816377" y="693.0" name="top"/>
+  <anchor x="380.915" y="0" name="bottomright"/>
+  <anchor x="201.294" y="347" name="center"/>
+  <anchor x="201.294" y="693" name="top"/>
   <outline>
     <component base="T"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>T</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

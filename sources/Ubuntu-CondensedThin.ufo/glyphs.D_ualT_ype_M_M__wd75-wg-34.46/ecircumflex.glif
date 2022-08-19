@@ -4,6 +4,29 @@
   <unicode hex="00EA"/>
   <outline>
     <component base="e"/>
-    <component base="circumflex" xOffset="61.65539702233251"/>
+    <component base="circumflex" xOffset="62"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>e</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>circumflex</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

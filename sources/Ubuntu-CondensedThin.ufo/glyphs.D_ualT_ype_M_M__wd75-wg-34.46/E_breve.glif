@@ -4,6 +4,29 @@
   <unicode hex="0114"/>
   <outline>
     <component base="E"/>
-    <component base="breve" xOffset="99.37841191066997" yOffset="150"/>
+    <component base="breve" xOffset="99" yOffset="150"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>E</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>breve</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

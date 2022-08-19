@@ -2,9 +2,9 @@
 <glyph name="abreve" format="2">
   <advance width="420"/>
   <unicode hex="0103"/>
-  <anchor x="206" y="517" name="top"/>
-  <anchor x="379" y="10" name="ogonek"/>
   <anchor x="206" y="0" name="bottom"/>
+  <anchor x="379" y="10" name="ogonek"/>
+  <anchor x="206" y="517" name="top"/>
   <outline>
     <component base="a"/>
     <component base="breve" xOffset="55"/>
@@ -30,8 +30,6 @@
           <string>breve</string>
         </dict>
       </array>
-      <key>public.markColor</key>
-      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

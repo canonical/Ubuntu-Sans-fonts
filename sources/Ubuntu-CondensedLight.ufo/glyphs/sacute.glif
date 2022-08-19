@@ -2,8 +2,8 @@
 <glyph name="sacute" format="2">
   <advance width="332"/>
   <unicode hex="015B"/>
-  <anchor x="165" y="517" name="top"/>
   <anchor x="165" y="0" name="bottom"/>
+  <anchor x="165" y="517" name="top"/>
   <outline>
     <component base="s"/>
     <component base="acute" xOffset="38"/>
@@ -29,8 +29,6 @@
           <string>acute</string>
         </dict>
       </array>
-      <key>public.markColor</key>
-      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

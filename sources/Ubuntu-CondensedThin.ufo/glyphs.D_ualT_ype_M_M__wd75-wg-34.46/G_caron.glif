@@ -2,11 +2,11 @@
 <glyph name="Gcaron" format="2">
   <advance width="505"/>
   <unicode hex="01E6"/>
-  <anchor x="252.9661910669975" y="0.0" name="bottom"/>
-  <anchor x="252.9661910669975" y="693.0" name="top"/>
+  <anchor x="252.966" y="0" name="bottom"/>
+  <anchor x="252.966" y="693" name="top"/>
   <outline>
     <component base="G"/>
-    <component base="caron" xOffset="136.31079404466502" yOffset="156"/>
+    <component base="caron" xOffset="136.311" yOffset="156"/>
   </outline>
   <lib>
     <dict>

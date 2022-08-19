@@ -2,11 +2,11 @@
 <glyph name="afii10110" format="2">
   <advance width="354"/>
   <unicode hex="045E"/>
-  <anchor x="177.93238213399502" y="0.0" name="bottom"/>
-  <anchor x="177.93238213399502" y="513.310794044665" name="top"/>
+  <anchor x="177.932" y="0" name="bottom"/>
+  <anchor x="177.932" y="513.311" name="top"/>
   <outline>
     <component base="y"/>
-    <component base="kratka" xOffset="33.94928660049628"/>
+    <component base="brevecomb.cyr" xOffset="33.949"/>
   </outline>
   <lib>
     <dict>
@@ -26,7 +26,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>kratka</string>
+          <string>brevecomb.cyr</string>
         </dict>
       </array>
     </dict>

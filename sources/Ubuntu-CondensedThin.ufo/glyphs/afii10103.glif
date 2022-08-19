@@ -2,8 +2,8 @@
 <glyph name="afii10103" format="2">
   <advance width="196"/>
   <unicode hex="0456"/>
-  <anchor x="98" y="517" name="top"/>
   <anchor x="98" y="0" name="bottom"/>
+  <anchor x="98" y="517" name="top"/>
   <outline>
     <component base="i"/>
   </outline>
@@ -20,8 +20,6 @@
           <string>i</string>
         </dict>
       </array>
-      <key>public.markColor</key>
-      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

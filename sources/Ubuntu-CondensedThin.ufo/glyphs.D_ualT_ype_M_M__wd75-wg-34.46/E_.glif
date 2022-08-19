@@ -2,24 +2,30 @@
 <glyph name="E" format="2">
   <advance width="428"/>
   <unicode hex="0045"/>
-  <anchor x="212.9492866004963" y="0.0" name="bottom"/>
-  <anchor x="383.24317617866006" y="10.0" name="ogonek"/>
-  <anchor x="212.9492866004963" y="693.0" name="top"/>
-  <anchor x="20.0" y="693.0" name="topleft"/>
+  <anchor x="212.949" y="0" name="bottom"/>
+  <anchor x="383.243" y="10" name="ogonek"/>
+  <anchor x="212.949" y="693" name="top"/>
+  <anchor x="20" y="693" name="topleft"/>
   <outline>
     <contour>
-      <point x="90.68920595533498" y="0.0" type="line"/>
-      <point x="374.2093672456576" y="0.0" type="line"/>
-      <point x="374.2093672456576" y="35.19246277915633" type="line"/>
-      <point x="128.84785980148882" y="35.19246277915633" type="line"/>
-      <point x="128.84785980148882" y="346.067617866005" type="line"/>
-      <point x="337.2093672456576" y="346.067617866005" type="line"/>
-      <point x="337.2093672456576" y="380.932382133995" type="line"/>
-      <point x="128.84785980148882" y="380.932382133995" type="line"/>
-      <point x="128.84785980148882" y="657.8075372208436" type="line"/>
-      <point x="363.2262717121588" y="657.8075372208436" type="line"/>
-      <point x="363.2262717121588" y="693.0" type="line"/>
-      <point x="90.68920595533498" y="693.0" type="line"/>
+      <point x="90.689" y="0" type="line"/>
+      <point x="374.209" y="0" type="line"/>
+      <point x="374.209" y="35.192" type="line"/>
+      <point x="128.848" y="35.192" type="line"/>
+      <point x="128.848" y="346.068" type="line"/>
+      <point x="337.209" y="346.068" type="line"/>
+      <point x="337.209" y="380.932" type="line"/>
+      <point x="128.848" y="380.932" type="line"/>
+      <point x="128.848" y="657.808" type="line"/>
+      <point x="363.226" y="657.808" type="line"/>
+      <point x="363.226" y="693" type="line"/>
+      <point x="90.689" y="693" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

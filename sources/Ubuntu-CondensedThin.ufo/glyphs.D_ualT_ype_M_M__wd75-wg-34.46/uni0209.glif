@@ -2,12 +2,12 @@
 <glyph name="uni0209" format="2">
   <advance width="214"/>
   <unicode hex="0209"/>
-  <anchor x="105.94928660049628" y="0.0" name="bottom"/>
-  <anchor x="192.9154776674938" y="10.0" name="ogonek"/>
-  <anchor x="105.94928660049628" y="513.310794044665" name="top"/>
+  <anchor x="105.949" y="0" name="bottom"/>
+  <anchor x="192.915" y="10" name="ogonek"/>
+  <anchor x="105.949" y="513.311" name="top"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="double_grave" xOffset="-105.7399193548387"/>
+    <component base="double_grave" xOffset="-105.74"/>
   </outline>
   <lib>
     <dict>

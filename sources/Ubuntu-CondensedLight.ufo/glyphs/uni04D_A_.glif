@@ -2,8 +2,8 @@
 <glyph name="uni04DA" format="2">
   <advance width="532"/>
   <unicode hex="04DA"/>
-  <anchor x="265" y="693" name="top"/>
   <anchor x="265" y="0" name="bottom"/>
+  <anchor x="265" y="693" name="top"/>
   <outline>
     <component base="uni018F"/>
     <component base="dieresis" xOffset="83" yOffset="150"/>
@@ -29,8 +29,6 @@
           <string>dieresis</string>
         </dict>
       </array>
-      <key>public.markColor</key>
-      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

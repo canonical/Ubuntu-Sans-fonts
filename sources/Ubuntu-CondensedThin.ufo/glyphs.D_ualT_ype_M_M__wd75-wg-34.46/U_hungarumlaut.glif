@@ -2,13 +2,13 @@
 <glyph name="Uhungarumlaut" format="2">
   <advance width="522"/>
   <unicode hex="0170"/>
-  <anchor x="261.62158808933003" y="0.0" name="bottom"/>
-  <anchor x="470.58777915632754" y="10.0" name="ogonek"/>
-  <anchor x="261.62158808933003" y="693.0" name="top"/>
-  <anchor x="502.24317617866006" y="693.0" name="topright"/>
+  <anchor x="261.622" y="0" name="bottom"/>
+  <anchor x="470.588" y="10" name="ogonek"/>
+  <anchor x="261.622" y="693" name="top"/>
+  <anchor x="502.243" y="693" name="topright"/>
   <outline>
     <component base="U"/>
-    <component base="hungarumlaut" xOffset="139.70611042183623" yOffset="150"/>
+    <component base="hungarumlaut" xOffset="139.706" yOffset="150"/>
   </outline>
   <lib>
     <dict>

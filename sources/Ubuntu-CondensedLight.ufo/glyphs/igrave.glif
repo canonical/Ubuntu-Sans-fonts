@@ -2,9 +2,9 @@
 <glyph name="igrave" format="2">
   <advance width="217"/>
   <unicode hex="00EC"/>
-  <anchor x="109" y="520" name="top"/>
-  <anchor x="202" y="10" name="ogonek"/>
   <anchor x="109" y="0" name="bottom"/>
+  <anchor x="202" y="10" name="ogonek"/>
+  <anchor x="109" y="520" name="top"/>
   <outline>
     <component base="dotlessi"/>
     <component base="grave" xOffset="-51"/>
@@ -30,8 +30,6 @@
           <string>grave</string>
         </dict>
       </array>
-      <key>public.markColor</key>
-      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

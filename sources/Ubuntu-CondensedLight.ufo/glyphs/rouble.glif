@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="rouble" format="2">
   <advance width="445"/>
+  <unicode hex="20BD"/>
   <outline>
     <contour>
       <point x="91" y="0" type="line"/>
@@ -43,10 +44,4 @@
       <point x="203" y="333" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.0881,0.6429,0.1637,1</string>
-    </dict>
-  </lib>
 </glyph>

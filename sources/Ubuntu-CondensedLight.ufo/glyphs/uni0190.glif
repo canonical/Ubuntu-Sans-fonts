@@ -2,8 +2,8 @@
 <glyph name="uni0190" format="2">
   <advance width="428"/>
   <unicode hex="0190"/>
-  <anchor x="208" y="693" name="top"/>
   <anchor x="208" y="0" name="bottom"/>
+  <anchor x="208" y="693" name="top"/>
   <outline>
     <contour>
       <point x="249" y="-11" type="curve" smooth="yes"/>
@@ -49,10 +49,4 @@
       <point x="128" y="-11"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.0881,0.6429,0.1637,1</string>
-    </dict>
-  </lib>
 </glyph>

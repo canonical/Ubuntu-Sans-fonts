@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="pi" format="2">
+  <unicode hex="03C0"/>
   <outline>
     <contour>
       <point x="512" y="-9" type="line"/>
@@ -26,4 +27,10 @@
       <point x="518" y="23" type="qcurve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

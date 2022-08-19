@@ -2,10 +2,10 @@
 <glyph name="uring" format="2">
   <advance width="465"/>
   <unicode hex="016F"/>
-  <anchor x="231" y="520" name="top"/>
-  <anchor x="420" y="10" name="ogonek"/>
-  <anchor x="446" y="520" name="topright"/>
   <anchor x="231" y="0" name="bottom"/>
+  <anchor x="420" y="10" name="ogonek"/>
+  <anchor x="231" y="520" name="top"/>
+  <anchor x="446" y="520" name="topright"/>
   <outline>
     <component base="u"/>
     <component base="ring" xOffset="79"/>
@@ -31,8 +31,6 @@
           <string>ring</string>
         </dict>
       </array>
-      <key>public.markColor</key>
-      <string>0.0881,0.6429,0.1637,1</string>
     </dict>
   </lib>
 </glyph>

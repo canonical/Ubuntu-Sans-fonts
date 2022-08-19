@@ -2,12 +2,35 @@
 <glyph name="uni020A" format="2">
   <advance width="220"/>
   <unicode hex="020A"/>
-  <anchor x="110.60468362282879" y="0.0" name="bottom"/>
-  <anchor x="198.55397022332505" y="10.0" name="ogonek"/>
-  <anchor x="110.60468362282879" y="693.0" name="top"/>
-  <anchor x="20.0" y="693.0" name="topleft"/>
+  <anchor x="110.605" y="0" name="bottom"/>
+  <anchor x="198.554" y="10" name="ogonek"/>
+  <anchor x="110.605" y="693" name="top"/>
+  <anchor x="20" y="693" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="breve_inverted" xOffset="265.6527605459057" yOffset="156"/>
+    <component base="breve_inverted" xOffset="265.653" yOffset="156"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>I</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>breve_inverted</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

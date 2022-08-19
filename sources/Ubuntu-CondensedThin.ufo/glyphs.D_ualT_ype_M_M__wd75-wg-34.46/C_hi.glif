@@ -2,9 +2,24 @@
 <glyph name="Chi" format="2">
   <advance width="414"/>
   <unicode hex="03A7"/>
-  <anchor x="207.5708746898263" y="0.0" name="bottom"/>
-  <anchor x="207.5708746898263" y="693.0" name="top"/>
+  <anchor x="207.571" y="0" name="bottom"/>
+  <anchor x="207.571" y="693" name="top"/>
   <outline>
     <component base="X"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>X</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>
