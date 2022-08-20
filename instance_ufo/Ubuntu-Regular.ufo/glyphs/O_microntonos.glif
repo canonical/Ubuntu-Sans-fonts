@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omicrontonos" format="2">
+  <advance width="819.7"/>
+  <unicode hex="038C"/>
+  <anchor x="430.86" y="0.0" name="bottom"/>
+  <anchor x="430.86" y="347.0" name="center"/>
+  <anchor x="742.24" y="10.0" name="ogonek"/>
+  <anchor x="430.86" y="693.0" name="top"/>
+  <anchor x="62.019999999999996" y="693.0" name="topleft"/>
+  <anchor x="799.7" y="693.0" name="topright"/>
+  <outline>
+    <component base="O" xOffset="42.019999999999996"/>
+    <component base="tonos.cap" xOffset="-139.57"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>O</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>tonos.cap</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lacute" format="2">
+  <advance width="516.03"/>
+  <unicode hex="0139"/>
+  <anchor x="258.13" y="0.0" name="bottom"/>
+  <anchor x="258.13" y="347.0" name="center"/>
+  <anchor x="258.13" y="693.0" name="top"/>
+  <anchor x="496.03" y="693.0" name="topright"/>
+  <outline>
+    <component base="L"/>
+    <component base="acute" xOffset="-14.369999999999997" yOffset="156.92"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>L</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>acute</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

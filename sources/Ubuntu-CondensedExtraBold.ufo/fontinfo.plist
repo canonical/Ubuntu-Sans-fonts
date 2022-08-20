@@ -12,6 +12,8 @@
     <integer>-185</integer>
     <key>familyName</key>
     <string>Ubuntu</string>
+    <key>guidelines</key>
+    <array/>
     <key>italicAngle</key>
     <integer>0</integer>
     <key>openTypeHeadCreated</key>
@@ -89,6 +91,18 @@
     <real>0.04</real>
     <key>postscriptBlueShift</key>
     <integer>7</integer>
+    <key>postscriptBlueValues</key>
+    <array/>
+    <key>postscriptFamilyBlues</key>
+    <array/>
+    <key>postscriptFamilyOtherBlues</key>
+    <array/>
+    <key>postscriptOtherBlues</key>
+    <array/>
+    <key>postscriptStemSnapH</key>
+    <array/>
+    <key>postscriptStemSnapV</key>
+    <array/>
     <key>postscriptUnderlinePosition</key>
     <integer>-123</integer>
     <key>postscriptUnderlineThickness</key>
@@ -102,7 +116,7 @@
     <key>versionMajor</key>
     <integer>0</integer>
     <key>versionMinor</key>
-    <integer>840</integer>
+    <integer>861</integer>
     <key>xHeight</key>
     <integer>532</integer>
   </dict>

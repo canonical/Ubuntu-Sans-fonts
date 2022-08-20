@@ -5,8 +5,8 @@
     <axis tag="wght" name="Weight" minimum="100" maximum="800" default="300">
       <map input="100" output="100"/>
       <map input="300" output="300"/>
-      <map input="400" output="434"/>
-      <map input="500" output="564"/>
+      <map input="400" output="415"/>
+      <map input="500" output="530"/>
       <map input="700" output="700"/>
       <map input="800" output="800"/>
 
@@ -96,7 +96,7 @@
     >
       <location>
         <dimension name="Width" xvalue="100"/>
-        <dimension name="Weight" xvalue="434"/>
+        <dimension name="Weight" xvalue="415"/>
       </location>
       <kerning/>
       <info/>
@@ -111,7 +111,7 @@
     >
       <location>
         <dimension name="Width" xvalue="100"/>
-        <dimension name="Weight" xvalue="564"/>
+        <dimension name="Weight" xvalue="530"/>
       </location>
       <kerning/>
       <info/>
@@ -190,7 +190,7 @@
     >
       <location>
         <dimension name="Width" xvalue="75"/>
-        <dimension name="Weight" xvalue="434"/>
+        <dimension name="Weight" xvalue="415"/>
       </location>
       <kerning/>
       <info/>
@@ -205,7 +205,7 @@
     >
       <location>
         <dimension name="Width" xvalue="75"/>
-        <dimension name="Weight" xvalue="564"/>
+        <dimension name="Weight" xvalue="530"/>
       </location>
       <kerning/>
       <info/>

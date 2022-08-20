@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniEFFD" format="2">
-  <advance width="1335"/>
+  <advance width="1698"/>
   <unicode hex="EFFD"/>
   <outline>
-    <component base="zerosuperior" yOffset="-302"/>
-    <component base="period" xOffset="363"/>
-    <component base="eightsuperior" xOffset="609" yOffset="-302"/>
-    <component base="foursuperior" xOffset="972" yOffset="-302"/>
+    <component base="zeroinferior" xScale="2.0" yScale="2.0"/>
+    <component base="period" xScale="2.0" yScale="2.0" xOffset="363"/>
+    <component base="eightinferior" xScale="2.0" yScale="2.0" xOffset="609"/>
+    <component base="sixinferior" xScale="2.0" yScale="2.0" xOffset="972"/>
+    <component base="oneinferior" xScale="2.0" yScale="2.0" xOffset="1335"/>
   </outline>
   <lib>
     <dict>

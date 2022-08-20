@@ -12,6 +12,8 @@
     <integer>-185</integer>
     <key>familyName</key>
     <string>Ubuntu</string>
+    <key>guidelines</key>
+    <array/>
     <key>italicAngle</key>
     <real>-13.5</real>
     <key>openTypeHeadCreated</key>
@@ -30,8 +32,6 @@
     <string>Dalton Maag Ltd</string>
     <key>openTypeNameManufacturerURL</key>
     <string>http://www.daltonmaag.com/</string>
-    <key>openTypeNameVersion</key>
-    <string>Version 0.83</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>
@@ -91,6 +91,18 @@
     <real>0.04</real>
     <key>postscriptBlueShift</key>
     <integer>7</integer>
+    <key>postscriptBlueValues</key>
+    <array/>
+    <key>postscriptFamilyBlues</key>
+    <array/>
+    <key>postscriptFamilyOtherBlues</key>
+    <array/>
+    <key>postscriptOtherBlues</key>
+    <array/>
+    <key>postscriptStemSnapH</key>
+    <array/>
+    <key>postscriptStemSnapV</key>
+    <array/>
     <key>postscriptUnderlinePosition</key>
     <integer>-123</integer>
     <key>postscriptUnderlineThickness</key>
@@ -104,7 +116,7 @@
     <key>versionMajor</key>
     <integer>0</integer>
     <key>versionMinor</key>
-    <integer>830</integer>
+    <integer>861</integer>
     <key>xHeight</key>
     <integer>521</integer>
   </dict>

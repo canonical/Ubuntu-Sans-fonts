@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wdth" name="Width" minimum="75" maximum="100" default="100"/>
+    <axis tag="wght" name="Weight" minimum="100" maximum="800" default="300">
+      <map input="100" output="100"/>
+      <map input="300" output="300"/>
+      <map input="400" output="415"/>
+      <map input="500" output="530"/>
+      <map input="700" output="700"/>
+      <map input="800" output="800"/>
+
+    </axis>
+  </axes>
+  <sources>
+    <source filename="Ubuntu-Thin.ufo" name="Ubuntu Thin" familyname="Ubuntu" stylename="Thin">
+      <location>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Ubuntu-Light.ufo" name="Ubuntu Light" familyname="Ubuntu" stylename="Light">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+    </source>
+    <source filename="Ubuntu-ExtraBold.ufo" name="Ubuntu Extra Bold" familyname="Ubuntu" stylename="Bold">
+      <location>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Weight" xvalue="800"/>
+      </location>
+    </source>
+    <source filename="Ubuntu-CondensedLight.ufo" name="Ubuntu Condensed Light" familyname="Ubuntu" stylename="Light">
+      <location>
+        <dimension name="Width" xvalue="75"/>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+    </source>
+    <source filename="Ubuntu-CondensedExtraBold.ufo" familyname="Ubuntu" stylename="Condensed Extra Bold">
+      <location>
+        <dimension name="Width" xvalue="75"/>
+        <dimension name="Weight" xvalue="800"/>
+      </location>
+    </source>
+    <source filename="Ubuntu-CondensedThin.ufo" familyname="Ubuntu" stylename="Condensed Thin">
+      <location>
+        <dimension name="Width" xvalue="75"/>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+
+    <instance 
+        name="Ubuntu Regular" 
+        familyname="Ubuntu" 
+        stylename="Regular" 
+        filename="../instance_ufo/Ubuntu-Regular.ufo" 
+        stylemapfamilyname="Ubuntu" 
+        stylemapstylename="regular"
+    >
+      <location>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Weight" xvalue="415"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+
+  </instances>
+  <lib>
+    <dict>
+      <key>UFOFormat</key>
+      <integer>3</integer>
+      <key>com.letterror.mathModelPref</key>
+      <string>previewVarLib</string>
+    </dict>
+  </lib>
+</designspace>
