@@ -7,12 +7,15 @@ axisOrder:
   - ital
 familyName: Ubuntu
 stat:
-  Ubuntu[wght].ttf:
+  Ubuntu[wdth,wght].ttf:
       - name: Width
         tag: wdth
         values:
           - name: Condensed
             value: 75
+          - name: Normal
+            value: 100
+            flags: 2
       - name: Weight
         tag: wght
         values:
@@ -37,12 +40,15 @@ stat:
           value: 0
           linkedValue: 1
           flags: 2
-  Ubuntu-Italic[wght].ttf:
+  Ubuntu-Italic[wdth,wght].ttf:
       - name: Width
         tag: wdth
         values:
           - name: Condensed
             value: 75
+          - name: Normal
+            value: 100
+            flags: 2
       - name: Weight
         tag: wght
         values:
