@@ -12,7 +12,7 @@ for path in paths:
     f = TTFont(path)
 
 
-    findName = f['name'].getName(25, 1, 0, 0).toUnicode()
+    findName = f['name'].getName(16, 3, 1, 0x409).toUnicode()
     print('find', findName)
     versionName = f['name'].getName(3, 3, 1, 0x409).toUnicode()
     versionNumber = versionName.split(';')[0]
@@ -21,12 +21,16 @@ for path in paths:
 
 
     for namerecord in f['name'].names:
-        new = namerecord.toUnicode().replace(findName, findName+varNoSpace)
-        if new:
-            print('Changing name', namerecord.toUnicode(), 'to', new )
-            f['name'].setName(new, namerecord.nameID, namerecord.platformID, namerecord.platEncID, namerecord.langID)
+        nameRecordString = namerecord.toUnicode()
+        if findName in nameRecordString:
+            newName = nameRecordString.replace(findName, findName+varNoSpace)
+            print('Changing name', namerecord.toUnicode(), 'to', newName )
+            f['name'].setName(newName, namerecord.nameID, namerecord.platformID, namerecord.platEncID, namerecord.langID)
+            
     
     #os.remove(path)
     basePath, fileName = os.path.split(path)
-    newPath = os.path.join(basePath, fileName.replace(findName, findName+varNoSpace))
+    newFilename = fileName.replace(findName, findName+varNoSpace)
+    
+    newPath = os.path.join(basePath, newFilename)
     f.save(newPath)
