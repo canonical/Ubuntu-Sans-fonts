@@ -7,14 +7,24 @@ import os
 
 paths = sys.argv[1:]
 
+
+def get_name_record(ttFont, nameID, fallbackID=None, platform=(3, 1, 0x409)):
+    name = ttFont["name"]
+    record = name.getName(nameID, 3, 1, 0x409)
+    if not record and fallbackID:
+        record = name.getName(fallbackID, 3, 1, 0x409)
+    if not record:
+        raise ValueError(f"Cannot find record with nameID {nameID}")
+    return record.toUnicode()
+
 for path in paths:
     path = path.strip('\"')
     f = TTFont(path)
 
 
-    findName = f['name'].getName(16, 3, 1, 0x409).toUnicode()
+    findName = get_name_record(f, 16, fallbackID=1)
     print('find', findName)
-    versionName = f['name'].getName(3, 3, 1, 0x409).toUnicode()
+    versionName = get_name_record(f, 3, fallbackID=1)
     versionNumber = versionName.split(';')[0]
     varNoSpace = 'Beta'+versionNumber
     varSpace = ' ' + varNoSpace
@@ -24,7 +34,7 @@ for path in paths:
         nameRecordString = namerecord.toUnicode()
         if findName in nameRecordString:
             newName = nameRecordString.replace(findName, findName+varNoSpace)
-            print('Changing name', namerecord.toUnicode(), 'to', newName )
+            print(f'Changing name record {namerecord.nameID}: {namerecord.toUnicode()} to {newName}')
             f['name'].setName(newName, namerecord.nameID, namerecord.platformID, namerecord.platEncID, namerecord.langID)
             
     
