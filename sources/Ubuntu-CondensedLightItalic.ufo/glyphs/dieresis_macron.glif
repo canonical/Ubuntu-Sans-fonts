@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis_macron" format="2">
+  <advance width="269"/>
+  <outline>
+    <contour>
+      <point x="209" y="754" type="line"/>
+      <point x="402" y="754" type="line"/>
+      <point x="413" y="798" type="line"/>
+      <point x="220" y="798" type="line"/>
+    </contour>
+    <contour>
+      <point x="218" y="606" type="curve" smooth="yes"/>
+      <point x="241" y="606"/>
+      <point x="259" y="626"/>
+      <point x="259" y="651" type="curve" smooth="yes"/>
+      <point x="259" y="670"/>
+      <point x="245" y="684"/>
+      <point x="226" y="684" type="curve" smooth="yes"/>
+      <point x="201" y="684"/>
+      <point x="185" y="663"/>
+      <point x="185" y="639" type="curve" smooth="yes"/>
+      <point x="185" y="620"/>
+      <point x="199" y="606"/>
+    </contour>
+    <contour>
+      <point x="362" y="606" type="curve" smooth="yes"/>
+      <point x="384" y="606"/>
+      <point x="402" y="626"/>
+      <point x="402" y="651" type="curve" smooth="yes"/>
+      <point x="402" y="670"/>
+      <point x="389" y="684"/>
+      <point x="369" y="684" type="curve" smooth="yes"/>
+      <point x="345" y="684"/>
+      <point x="328" y="663"/>
+      <point x="328" y="639" type="curve" smooth="yes"/>
+      <point x="328" y="620"/>
+      <point x="342" y="606"/>
+    </contour>
+  </outline>
+</glyph>

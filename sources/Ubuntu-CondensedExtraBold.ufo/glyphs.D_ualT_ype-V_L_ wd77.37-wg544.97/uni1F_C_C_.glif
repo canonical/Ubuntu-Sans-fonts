@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FCC" format="2">
+  <advance width="891"/>
+  <unicode hex="1FCC"/>
+  <anchor x="306.353" y="0" name="bottom"/>
+  <anchor x="306.353" y="347" name="center"/>
+  <anchor x="306.353" y="693" name="top_1"/>
+  <anchor x="752.328" y="525.228" name="top_2"/>
+  <anchor x="20" y="693" name="topleft"/>
+  <outline>
+    <component base="H"/>
+    <component base="iota" xOffset="613"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>H</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>iota</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

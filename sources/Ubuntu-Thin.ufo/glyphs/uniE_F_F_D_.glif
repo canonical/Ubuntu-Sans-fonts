@@ -1,11 +1,51 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniEFFD" format="2">
-  <advance width="1301"/>
+  <advance width="1660"/>
   <unicode hex="EFFD"/>
   <outline>
-    <component base="zerosuperior" yOffset="-319"/>
-    <component base="period" xOffset="359"/>
-    <component base="eightsuperior" xOffset="583" yOffset="-319"/>
-    <component base="foursuperior" xOffset="942" yOffset="-319"/>
+    <component base="zeroinferior" xScale="2.0" yScale="2.0"/>
+    <component base="period" xScale="2.0" yScale="2.0" xOffset="359"/>
+    <component base="eightinferior" xScale="2.0" yScale="2.0" xOffset="583"/>
+    <component base="sixinferior" xScale="2.0" yScale="2.0" xOffset="942"/>
+    <component base="oneinferior" xScale="2.0" yScale="2.0" xOffset="1301"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>zerosuperior</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>period</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>eightsuperior</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>3</integer>
+          <key>name</key>
+          <string>foursuperior</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

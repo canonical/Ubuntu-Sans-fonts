@@ -2,6 +2,8 @@
 <glyph name="semicolon" format="2">
   <advance width="246"/>
   <unicode hex="003B"/>
+  <guideline x="68" y="0" angle="0"/>
+  <guideline x="178" y="0" angle="0"/>
   <outline>
     <component base="comma"/>
     <component base="period" yOffset="419"/>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E" format="2">
+  <advance width="484"/>
+  <unicode hex="0045"/>
+  <anchor x="243" y="0" name="bottom"/>
+  <anchor x="437" y="10" name="ogonek"/>
+  <anchor x="243" y="693" name="top"/>
+  <anchor x="20" y="693" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="77" y="0" type="line"/>
+      <point x="448" y="0" type="line"/>
+      <point x="448" y="119" type="line"/>
+      <point x="219" y="119" type="line"/>
+      <point x="219" y="306" type="line"/>
+      <point x="411" y="306" type="line"/>
+      <point x="411" y="421" type="line"/>
+      <point x="219" y="421" type="line"/>
+      <point x="219" y="574" type="line"/>
+      <point x="427" y="574" type="line"/>
+      <point x="427" y="693" type="line"/>
+      <point x="77" y="693" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

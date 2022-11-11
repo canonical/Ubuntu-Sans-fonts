@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oacute" format="2">
+  <advance width="587.75"/>
+  <unicode hex="00F3"/>
+  <anchor x="293.99" y="0.0" name="bottom"/>
+  <anchor x="293.99" y="259.92" name="center"/>
+  <anchor x="529.06" y="10.0" name="ogonek"/>
+  <anchor x="293.99" y="519.07" name="top"/>
+  <anchor x="567.75" y="519.07" name="topright"/>
+  <outline>
+    <component base="o"/>
+    <component base="acute" xOffset="125.65"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>o</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>acute</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

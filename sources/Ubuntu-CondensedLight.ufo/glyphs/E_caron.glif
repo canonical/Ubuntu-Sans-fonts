@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecaron" format="2">
+  <advance width="440"/>
+  <unicode hex="011A"/>
+  <anchor x="220" y="0" name="bottom"/>
+  <anchor x="379" y="10" name="ogonek"/>
+  <anchor x="220" y="693" name="top"/>
+  <anchor x="18" y="693" name="topleft"/>
+  <outline>
+    <component base="E"/>
+    <component base="caron" xOffset="76" yOffset="150"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>E</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>caron</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chi" format="2">
+  <advance width="554"/>
+  <unicode hex="03C7"/>
+  <outline>
+    <contour>
+      <point x="3" y="-184" type="curve"/>
+      <point x="155" y="-184" type="line"/>
+      <point x="192" y="-98"/>
+      <point x="225" y="-15"/>
+      <point x="285" y="111" type="curve"/>
+      <point x="243" y="110" type="line"/>
+      <point x="302" y="-7"/>
+      <point x="345" y="-99"/>
+      <point x="377" y="-184" type="curve"/>
+      <point x="537" y="-184" type="line"/>
+      <point x="484" y="-61"/>
+      <point x="428" y="42"/>
+      <point x="331" y="205" type="curve"/>
+      <point x="338" y="158" type="line"/>
+      <point x="530" y="526" type="line"/>
+      <point x="376" y="526" type="line"/>
+      <point x="256" y="250" type="line"/>
+      <point x="292" y="250" type="line"/>
+      <point x="168" y="526" type="line"/>
+      <point x="7" y="526" type="line"/>
+      <point x="203" y="155" type="line"/>
+      <point x="202" y="203" type="line"/>
+      <point x="115" y="47"/>
+      <point x="44" y="-85"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

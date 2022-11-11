@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni022B" format="2">
+  <advance width="476"/>
+  <unicode hex="022B"/>
+  <anchor x="239" y="0" name="bottom"/>
+  <anchor x="239" y="263" name="center"/>
+  <anchor x="429" y="10" name="ogonek"/>
+  <anchor x="239" y="527" name="top"/>
+  <anchor x="456" y="527" name="topright"/>
+  <outline>
+    <component base="o"/>
+    <component base="dieresis_macron" xOffset="83"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>o</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dieresis_macron</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

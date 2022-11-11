@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Phi" format="2">
+  <advance width="862.3"/>
+  <unicode hex="03A6"/>
+  <outline>
+    <contour>
+      <point x="388.26" y="0.0" type="line"/>
+      <point x="474.04" y="0.0" type="line"/>
+      <point x="474.04" y="85.08" type="line"/>
+      <point x="640.07" y="87.61"/>
+      <point x="803.98" y="179.03"/>
+      <point x="803.98" y="370.08" type="curve"/>
+      <point x="803.98" y="560.67"/>
+      <point x="640.07" y="653.24"/>
+      <point x="474.04" y="656.92" type="curve"/>
+      <point x="474.04" y="738.0" type="line"/>
+      <point x="388.26" y="738.0" type="line"/>
+      <point x="388.26" y="656.92" type="line"/>
+      <point x="222.23" y="653.24"/>
+      <point x="58.32" y="560.67"/>
+      <point x="58.32" y="370.08" type="curve" smooth="yes"/>
+      <point x="58.32" y="179.03"/>
+      <point x="222.23" y="87.61"/>
+      <point x="388.26" y="85.08" type="curve"/>
+    </contour>
+    <contour>
+      <point x="388.26" y="158.1" type="line"/>
+      <point x="253.0" y="159.94"/>
+      <point x="149.41" y="229.56"/>
+      <point x="149.41" y="370.54" type="curve" smooth="yes"/>
+      <point x="149.41" y="511.29"/>
+      <point x="252.54" y="581.37"/>
+      <point x="388.26" y="583.9" type="curve"/>
+    </contour>
+    <contour>
+      <point x="474.04" y="158.1" type="curve"/>
+      <point x="474.04" y="583.9" type="line"/>
+      <point x="609.76" y="581.37"/>
+      <point x="712.89" y="511.29"/>
+      <point x="712.89" y="370.54" type="curve" smooth="yes"/>
+      <point x="712.89" y="229.56"/>
+      <point x="609.3" y="159.94"/>
+    </contour>
+  </outline>
+</glyph>

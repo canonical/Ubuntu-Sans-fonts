@@ -24,6 +24,7 @@ paths = getFiles(sys.argv[1], ['ttf'])
 
 for path in paths:
     path = path.strip('\"')
+    print(path)
     f = TTFont(path)
 
 
@@ -66,4 +67,5 @@ for path in paths:
     newFilename = fileName.replace(psFamilyName, new_psFamilyName)
     
     newPath = os.path.join(basePath, newFilename)
+
     f.save(newPath)
