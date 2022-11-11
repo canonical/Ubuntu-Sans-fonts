@@ -3,11 +3,11 @@
   <advance width="196"/>
   <unicode hex="020B"/>
   <anchor x="98" y="0" name="bottom"/>
-  <anchor x="187" y="10" name="ogonek"/>
+  <anchor x="176" y="10" name="ogonek"/>
   <anchor x="98" y="517" name="top"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="breve_inverted" xOffset="-70"/>
+    <component base="breveinvertedcomb" xOffset="-70"/>
   </outline>
   <lib>
     <dict>
@@ -27,7 +27,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>breve_inverted</string>
+          <string>breveinvertedcomb</string>
         </dict>
       </array>
     </dict>

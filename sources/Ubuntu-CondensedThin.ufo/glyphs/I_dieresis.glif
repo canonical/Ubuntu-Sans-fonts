@@ -2,10 +2,10 @@
 <glyph name="Idieresis" format="2">
   <advance width="210"/>
   <unicode hex="00CF"/>
-  <anchor x="104" y="0" name="bottom"/>
-  <anchor x="192" y="10" name="ogonek"/>
-  <anchor x="104" y="693" name="top"/>
-  <anchor x="13" y="693" name="topleft"/>
+  <anchor x="105" y="0" name="bottom"/>
+  <anchor x="193" y="10" name="ogonek"/>
+  <anchor x="105" y="693" name="top"/>
+  <anchor x="14" y="693" name="topleft"/>
   <outline>
     <component base="I"/>
     <component base="dieresis" xOffset="-52" yOffset="150"/>

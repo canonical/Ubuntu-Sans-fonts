@@ -4,10 +4,10 @@
   <unicode hex="0217"/>
   <anchor x="277" y="0" name="bottom"/>
   <anchor x="498" y="10" name="ogonek"/>
-  <anchor x="277" y="513" name="top"/>
+  <anchor x="468" y="513" name="top"/>
   <anchor x="533" y="513" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="breve_inverted" xOffset="273"/>
+    <component base="breveinvertedcomb" xOffset="273"/>
   </outline>
 </glyph>

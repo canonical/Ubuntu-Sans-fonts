@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="breve_inverted" format="2">
-  <advance width="337"/>
+<glyph name="breveinvertedcomb" format="2">
   <unicode hex="0311"/>
+  <anchor x="168" y="746" name="_top"/>
+  <anchor x="168" y="517" name="top"/>
   <outline>
     <contour>
       <point x="73" y="631" type="curve"/>
@@ -20,4 +21,10 @@
       <point x="73" y="701"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>337</integer>
+    </dict>
+  </lib>
 </glyph>

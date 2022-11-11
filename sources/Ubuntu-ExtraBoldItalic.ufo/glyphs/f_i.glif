@@ -2,6 +2,11 @@
 <glyph name="f_i" format="2">
   <advance width="702"/>
   <unicode hex="FB01"/>
+  <anchor x="113" y="0" name="bottom_1"/>
+  <anchor x="464" y="0" name="bottom_2"/>
+  <anchor x="351" y="0" name="caret_1"/>
+  <anchor x="299" y="776" name="top_1"/>
+  <anchor x="650" y="776" name="top_2"/>
   <outline>
     <component base="fi"/>
   </outline>

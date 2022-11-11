@@ -13,7 +13,16 @@
     <key>familyName</key>
     <string>Ubuntu</string>
     <key>guidelines</key>
-    <array/>
+    <array>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>x</key>
+        <integer>413</integer>
+        <key>y</key>
+        <integer>599</integer>
+      </dict>
+    </array>
     <key>italicAngle</key>
     <real>-13.5</real>
     <key>openTypeHeadCreated</key>
@@ -91,18 +100,6 @@
     <real>0.04</real>
     <key>postscriptBlueShift</key>
     <integer>7</integer>
-    <key>postscriptBlueValues</key>
-    <array/>
-    <key>postscriptFamilyBlues</key>
-    <array/>
-    <key>postscriptFamilyOtherBlues</key>
-    <array/>
-    <key>postscriptOtherBlues</key>
-    <array/>
-    <key>postscriptStemSnapH</key>
-    <array/>
-    <key>postscriptStemSnapV</key>
-    <array/>
     <key>postscriptUnderlinePosition</key>
     <integer>-123</integer>
     <key>postscriptUnderlineThickness</key>

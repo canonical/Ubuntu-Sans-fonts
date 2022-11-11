@@ -2,15 +2,15 @@
 <glyph name="uni020E" format="2">
   <advance width="618"/>
   <unicode hex="020E"/>
-  <anchor x="315" y="0" name="bottom"/>
-  <anchor x="315" y="347" name="center"/>
-  <anchor x="567" y="10" name="ogonek"/>
-  <anchor x="315" y="693" name="top"/>
-  <anchor x="20" y="693" name="topleft"/>
-  <anchor x="608" y="693" name="topright"/>
+  <anchor x="309" y="0" name="bottom"/>
+  <anchor x="309" y="347" name="center"/>
+  <anchor x="561" y="10" name="ogonek"/>
+  <anchor x="309" y="682" name="top"/>
+  <anchor x="14" y="693" name="topleft"/>
+  <anchor x="602" y="693" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="breve_inverted" xOffset="149" yOffset="150"/>
+    <component base="breveinvertedcomb" xOffset="149" yOffset="150"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>breve_inverted</string>
+          <string>breveinvertedcomb</string>
         </dict>
       </array>
     </dict>

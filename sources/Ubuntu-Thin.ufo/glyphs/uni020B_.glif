@@ -4,9 +4,9 @@
   <unicode hex="020B"/>
   <anchor x="110" y="0" name="bottom"/>
   <anchor x="198" y="10" name="ogonek"/>
-  <anchor x="110" y="513" name="top"/>
+  <anchor x="305" y="513" name="top"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="breve_inverted" xOffset="110"/>
+    <component base="breveinvertedcomb" xOffset="110"/>
   </outline>
 </glyph>

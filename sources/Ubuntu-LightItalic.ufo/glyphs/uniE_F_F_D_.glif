@@ -3,11 +3,11 @@
   <advance width="1695"/>
   <unicode hex="EFFD"/>
   <outline>
-    <component base="zeroinferior" xScale="2.0" yScale="2.0"/>
-    <component base="period" xScale="2.0" yScale="2.0" xOffset="363"/>
-    <component base="eightinferior" xScale="2.0" yScale="2.0" xOffset="606"/>
-    <component base="sixinferior" xScale="2.0" yScale="2.0" xOffset="969"/>
-    <component base="oneinferior" xScale="2.0" yScale="2.0" xOffset="1332"/>
+    <component base="zerosuperior" yOffset="-321"/>
+    <component base="period" xOffset="363"/>
+    <component base="eightsuperior" xOffset="500" yOffset="-321"/>
+    <component base="zerosuperior" xOffset="870" yOffset="-321"/>
+    <component base="zerosuperior" xOffset="1220" yOffset="-321"/>
   </outline>
   <lib>
     <dict>
