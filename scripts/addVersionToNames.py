@@ -5,7 +5,22 @@ from fontTools.ttLib import TTFont
 import sys
 import os
 
-paths = sys.argv[1:]
+def getFiles(path, extensions):
+    return [os.sep.join((dir, file)) for (dir, dirs, files)
+            in os.walk(path) for file in files if
+            file.split(".")[-1] in extensions]
+
+
+def get_name_record(ttFont, nameID, fallbackID=None, platform=(3, 1, 0x409)):
+    name = ttFont["name"]
+    record = name.getName(nameID, 3, 1, 0x409)
+    if not record and fallbackID:
+        record = name.getName(fallbackID, 3, 1, 0x409)
+    if not record:
+        raise ValueError(f"Cannot find record with nameID {nameID}")
+    return record.toUnicode()
+
+paths = getFiles(sys.argv[1], ['ttf'])
 
 for path in paths:
     path = path.strip('\"')
@@ -13,31 +28,44 @@ for path in paths:
     f = TTFont(path)
 
 
-    findNames = ['UbuntuMono', 'Ubuntu Mono', 'Ubuntu']
-    versionName = f['name'].getName(3, 3, 1, 0x409).toUnicode()
+    familyName = get_name_record(f, 16, fallbackID=1)
+    psFamilyName = familyName.replace(" ", "")
+    print('find', familyName)
+    versionName = get_name_record(f, 3, fallbackID=1)
     versionNumber = versionName.split(';')[0]
-    varNoSpace = 'Beta'+versionNumber
-    varSpace = ' ' + varNoSpace
 
+    new_familyName = f'{familyName} Beta {versionNumber}'
+    new_psFamilyName = new_familyName.replace(" ", "")
+    
+    oldNames = [familyName, psFamilyName]
+    newNames = [new_familyName, new_psFamilyName]
 
-    for namerecord in f['name'].names:
-        new = namerecord.toUnicode()
-        for findName in findNames:
-            if findName in new:
-                new = new.replace(findName, findName+varNoSpace)
+    for record in f['name'].names:
+        record_text = record.toUnicode()
+
+        isMatch = False
+        for string in oldNames:
+            if string in record_text:
+                isMatch = string
                 break
-        if new:
-            #print('Changing name', namerecord.toUnicode(), 'to', new )
-            f['name'].setName(new, namerecord.nameID, namerecord.platformID, namerecord.platEncID, namerecord.langID)
+        
+        if isMatch != False:
+            record_newtext = record_text.replace(isMatch, newNames[oldNames.index(isMatch)] )
+
+            f['name'].setName(
+                record_newtext,
+                record.nameID,
+                record.platformID,
+                record.platEncID,
+                record.langID
+            )
+            
     
     #os.remove(path)
     basePath, fileName = os.path.split(path)
+
+    newFilename = fileName.replace(psFamilyName, new_psFamilyName)
     
-    newFileName = fileName
-    for findName in findNames:
-        if findName in newFileName:
-            newFileName = newFileName.replace(findName, findName+varNoSpace)
-            break
-    newPath = os.path.join(basePath, newFileName)
-    print('\t', newPath)
+    newPath = os.path.join(basePath, newFilename)
+
     f.save(newPath)
