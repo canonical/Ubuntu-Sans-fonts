@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oneseventh" format="2">
+  <advance width="717"/>
+  <unicode hex="F506"/>
+  <outline>
+    <component base="fraction" xOffset="271"/>
+    <component base="onesuperior" xOffset="1" yOffset="2"/>
+    <component base="sevensuperior" xOffset="353" yOffset="-304"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>fraction</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>onesuperior</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>sevensuperior</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

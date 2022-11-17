@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Guillemotright" format="2">
+  <advance width="426.654"/>
+  <outline>
+    <component base="guilsinglright" xOffset="82" yOffset="62"/>
+    <component base="guilsinglright" xOffset="90" yOffset="62"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>guilsinglright</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>guilsinglright</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

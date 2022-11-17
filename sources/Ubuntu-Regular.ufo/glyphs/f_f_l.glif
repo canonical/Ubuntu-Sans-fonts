@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_f_l" format="2">
+  <advance width="1023.872"/>
+  <unicode hex="FB04"/>
+  <anchor x="191" y="0" name="bottom_1"/>
+  <anchor x="572" y="0" name="bottom_2"/>
+  <anchor x="893" y="0" name="bottom_3"/>
+  <anchor x="341" y="0" name="caret_1"/>
+  <anchor x="683" y="0" name="caret_2"/>
+  <anchor x="893" y="388" name="center"/>
+  <anchor x="191" y="776" name="top_1"/>
+  <anchor x="572" y="776" name="top_2"/>
+  <anchor x="893" y="776" name="top_3"/>
+  <anchor x="1004" y="776" name="topright"/>
+  <outline>
+    <component base="f"/>
+    <component base="f" xOffset="381"/>
+    <component base="l" xOffset="762"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>f</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>f</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>l</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
