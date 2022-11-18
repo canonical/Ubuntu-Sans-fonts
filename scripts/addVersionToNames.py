@@ -50,7 +50,11 @@ for path in paths:
                 break
         
         if isMatch != False:
-            record_newtext = record_text.replace(isMatch, newNames[oldNames.index(isMatch)] )
+
+            if record.nameID not in [1, 4, 7, 16]:
+                record_newtext = record_text.replace(isMatch, newNames[1])
+            else:
+                record_newtext = record_text.replace(isMatch, newNames[0])
 
             f['name'].setName(
                 record_newtext,
