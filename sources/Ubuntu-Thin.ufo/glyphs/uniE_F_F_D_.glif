@@ -3,10 +3,10 @@
   <advance width="1660"/>
   <unicode hex="EFFD"/>
   <outline>
-    <component base="zeroinferior" xScale="2.0" yScale="2.0"/>
-    <component base="period" xScale="2.0" yScale="2.0" xOffset="359"/>
-    <component base="eightinferior" xScale="2.0" yScale="2.0" xOffset="583"/>
-    <component base="sixinferior" xScale="2.0" yScale="2.0" xOffset="942"/>
-    <component base="twoinferior" xScale="2.0" yScale="2.0" xOffset="1301"/>
+    <component base="zerosuperior" yOffset="-319"/>
+    <component base="period" xOffset="359"/>
+    <component base="eightsuperior" xOffset="583" yOffset="-319"/>
+    <component base="sixsuperior" xOffset="942" yOffset="-319"/>
+    <component base="twosuperior" xOffset="1301" yOffset="-319"/>
   </outline>
 </glyph>
