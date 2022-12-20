@@ -1,59 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniEFFD" format="2">
-  <advance width="1695"/>
+  <advance width="1660"/>
   <unicode hex="EFFD"/>
   <outline>
-    <component base="zeroinferior" xScale="2.0" yScale="2.0"/>
-    <component base="period" xScale="2.0" yScale="2.0" xOffset="363"/>
-    <component base="eightinferior" xScale="2.0" yScale="2.0" xOffset="606"/>
-    <component base="sixinferior" xScale="2.0" yScale="2.0" xOffset="969"/>
-    <component base="oneinferior" xScale="2.0" yScale="2.0" xOffset="1332"/>
+    <component base="zerosuperior" yOffset="-319"/>
+    <component base="period" xOffset="419"/>
+    <component base="eightsuperior" xOffset="583" yOffset="-319"/>
+    <component base="sixsuperior" xOffset="942" yOffset="-319"/>
+    <component base="twosuperior" xOffset="1301" yOffset="-319"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>zerosuperior</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>period</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>2</integer>
-          <key>name</key>
-          <string>eightsuperior</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>3</integer>
-          <key>name</key>
-          <string>zerosuperior</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>4</integer>
-          <key>name</key>
-          <string>zerosuperior</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

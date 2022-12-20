@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kappa" format="2">
+  <advance width="485.638"/>
+  <unicode hex="039A"/>
+  <anchor x="251" y="0" name="bottom"/>
+  <anchor x="251" y="693" name="top"/>
+  <outline>
+    <component base="K"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>K</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

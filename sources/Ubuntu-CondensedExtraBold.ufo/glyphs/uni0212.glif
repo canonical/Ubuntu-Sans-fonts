@@ -2,11 +2,11 @@
 <glyph name="uni0212" format="2">
   <advance width="544"/>
   <unicode hex="0212"/>
-  <anchor x="272" y="0" name="bottom"/>
-  <anchor x="272" y="693" name="top"/>
+  <anchor x="275" y="0" name="bottom"/>
+  <anchor x="266" y="682" name="top"/>
   <outline>
     <component base="R"/>
-    <component base="breve_inverted" xOffset="106" yOffset="150"/>
+    <component base="breveinvertedcomb" xOffset="106" yOffset="150"/>
   </outline>
   <lib>
     <dict>
@@ -26,7 +26,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>breve_inverted</string>
+          <string>breveinvertedcomb</string>
         </dict>
       </array>
     </dict>

@@ -6,7 +6,7 @@
   <anchor x="277.235" y="693" name="top"/>
   <outline>
     <component base="R"/>
-    <component base="breve_inverted" xOffset="110.586" yOffset="140.343"/>
+    <component base="breveinvertedcomb" xOffset="110.586" yOffset="140.343"/>
   </outline>
   <lib>
     <dict>
@@ -26,7 +26,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>breve_inverted</string>
+          <string>breveinvertedcomb</string>
         </dict>
       </array>
     </dict>

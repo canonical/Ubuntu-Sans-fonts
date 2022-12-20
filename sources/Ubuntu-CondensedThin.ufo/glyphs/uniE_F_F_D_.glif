@@ -3,49 +3,10 @@
   <advance width="1308"/>
   <unicode hex="EFFD"/>
   <outline>
-    <component base="zeroinferior" xScale="2.0" yScale="2.0"/>
-    <component base="period" xScale="2.0" yScale="2.0" xOffset="280"/>
-    <component base="eightinferior" xScale="2.0" yScale="2.0" xOffset="468"/>
-    <component base="sixinferior" xScale="2.0" yScale="2.0" xOffset="748"/>
-    <component base="oneinferior" xScale="2.0" yScale="2.0" xOffset="1028"/>
+    <component base="zerosuperior" yOffset="-309"/>
+    <component base="period" xOffset="280"/>
+    <component base="eightsuperior" xOffset="468" yOffset="-309"/>
+    <component base="sixsuperior" xOffset="748" yOffset="-309"/>
+    <component base="twosuperior" xOffset="1028" yOffset="-309"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>zerosuperior</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>period</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>2</integer>
-          <key>name</key>
-          <string>eightsuperior</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>3</integer>
-          <key>name</key>
-          <string>foursuperior</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

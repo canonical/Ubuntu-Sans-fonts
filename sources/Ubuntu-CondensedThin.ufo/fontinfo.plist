@@ -7,13 +7,11 @@
     <key>capHeight</key>
     <integer>693</integer>
     <key>copyright</key>
-    <string>Copyright 2011 Canonical Ltd. Licensed under the Ubuntu Font Licence 1.0</string>
+    <string>Copyright 2011, 2022 Canonical Ltd. Licensed under the Ubuntu Font Licence 1.0</string>
     <key>descender</key>
     <integer>-185</integer>
     <key>familyName</key>
     <string>Ubuntu</string>
-    <key>guidelines</key>
-    <array/>
     <key>italicAngle</key>
     <integer>0</integer>
     <key>openTypeHeadCreated</key>
@@ -23,7 +21,7 @@
     <key>openTypeHheaDescender</key>
     <integer>-189</integer>
     <key>openTypeHheaLineGap</key>
-    <integer>28</integer>
+    <integer>0</integer>
     <key>openTypeNameDesigner</key>
     <string>Dalton Maag Ltd</string>
     <key>openTypeNameDesignerURL</key>
@@ -46,6 +44,10 @@
       <integer>60</integer>
       <integer>62</integer>
     </array>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
     <key>openTypeOS2StrikeoutPosition</key>
     <integer>250</integer>
     <key>openTypeOS2StrikeoutSize</key>
@@ -53,11 +55,11 @@
     <key>openTypeOS2Type</key>
     <array/>
     <key>openTypeOS2TypoAscender</key>
-    <integer>776</integer>
+    <integer>932</integer>
     <key>openTypeOS2TypoDescender</key>
-    <integer>-185</integer>
+    <integer>-189</integer>
     <key>openTypeOS2TypoLineGap</key>
-    <integer>56</integer>
+    <integer>0</integer>
     <key>openTypeOS2UnicodeRanges</key>
     <array>
       <integer>0</integer>
@@ -84,25 +86,13 @@
     <key>openTypeOS2VendorID</key>
     <string>DAMA</string>
     <key>openTypeOS2WinAscent</key>
-    <integer>932</integer>
+    <integer>1020</integer>
     <key>openTypeOS2WinDescent</key>
-    <integer>189</integer>
+    <integer>221</integer>
     <key>postscriptBlueScale</key>
     <real>0.04</real>
     <key>postscriptBlueShift</key>
     <integer>7</integer>
-    <key>postscriptBlueValues</key>
-    <array/>
-    <key>postscriptFamilyBlues</key>
-    <array/>
-    <key>postscriptFamilyOtherBlues</key>
-    <array/>
-    <key>postscriptOtherBlues</key>
-    <array/>
-    <key>postscriptStemSnapH</key>
-    <array/>
-    <key>postscriptStemSnapV</key>
-    <array/>
     <key>postscriptUnderlinePosition</key>
     <integer>-105</integer>
     <key>postscriptUnderlineThickness</key>
@@ -116,7 +106,7 @@
     <key>versionMajor</key>
     <integer>0</integer>
     <key>versionMinor</key>
-    <integer>861</integer>
+    <integer>862</integer>
     <key>xHeight</key>
     <integer>517</integer>
   </dict>

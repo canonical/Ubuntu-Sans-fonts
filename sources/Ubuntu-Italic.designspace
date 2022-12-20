@@ -2,10 +2,10 @@
 <designspace format="4.1">
   <axes>
     <axis tag="wdth" name="Width" minimum="75" maximum="100" default="100"/>
-    <axis tag="wght" name="Weight" minimum="300" maximum="800" default="300">
+    <axis tag="wght" name="Weight" minimum="300" maximum="800" default="400">
       <!--<map input="100" output="100"/>-->
       <map input="300" output="300"/>
-      <map input="400" output="415"/>
+      <map input="400" output="400"/>
       <map input="500" output="530"/>
       <map input="700" output="700"/>
       <map input="800" output="800"/>
@@ -20,26 +20,26 @@
       </location>
     </source>
     -->
-    <source filename="Ubuntu-LightItalic.ufo" name="Ubuntu Light Italic" familyname="Ubuntu" stylename="Light">
+    <source filename="Ubuntu-Italic.ufo" name="Ubuntu Italic" familyname="Ubuntu" stylename="Italic">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
       <info copy="1"/>
       <location>
         <dimension name="Width" xvalue="100"/>
-        <dimension name="Weight" xvalue="300"/>
+        <dimension name="Weight" xvalue="400"/>
       </location>
     </source>
-    <source filename="Ubuntu-ExtraBoldItalic.ufo" name="Ubuntu Extra Bold Italic" familyname="Ubuntu" stylename="Extra Bold">
+    <source filename="Ubuntu-ExtraBoldItalic.ufo" name="Ubuntu Extra Bold Italic" familyname="Ubuntu" stylename="Extra Bold Italic">
       <location>
         <dimension name="Width" xvalue="100"/>
         <dimension name="Weight" xvalue="800"/>
       </location>
     </source>
-    <source filename="Ubuntu-CondensedLightItalic.ufo" name="Ubuntu Condensed Light Italic" familyname="Ubuntu" stylename="Light">
+    <source filename="Ubuntu-CondensedItalic.ufo" name="Ubuntu Condensed Italic" familyname="Ubuntu" stylename="Condensed Italic">
       <location>
         <dimension name="Width" xvalue="75"/>
-        <dimension name="Weight" xvalue="300"/>
+        <dimension name="Weight" xvalue="400"/>
       </location>
     </source>
     <source filename="Ubuntu-CondensedExtraBoldItalic.ufo" familyname="Ubuntu" stylename="Condensed Extra Bold Italic">
@@ -101,7 +101,7 @@
     >
       <location>
         <dimension name="Width" xvalue="100"/>
-        <dimension name="Weight" xvalue="415"/>
+        <dimension name="Weight" xvalue="400"/>
       </location>
       <kerning/>
       <info/>
@@ -199,7 +199,7 @@
     >
       <location>
         <dimension name="Width" xvalue="75"/>
-        <dimension name="Weight" xvalue="415"/>
+        <dimension name="Weight" xvalue="400"/>
       </location>
       <kerning/>
       <info/>

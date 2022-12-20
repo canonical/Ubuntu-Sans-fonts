@@ -1,7 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_l" format="2">
-  <advance width="556"/>
+  <advance width="566"/>
   <unicode hex="FB02"/>
+  <anchor x="81" y="0" name="bottom_1"/>
+  <anchor x="359" y="0" name="bottom_2"/>
+  <anchor x="283" y="0" name="caret_1"/>
+  <anchor x="268" y="776" name="top_1"/>
+  <anchor x="546" y="776" name="top_2"/>
   <outline>
     <component base="fl"/>
   </outline>

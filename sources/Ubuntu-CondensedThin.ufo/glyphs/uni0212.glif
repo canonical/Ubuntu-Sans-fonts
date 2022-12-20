@@ -3,10 +3,10 @@
   <advance width="476"/>
   <unicode hex="0212"/>
   <anchor x="236" y="0" name="bottom"/>
-  <anchor x="236" y="693" name="top"/>
+  <anchor x="232" y="653" name="top"/>
   <outline>
     <component base="R"/>
-    <component base="breve_inverted" xOffset="64" yOffset="136"/>
+    <component base="breveinvertedcomb" xOffset="64" yOffset="136"/>
   </outline>
   <lib>
     <dict>
@@ -26,7 +26,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>breve_inverted</string>
+          <string>breveinvertedcomb</string>
         </dict>
       </array>
     </dict>
