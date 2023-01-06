@@ -167,16 +167,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni01DD
-	* uni019D
-	* uni0494
-	* uni1F93
-	* Tau
-	* Tbar
-	* omicrontonos
-	* product
-	* Ntilde
-	* uni01F1 and 1014 more.
+	* uni04A5
+	* ordmasculine
+	* uni1F28
+	* zero.sups
+	* Wgrave
+	* uni018E
+	* uni1F0C
+	* uni01DA
+	* alphatonos
+	* uni1F9C.alt and 1014 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -255,16 +255,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni01DD
-	* uni019D
-	* uni0494
-	* uni1F93
-	* Tau
-	* Tbar
-	* omicrontonos
-	* product
-	* Ntilde
-	* uni01F1 and 1015 more.
+	* uni04A5
+	* ordmasculine
+	* uni1F28
+	* zero.sups
+	* Wgrave
+	* uni018E
+	* uni1F0C
+	* uni01DA
+	* alphatonos
+	* uni1F9C.alt and 1015 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -424,16 +424,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni01DD
-	* uni019D
-	* uni0494
-	* uni1F93
-	* Tau
-	* Tbar
-	* omicrontonos
-	* product
-	* Ntilde
-	* uni01F1 and 1021 more.
+	* uni04A5
+	* ordmasculine
+	* uni1F28
+	* zero.sups
+	* Wgrave
+	* uni018E
+	* uni1F0C
+	* uni01DA
+	* alphatonos
+	* uni1F9C.alt and 1021 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -579,16 +579,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni01DD
-	* uni019D
-	* uni0494
-	* uni1F93
-	* Tau
-	* Tbar
-	* omicrontonos
-	* product
-	* Ntilde
-	* uni01F1 and 946 more.
+	* uni04A5
+	* uni1F28
+	* Wgrave
+	* uni018E
+	* uni1F0C
+	* uni01DA
+	* alphatonos
+	* uni1F9C.alt
+	* uni1F00
+	* Igrave and 946 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -761,16 +761,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni01DD
-	* uni019D
-	* uni0494
-	* uni1F93
-	* Tau
-	* Tbar
-	* omicrontonos
-	* product
-	* uni1FEE
-	* Ntilde and 1015 more.
+	* uni04A5
+	* ordmasculine
+	* uni1F28
+	* zero.sups
+	* Wgrave
+	* uni018E
+	* uni1F0C
+	* uni01DA
+	* alphatonos
+	* uni1F9C.alt and 1015 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -844,16 +844,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni01DD
-	* uni019D
-	* uni0494
-	* uni1F93
-	* Tau
-	* Tbar
-	* omicrontonos
-	* product
-	* Ntilde
-	* uni01F1 and 1013 more.
+	* uni04A5
+	* ordmasculine
+	* uni1F28
+	* zero.sups
+	* Wgrave
+	* uni018E
+	* uni1F0C
+	* uni01DA
+	* alphatonos
+	* uni1F9C.alt and 1013 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -927,16 +927,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni01DD
-	* uni019D
-	* uni0494
-	* uni1F93
-	* Tau
-	* Tbar
-	* omicrontonos
-	* product
-	* uni1FEE
-	* Ntilde and 1023 more.
+	* uni04A5
+	* ordmasculine
+	* uni1F28
+	* zero.sups
+	* Wgrave
+	* uni018E
+	* uni1F0C
+	* uni01DA
+	* alphatonos
+	* uni1F9C.alt and 1023 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -1298,16 +1298,16 @@ But got:  "Ubuntu-Condensed" [code: bad-entry]
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni01DD
-	* uni019D
-	* uni0494
-	* uni1F93
-	* Tau
-	* Tbar
-	* omicrontonos
-	* product
-	* uni1FEE
-	* Ntilde and 1027 more.
+	* uni04A5
+	* ordmasculine
+	* uni1F28
+	* zero.sups
+	* Wgrave
+	* uni018E
+	* uni1F0C
+	* uni01DA
+	* alphatonos
+	* uni1F9C.alt and 1027 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Check name table: FULL_FONT_NAME entries. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/fullfontname">com.google.fonts/check/name/fullfontname</a>)</summary><div>
@@ -1853,16 +1853,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni019D
-	* uni0494
-	* uni1F93
-	* product
-	* Ntilde
-	* uni01F1
-	* zero
-	* Amacron
-	* uni1F1D
-	* Racute and 422 more.
+	* uni1F28
+	* Wgrave
+	* uni1F0C
+	* uni01DA
+	* uni1F9C.alt
+	* uni1F00
+	* uni1F7C
+	* omega
+	* uni1F52
+	* uni1F93 and 422 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
