@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_f_i" format="2">
+  <advance width="707.85"/>
+  <unicode hex="FB03"/>
+  <anchor x="237" y="0" name="caret_1"/>
+  <anchor x="471" y="0" name="caret_2"/>
+  <outline>
+    <component base="f"/>
+    <component base="fi" xOffset="258"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>f</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>fi</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
