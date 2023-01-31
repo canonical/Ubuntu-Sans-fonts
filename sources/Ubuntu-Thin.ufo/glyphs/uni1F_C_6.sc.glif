@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FC6.sc" format="2">
+  <advance width="833"/>
+  <anchor x="20" y="575" name="topleft"/>
+  <anchor x="301" y="0" name="bottom"/>
+  <anchor x="301" y="288" name="center"/>
+  <outline>
+    <component base="eta.sc"/>
+    <component base="iota" xOffset="602"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>h.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>iota</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

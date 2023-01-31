@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="afii10110" format="2">
-  <advance width="431"/>
+  <advance width="437"/>
   <unicode hex="045E"/>
-  <anchor x="216" y="0" name="bottom"/>
-  <anchor x="221" y="762" name="top"/>
+  <anchor x="218" y="0" name="bottom"/>
+  <anchor x="246" y="762" name="top"/>
   <outline>
-    <component base="y"/>
-    <component base="brevecomb.cyr" xOffset="67"/>
+    <component base="y" xOffset="2"/>
+    <component base="brevecomb.cyr" xOffset="92"/>
   </outline>
   <lib>
     <dict>

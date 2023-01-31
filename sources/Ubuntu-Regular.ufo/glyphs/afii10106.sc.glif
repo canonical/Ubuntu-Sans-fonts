@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="afii10106.sc" format="2">
+  <advance width="947"/>
+  <outline>
+    <contour>
+      <point x="33" y="-8" type="line"/>
+      <point x="154" y="-3"/>
+      <point x="217" y="74"/>
+      <point x="249" y="170" type="curve" smooth="yes"/>
+      <point x="284" y="274"/>
+      <point x="288" y="395"/>
+      <point x="289" y="518" type="curve"/>
+      <point x="481" y="518" type="line"/>
+      <point x="481" y="11" type="line"/>
+      <point x="527" y="0"/>
+      <point x="592" y="-5"/>
+      <point x="640" y="-5" type="curve" smooth="yes"/>
+      <point x="818" y="-5"/>
+      <point x="903" y="62"/>
+      <point x="903" y="182" type="curve" smooth="yes"/>
+      <point x="903" y="304"/>
+      <point x="812" y="358"/>
+      <point x="639" y="358" type="curve" smooth="yes"/>
+      <point x="615" y="358"/>
+      <point x="576" y="358"/>
+      <point x="557" y="358" type="curve"/>
+      <point x="557" y="581" type="line"/>
+      <point x="216" y="581" type="line"/>
+      <point x="216" y="394"/>
+      <point x="208" y="277"/>
+      <point x="177" y="189" type="curve" smooth="yes"/>
+      <point x="148" y="107"/>
+      <point x="108" y="65"/>
+      <point x="25" y="56" type="curve"/>
+    </contour>
+    <contour>
+      <point x="644" y="58" type="curve" smooth="yes"/>
+      <point x="615" y="58"/>
+      <point x="588" y="60"/>
+      <point x="557" y="64" type="curve"/>
+      <point x="557" y="295" type="line"/>
+      <point x="576" y="295"/>
+      <point x="606" y="295"/>
+      <point x="641" y="295" type="curve" smooth="yes"/>
+      <point x="746" y="295"/>
+      <point x="826" y="275"/>
+      <point x="826" y="182" type="curve" smooth="yes"/>
+      <point x="826" y="83"/>
+      <point x="742" y="58"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>84</integer>
+        <key>weight</key>
+        <integer>-8</integer>
+        <key>width</key>
+        <integer>89</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>afii10077.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>afii10094.sc</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1F86.sc" format="2">
+  <advance width="685"/>
+  <anchor x="392" y="-190" name="bottom"/>
+  <anchor x="626" y="10" name="ogonek"/>
+  <anchor x="312" y="580" name="topleft"/>
+  <outline>
+    <component base="alpha.sc" xOffset="98"/>
+    <component base="uni1FCF.sc"/>
+    <component base="uni1FBE.sc" xOffset="392"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>alpha.sc</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>psiliperispomeni.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>a.sc</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

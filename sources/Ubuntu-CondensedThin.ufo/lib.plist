@@ -13,8 +13,32 @@
         <true/>
       </dict>
     </array>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.kgreenlandic.sc</key>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>kgreenlandic.case</string>
+      </dict>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.napostrophe.sc</key>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>napostrophe.case</string>
+      </dict>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.uni2120</key>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>M</string>
+      </dict>
+    </dict>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>3149</string>
+    <string>3151</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Export Mac Name Table Entries</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.customParameter.GSFont.Guides Palette Config</key>
@@ -59,7 +83,7 @@
     <key>com.schriftgestaltung.fontMasterID</key>
     <string>BF2BC0A6-700A-48E4-B392-4C8F5BB8CF89</string>
     <key>com.schriftgestaltung.fontMasterOrder</key>
-    <integer>4</integer>
+    <integer>3</integer>
     <key>com.schriftgestaltung.keyboardIncrement</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.weight</key>
@@ -1455,102 +1479,196 @@
       <string>uni040E</string>
       <key>afii10065</key>
       <string>uni0430</string>
+      <key>afii10065.sc</key>
+      <string>uni0430.sc</string>
       <key>afii10066</key>
       <string>uni0431</string>
       <key>afii10066.locl</key>
       <string>uni0431.locl</string>
+      <key>afii10066.sc</key>
+      <string>uni0431.sc</string>
       <key>afii10067</key>
       <string>uni0432</string>
+      <key>afii10067.sc</key>
+      <string>uni0432.sc</string>
       <key>afii10068</key>
       <string>uni0433</string>
+      <key>afii10068.sc</key>
+      <string>uni0433.sc</string>
       <key>afii10069</key>
       <string>uni0434</string>
+      <key>afii10069.sc</key>
+      <string>uni0434.sc</string>
       <key>afii10070</key>
       <string>uni0435</string>
+      <key>afii10070.sc</key>
+      <string>uni0435.sc</string>
       <key>afii10071</key>
       <string>uni0451</string>
+      <key>afii10071.sc</key>
+      <string>uni0451.sc</string>
       <key>afii10072</key>
       <string>uni0436</string>
+      <key>afii10072.sc</key>
+      <string>uni0436.sc</string>
       <key>afii10073</key>
       <string>uni0437</string>
+      <key>afii10073.sc</key>
+      <string>uni0437.sc</string>
       <key>afii10074</key>
       <string>uni0438</string>
+      <key>afii10074.sc</key>
+      <string>uni0438.sc</string>
       <key>afii10075</key>
       <string>uni0439</string>
+      <key>afii10075.sc</key>
+      <string>uni0439.sc</string>
       <key>afii10076</key>
       <string>uni043A</string>
+      <key>afii10076.sc</key>
+      <string>uni043A.sc</string>
       <key>afii10077</key>
       <string>uni043B</string>
+      <key>afii10077.sc</key>
+      <string>uni043B.sc</string>
       <key>afii10078</key>
       <string>uni043C</string>
+      <key>afii10078.sc</key>
+      <string>uni043C.sc</string>
       <key>afii10079</key>
       <string>uni043D</string>
+      <key>afii10079.sc</key>
+      <string>uni043D.sc</string>
       <key>afii10080</key>
       <string>uni043E</string>
+      <key>afii10080.sc</key>
+      <string>uni043E.sc</string>
       <key>afii10081</key>
       <string>uni043F</string>
+      <key>afii10081.sc</key>
+      <string>uni043F.sc</string>
       <key>afii10082</key>
       <string>uni0440</string>
+      <key>afii10082.sc</key>
+      <string>uni0440.sc</string>
       <key>afii10083</key>
       <string>uni0441</string>
+      <key>afii10083.sc</key>
+      <string>uni0441.sc</string>
       <key>afii10084</key>
       <string>uni0442</string>
+      <key>afii10084.sc</key>
+      <string>uni0442.sc</string>
       <key>afii10085</key>
       <string>uni0443</string>
+      <key>afii10085.sc</key>
+      <string>uni0443.sc</string>
       <key>afii10086</key>
       <string>uni0444</string>
+      <key>afii10086.sc</key>
+      <string>uni0444.sc</string>
       <key>afii10087</key>
       <string>uni0445</string>
+      <key>afii10087.sc</key>
+      <string>uni0445.sc</string>
       <key>afii10088</key>
       <string>uni0446</string>
+      <key>afii10088.sc</key>
+      <string>uni0446.sc</string>
       <key>afii10089</key>
       <string>uni0447</string>
+      <key>afii10089.sc</key>
+      <string>uni0447.sc</string>
       <key>afii10090</key>
       <string>uni0448</string>
+      <key>afii10090.sc</key>
+      <string>uni0448.sc</string>
       <key>afii10091</key>
       <string>uni0449</string>
+      <key>afii10091.sc</key>
+      <string>uni0449.sc</string>
       <key>afii10092</key>
       <string>uni044A</string>
+      <key>afii10092.sc</key>
+      <string>uni044A.sc</string>
       <key>afii10093</key>
       <string>uni044B</string>
+      <key>afii10093.sc</key>
+      <string>uni044B.sc</string>
       <key>afii10094</key>
       <string>uni044C</string>
+      <key>afii10094.sc</key>
+      <string>uni044C.sc</string>
       <key>afii10095</key>
       <string>uni044D</string>
+      <key>afii10095.sc</key>
+      <string>uni044D.sc</string>
       <key>afii10096</key>
       <string>uni044E</string>
+      <key>afii10096.sc</key>
+      <string>uni044E.sc</string>
       <key>afii10097</key>
       <string>uni044F</string>
+      <key>afii10097.sc</key>
+      <string>uni044F.sc</string>
       <key>afii10098</key>
       <string>uni0491</string>
+      <key>afii10098.sc</key>
+      <string>uni0491.sc</string>
       <key>afii10099</key>
       <string>uni0452</string>
+      <key>afii10099.sc</key>
+      <string>uni0452.sc</string>
       <key>afii10100</key>
       <string>uni0453</string>
+      <key>afii10100.sc</key>
+      <string>uni0453.sc</string>
       <key>afii10101</key>
       <string>uni0454</string>
+      <key>afii10101.sc</key>
+      <string>uni0454.sc</string>
       <key>afii10102</key>
       <string>uni0455</string>
+      <key>afii10102.sc</key>
+      <string>uni0455.sc</string>
       <key>afii10103</key>
       <string>uni0456</string>
+      <key>afii10103.sc</key>
+      <string>uni0456.sc</string>
       <key>afii10104</key>
       <string>uni0457</string>
+      <key>afii10104.sc</key>
+      <string>uni0457.sc</string>
       <key>afii10105</key>
       <string>uni0458</string>
+      <key>afii10105.sc</key>
+      <string>uni0458.sc</string>
       <key>afii10106</key>
       <string>uni0459</string>
+      <key>afii10106.sc</key>
+      <string>uni0459.sc</string>
       <key>afii10107</key>
       <string>uni045A</string>
+      <key>afii10107.sc</key>
+      <string>uni045A.sc</string>
       <key>afii10108</key>
       <string>uni045B</string>
+      <key>afii10108.sc</key>
+      <string>uni045B.sc</string>
       <key>afii10109</key>
       <string>uni045C</string>
+      <key>afii10109.sc</key>
+      <string>uni045C.sc</string>
       <key>afii10110</key>
       <string>uni045E</string>
+      <key>afii10110.sc</key>
+      <string>uni045E.sc</string>
       <key>afii10145</key>
       <string>uni040F</string>
       <key>afii10193</key>
       <string>uni045F</string>
+      <key>afii10193.sc</key>
+      <string>uni045F.sc</string>
       <key>afii61289</key>
       <string>uni2113</string>
       <key>afii61352</key>
@@ -1559,28 +1677,46 @@
       <string>uni0306</string>
       <key>brevecomb.cyr</key>
       <string>uni0306.cyr</string>
+      <key>brevecomb.cyr.sc</key>
+      <string>uni0306.cyr.sc</string>
+      <key>brevecomb.sc</key>
+      <string>uni0306.sc</string>
       <key>breveinvertedcomb</key>
       <string>uni0311</string>
+      <key>breveinvertedcomb.sc</key>
+      <string>uni0311.sc</string>
       <key>caroncomb</key>
       <string>uni030C</string>
       <key>caroncomb.alt</key>
       <string>uni030C.alt</string>
+      <key>caroncomb.alt.sc</key>
+      <string>uni030C.alt.sc</string>
+      <key>caroncomb.sc</key>
+      <string>uni030C.sc</string>
       <key>cedillacomb</key>
       <string>uni0327</string>
       <key>circumflexcomb</key>
       <string>uni0302</string>
-      <key>commaaccent</key>
-      <string>uni0326</string>
+      <key>circumflexcomb.sc</key>
+      <string>uni0302.sc</string>
       <key>commaaccentcomb</key>
       <string>uni0326</string>
+      <key>commaaccentcomb.sc</key>
+      <string>uni0326.sc</string>
       <key>commaturnedabovecomb</key>
       <string>uni0312</string>
       <key>dieresiscomb</key>
       <string>uni0308</string>
+      <key>dieresiscomb.sc</key>
+      <string>uni0308.sc</string>
       <key>dotaccentcomb</key>
       <string>uni0307</string>
+      <key>dotaccentcomb.sc</key>
+      <string>uni0307.sc</string>
       <key>dotlessj</key>
       <string>uni0237</string>
+      <key>dotlessj.sc</key>
+      <string>uni0237.sc</string>
       <key>eightinferior</key>
       <string>uni2088</string>
       <key>eightninths</key>
@@ -1609,18 +1745,30 @@
       <string>uni2074</string>
       <key>gcommaaccent</key>
       <string>uni0123</string>
+      <key>gcommaaccent.sc</key>
+      <string>uni0123.sc</string>
       <key>hungarumlautcomb</key>
       <string>uni030B</string>
+      <key>hungarumlautcomb.sc</key>
+      <string>uni030B.sc</string>
       <key>kcommaaccent</key>
       <string>uni0137</string>
+      <key>kcommaaccent.sc</key>
+      <string>uni0137.sc</string>
       <key>lcommaaccent</key>
       <string>uni013C</string>
+      <key>lcommaaccent.sc</key>
+      <string>uni013C.sc</string>
       <key>macroncomb</key>
       <string>uni0304</string>
+      <key>macroncomb.sc</key>
+      <string>uni0304.sc</string>
       <key>mu</key>
       <string>uni03BC</string>
       <key>ncommaaccent</key>
       <string>uni0146</string>
+      <key>ncommaaccent.sc</key>
+      <string>uni0146.sc</string>
       <key>nineinferior</key>
       <string>uni2089</string>
       <key>ninesuperior</key>
@@ -1643,10 +1791,16 @@
       <string>uni2153</string>
       <key>rcommaaccent</key>
       <string>uni0157</string>
+      <key>rcommaaccent.sc</key>
+      <string>uni0157.sc</string>
       <key>ringcomb</key>
       <string>uni030A</string>
+      <key>ringcomb.sc</key>
+      <string>uni030A.sc</string>
       <key>scommaaccent</key>
       <string>uni0219</string>
+      <key>scommaaccent.sc</key>
+      <string>uni0219.sc</string>
       <key>seveninferior</key>
       <string>uni2087</string>
       <key>sevenninths</key>
@@ -1688,5 +1842,11 @@
       <key>zerosuperior</key>
       <string>uni2070</string>
     </dict>
+    <key>public.skipExportGlyphs</key>
+    <array>
+      <string>ubuntu</string>
+      <string>uniE0FF</string>
+      <string>uniF0FF</string>
+    </array>
   </dict>
 </plist>

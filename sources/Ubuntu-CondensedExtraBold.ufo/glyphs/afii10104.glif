@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="afii10104" format="2">
-  <advance width="276"/>
+  <advance width="248"/>
   <unicode hex="0457"/>
-  <anchor x="138" y="0" name="bottom"/>
-  <anchor x="248" y="10" name="ogonek"/>
-  <anchor x="138" y="532" name="top"/>
+  <anchor x="182" y="0" name="bottom"/>
+  <anchor x="292" y="10" name="ogonek"/>
+  <anchor x="182" y="532" name="top"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="dieresis" xOffset="-65"/>
+    <component base="dotlessi" xOffset="44"/>
+    <component base="dieresis" xOffset="-83"/>
   </outline>
   <lib>
     <dict>

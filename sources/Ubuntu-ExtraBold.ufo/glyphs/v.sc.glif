@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="v.sc" format="2">
+  <advance width="659"/>
+  <anchor x="330" y="0" name="bottom"/>
+  <anchor x="330" y="589" name="top"/>
+  <outline>
+    <contour>
+      <point x="256" y="0" type="curve"/>
+      <point x="403" y="0" type="line"/>
+      <point x="501" y="204"/>
+      <point x="602" y="477"/>
+      <point x="644" y="589" type="curve"/>
+      <point x="482" y="589" type="line"/>
+      <point x="441" y="471"/>
+      <point x="370" y="268"/>
+      <point x="332" y="179" type="curve"/>
+      <point x="292" y="267"/>
+      <point x="231" y="449"/>
+      <point x="182" y="589" type="curve"/>
+      <point x="15" y="589" type="line"/>
+      <point x="59" y="465"/>
+      <point x="158" y="203"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>85</integer>
+        <key>weight</key>
+        <integer>-11</integer>
+        <key>width</key>
+        <integer>87</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

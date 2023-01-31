@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni049D.sc" format="2">
+  <advance width="622"/>
+  <outline>
+    <contour>
+      <point x="86" y="0" type="line"/>
+      <point x="162" y="0" type="line"/>
+      <point x="162" y="273" type="line"/>
+      <point x="222" y="273" type="line"/>
+      <point x="222" y="143" type="line"/>
+      <point x="279" y="143" type="line"/>
+      <point x="279" y="273" type="line"/>
+      <point x="352" y="213"/>
+      <point x="461" y="91"/>
+      <point x="514" y="0" type="curve"/>
+      <point x="599" y="0" type="line"/>
+      <point x="538" y="110"/>
+      <point x="435" y="229"/>
+      <point x="340" y="310" type="curve"/>
+      <point x="437" y="411"/>
+      <point x="534" y="515"/>
+      <point x="586" y="580" type="curve"/>
+      <point x="498" y="580" type="line"/>
+      <point x="456" y="526"/>
+      <point x="377" y="437"/>
+      <point x="279" y="331" type="curve"/>
+      <point x="279" y="457" type="line"/>
+      <point x="222" y="457" type="line"/>
+      <point x="222" y="331" type="line"/>
+      <point x="162" y="331" type="line"/>
+      <point x="162" y="580" type="line"/>
+      <point x="86" y="580" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>84</integer>
+        <key>weight</key>
+        <integer>-8</integer>
+        <key>width</key>
+        <integer>89</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>h.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>k.sc</string>
+    </dict>
+  </lib>
+</glyph>

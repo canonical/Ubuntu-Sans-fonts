@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0233.sc" format="2">
+  <advance width="525"/>
+  <anchor x="263" y="0" name="bottom"/>
+  <anchor x="263" y="745" name="top"/>
+  <anchor x="20" y="580" name="topleft"/>
+  <outline>
+    <component base="y.sc"/>
+    <component base="macroncomb.sc" xOffset="263"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>y.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>y.sc</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

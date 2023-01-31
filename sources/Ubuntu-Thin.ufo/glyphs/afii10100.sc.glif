@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="afii10100.sc" format="2">
+  <advance width="414"/>
+  <anchor x="394" y="0" name="bottomright"/>
+  <anchor x="237" y="793" name="top"/>
+  <outline>
+    <component base="afii10068.sc"/>
+    <component base="acutecomb.sc" xOffset="237"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>h.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>afii10020.c2sc</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

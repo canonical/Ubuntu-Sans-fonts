@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcaron.sc" format="2">
+  <advance width="612"/>
+  <anchor x="306" y="0" name="bottom"/>
+  <anchor x="306" y="288" name="center"/>
+  <anchor x="274" y="781" name="top"/>
+  <outline>
+    <component base="d.sc"/>
+    <component base="caroncomb.sc" xOffset="274"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>h.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>o.sc</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -4,10 +4,6 @@
   <dict>
     <key>Agrave</key>
     <string>A_grave.glif</string>
-    <key>Guillemotleft</key>
-    <string>G_uillemotleft.glif</string>
-    <key>Guillemotright</key>
-    <string>G_uillemotright.glif</string>
     <key>Iotatonos</key>
     <string>I_otatonos.glif</string>
     <key>Phi</key>
@@ -116,6 +112,8 @@
     <string>beta.glif</string>
     <key>brevecomb.cyr</key>
     <string>brevecomb.cyr.glif</string>
+    <key>brevecomb.cyr.sc</key>
+    <string>brevecomb.cyr.sc.glif</string>
     <key>chi</key>
     <string>chi.glif</string>
     <key>delta</key>
@@ -140,6 +138,10 @@
     <string>gamma.glif</string>
     <key>germandbls</key>
     <string>germandbls.glif</string>
+    <key>guillemotleft.case</key>
+    <string>guillemotleft.case.glif</string>
+    <key>guillemotright.case</key>
+    <string>guillemotright.case.glif</string>
     <key>infinity</key>
     <string>infinity.glif</string>
     <key>iota</key>
@@ -204,6 +206,8 @@
     <string>tonos.glif</string>
     <key>tonos.cap</key>
     <string>tonos.cap.glif</string>
+    <key>tonos.sc</key>
+    <string>tonos.sc.glif</string>
     <key>twosuperior</key>
     <string>twosuperior.glif</string>
     <key>uni0180</key>
@@ -700,6 +704,8 @@
     <string>uni1F_B_C_.alt.glif</string>
     <key>uni1FBF</key>
     <string>uni1F_B_F_.glif</string>
+    <key>uni1FBF.sc</key>
+    <string>uni1F_B_F_.sc.glif</string>
     <key>uni1FC0</key>
     <string>uni1F_C_0.glif</string>
     <key>uni1FC4</key>
@@ -716,18 +722,30 @@
     <string>uni1F_C_C_.alt.glif</string>
     <key>uni1FCD</key>
     <string>uni1F_C_D_.glif</string>
+    <key>uni1FCD.sc</key>
+    <string>uni1F_C_D_.sc.glif</string>
     <key>uni1FCE</key>
     <string>uni1F_C_E_.glif</string>
+    <key>uni1FCE.sc</key>
+    <string>uni1F_C_E_.sc.glif</string>
     <key>uni1FCF</key>
     <string>uni1F_C_F_.glif</string>
+    <key>uni1FCF.sc</key>
+    <string>uni1F_C_F_.sc.glif</string>
     <key>uni1FDB</key>
     <string>uni1F_D_B_.glif</string>
     <key>uni1FDD</key>
     <string>uni1F_D_D_.glif</string>
+    <key>uni1FDD.sc</key>
+    <string>uni1F_D_D_.sc.glif</string>
     <key>uni1FDE</key>
     <string>uni1F_D_E_.glif</string>
+    <key>uni1FDE.sc</key>
+    <string>uni1F_D_E_.sc.glif</string>
     <key>uni1FDF</key>
     <string>uni1F_D_F_.glif</string>
+    <key>uni1FDF.sc</key>
+    <string>uni1F_D_F_.sc.glif</string>
     <key>uni1FEC</key>
     <string>uni1F_E_C_.glif</string>
     <key>uni1FEE</key>
@@ -750,6 +768,8 @@
     <string>uni1F_F_D_.glif</string>
     <key>uni1FFE</key>
     <string>uni1F_F_E_.glif</string>
+    <key>uni1FFE.sc</key>
+    <string>uni1F_F_E_.sc.glif</string>
     <key>uni20AE</key>
     <string>uni20A_E_.glif</string>
     <key>uni20B4</key>

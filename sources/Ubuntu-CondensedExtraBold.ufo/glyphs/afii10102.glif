@@ -1,25 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="afii10102" format="2">
-  <advance width="376"/>
+  <advance width="392"/>
   <unicode hex="0455"/>
-  <anchor x="188" y="0" name="bottom"/>
-  <anchor x="188" y="527" name="top"/>
+  <anchor x="191" y="0" name="bottom"/>
+  <anchor x="191" y="527" name="top"/>
   <outline>
-    <component base="s"/>
+    <component base="s" xOffset="3"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>s</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

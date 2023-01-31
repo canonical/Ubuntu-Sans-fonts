@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04AF.sc" format="2">
+  <advance width="544"/>
+  <outline>
+    <contour>
+      <point x="235" y="0" type="line"/>
+      <point x="311" y="0" type="line"/>
+      <point x="311" y="236" type="line"/>
+      <point x="378" y="334"/>
+      <point x="437" y="428"/>
+      <point x="525" y="580" type="curve"/>
+      <point x="443" y="580" type="line"/>
+      <point x="393" y="485"/>
+      <point x="336" y="391"/>
+      <point x="274" y="300" type="curve"/>
+      <point x="212" y="389"/>
+      <point x="154" y="486"/>
+      <point x="106" y="580" type="curve"/>
+      <point x="19" y="580" type="line"/>
+      <point x="78" y="474"/>
+      <point x="149" y="360"/>
+      <point x="235" y="235" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>84</integer>
+        <key>weight</key>
+        <integer>-8</integer>
+        <key>width</key>
+        <integer>89</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>y.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>y.sc</string>
+    </dict>
+  </lib>
+</glyph>

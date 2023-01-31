@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lacute.sc" format="2">
+  <advance width="465"/>
+  <anchor x="252" y="0" name="bottom"/>
+  <anchor x="162" y="290" name="center"/>
+  <anchor x="124" y="818" name="top"/>
+  <anchor x="162" y="580" name="topright"/>
+  <outline>
+    <component base="l.sc"/>
+    <component base="acutecomb.sc" xOffset="124"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>l.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>l.sc</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

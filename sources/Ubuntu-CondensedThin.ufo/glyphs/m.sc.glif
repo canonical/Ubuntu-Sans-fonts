@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="m.sc" format="2">
+  <advance width="749"/>
+  <anchor x="375" y="0" name="bottom"/>
+  <anchor x="375" y="575" name="top"/>
+  <outline>
+    <contour>
+      <point x="79" y="0" type="curve"/>
+      <point x="114" y="0" type="line"/>
+      <point x="121" y="199"/>
+      <point x="131" y="362"/>
+      <point x="146" y="519" type="curve"/>
+      <point x="202" y="412"/>
+      <point x="303" y="209"/>
+      <point x="355" y="86" type="curve"/>
+      <point x="391" y="86" type="line"/>
+      <point x="460" y="233"/>
+      <point x="537" y="395"/>
+      <point x="603" y="516" type="curve"/>
+      <point x="619" y="371"/>
+      <point x="627" y="200"/>
+      <point x="635" y="0" type="curve"/>
+      <point x="670" y="0" type="line"/>
+      <point x="661" y="217"/>
+      <point x="648" y="419"/>
+      <point x="630" y="575" type="curve"/>
+      <point x="604" y="575" type="line"/>
+      <point x="532" y="458"/>
+      <point x="451" y="294"/>
+      <point x="375" y="121" type="curve"/>
+      <point x="312" y="260"/>
+      <point x="222" y="451"/>
+      <point x="147" y="575" type="curve"/>
+      <point x="119" y="575" type="line"/>
+      <point x="99" y="396"/>
+      <point x="91" y="243"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>83</integer>
+        <key>weight</key>
+        <integer>4</integer>
+        <key>width</key>
+        <real>84.5</real>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

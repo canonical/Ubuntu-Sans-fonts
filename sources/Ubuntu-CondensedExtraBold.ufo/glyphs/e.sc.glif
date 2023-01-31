@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="e.sc" format="2">
+  <advance width="550"/>
+  <anchor x="275" y="0" name="bottom"/>
+  <anchor x="495" y="10" name="ogonek"/>
+  <anchor x="281" y="589" name="top"/>
+  <anchor x="20" y="589" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="74" y="0" type="line"/>
+      <point x="514" y="0" type="line"/>
+      <point x="514" y="127" type="line"/>
+      <point x="226" y="127" type="line"/>
+      <point x="226" y="245" type="line"/>
+      <point x="464" y="245" type="line"/>
+      <point x="464" y="369" type="line"/>
+      <point x="226" y="369" type="line"/>
+      <point x="226" y="462" type="line"/>
+      <point x="494" y="462" type="line"/>
+      <point x="494" y="589" type="line"/>
+      <point x="74" y="589" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>85</integer>
+        <key>weight</key>
+        <integer>-11</integer>
+        <key>width</key>
+        <integer>87</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>h.sc</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

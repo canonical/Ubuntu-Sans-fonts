@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcommaaccent.sc" format="2">
+  <advance width="437"/>
+  <anchor x="229" y="-182" name="bottom"/>
+  <anchor x="126" y="288" name="center"/>
+  <anchor x="109" y="575" name="top"/>
+  <anchor x="126" y="575" name="topright"/>
+  <outline>
+    <component base="l.sc"/>
+    <component base="commaaccentcomb.sc" xOffset="229"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>h.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>l.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>l.sc</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FDF.sc" format="2">
+  <advance width="374"/>
+  <anchor x="375" y="589" name="_topleft"/>
+  <outline>
+    <contour>
+      <point x="-7" y="534" type="curve"/>
+      <point x="70" y="534" type="line"/>
+      <point x="73" y="586"/>
+      <point x="114" y="607"/>
+      <point x="150" y="607" type="curve" smooth="yes"/>
+      <point x="186" y="607"/>
+      <point x="227" y="586"/>
+      <point x="230" y="534" type="curve"/>
+      <point x="307" y="534" type="line"/>
+      <point x="302" y="645"/>
+      <point x="231" y="692"/>
+      <point x="150" y="692" type="curve" smooth="yes"/>
+      <point x="69" y="692"/>
+      <point x="-2" y="645"/>
+    </contour>
+    <contour>
+      <point x="190" y="350" type="curve"/>
+      <point x="227" y="392" type="line"/>
+      <point x="211" y="405"/>
+      <point x="191" y="422"/>
+      <point x="178" y="437" type="curve"/>
+      <point x="203" y="448"/>
+      <point x="210" y="468"/>
+      <point x="210" y="487" type="curve" smooth="yes"/>
+      <point x="210" y="514"/>
+      <point x="191" y="539"/>
+      <point x="152" y="539" type="curve" smooth="yes"/>
+      <point x="121" y="539"/>
+      <point x="91" y="520"/>
+      <point x="91" y="480" type="curve" smooth="yes"/>
+      <point x="91" y="444"/>
+      <point x="108" y="408"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>psiliperispomeni.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>psiliperispomeni.sc</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

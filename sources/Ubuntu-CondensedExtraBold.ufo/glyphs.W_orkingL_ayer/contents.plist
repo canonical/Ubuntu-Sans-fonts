@@ -14,10 +14,6 @@
     <string>E_ogonek.glif</string>
     <key>Eth</key>
     <string>E_th.glif</string>
-    <key>Guillemotleft</key>
-    <string>G_uillemotleft.glif</string>
-    <key>Guillemotright</key>
-    <string>G_uillemotright.glif</string>
     <key>Hbar</key>
     <string>H_bar.glif</string>
     <key>Iogonek</key>
@@ -144,6 +140,10 @@
     <string>gamma.glif</string>
     <key>germandbls</key>
     <string>germandbls.glif</string>
+    <key>guillemotleft.case</key>
+    <string>guillemotleft.case.glif</string>
+    <key>guillemotright.case</key>
+    <string>guillemotright.case.glif</string>
     <key>hbar</key>
     <string>hbar.glif</string>
     <key>iogonek</key>
@@ -386,6 +386,8 @@
     <string>uni1F_B_4.glif</string>
     <key>uni1FBF</key>
     <string>uni1F_B_F_.glif</string>
+    <key>uni1FBF.sc</key>
+    <string>uni1F_B_F_.sc.glif</string>
     <key>uni1FC0</key>
     <string>uni1F_C_0.glif</string>
     <key>uni1FC1</key>
@@ -396,14 +398,24 @@
     <string>uni1F_C_B_.glif</string>
     <key>uni1FCE</key>
     <string>uni1F_C_E_.glif</string>
+    <key>uni1FCE.sc</key>
+    <string>uni1F_C_E_.sc.glif</string>
     <key>uni1FCF</key>
     <string>uni1F_C_F_.glif</string>
+    <key>uni1FCF.sc</key>
+    <string>uni1F_C_F_.sc.glif</string>
     <key>uni1FDD</key>
     <string>uni1F_D_D_.glif</string>
+    <key>uni1FDD.sc</key>
+    <string>uni1F_D_D_.sc.glif</string>
     <key>uni1FDE</key>
     <string>uni1F_D_E_.glif</string>
+    <key>uni1FDE.sc</key>
+    <string>uni1F_D_E_.sc.glif</string>
     <key>uni1FDF</key>
     <string>uni1F_D_F_.glif</string>
+    <key>uni1FDF.sc</key>
+    <string>uni1F_D_F_.sc.glif</string>
     <key>uni1FED</key>
     <string>uni1F_E_D_.glif</string>
     <key>uni1FEF</key>
@@ -412,6 +424,8 @@
     <string>uni1F_F_D_.glif</string>
     <key>uni1FFE</key>
     <string>uni1F_F_E_.glif</string>
+    <key>uni1FFE.sc</key>
+    <string>uni1F_F_E_.sc.glif</string>
     <key>uni20B4</key>
     <string>uni20B_4.glif</string>
     <key>uogonek</key>

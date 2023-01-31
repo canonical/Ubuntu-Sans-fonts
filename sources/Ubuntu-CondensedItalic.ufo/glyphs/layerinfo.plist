@@ -38,25 +38,11 @@
       <integer>6</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Aringacute</key>
       <integer>6</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.At</key>
-      <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Atilde</key>
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.B</key>
       <integer>6</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.Backslash</key>
-      <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Beta</key>
-      <integer>5</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.Braceleft</key>
-      <integer>5</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.Braceright</key>
-      <integer>5</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.Bracketleft</key>
-      <integer>5</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.Bracketright</key>
-      <integer>5</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.Bullet</key>
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.C</key>
       <integer>7</integer>
@@ -98,10 +84,6 @@
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Emacron</key>
       <integer>5</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.Emdash</key>
-      <integer>5</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.Endash</key>
-      <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Eng</key>
       <integer>7</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Eogonek</key>
@@ -118,8 +100,6 @@
       <integer>7</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Euro</key>
       <integer>7</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.Exclamdown</key>
-      <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.F</key>
       <integer>6</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.G</key>
@@ -136,21 +116,11 @@
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Gdotaccent</key>
       <integer>5</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.Guillemotleft</key>
-      <integer>5</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.Guillemotright</key>
-      <integer>5</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.Guilsinglleft</key>
-      <integer>5</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.Guilsinglright</key>
-      <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.H</key>
       <integer>6</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Hbar</key>
       <integer>6</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Hcircumflex</key>
-      <integer>5</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.Hyphen</key>
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.I</key>
       <integer>5</integer>
@@ -256,10 +226,6 @@
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.P</key>
       <integer>7</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.Parenleft</key>
-      <integer>5</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.Parenright</key>
-      <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Phi</key>
       <integer>6</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Pi</key>
@@ -268,8 +234,6 @@
       <integer>6</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Q</key>
       <integer>6</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.Questiondown</key>
-      <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.R</key>
       <integer>6</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Racute</key>
@@ -294,8 +258,6 @@
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Sigma</key>
       <integer>6</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.Slash</key>
-      <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.T</key>
       <integer>6</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Tau</key>
@@ -628,23 +590,35 @@
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.at</key>
       <integer>6</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.at.case</key>
+      <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.atilde</key>
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.b</key>
       <integer>7</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.backslash</key>
       <integer>6</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.backslash.case</key>
+      <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.bar</key>
       <integer>6</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.beta</key>
       <integer>6</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.braceleft</key>
       <integer>6</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.braceleft.case</key>
+      <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.braceright</key>
       <integer>6</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.braceright.case</key>
+      <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.bracketleft</key>
       <integer>6</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.bracketleft.case</key>
+      <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.bracketright</key>
+      <integer>5</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.bracketright.case</key>
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.breve</key>
       <integer>5</integer>
@@ -657,6 +631,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.brokenbar</key>
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.bullet</key>
+      <integer>5</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.bullet.case</key>
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.c</key>
       <integer>7</integer>
@@ -700,10 +676,8 @@
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.comma</key>
       <integer>6</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.commaaccent</key>
-      <integer>6</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.commaaccentcomb</key>
-      <integer>9</integer>
+      <integer>6</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.commaturnedabovecomb</key>
       <integer>7</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.copyright</key>
@@ -796,7 +770,11 @@
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.emdash</key>
       <integer>5</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.emdash.case</key>
+      <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.endash</key>
+      <integer>5</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.endash.case</key>
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.eng</key>
       <integer>6</integer>
@@ -819,6 +797,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.exclam</key>
       <integer>6</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.exclamdown</key>
+      <integer>5</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.exclamdown.case</key>
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.f</key>
       <integer>6</integer>
@@ -904,11 +884,19 @@
       <integer>6</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.guillemotleft</key>
       <integer>5</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.guillemotleft.case</key>
+      <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.guillemotright</key>
+      <integer>5</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.guillemotright.case</key>
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.guilsinglleft</key>
       <integer>5</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.guilsinglleft.case</key>
+      <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.guilsinglright</key>
+      <integer>5</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.guilsinglright.case</key>
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.h</key>
       <integer>6</integer>
@@ -921,6 +909,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.hungarumlautcomb</key>
       <integer>7</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.hyphen</key>
+      <integer>5</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.hyphen.case</key>
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.i</key>
       <integer>6</integer>
@@ -1116,7 +1106,11 @@
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.parenleft</key>
       <integer>6</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.parenleft.case</key>
+      <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.parenright</key>
+      <integer>5</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.parenright.case</key>
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.partialdiff</key>
       <integer>6</integer>
@@ -1145,6 +1139,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.question</key>
       <integer>6</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.questiondown</key>
+      <integer>5</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.questiondown.case</key>
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.quotedbl</key>
       <integer>6</integer>
@@ -1238,6 +1234,8 @@
       <integer>6</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.slash</key>
       <integer>6</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.slash.case</key>
+      <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.space</key>
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.sterling</key>
@@ -2503,6 +2501,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.uni2215</key>
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.uni2219</key>
+      <integer>5</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.uni25CC</key>
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.uniF000</key>
       <integer>4</integer>

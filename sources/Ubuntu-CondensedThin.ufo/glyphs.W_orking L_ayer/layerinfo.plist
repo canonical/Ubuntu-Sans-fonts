@@ -5,7 +5,7 @@
     <key>lib</key>
     <dict>
       <key>com.schriftgestaltung.layerId</key>
-      <string>7D5EADFF-D20A-403C-ABBA-E0CD9290D868</string>
+      <string>643CF5EE-2D26-4E77-ADD2-07F437975453</string>
       <key>com.schriftgestaltung.layerOrderInGlyph.AE</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Aacute</key>
@@ -63,6 +63,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.Wacute</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.acute.asc</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.acute_greek.sc</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ae</key>
       <integer>4</integer>
@@ -122,8 +124,6 @@
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.circumflex.asc</key>
       <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.commaaccent</key>
-      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.copyright</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.currency</key>
@@ -140,17 +140,25 @@
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dieresis_breve.cap</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dieresis_breve.sc</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dieresis_grave</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dieresis_grave.cap</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dieresis_macron</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dieresis_macron.sc</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dot_macron</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dot_macron.sc</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dotaccent</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.double_grave</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.double_grave.sc</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.eng</key>
       <integer>4</integer>
@@ -167,6 +175,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.germandbls</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.grave</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.grave_greek.sc</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.guillemotright</key>
       <integer>4</integer>
@@ -243,6 +253,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.tilde</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.tilde_macron</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.tilde_macron.sc</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.trademark</key>
       <integer>4</integer>
@@ -354,18 +366,28 @@
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.uni1FBE</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.uni1FBE.sc</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.uni1FC1</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.uni1FCE</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.uni1FCE.sc</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.uni1FCF</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.uni1FCF.sc</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.uni1FDD</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.uni1FDD.sc</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.uni20AE</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.uni20B9</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.uni2117</key>
+      <integer>8</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.uogonek</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.wacute</key>

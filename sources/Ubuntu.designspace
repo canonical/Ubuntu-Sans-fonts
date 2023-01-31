@@ -28,7 +28,7 @@
         <dimension name="Weight" xvalue="400"/>
       </location>
     </source>
-    <source filename="Ubuntu-ExtraBold.ufo" name="Ubuntu Extra Bold" familyname="Ubuntu" stylename="Bold">
+    <source filename="Ubuntu-ExtraBold.ufo" name="Ubuntu ExtraBold" familyname="Ubuntu" stylename="Bold">
       <location>
         <dimension name="Width" xvalue="100"/>
         <dimension name="Weight" xvalue="800"/>
@@ -40,7 +40,7 @@
         <dimension name="Weight" xvalue="400"/>
       </location>
     </source>
-    <source filename="Ubuntu-CondensedExtraBold.ufo" familyname="Ubuntu" stylename="Condensed Extra Bold">
+    <source filename="Ubuntu-CondensedExtraBold.ufo" familyname="Ubuntu" stylename="Condensed ExtraBold">
       <location>
         <dimension name="Width" xvalue="75"/>
         <dimension name="Weight" xvalue="800"/>
@@ -133,11 +133,11 @@
     </instance>
     
     <instance 
-        name="Ubuntu Extra Bold" 
+        name="Ubuntu ExtraBold" 
         familyname="Ubuntu" 
-        stylename="Extra Bold" 
+        stylename="ExtraBold" 
         filename="../instance_ufo/Ubuntu-ExtraBold.ufo" 
-        stylemapfamilyname="Ubuntu Extra Bold" 
+        stylemapfamilyname="Ubuntu ExtraBold" 
         stylemapstylename="regular"
     >
       <location>
@@ -181,8 +181,8 @@
     </instance>
     <instance 
         name="Ubuntu Condensed" 
-        familyname="Ubuntu" 
-        stylename="Condensed" 
+        familyname="Ubuntu Condensed" 
+        stylename="Condensed"
         filename="../instance_ufo/UbuntuCondensed-Regular.ufo" 
         stylemapfamilyname="Ubuntu Condensed" 
         stylemapstylename="regular"
@@ -211,7 +211,7 @@
     </instance>
     <instance 
         name="Ubuntu Condensed Bold" 
-        familyname="Ubuntu" 
+        familyname="Ubuntu Condensed" 
         stylename="Condensed Bold" 
         filename="../instance_ufo/UbuntuCondensed-Bold.ufo" 
         stylemapfamilyname="Ubuntu Condensed" 
@@ -226,11 +226,11 @@
     </instance>
     
     <instance 
-        name="Ubuntu Condensed Extra Bold" 
-        familyname="Ubuntu" 
-        stylename="Condensed Extra Bold" 
+        name="Ubuntu Condensed ExtraBold" 
+        familyname="Ubuntu Condensed" 
+        stylename="Condensed ExtraBold" 
         filename="../instance_ufo/UbuntuCondensed-ExtraBold.ufo" 
-        stylemapfamilyname="Ubuntu Condensed" 
+        stylemapfamilyname="Ubuntu Condensed ExtraBold" 
         stylemapstylename="regular"
     >
       <location>

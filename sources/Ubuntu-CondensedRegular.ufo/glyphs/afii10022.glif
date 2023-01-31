@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="afii10022" format="2">
-  <advance width="445.814"/>
+  <advance width="446"/>
   <unicode hex="0415"/>
   <anchor x="223" y="693" name="top"/>
   <anchor x="223" y="0" name="bottom"/>
@@ -9,19 +9,4 @@
   <outline>
     <component base="E"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>E</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>
