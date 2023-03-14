@@ -2,35 +2,18 @@
 <glyph name="Lcaron" format="2">
   <advance width="385"/>
   <unicode hex="013D"/>
-  <anchor x="194" y="0" name="bottom"/>
+  <anchor x="217" y="0" name="bottom"/>
   <anchor x="194" y="347" name="center"/>
-  <anchor x="194" y="693" name="top"/>
-  <anchor x="367" y="693" name="topright"/>
+  <anchor x="111" y="668" name="top"/>
+  <anchor x="122" y="693" name="topright"/>
   <outline>
     <component base="L"/>
-    <component base="caron.alt" xOffset="70" yOffset="-85"/>
+    <component base="caroncomb.alt" xOffset="122" yOffset="-83"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>L</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>caron.alt</string>
-        </dict>
-      </array>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
     </dict>
   </lib>
 </glyph>

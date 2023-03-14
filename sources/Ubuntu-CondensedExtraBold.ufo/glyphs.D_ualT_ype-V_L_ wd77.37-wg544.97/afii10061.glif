@@ -6,7 +6,7 @@
   <anchor x="287.699" y="693" name="top"/>
   <outline>
     <component base="K"/>
-    <component base="acute" xOffset="199.543" yOffset="153.018"/>
+    <component base="acutecomb" xOffset="199.543" yOffset="153.018"/>
   </outline>
   <lib>
     <dict>
@@ -26,9 +26,11 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>acute</string>
+          <string>acutecomb</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

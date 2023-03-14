@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dcaron" format="2">
-  <advance width="622.98"/>
+  <advance width="623"/>
   <unicode hex="010F"/>
   <anchor x="293" y="0" name="bottom"/>
   <anchor x="293" y="259" name="center"/>
@@ -31,6 +31,8 @@
           <string>caron.alt</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,15 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acutecomb" format="2">
   <unicode hex="0301"/>
-  <anchor x="210" y="513" name="_top"/>
-  <anchor x="210" y="773" name="top"/>
+  <anchor x="0" y="513" name="_top"/>
+  <anchor x="0" y="773" name="top"/>
   <outline>
-    <component base="acute"/>
+    <contour>
+      <point x="-46" y="598" type="line"/>
+      <point x="128" y="745" type="line"/>
+      <point x="104" y="773" type="line"/>
+      <point x="-62" y="616" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <integer>376</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

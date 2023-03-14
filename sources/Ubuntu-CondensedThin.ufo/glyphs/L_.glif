@@ -2,10 +2,10 @@
 <glyph name="L" format="2">
   <advance width="385"/>
   <unicode hex="004C"/>
-  <anchor x="194" y="0" name="bottom"/>
+  <anchor x="217" y="0" name="bottom"/>
   <anchor x="194" y="347" name="center"/>
-  <anchor x="194" y="693" name="top"/>
-  <anchor x="367" y="693" name="topright"/>
+  <anchor x="111" y="668" name="top"/>
+  <anchor x="122" y="693" name="topright"/>
   <outline>
     <contour>
       <point x="88" y="0" type="line"/>
@@ -16,4 +16,10 @@
       <point x="88" y="693" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

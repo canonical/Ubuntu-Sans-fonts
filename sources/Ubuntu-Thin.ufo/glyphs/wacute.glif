@@ -3,32 +3,15 @@
   <advance width="770"/>
   <unicode hex="1E83"/>
   <anchor x="385" y="0" name="bottom"/>
-  <anchor x="385" y="513" name="top"/>
+  <anchor x="389" y="773" name="top"/>
   <outline>
     <component base="w"/>
-    <component base="acute" xOffset="229"/>
+    <component base="acutecomb" xOffset="389"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>w</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>acute</string>
-        </dict>
-      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

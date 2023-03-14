@@ -3,32 +3,15 @@
   <advance width="576"/>
   <unicode hex="01FE"/>
   <anchor x="288" y="0" name="bottom"/>
-  <anchor x="288" y="693" name="top"/>
+  <anchor x="288" y="925" name="top"/>
   <outline>
     <component base="Oslash"/>
-    <component base="acute" xOffset="164" yOffset="150"/>
+    <component base="acutecomb" xOffset="288" yOffset="151"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>Oslash</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>acute</string>
-        </dict>
-      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

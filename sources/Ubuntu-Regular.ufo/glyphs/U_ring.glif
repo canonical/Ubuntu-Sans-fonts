@@ -1,36 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Uring" format="2">
-  <advance width="683.078"/>
+  <advance width="683"/>
   <unicode hex="016E"/>
   <anchor x="342" y="0" name="bottom"/>
   <anchor x="615" y="10" name="ogonek"/>
-  <anchor x="342" y="693" name="top"/>
+  <anchor x="342" y="931" name="top"/>
   <anchor x="663" y="693" name="topright"/>
   <outline>
     <component base="U"/>
-    <component base="ring" xOffset="157" yOffset="154"/>
+    <component base="ringcomb" xOffset="342" yOffset="155"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>U</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>ring</string>
-        </dict>
-      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

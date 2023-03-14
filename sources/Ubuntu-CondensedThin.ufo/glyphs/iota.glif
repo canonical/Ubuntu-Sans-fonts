@@ -2,7 +2,7 @@
 <glyph name="iota" format="2">
   <advance width="205"/>
   <unicode hex="03B9"/>
-  <anchor x="103" y="517" name="top"/>
+  <anchor x="102" y="517" name="top"/>
   <outline>
     <contour>
       <point x="176" y="-5" type="curve"/>
@@ -17,4 +17,10 @@
       <point x="88" y="7"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

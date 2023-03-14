@@ -4,8 +4,8 @@
   <unicode hex="1F8A"/>
   <anchor x="338" y="0" name="bottom"/>
   <anchor x="522" y="10" name="ogonek"/>
-  <anchor x="336" y="693" name="top_1"/>
-  <anchor x="665" y="517" name="top_2"/>
+  <anchor x="336" y="668" name="top_1"/>
+  <anchor x="664" y="517" name="top_2"/>
   <outline>
     <component base="A" xOffset="107"/>
     <component base="iota" xOffset="562"/>
@@ -40,6 +40,8 @@
           <string>uni1FCD</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

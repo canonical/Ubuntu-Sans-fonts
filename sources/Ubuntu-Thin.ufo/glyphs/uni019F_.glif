@@ -2,6 +2,7 @@
 <glyph name="uni019F" format="2">
   <advance width="760"/>
   <unicode hex="019F"/>
+  <anchor x="380" y="669" name="top"/>
   <outline>
     <contour>
       <point x="380" y="-10" type="curve" smooth="yes"/>
@@ -36,4 +37,14 @@
       <point x="655" y="367" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

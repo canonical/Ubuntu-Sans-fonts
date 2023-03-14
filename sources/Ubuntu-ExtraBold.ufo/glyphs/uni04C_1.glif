@@ -3,32 +3,15 @@
   <advance width="983"/>
   <unicode hex="04C1"/>
   <anchor x="963" y="0" name="bottomright"/>
-  <anchor x="490" y="921" name="top"/>
+  <anchor x="492" y="927" name="top"/>
   <outline>
     <component base="afii10024"/>
-    <component base="brevecomb.cyr" xOffset="308" yOffset="153"/>
+    <component base="brevecomb.cyr" xOffset="310" yOffset="159"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>afii10024</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>brevecomb.cyr</string>
-        </dict>
-      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

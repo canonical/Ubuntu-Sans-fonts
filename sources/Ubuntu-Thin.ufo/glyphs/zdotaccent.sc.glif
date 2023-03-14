@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zdotaccent.sc" format="2">
+  <advance width="487"/>
+  <anchor x="244" y="0" name="bottom"/>
+  <anchor x="244" y="288" name="center"/>
+  <anchor x="244" y="738" name="top"/>
+  <outline>
+    <component base="z.sc"/>
+    <component base="dotaccentcomb.sc" xOffset="244"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>z.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>z.sc</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -2,42 +2,17 @@
 <glyph name="uni1FF7" format="2">
   <advance width="842"/>
   <unicode hex="1FF7"/>
-  <anchor x="421" y="0" name="bottom"/>
+  <anchor x="423" y="0" name="bottom"/>
   <anchor x="421" y="526" name="top"/>
   <outline>
     <component base="omega"/>
-    <component base="uni1FBE" xOffset="285"/>
+    <component base="uni1FBE" xOffset="304"/>
     <component base="uni1FC0" xOffset="232"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>omega</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>uni1FBE</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>2</integer>
-          <key>name</key>
-          <string>uni1FC0</string>
-        </dict>
-      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

@@ -4,7 +4,6 @@
   <unicode hex="04D0"/>
   <outline>
     <component base="A"/>
-    <component base="brevecomb.cyr" xOffset="92" yOffset="150"/>
   </outline>
   <lib>
     <dict>
@@ -18,15 +17,9 @@
           <key>name</key>
           <string>A</string>
         </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>brevecomb.cyr</string>
-        </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis_macron.sc" format="2">
+  <anchor x="-1" y="589" name="_top"/>
+  <anchor x="-1" y="861" name="top"/>
+  <outline>
+    <contour>
+      <point x="-113" y="780" type="line"/>
+      <point x="109" y="780" type="line"/>
+      <point x="109" y="861" type="line"/>
+      <point x="-113" y="861" type="line"/>
+    </contour>
+    <contour>
+      <point x="-82" y="627" type="curve" smooth="yes"/>
+      <point x="-48" y="627"/>
+      <point x="-20" y="651"/>
+      <point x="-20" y="689" type="curve" smooth="yes"/>
+      <point x="-20" y="727"/>
+      <point x="-48" y="751"/>
+      <point x="-82" y="751" type="curve" smooth="yes"/>
+      <point x="-117" y="751"/>
+      <point x="-144" y="727"/>
+      <point x="-144" y="689" type="curve" smooth="yes"/>
+      <point x="-144" y="651"/>
+      <point x="-117" y="627"/>
+    </contour>
+    <contour>
+      <point x="81" y="627" type="curve" smooth="yes"/>
+      <point x="115" y="627"/>
+      <point x="143" y="651"/>
+      <point x="143" y="689" type="curve" smooth="yes"/>
+      <point x="143" y="727"/>
+      <point x="115" y="751"/>
+      <point x="81" y="751" type="curve" smooth="yes"/>
+      <point x="47" y="751"/>
+      <point x="19" y="727"/>
+      <point x="19" y="689" type="curve" smooth="yes"/>
+      <point x="19" y="651"/>
+      <point x="47" y="627"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

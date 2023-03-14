@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni01C9" format="2">
-  <advance width="454.68"/>
+  <advance width="455"/>
   <unicode hex="01C9"/>
-  <anchor x="112" y="0" name="bottom"/>
+  <anchor x="147" y="0" name="bottom"/>
   <anchor x="112" y="388" name="center"/>
   <anchor x="112" y="776" name="top"/>
   <anchor x="207" y="776" name="topright"/>
@@ -31,6 +31,10 @@
           <string>j</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>l</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>j</string>
     </dict>
   </lib>
 </glyph>

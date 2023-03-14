@@ -1,17 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni01C5" format="2">
-  <advance width="1163.612"/>
+  <advance width="1163"/>
   <unicode hex="01C5"/>
   <anchor x="353" y="0" name="bottom_1"/>
-  <anchor x="934" y="0" name="bottom_2"/>
+  <anchor x="933" y="0" name="bottom_2"/>
   <anchor x="353" y="347" name="center_1"/>
-  <anchor x="934" y="259" name="center_2"/>
-  <anchor x="353" y="693" name="top_1"/>
-  <anchor x="934" y="518" name="top_2"/>
+  <anchor x="933" y="259" name="center_2"/>
+  <anchor x="351" y="673" name="top_1"/>
+  <anchor x="933" y="768" name="top_2"/>
   <outline>
     <component base="D"/>
-    <component base="z" xOffset="703"/>
-    <component base="caron" xOffset="743"/>
+    <component base="zcaron" xOffset="703"/>
   </outline>
   <lib>
     <dict>
@@ -31,17 +30,15 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>z</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>2</integer>
-          <key>name</key>
-          <string>caron</string>
+          <string>zcaron</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>D</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>z</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

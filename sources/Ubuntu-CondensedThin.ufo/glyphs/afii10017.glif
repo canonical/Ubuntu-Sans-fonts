@@ -4,23 +4,14 @@
   <unicode hex="0410"/>
   <anchor x="231" y="0" name="bottom"/>
   <anchor x="415" y="10" name="ogonek"/>
-  <anchor x="229" y="693" name="top"/>
+  <anchor x="229" y="668" name="top"/>
   <outline>
     <component base="A"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>A</string>
-        </dict>
-      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

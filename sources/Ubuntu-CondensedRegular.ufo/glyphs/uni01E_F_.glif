@@ -1,34 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni01EF" format="2">
-  <advance width="336.244"/>
+  <advance width="336"/>
   <unicode hex="01EF"/>
   <anchor x="169" y="0" name="bottom"/>
-  <anchor x="169" y="522" name="top"/>
+  <anchor x="153" y="766" name="top"/>
   <outline>
     <component base="uni0292"/>
-    <component base="caron" xOffset="-6"/>
+    <component base="caroncomb" xOffset="153"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>uni0292</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>caron</string>
-        </dict>
-      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

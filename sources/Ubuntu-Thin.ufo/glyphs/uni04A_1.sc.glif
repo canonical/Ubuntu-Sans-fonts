@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04A1.sc" format="2">
+  <advance width="602"/>
+  <outline>
+    <contour>
+      <point x="186" y="0" type="line"/>
+      <point x="220" y="0" type="line"/>
+      <point x="220" y="286" type="line"/>
+      <point x="321" y="238"/>
+      <point x="464" y="105"/>
+      <point x="539" y="0" type="curve"/>
+      <point x="576" y="0" type="line"/>
+      <point x="500" y="120"/>
+      <point x="362" y="239"/>
+      <point x="261" y="300" type="curve"/>
+      <point x="335" y="358"/>
+      <point x="448" y="464"/>
+      <point x="558" y="575" type="curve"/>
+      <point x="517" y="575" type="line"/>
+      <point x="450" y="505"/>
+      <point x="319" y="383"/>
+      <point x="220" y="305" type="curve"/>
+      <point x="220" y="575" type="line"/>
+      <point x="30" y="575" type="line"/>
+      <point x="30" y="544" type="line"/>
+      <point x="186" y="544" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>83</integer>
+        <key>weight</key>
+        <integer>4</integer>
+        <key>width</key>
+        <real>84.5</real>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>k.sc</string>
+    </dict>
+  </lib>
+</glyph>

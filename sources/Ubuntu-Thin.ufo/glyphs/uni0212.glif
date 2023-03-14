@@ -2,10 +2,16 @@
 <glyph name="uni0212" format="2">
   <advance width="600"/>
   <unicode hex="0212"/>
-  <anchor x="300" y="0" name="bottom"/>
-  <anchor x="478" y="669" name="top"/>
+  <anchor x="315" y="0" name="bottom"/>
+  <anchor x="284" y="898" name="top"/>
   <outline>
     <component base="R"/>
-    <component base="breveinvertedcomb" xOffset="283" yOffset="156"/>
+    <component base="breveinvertedcomb" xOffset="284" yOffset="156"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
 </glyph>

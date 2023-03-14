@@ -1,15 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="brevecomb" format="2">
   <unicode hex="0306"/>
-  <anchor x="160" y="532" name="_top"/>
-  <anchor x="160" y="758" name="top"/>
+  <anchor x="0" y="532" name="_top"/>
+  <anchor x="0" y="759" name="top"/>
   <outline>
-    <component base="breve"/>
+    <contour>
+      <point x="0" y="600" type="curve"/>
+      <point x="79" y="600"/>
+      <point x="130" y="662"/>
+      <point x="130" y="759" type="curve"/>
+      <point x="44" y="759" type="line"/>
+      <point x="44" y="713"/>
+      <point x="30" y="689"/>
+      <point x="0" y="689" type="curve"/>
+      <point x="-30" y="689"/>
+      <point x="-44" y="713"/>
+      <point x="-44" y="759" type="curve"/>
+      <point x="-130" y="759" type="line"/>
+      <point x="-130" y="662"/>
+      <point x="-79" y="600"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <integer>320</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

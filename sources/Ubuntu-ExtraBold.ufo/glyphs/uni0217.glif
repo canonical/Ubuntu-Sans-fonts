@@ -4,10 +4,16 @@
   <unicode hex="0217"/>
   <anchor x="295" y="0" name="bottom"/>
   <anchor x="530" y="10" name="ogonek"/>
-  <anchor x="292" y="526" name="top"/>
+  <anchor x="293" y="756" name="top"/>
   <anchor x="569" y="526" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="breveinvertedcomb" xOffset="97"/>
+    <component base="breveinvertedcomb" xOffset="293"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
 </glyph>

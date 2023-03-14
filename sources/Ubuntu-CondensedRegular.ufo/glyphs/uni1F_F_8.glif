@@ -5,7 +5,7 @@
   <anchor x="423" y="4" name="bottom"/>
   <anchor x="423" y="351" name="center"/>
   <anchor x="661" y="14" name="ogonek"/>
-  <anchor x="423" y="697" name="top"/>
+  <anchor x="423" y="677" name="top"/>
   <anchor x="143" y="697" name="topleft"/>
   <anchor x="701" y="697" name="topright"/>
   <outline>
@@ -33,6 +33,8 @@
           <string>grave</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

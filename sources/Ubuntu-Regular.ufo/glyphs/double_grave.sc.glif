@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="double_grave.sc" format="2">
+  <anchor x="0" y="585" name="_top"/>
+  <anchor x="0" y="818" name="top"/>
+  <outline>
+    <contour>
+      <point x="84" y="622" type="line"/>
+      <point x="126" y="654" type="line"/>
+      <point x="7" y="817" type="line"/>
+      <point x="-44" y="772" type="line"/>
+    </contour>
+    <contour>
+      <point x="-78" y="622" type="line"/>
+      <point x="-36" y="654" type="line"/>
+      <point x="-155" y="817" type="line"/>
+      <point x="-206" y="772" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

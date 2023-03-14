@@ -3,8 +3,14 @@
   <advance width="450"/>
   <unicode hex="0441"/>
   <anchor x="430" y="0" name="bottomright"/>
-  <anchor x="225" y="513" name="top"/>
+  <anchor x="272" y="513" name="top"/>
   <outline>
     <component base="c"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
 </glyph>

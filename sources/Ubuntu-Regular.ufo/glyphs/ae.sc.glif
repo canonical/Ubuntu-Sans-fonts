@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ae.sc" format="2">
+  <advance width="819"/>
+  <anchor x="410" y="0" name="bottom"/>
+  <anchor x="513" y="580" name="top"/>
+  <outline>
+    <contour>
+      <point x="19" y="0" type="curve"/>
+      <point x="102" y="0" type="line"/>
+      <point x="129" y="53"/>
+      <point x="161" y="107"/>
+      <point x="189" y="156" type="curve"/>
+      <point x="413" y="156" type="line"/>
+      <point x="413" y="0" type="line"/>
+      <point x="774" y="0" type="line"/>
+      <point x="774" y="65" type="line"/>
+      <point x="486" y="65" type="line"/>
+      <point x="486" y="272" type="line"/>
+      <point x="722" y="272" type="line"/>
+      <point x="722" y="336" type="line"/>
+      <point x="486" y="336" type="line"/>
+      <point x="486" y="515" type="line"/>
+      <point x="752" y="515" type="line"/>
+      <point x="752" y="580" type="line"/>
+      <point x="388" y="580" type="line"/>
+      <point x="256" y="408"/>
+      <point x="146" y="229"/>
+    </contour>
+    <contour>
+      <point x="222" y="218" type="line"/>
+      <point x="282" y="318"/>
+      <point x="345" y="416"/>
+      <point x="413" y="505" type="curve"/>
+      <point x="413" y="218" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>83</integer>
+        <key>weight</key>
+        <integer>4</integer>
+        <key>width</key>
+        <real>84.5</real>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>e.sc</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

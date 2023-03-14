@@ -4,7 +4,7 @@
   <unicode hex="1FBA"/>
   <anchor x="334" y="0" name="bottom"/>
   <anchor x="566" y="10" name="ogonek"/>
-  <anchor x="334" y="693" name="top"/>
+  <anchor x="334" y="683" name="top"/>
   <outline>
     <component base="A" xOffset="75"/>
     <component base="grave" xOffset="-11" yOffset="-69"/>
@@ -30,6 +30,8 @@
           <string>grave</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FCE.sc" format="2">
+  <advance width="314"/>
+  <outline>
+    <contour>
+      <point x="211" y="587" type="line"/>
+      <point x="292" y="750" type="line"/>
+      <point x="270" y="754" type="line"/>
+      <point x="199" y="591" type="line"/>
+    </contour>
+    <contour>
+      <point x="89" y="589" type="line"/>
+      <point x="133" y="630"/>
+      <point x="156" y="679"/>
+      <point x="156" y="728" type="curve" smooth="yes"/>
+      <point x="156" y="746"/>
+      <point x="146" y="756"/>
+      <point x="138" y="756" type="curve" smooth="yes"/>
+      <point x="129" y="756"/>
+      <point x="116" y="750"/>
+      <point x="116" y="732" type="curve" smooth="yes"/>
+      <point x="116" y="720"/>
+      <point x="119" y="707"/>
+      <point x="141" y="704" type="curve"/>
+      <point x="144" y="682"/>
+      <point x="105" y="629"/>
+      <point x="77" y="602" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>psili.sc</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

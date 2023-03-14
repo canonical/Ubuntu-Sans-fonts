@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sigma.sc" format="2">
+  <advance width="538"/>
+  <outline>
+    <contour>
+      <point x="32" y="0" type="line"/>
+      <point x="497" y="0" type="line"/>
+      <point x="497" y="127" type="line"/>
+      <point x="223" y="127" type="line"/>
+      <point x="259" y="166"/>
+      <point x="361" y="267"/>
+      <point x="386" y="295" type="curve"/>
+      <point x="350" y="341"/>
+      <point x="297" y="404"/>
+      <point x="247" y="462" type="curve"/>
+      <point x="498" y="462" type="line"/>
+      <point x="498" y="589" type="line"/>
+      <point x="45" y="589" type="line"/>
+      <point x="45" y="492" type="line"/>
+      <point x="106" y="425"/>
+      <point x="166" y="360"/>
+      <point x="215" y="295" type="curve"/>
+      <point x="160" y="238"/>
+      <point x="76" y="152"/>
+      <point x="32" y="103" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>85</integer>
+        <key>weight</key>
+        <integer>-11</integer>
+        <key>width</key>
+        <integer>87</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

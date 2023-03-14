@@ -4,8 +4,8 @@
   <unicode hex="1F98"/>
   <anchor x="410" y="0" name="bottom"/>
   <anchor x="410" y="347" name="center"/>
-  <anchor x="410" y="693" name="top_1"/>
-  <anchor x="848" y="532" name="top_2"/>
+  <anchor x="410" y="683" name="top_1"/>
+  <anchor x="861" y="532" name="top_2"/>
   <anchor x="131" y="693" name="topleft"/>
   <outline>
     <component base="H" xOffset="111"/>
@@ -41,6 +41,8 @@
           <string>uni1FBF</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

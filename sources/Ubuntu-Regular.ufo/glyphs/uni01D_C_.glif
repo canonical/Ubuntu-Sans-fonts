@@ -1,36 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni01DC" format="2">
-  <advance width="571.28"/>
+  <advance width="571"/>
   <unicode hex="01DC"/>
   <anchor x="286" y="0" name="bottom"/>
   <anchor x="514" y="10" name="ogonek"/>
-  <anchor x="286" y="518" name="top"/>
+  <anchor x="282" y="849" name="top"/>
   <anchor x="551" y="518" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="dieresis_grave" xOffset="89"/>
+    <component base="dieresis_grave" xOffset="282"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>u</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>dieresis_grave</string>
-        </dict>
-      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

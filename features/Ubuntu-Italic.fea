@@ -1,23 +1,23 @@
 # GSUB groups
 @FIG_DFLT = [zero one two three four five six seven eight nine];
-@FIG_ALT = [zero.alt one.alt two.alt three.alt four.alt five.alt six.alt seven.alt eight.alt nine.alt];
+@FIG_ALT = [zero.lf one.lf two.lf three.lf four.lf five.lf six.lf seven.lf eight.lf nine.lf];
 @FIG_NUM = [zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior];
 @FIG_DNOM = [zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior];
 @FIG_SUPS = [zero.sups one.sups two.sups three.sups four.sups five.sups six.sups seven.sups eight.sups nine.sups];
 @FIG_SINF = [zero.sinf one.sinf two.sinf three.sinf four.sinf five.sinf six.sinf seven.sinf eight.sinf nine.sinf];
-# @ZERO = [zero zero.alt zerosuperior zeroinferior zero.sups zero.sinf];
-@ONE = [one one.alt onesuperior oneinferior one.sups one.sinf];
-@TWO = [two two.alt twosuperior twoinferior two.sups two.sinf];
-@THREE = [three three.alt threesuperior threeinferior three.sups three.sinf];
-@FOUR = [four four.alt foursuperior fourinferior four.sups four.sinf];
-@FIVE = [five five.alt fivesuperior fiveinferior five.sups five.sinf];
-@SIX = [six six.alt sixsuperior sixinferior six.sups six.sinf];
-@SEVEN = [seven seven.alt sevensuperior seveninferior seven.sups seven.sinf];
-@EIGHT = [eight eight.alt eightsuperior eightinferior eight.sups eight.sinf];
-@NINE = [nine nine.alt ninesuperior nineinferior nine.sups nine.sinf];
+# @ZERO = [zero zero.lf zerosuperior zeroinferior zero.sups zero.sinf];
+@ONE = [one one.lf onesuperior oneinferior one.sups one.sinf];
+@TWO = [two two.lf twosuperior twoinferior two.sups two.sinf];
+@THREE = [three three.lf threesuperior threeinferior three.sups three.sinf];
+@FOUR = [four four.lf foursuperior fourinferior four.sups four.sinf];
+@FIVE = [five five.lf fivesuperior fiveinferior five.sups five.sinf];
+@SIX = [six six.lf sixsuperior sixinferior six.sups six.sinf];
+@SEVEN = [seven seven.lf sevensuperior seveninferior seven.sups seven.sinf];
+@EIGHT = [eight eight.lf eightsuperior eightinferior eight.sups eight.sinf];
+@NINE = [nine nine.lf ninesuperior nineinferior nine.sups nine.sinf];
 @FRACTIONS = [onequarter onehalf threequarters onethird twothirds onefifth twofifths threefifths fourfifths onesixth fivesixths oneeighth threeeighths fiveeighths seveneighths oneseventh twosevenths threesevenths foursevenths fivesevenths sixsevenths oneninth twoninths fourninths fiveninths sevenninths eightninths];
 @case1 = [parenleft parenright hyphen slash at bracketleft backslash bracketright braceleft braceright guilsinglleft bullet endash emdash guilsinglright exclamdown guillemotleft guillemotright questiondown];
-@case2 = [Parenleft Parenright Hyphen Slash At Bracketleft Backslash Bracketright Braceleft Braceright Guilsinglleft Bullet Endash Emdash Guilsinglright Exclamdown Guillemotleft Guillemotright Questiondown];
+@case2 = [parenleft.case parenright.case hyphen.case slash.case at.case bracketleft.case backslash.case bracketright.case braceleft.case braceright.case guilsinglleft.case bullet.case endash.case emdash.case guilsinglright.case exclamdown.case guillemotleft.case guillemotright.case questiondown.case];
 @LC_LETT = [a b c d e f g h i j k l m n o p q r s t u v w x y z eth thorn oslash eng cdotaccent ebreve gdotaccent gcircumflex hcircumflex hbar itilde ibreve jcircumflex ldot obreve scircumflex tbar utilde ubreve wcircumflex ycircumflex abreve amacron aogonek cacute ccaron dcaron dcroat ecaron edotaccent emacron eogonek gbreve gcommaaccent imacron iogonek kcommaaccent lacute lcaron lcommaaccent nacute ncaron ncommaaccent ohungarumlaut omacron racute rcaron rcommaaccent sacute scommaaccent tcaron uni0163 uhungarumlaut umacron uogonek uring zdotaccent zacute ccircumflex scaron zcaron agrave aacute acircumflex atilde adieresis aring ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis ntilde ograve oacute ocircumflex otilde odieresis ugrave uacute ucircumflex udieresis yacute ydieresis lslash wgrave wacute wdieresis ygrave scedilla uni021B ae oe ij i.locl kgreenlandic napostrophe];
 @UC_LETT  = [A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Eth Thorn Oslash Eng Cdotaccent Ebreve Gdotaccent Gcircumflex Hcircumflex Hbar Itilde Ibreve Jcircumflex Ldot Obreve Scircumflex Tbar Utilde Ubreve Wcircumflex Ycircumflex Abreve Amacron Aogonek Cacute Ccaron Dcaron Dcroat Ecaron Edotaccent Emacron Eogonek Gbreve Gcommaaccent Imacron Iogonek Kcommaaccent Lacute Lcaron Lcommaaccent Nacute Ncaron Ncommaaccent Ohungarumlaut Omacron Racute Rcaron Rcommaaccent Sacute Scommaaccent Tcaron uni0162 Uhungarumlaut Umacron Uogonek Uring Zdotaccent Zacute Ccircumflex Scaron Zcaron Agrave Aacute Acircumflex Atilde Adieresis Aring Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Ugrave Uacute Ucircumflex Udieresis Yacute Ydieresis Lslash Wgrave Wacute Wdieresis Ygrave Scedilla uni021A AE OE IJ Idotaccent kgreenlandic.case napostrophe.case];
 @AlphaSub = [uni1F88 uni1F89 uni1F8A uni1F8B uni1F8C uni1F8D uni1F8E uni1F8F uni1FBC];
@@ -450,8 +450,8 @@ feature liga { # Standard Ligatures
 
 feature ss01 { # Greek Stylistic Alternates
 		featureNames { 
-			name "Greek Stylistic Alternates"; 
-			name 1 "Greek Stylistic Alternates"; 
+			name "Greek iota subscript"; 
+			name 1 "Greek iota subscript"; 
 		};
 	script grek; # Greek
 	lookup salt01;

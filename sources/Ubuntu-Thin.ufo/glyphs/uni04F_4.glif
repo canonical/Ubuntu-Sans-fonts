@@ -3,32 +3,15 @@
   <advance width="584"/>
   <unicode hex="04F4"/>
   <anchor x="564" y="0" name="bottomright"/>
-  <anchor x="292" y="693" name="top"/>
+  <anchor x="283" y="859" name="top"/>
   <outline>
     <component base="afii10041"/>
-    <component base="dieresis" xOffset="96" yOffset="156"/>
+    <component base="dieresiscomb" xOffset="283" yOffset="156"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>afii10041</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>dieresis</string>
-        </dict>
-      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

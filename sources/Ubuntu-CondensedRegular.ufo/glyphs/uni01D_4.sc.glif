@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni01D4.sc" format="2">
+  <advance width="604"/>
+  <anchor x="302" y="0" name="bottom"/>
+  <anchor x="544" y="10" name="ogonek"/>
+  <anchor x="302" y="806" name="top"/>
+  <anchor x="584" y="580" name="topright"/>
+  <outline>
+    <component base="u.sc"/>
+    <component base="caroncomb.sc" xOffset="303"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>u.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>u.sc</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

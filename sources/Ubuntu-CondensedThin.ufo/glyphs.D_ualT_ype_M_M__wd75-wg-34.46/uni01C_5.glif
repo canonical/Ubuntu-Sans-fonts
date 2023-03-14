@@ -10,8 +10,8 @@
   <anchor x="695.469" y="513.311" name="top_2"/>
   <outline>
     <component base="D"/>
-    <component base="z" xOffset="532.52"/>
-    <component base="caron" xOffset="546.159"/>
+    <component base="zcaron" xOffset="532.52"/>
+    <component base="caroncomb" xOffset="546.159"/>
   </outline>
   <lib>
     <dict>
@@ -31,7 +31,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>z</string>
+          <string>zcaron</string>
         </dict>
         <dict>
           <key>alignment</key>
@@ -39,9 +39,15 @@
           <key>index</key>
           <integer>2</integer>
           <key>name</key>
-          <string>caron</string>
+          <string>caroncomb</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>D</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>z</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

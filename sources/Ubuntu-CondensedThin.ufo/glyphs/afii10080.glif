@@ -2,7 +2,7 @@
 <glyph name="afii10080" format="2">
   <advance width="440"/>
   <unicode hex="043E"/>
-  <anchor x="220" y="517" name="top"/>
+  <anchor x="293" y="513" name="top"/>
   <anchor x="220" y="0" name="bottom"/>
   <anchor x="220" y="257" name="center"/>
   <anchor x="400" y="10" name="ogonek"/>
@@ -10,19 +10,4 @@
   <outline>
     <component base="o"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>o</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

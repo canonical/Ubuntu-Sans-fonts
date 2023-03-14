@@ -1,36 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0206" format="2">
-  <advance width="445.814"/>
+  <advance width="446"/>
   <unicode hex="0206"/>
   <anchor x="223" y="0" name="bottom"/>
   <anchor x="385" y="10" name="ogonek"/>
-  <anchor x="236" y="663" name="top"/>
+  <anchor x="235" y="903" name="top"/>
   <anchor x="18" y="693" name="topleft"/>
   <outline>
     <component base="E"/>
-    <component base="breveinvertedcomb" xOffset="71" yOffset="141"/>
+    <component base="breveinvertedcomb" xOffset="235" yOffset="151"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>E</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>breveinvertedcomb</string>
-        </dict>
-      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

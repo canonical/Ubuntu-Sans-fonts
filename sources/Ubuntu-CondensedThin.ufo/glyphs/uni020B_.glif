@@ -4,32 +4,15 @@
   <unicode hex="020B"/>
   <anchor x="98" y="0" name="bottom"/>
   <anchor x="176" y="10" name="ogonek"/>
-  <anchor x="98" y="517" name="top"/>
+  <anchor x="98" y="746" name="top"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="breveinvertedcomb" xOffset="-70"/>
+    <component base="breveinvertedcomb" xOffset="98"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>dotlessi</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>breveinvertedcomb</string>
-        </dict>
-      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

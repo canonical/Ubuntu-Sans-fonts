@@ -1,34 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni04E4" format="2">
-  <advance width="576.876"/>
+  <advance width="577"/>
   <unicode hex="04E4"/>
   <anchor x="557" y="0" name="bottomright"/>
-  <anchor x="289" y="693" name="top"/>
+  <anchor x="295" y="869" name="top"/>
   <outline>
     <component base="afii10026"/>
-    <component base="dieresis" xOffset="116" yOffset="150"/>
+    <component base="dieresiscomb" xOffset="295" yOffset="151"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>afii10026</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>dieresis</string>
-        </dict>
-      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

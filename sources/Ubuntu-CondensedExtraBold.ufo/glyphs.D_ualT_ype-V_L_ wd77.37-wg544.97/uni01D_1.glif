@@ -10,7 +10,7 @@
   <anchor x="610.801" y="693" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="caron" xOffset="148.569" yOffset="154.536"/>
+    <component base="caroncomb" xOffset="148.569" yOffset="154.536"/>
   </outline>
   <lib>
     <dict>
@@ -30,9 +30,11 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>caron</string>
+          <string>caroncomb</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

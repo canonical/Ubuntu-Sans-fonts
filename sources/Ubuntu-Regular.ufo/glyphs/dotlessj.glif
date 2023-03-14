@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotlessj" format="2">
-  <advance width="242.928"/>
+  <advance width="243"/>
   <unicode hex="0237"/>
   <anchor x="122" y="-185" name="bottom"/>
   <anchor x="122" y="518" name="top"/>
@@ -24,4 +24,12 @@
       <point x="-22" y="-187"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>j</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,15 +1,42 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresiscomb" format="2">
   <unicode hex="0308"/>
-  <anchor x="268" y="526" name="_top"/>
-  <anchor x="268" y="754" name="top"/>
+  <anchor x="0" y="526" name="_top"/>
+  <anchor x="0" y="754" name="top"/>
   <outline>
-    <component base="dieresis"/>
+    <contour>
+      <point x="111" y="602" type="curve" smooth="yes"/>
+      <point x="152" y="602"/>
+      <point x="188" y="631"/>
+      <point x="188" y="678" type="curve" smooth="yes"/>
+      <point x="188" y="725"/>
+      <point x="152" y="754"/>
+      <point x="111" y="754" type="curve" smooth="yes"/>
+      <point x="70" y="754"/>
+      <point x="34" y="725"/>
+      <point x="34" y="678" type="curve" smooth="yes"/>
+      <point x="34" y="631"/>
+      <point x="70" y="602"/>
+    </contour>
+    <contour>
+      <point x="-111" y="602" type="curve" smooth="yes"/>
+      <point x="-70" y="602"/>
+      <point x="-34" y="631"/>
+      <point x="-34" y="678" type="curve" smooth="yes"/>
+      <point x="-34" y="725"/>
+      <point x="-70" y="754"/>
+      <point x="-111" y="754" type="curve" smooth="yes"/>
+      <point x="-152" y="754"/>
+      <point x="-188" y="725"/>
+      <point x="-188" y="678" type="curve" smooth="yes"/>
+      <point x="-188" y="631"/>
+      <point x="-152" y="602"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <integer>536</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

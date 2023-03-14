@@ -4,10 +4,16 @@
   <unicode hex="1FBC"/>
   <anchor x="309" y="0" name="bottom"/>
   <anchor x="555" y="10" name="ogonek"/>
-  <anchor x="309" y="693" name="top_1"/>
-  <anchor x="733" y="513" name="top_2"/>
+  <anchor x="309" y="669" name="top_1"/>
+  <anchor x="720" y="513" name="top_2"/>
   <outline>
     <component base="A"/>
     <component base="iota" xOffset="617"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

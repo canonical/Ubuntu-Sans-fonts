@@ -6,7 +6,7 @@
   <anchor x="282.723" y="693" name="top"/>
   <outline>
     <component base="G"/>
-    <component base="caron" xOffset="159.27" yOffset="159.062"/>
+    <component base="caroncomb" xOffset="159.27" yOffset="159.062"/>
   </outline>
   <lib>
     <dict>
@@ -26,9 +26,11 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>caron</string>
+          <string>caroncomb</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

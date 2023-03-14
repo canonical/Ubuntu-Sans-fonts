@@ -3,7 +3,7 @@
   <advance width="456.244"/>
   <unicode hex="0067"/>
   <anchor x="228" y="-185" name="bottom"/>
-  <anchor x="228" y="521" name="top"/>
+  <anchor x="235" y="522" name="top"/>
   <outline>
     <contour>
       <point x="201" y="-188" type="curve" smooth="yes"/>
@@ -50,4 +50,10 @@
       <point x="267" y="84"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="y.sc" format="2">
+  <advance width="603"/>
+  <anchor x="302" y="0" name="bottom"/>
+  <anchor x="302" y="589" name="top"/>
+  <anchor x="20" y="589" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="226" y="0" type="line"/>
+      <point x="378" y="0" type="line"/>
+      <point x="378" y="221" type="line"/>
+      <point x="457" y="340"/>
+      <point x="528" y="460"/>
+      <point x="594" y="589" type="curve"/>
+      <point x="426" y="589" type="line"/>
+      <point x="392" y="512"/>
+      <point x="347" y="433"/>
+      <point x="305" y="361" type="curve"/>
+      <point x="261" y="437"/>
+      <point x="226" y="500"/>
+      <point x="185" y="589" type="curve"/>
+      <point x="9" y="589" type="line"/>
+      <point x="76" y="458"/>
+      <point x="152" y="331"/>
+      <point x="226" y="219" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>85</integer>
+        <key>weight</key>
+        <integer>-11</integer>
+        <key>width</key>
+        <integer>87</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

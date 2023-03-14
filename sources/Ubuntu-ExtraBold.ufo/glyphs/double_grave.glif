@@ -1,18 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="double_grave" format="2">
-  <advance width="450"/>
+  <anchor x="0" y="526" name="_top"/>
+  <anchor x="0" y="799" name="top"/>
   <outline>
     <contour>
-      <point x="362" y="577" type="line"/>
-      <point x="429" y="628" type="line"/>
-      <point x="309" y="799" type="line"/>
-      <point x="222" y="729" type="line"/>
+      <point x="117" y="577" type="line"/>
+      <point x="184" y="628" type="line"/>
+      <point x="64" y="799" type="line"/>
+      <point x="-23" y="729" type="line"/>
     </contour>
     <contour>
-      <point x="160" y="577" type="line"/>
-      <point x="227" y="628" type="line"/>
-      <point x="107" y="799" type="line"/>
-      <point x="20" y="729" type="line"/>
+      <point x="-85" y="577" type="line"/>
+      <point x="-18" y="628" type="line"/>
+      <point x="-138" y="799" type="line"/>
+      <point x="-225" y="729" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
 </glyph>

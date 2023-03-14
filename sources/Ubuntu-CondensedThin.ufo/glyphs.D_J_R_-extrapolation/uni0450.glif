@@ -7,7 +7,7 @@
   <anchor x="213" y="513" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="grave" xOffset="41"/>
+    <component base="gravecomb" xOffset="41"/>
   </outline>
   <lib>
     <dict>
@@ -27,9 +27,11 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>grave</string>
+          <string>gravecomb</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

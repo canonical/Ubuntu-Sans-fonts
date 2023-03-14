@@ -4,33 +4,16 @@
   <unicode hex="04D6"/>
   <anchor x="303" y="0" name="bottom"/>
   <anchor x="545" y="10" name="ogonek"/>
-  <anchor x="319" y="921" name="top"/>
+  <anchor x="313" y="927" name="top"/>
   <anchor x="20" y="693" name="topleft"/>
   <outline>
     <component base="E"/>
-    <component base="brevecomb.cyr" xOffset="137" yOffset="153"/>
+    <component base="brevecomb.cyr" xOffset="131" yOffset="159"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>E</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>brevecomb.cyr</string>
-        </dict>
-      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

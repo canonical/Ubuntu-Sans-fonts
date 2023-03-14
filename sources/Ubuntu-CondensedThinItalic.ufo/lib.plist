@@ -23,7 +23,7 @@
       </dict>
     </array>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>3149</string>
+    <string>3180</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Export Mac Name Table Entries</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.customParameter.GSFont.Guides Palette Config</key>
@@ -68,7 +68,7 @@
     <key>com.schriftgestaltung.fontMasterID</key>
     <string>06353AB1-A589-436A-BF5B-235B27EA9F8F</string>
     <key>com.schriftgestaltung.fontMasterOrder</key>
-    <integer>7</integer>
+    <integer>3</integer>
     <key>com.schriftgestaltung.keyboardIncrement</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.weight</key>
@@ -1582,8 +1582,6 @@
       <string>uni0327</string>
       <key>circumflexcomb</key>
       <string>uni0302</string>
-      <key>commaaccent</key>
-      <string>uni0326</string>
       <key>commaaccentcomb</key>
       <string>uni0326</string>
       <key>commaturnedabovecomb</key>
@@ -1628,6 +1626,8 @@
       <string>uni0137</string>
       <key>lcommaaccent</key>
       <string>uni013C</string>
+      <key>macronbelowcomb</key>
+      <string>uni0331</string>
       <key>macroncomb</key>
       <string>uni0304</string>
       <key>mu</key>
@@ -1696,10 +1696,16 @@
       <string>uni00B2</string>
       <key>twothirds</key>
       <string>uni2154</string>
+      <key>verticallinebelowcomb</key>
+      <string>uni0329</string>
       <key>zeroinferior</key>
       <string>uni2080</string>
       <key>zerosuperior</key>
       <string>uni2070</string>
     </dict>
+    <key>public.skipExportGlyphs</key>
+    <array>
+      <string>uniF000</string>
+    </array>
   </dict>
 </plist>

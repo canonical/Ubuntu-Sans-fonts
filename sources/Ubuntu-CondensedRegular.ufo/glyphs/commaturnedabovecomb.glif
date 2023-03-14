@@ -1,26 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="commaturnedabovecomb" format="2">
   <unicode hex="0312"/>
-  <anchor x="226" y="522" name="_top"/>
-  <anchor x="226" y="780" name="top"/>
+  <anchor x="0" y="522" name="_top"/>
+  <anchor x="0" y="780" name="top"/>
   <outline>
-    <component base="revcommaaccent"/>
+    <contour>
+      <point x="-44" y="611" type="curve"/>
+      <point x="18" y="611" type="line"/>
+      <point x="18" y="617"/>
+      <point x="18" y="624"/>
+      <point x="18" y="630" type="curve" smooth="yes"/>
+      <point x="18" y="671"/>
+      <point x="25" y="712"/>
+      <point x="80" y="743" type="curve"/>
+      <point x="53" y="780" type="line"/>
+      <point x="-15" y="754"/>
+      <point x="-45" y="697"/>
+      <point x="-45" y="633" type="curve" smooth="yes"/>
+      <point x="-45" y="627"/>
+      <point x="-45" y="619"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>revcommaaccent</string>
-        </dict>
-      </array>
-      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <real>423.36</real>
-    </dict>
-  </lib>
 </glyph>

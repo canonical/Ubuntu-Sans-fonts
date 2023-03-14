@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FB3.sc" format="2">
+  <advance width="549"/>
+  <anchor x="275" y="-182" name="bottom"/>
+  <anchor x="494" y="10" name="ogonek"/>
+  <anchor x="200" y="575" name="topleft"/>
+  <outline>
+    <component base="alpha.sc"/>
+    <component base="uni1FBE.sc" xOffset="275"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>a.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>a.sc</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

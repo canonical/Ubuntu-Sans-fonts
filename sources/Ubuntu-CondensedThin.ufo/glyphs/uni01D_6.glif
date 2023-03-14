@@ -4,33 +4,16 @@
   <unicode hex="01D6"/>
   <anchor x="224" y="0" name="bottom"/>
   <anchor x="406" y="10" name="ogonek"/>
-  <anchor x="224" y="517" name="top"/>
+  <anchor x="224" y="789" name="top"/>
   <anchor x="430" y="517" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="dieresis_macron" xOffset="66"/>
+    <component base="dieresis_macron" xOffset="224"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>u</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>dieresis_macron</string>
-        </dict>
-      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

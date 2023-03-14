@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eth.sc" format="2">
+  <advance width="615"/>
+  <anchor x="308" y="0" name="bottom"/>
+  <anchor x="308" y="776" name="top"/>
+  <outline>
+    <contour>
+      <point x="231" y="-4" type="curve" smooth="yes"/>
+      <point x="426" y="-4"/>
+      <point x="546" y="103"/>
+      <point x="546" y="288" type="curve" smooth="yes"/>
+      <point x="546" y="472"/>
+      <point x="428" y="579"/>
+      <point x="224" y="579" type="curve" smooth="yes"/>
+      <point x="179" y="579"/>
+      <point x="125" y="574"/>
+      <point x="95" y="565" type="curve"/>
+      <point x="95" y="316" type="line"/>
+      <point x="38" y="316" type="line"/>
+      <point x="38" y="285" type="line"/>
+      <point x="95" y="285" type="line"/>
+      <point x="95" y="10" type="line"/>
+      <point x="129" y="2"/>
+      <point x="186" y="-4"/>
+    </contour>
+    <contour>
+      <point x="232" y="27" type="curve" smooth="yes"/>
+      <point x="192" y="27"/>
+      <point x="153" y="30"/>
+      <point x="129" y="34" type="curve"/>
+      <point x="129" y="285" type="line"/>
+      <point x="251" y="285" type="line"/>
+      <point x="251" y="316" type="line"/>
+      <point x="129" y="316" type="line"/>
+      <point x="129" y="541" type="line"/>
+      <point x="151" y="544"/>
+      <point x="193" y="548"/>
+      <point x="225" y="548" type="curve" smooth="yes"/>
+      <point x="409" y="548"/>
+      <point x="510" y="454"/>
+      <point x="510" y="288" type="curve" smooth="yes"/>
+      <point x="510" y="125"/>
+      <point x="410" y="27"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>83</integer>
+        <key>weight</key>
+        <integer>4</integer>
+        <key>width</key>
+        <real>84.5</real>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>o.sc</string>
+    </dict>
+  </lib>
+</glyph>

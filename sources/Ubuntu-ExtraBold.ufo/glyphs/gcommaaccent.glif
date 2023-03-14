@@ -3,32 +3,15 @@
   <advance width="594"/>
   <unicode hex="0123"/>
   <anchor x="297" y="-185" name="bottom"/>
-  <anchor x="297" y="526" name="top"/>
+  <anchor x="316" y="793" name="top"/>
   <outline>
     <component base="g"/>
-    <component base="revcommaaccent" xOffset="208"/>
+    <component base="commaturnedabovecomb" xOffset="316"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>g</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>revcommaaccent</string>
-        </dict>
-      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

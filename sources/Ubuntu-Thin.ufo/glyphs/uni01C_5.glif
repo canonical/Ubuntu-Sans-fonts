@@ -6,12 +6,11 @@
   <anchor x="895" y="0" name="bottom_2"/>
   <anchor x="346" y="347" name="center_1"/>
   <anchor x="895" y="257" name="center_2"/>
-  <anchor x="346" y="693" name="top_1"/>
-  <anchor x="895" y="513" name="top_2"/>
+  <anchor x="331" y="669" name="top_1"/>
+  <anchor x="895" y="751" name="top_2"/>
   <outline>
     <component base="D"/>
-    <component base="z" xOffset="676"/>
-    <component base="caron" xOffset="708"/>
+    <component base="zcaron" xOffset="676"/>
   </outline>
   <lib>
     <dict>
@@ -31,17 +30,15 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>z</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>2</integer>
-          <key>name</key>
-          <string>caron</string>
+          <string>zcaron</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>D</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>z</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

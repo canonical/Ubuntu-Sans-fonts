@@ -4,7 +4,7 @@
   <unicode hex="04F9"/>
   <outline>
     <component base="afii10093"/>
-    <component base="dieresis" xOffset="157"/>
+    <component base="dieresiscomb" xOffset="157"/>
   </outline>
   <lib>
     <dict>
@@ -24,9 +24,11 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>dieresis</string>
+          <string>dieresiscomb</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

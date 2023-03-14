@@ -6,7 +6,7 @@
   <anchor x="103.277" y="680.226" name="top"/>
   <anchor x="222.243" y="693" name="topleft"/>
   <outline>
-    <component base="H" xOffset="202.243"/>
+    <component base="uni1FCC.alt" xOffset="202.243"/>
     <component base="uni1FDE" xOffset="-45.689" yOffset="-75.345"/>
     <component base="uni1FBE" xOffset="287.3"/>
   </outline>
@@ -20,7 +20,7 @@
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>H</string>
+          <string>uni1FCC.alt</string>
         </dict>
         <dict>
           <key>alignment</key>
@@ -39,6 +39,8 @@
           <string>uni1FBE</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

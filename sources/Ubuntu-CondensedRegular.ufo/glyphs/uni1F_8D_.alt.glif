@@ -3,11 +3,10 @@
   <advance width="594.794"/>
   <anchor x="354" y="0" name="bottom"/>
   <anchor x="555" y="10" name="ogonek"/>
-  <anchor x="354" y="693" name="top"/>
+  <anchor x="354" y="673" name="top"/>
   <outline>
-    <component base="A" xOffset="114"/>
+    <component base="uni1FBC.alt" xOffset="114"/>
     <component base="uni1FDE" xOffset="-26" yOffset="-80"/>
-    <component base="uni1FBE" xOffset="216"/>
   </outline>
   <lib>
     <dict>
@@ -19,7 +18,7 @@
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>A</string>
+          <string>uni1FBC.alt</string>
         </dict>
         <dict>
           <key>alignment</key>
@@ -29,15 +28,9 @@
           <key>name</key>
           <string>uni1FDE</string>
         </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>2</integer>
-          <key>name</key>
-          <string>uni1FBE</string>
-        </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

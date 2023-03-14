@@ -1,35 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Dcaron" format="2">
-  <advance width="570.99"/>
+  <advance width="567"/>
   <unicode hex="010E"/>
   <anchor x="284" y="0" name="bottom"/>
   <anchor x="284" y="347" name="center"/>
-  <anchor x="284" y="693" name="top"/>
+  <anchor x="259" y="917" name="top"/>
   <outline>
     <component base="D"/>
-    <component base="caron" xOffset="99" yOffset="154"/>
+    <component base="caroncomb" xOffset="259" yOffset="151"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>D</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>caron</string>
-        </dict>
-      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

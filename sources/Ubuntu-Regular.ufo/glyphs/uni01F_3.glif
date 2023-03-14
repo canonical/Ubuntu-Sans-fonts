@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni01F3" format="2">
-  <advance width="1045.524"/>
+  <advance width="1045"/>
   <unicode hex="01F3"/>
   <anchor x="523" y="518" name="top"/>
   <anchor x="293" y="0" name="bottom_1"/>
-  <anchor x="816" y="0" name="bottom_2"/>
+  <anchor x="815" y="0" name="bottom_2"/>
   <anchor x="293" y="259" name="center_1"/>
-  <anchor x="816" y="259" name="center_2"/>
+  <anchor x="815" y="259" name="center_2"/>
   <anchor x="565" y="776" name="topright"/>
   <outline>
     <component base="d"/>
@@ -33,6 +33,12 @@
           <string>z</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>d</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>z</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,35 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Zacute" format="2">
-  <advance width="565.7"/>
+  <advance width="566"/>
   <unicode hex="0179"/>
   <anchor x="283" y="0" name="bottom"/>
   <anchor x="283" y="347" name="center"/>
-  <anchor x="283" y="693" name="top"/>
+  <anchor x="288" y="931" name="top"/>
   <outline>
     <component base="Z"/>
-    <component base="acute" xOffset="117" yOffset="156"/>
+    <component base="acutecomb" xOffset="291" yOffset="155"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>Z</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>acute</string>
-        </dict>
-      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

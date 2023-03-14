@@ -2,7 +2,7 @@
 <glyph name="afii10095" format="2">
   <advance width="340"/>
   <unicode hex="044D"/>
-  <anchor x="170" y="517" name="top"/>
+  <anchor x="126" y="517" name="top"/>
   <outline>
     <contour>
       <point x="115" y="-9" type="curve" smooth="yes"/>
@@ -36,4 +36,10 @@
       <point x="82" y="-9"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

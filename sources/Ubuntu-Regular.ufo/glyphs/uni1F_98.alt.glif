@@ -3,12 +3,11 @@
   <advance width="770.96"/>
   <anchor x="422" y="0" name="bottom"/>
   <anchor x="422" y="347" name="center"/>
-  <anchor x="422" y="693" name="top"/>
+  <anchor x="422" y="673" name="top"/>
   <anchor x="94" y="693" name="topleft"/>
   <outline>
-    <component base="H" xOffset="74"/>
+    <component base="uni1FCC.alt" xOffset="74"/>
     <component base="uni1FBF" xOffset="-154" yOffset="-77"/>
-    <component base="uni1FBE" xOffset="254"/>
   </outline>
   <lib>
     <dict>
@@ -20,7 +19,7 @@
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>H</string>
+          <string>uni1FCC.alt</string>
         </dict>
         <dict>
           <key>alignment</key>
@@ -30,15 +29,9 @@
           <key>name</key>
           <string>uni1FBF</string>
         </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>2</integer>
-          <key>name</key>
-          <string>uni1FBE</string>
-        </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

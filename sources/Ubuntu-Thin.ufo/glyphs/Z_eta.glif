@@ -4,8 +4,14 @@
   <unicode hex="0396"/>
   <anchor x="272" y="0" name="bottom"/>
   <anchor x="272" y="347" name="center"/>
-  <anchor x="272" y="693" name="top"/>
+  <anchor x="278" y="669" name="top"/>
   <outline>
     <component base="Z"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
 </glyph>

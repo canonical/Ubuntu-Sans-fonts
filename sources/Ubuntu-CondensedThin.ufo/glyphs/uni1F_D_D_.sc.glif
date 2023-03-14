@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FDD.sc" format="2">
+  <advance width="294"/>
+  <anchor x="295" y="575" name="_topleft"/>
+  <outline>
+    <contour>
+      <point x="193" y="411" type="line"/>
+      <point x="212" y="418" type="line"/>
+      <point x="147" y="590" type="line"/>
+      <point x="118" y="577" type="line"/>
+    </contour>
+    <contour>
+      <point x="88" y="422" type="curve"/>
+      <point x="105" y="437" type="line"/>
+      <point x="79" y="461"/>
+      <point x="44" y="489"/>
+      <point x="37" y="531" type="curve"/>
+      <point x="56" y="536"/>
+      <point x="61" y="552"/>
+      <point x="61" y="562" type="curve" smooth="yes"/>
+      <point x="61" y="580"/>
+      <point x="50" y="591"/>
+      <point x="34" y="591" type="curve" smooth="yes"/>
+      <point x="16" y="591"/>
+      <point x="7" y="579"/>
+      <point x="7" y="559" type="curve" smooth="yes"/>
+      <point x="7" y="506"/>
+      <point x="40" y="459"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>dasia.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>psilivaria.sc</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

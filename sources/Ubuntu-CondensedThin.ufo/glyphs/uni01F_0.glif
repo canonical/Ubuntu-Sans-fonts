@@ -2,33 +2,16 @@
 <glyph name="uni01F0" format="2">
   <advance width="196"/>
   <unicode hex="01F0"/>
-  <anchor x="98" y="-186" name="bottom"/>
-  <anchor x="98" y="516" name="top"/>
+  <anchor x="110" y="-185" name="bottom"/>
+  <anchor x="97" y="753" name="top"/>
   <outline>
-    <component base="dotlessj" yOffset="-1"/>
-    <component base="caron" xOffset="-58"/>
+    <component base="dotlessj"/>
+    <component base="caroncomb" xOffset="97"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>dotlessj</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>caron</string>
-        </dict>
-      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

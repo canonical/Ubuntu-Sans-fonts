@@ -2,17 +2,16 @@
 <glyph name="uni01C6" format="2">
   <advance width="842"/>
   <unicode hex="01C6"/>
-  <anchor x="246" y="0" name="bottom_1"/>
-  <anchor x="657" y="0" name="bottom_2"/>
-  <anchor x="246" y="263" name="center_1"/>
-  <anchor x="657" y="263" name="center_2"/>
-  <anchor x="246" y="776" name="top_1"/>
-  <anchor x="662" y="527" name="top_2"/>
-  <anchor x="450" y="776" name="topright"/>
+  <anchor x="248" y="0" name="bottom_1"/>
+  <anchor x="658" y="0" name="bottom_2"/>
+  <anchor x="248" y="263" name="center_1"/>
+  <anchor x="658" y="266" name="center_2"/>
+  <anchor x="248" y="776" name="top_1"/>
+  <anchor x="658" y="792" name="top_2"/>
+  <anchor x="452" y="776" name="topright"/>
   <outline>
-    <component base="d" xOffset="-2"/>
-    <component base="z" xOffset="473"/>
-    <component base="caron" xOffset="507"/>
+    <component base="d"/>
+    <component base="zcaron" xOffset="473"/>
   </outline>
   <lib>
     <dict>
@@ -32,17 +31,15 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>z</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>2</integer>
-          <key>name</key>
-          <string>caron</string>
+          <string>zcaron</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>d</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>z</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

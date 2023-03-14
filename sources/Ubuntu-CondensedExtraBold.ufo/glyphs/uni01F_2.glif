@@ -4,9 +4,9 @@
   <unicode hex="01F2"/>
   <anchor x="465" y="693" name="top"/>
   <anchor x="298" y="0" name="bottom_1"/>
-  <anchor x="744" y="0" name="bottom_2"/>
+  <anchor x="745" y="0" name="bottom_2"/>
   <anchor x="298" y="347" name="center_1"/>
-  <anchor x="744" y="263" name="center_2"/>
+  <anchor x="745" y="266" name="center_2"/>
   <outline>
     <component base="D"/>
     <component base="z" xOffset="560"/>
@@ -32,6 +32,12 @@
           <string>z</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>D</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>z</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

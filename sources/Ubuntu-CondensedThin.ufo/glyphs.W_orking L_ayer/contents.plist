@@ -60,6 +60,8 @@
     <string>W_acute.glif</string>
     <key>acute.asc</key>
     <string>acute.asc.glif</string>
+    <key>acute_greek.sc</key>
+    <string>acute_greek.sc.glif</string>
     <key>ae</key>
     <string>ae.glif</string>
     <key>afii10021</key>
@@ -118,8 +120,6 @@
     <string>circumflex.glif</string>
     <key>circumflex.asc</key>
     <string>circumflex.asc.glif</string>
-    <key>commaaccent</key>
-    <string>commaaccent.glif</string>
     <key>copyright</key>
     <string>copyright.glif</string>
     <key>currency</key>
@@ -136,18 +136,26 @@
     <string>dieresis_breve.glif</string>
     <key>dieresis_breve.cap</key>
     <string>dieresis_breve.cap.glif</string>
+    <key>dieresis_breve.sc</key>
+    <string>dieresis_breve.sc.glif</string>
     <key>dieresis_grave</key>
     <string>dieresis_grave.glif</string>
     <key>dieresis_grave.cap</key>
     <string>dieresis_grave.cap.glif</string>
     <key>dieresis_macron</key>
     <string>dieresis_macron.glif</string>
+    <key>dieresis_macron.sc</key>
+    <string>dieresis_macron.sc.glif</string>
     <key>dot_macron</key>
     <string>dot_macron.glif</string>
+    <key>dot_macron.sc</key>
+    <string>dot_macron.sc.glif</string>
     <key>dotaccent</key>
     <string>dotaccent.glif</string>
     <key>double_grave</key>
     <string>double_grave.glif</string>
+    <key>double_grave.sc</key>
+    <string>double_grave.sc.glif</string>
     <key>eng</key>
     <string>eng.glif</string>
     <key>eogonek</key>
@@ -164,6 +172,8 @@
     <string>germandbls.glif</string>
     <key>grave</key>
     <string>grave.glif</string>
+    <key>grave_greek.sc</key>
+    <string>grave_greek.sc.glif</string>
     <key>guillemotright</key>
     <string>guillemotright.glif</string>
     <key>guilsinglleft</key>
@@ -240,6 +250,8 @@
     <string>tilde.glif</string>
     <key>tilde_macron</key>
     <string>tilde_macron.glif</string>
+    <key>tilde_macron.sc</key>
+    <string>tilde_macron.sc.glif</string>
     <key>trademark</key>
     <string>trademark.glif</string>
     <key>two</key>
@@ -350,18 +362,28 @@
     <string>uni1F_8E_.glif</string>
     <key>uni1FBE</key>
     <string>uni1F_B_E_.glif</string>
+    <key>uni1FBE.sc</key>
+    <string>uni1F_B_E_.sc.glif</string>
     <key>uni1FC1</key>
     <string>uni1F_C_1.glif</string>
     <key>uni1FCE</key>
     <string>uni1F_C_E_.glif</string>
+    <key>uni1FCE.sc</key>
+    <string>uni1F_C_E_.sc.glif</string>
     <key>uni1FCF</key>
     <string>uni1F_C_F_.glif</string>
+    <key>uni1FCF.sc</key>
+    <string>uni1F_C_F_.sc.glif</string>
     <key>uni1FDD</key>
     <string>uni1F_D_D_.glif</string>
+    <key>uni1FDD.sc</key>
+    <string>uni1F_D_D_.sc.glif</string>
     <key>uni20AE</key>
     <string>uni20A_E_.glif</string>
     <key>uni20B9</key>
     <string>uni20B_9.glif</string>
+    <key>uni2117</key>
+    <string>uni2117.glif</string>
     <key>uogonek</key>
     <string>uogonek.glif</string>
     <key>wacute</key>

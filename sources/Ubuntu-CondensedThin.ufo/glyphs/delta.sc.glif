@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="delta.sc" format="2">
+  <advance width="549"/>
+  <outline>
+    <contour>
+      <point x="24" y="0" type="curve"/>
+      <point x="525" y="0" type="line"/>
+      <point x="456" y="185"/>
+      <point x="368" y="406"/>
+      <point x="287" y="575" type="curve"/>
+      <point x="260" y="575" type="line"/>
+      <point x="189" y="425"/>
+      <point x="102" y="212"/>
+    </contour>
+    <contour>
+      <point x="70" y="30" type="line"/>
+      <point x="142" y="225"/>
+      <point x="193" y="357"/>
+      <point x="272" y="536" type="curve"/>
+      <point x="354" y="347"/>
+      <point x="402" y="236"/>
+      <point x="478" y="30" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>83</integer>
+        <key>weight</key>
+        <integer>4</integer>
+        <key>width</key>
+        <real>84.5</real>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>a.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>a.sc</string>
+    </dict>
+  </lib>
+</glyph>

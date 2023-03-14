@@ -3,16 +3,15 @@
   <advance width="1044.498"/>
   <unicode hex="01C6"/>
   <anchor x="293" y="0" name="bottom_1"/>
-  <anchor x="815" y="0" name="bottom_2"/>
+  <anchor x="814" y="0" name="bottom_2"/>
   <anchor x="293" y="259" name="center_1"/>
-  <anchor x="815" y="259" name="center_2"/>
+  <anchor x="814" y="259" name="center_2"/>
   <anchor x="293" y="776" name="top_1"/>
-  <anchor x="815" y="518" name="top_2"/>
+  <anchor x="814" y="768" name="top_2"/>
   <anchor x="565" y="776" name="topright"/>
   <outline>
     <component base="d"/>
-    <component base="z" xOffset="584"/>
-    <component base="caron" xOffset="623"/>
+    <component base="zcaron" xOffset="584"/>
   </outline>
   <lib>
     <dict>
@@ -32,17 +31,15 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>z</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>2</integer>
-          <key>name</key>
-          <string>caron</string>
+          <string>zcaron</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>d</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>z</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>
