@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alphapsilioxiaypogegrammeni.sc" format="2">
+  <advance width="684"/>
+  <anchor x="391" y="-192" name="bottom"/>
+  <anchor x="625" y="10" name="ogonek"/>
+  <anchor x="314" y="580" name="topleft"/>
+  <outline>
+    <component base="alpha.sc" xOffset="97"/>
+    <component base="psilioxia.sc"/>
+    <component base="prosgegrammeni.sc" xOffset="391"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>alpha.sc</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>psilioxia.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>a.sc</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

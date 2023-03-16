@@ -5,7 +5,7 @@
   <anchor x="410" y="589" name="top"/>
   <outline>
     <component base="n.sc"/>
-    <component base="apostrophe" xOffset="-187" yOffset="-99"/>
+    <component base="apostrophemod" xOffset="-187" yOffset="-99"/>
   </outline>
   <lib>
     <dict>
@@ -26,7 +26,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>apostrophe</string>
+          <string>apostrophemod</string>
         </dict>
       </array>
       <key>public.markColor</key>

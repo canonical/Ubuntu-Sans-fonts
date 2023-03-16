@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omicronpsili" format="2">
+  <advance width="585"/>
+  <unicode hex="1F40"/>
+  <anchor x="292" y="0" name="bottom"/>
+  <anchor x="292" y="259" name="center"/>
+  <anchor x="527" y="10" name="ogonek"/>
+  <anchor x="292" y="518" name="top"/>
+  <anchor x="565" y="518" name="topright"/>
+  <outline>
+    <component base="o"/>
+    <component base="psili" xOffset="108"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

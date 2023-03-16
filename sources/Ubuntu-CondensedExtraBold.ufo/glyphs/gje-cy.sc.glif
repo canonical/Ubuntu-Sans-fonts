@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gje-cy.sc" format="2">
+  <advance width="546"/>
+  <anchor x="526" y="0" name="bottomright"/>
+  <anchor x="303" y="835" name="top"/>
+  <outline>
+    <component base="ge-cy.sc"/>
+    <component base="acutecomb.sc" xOffset="303"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>85</integer>
+        <key>weight</key>
+        <integer>-11</integer>
+        <key>width</key>
+        <integer>87</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>h.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>afii10020.c2sc</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

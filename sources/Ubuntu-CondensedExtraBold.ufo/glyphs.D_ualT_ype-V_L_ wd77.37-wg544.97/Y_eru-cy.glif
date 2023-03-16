@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yeru-cy" format="2">
+  <advance width="821"/>
+  <unicode hex="042B"/>
+  <anchor x="410.868" y="693" name="top"/>
+  <outline>
+    <contour>
+      <point x="240.684" y="-8.743" type="curve" smooth="yes"/>
+      <point x="384.433" y="-8.743"/>
+      <point x="498.36" y="55.962"/>
+      <point x="498.36" y="221.444" type="curve" smooth="yes"/>
+      <point x="498.36" y="391.246"/>
+      <point x="393.916" y="454.184"/>
+      <point x="232" y="454.184" type="curve" smooth="yes"/>
+      <point x="225.154" y="454.184"/>
+      <point x="230.725" y="455.737"/>
+      <point x="220.255" y="456.678" type="curve"/>
+      <point x="220.255" y="693" type="line"/>
+      <point x="78.444" y="693" type="line"/>
+      <point x="78.444" y="12.121" type="line"/>
+      <point x="139.944" y="-1.518"/>
+      <point x="191.666" y="-8.743"/>
+    </contour>
+    <contour>
+      <point x="245.868" y="113.071" type="curve" smooth="yes"/>
+      <point x="237.758" y="113.071"/>
+      <point x="230.077" y="111.906"/>
+      <point x="220.255" y="112.775" type="curve"/>
+      <point x="220.255" y="334.864" type="line"/>
+      <point x="225.947" y="333.923"/>
+      <point x="226.004" y="332.37"/>
+      <point x="218.373" y="332.37" type="curve" smooth="yes"/>
+      <point x="310.738" y="332.37"/>
+      <point x="351.126" y="301.778"/>
+      <point x="351.126" y="221.444" type="curve" smooth="yes"/>
+      <point x="351.126" y="141.982"/>
+      <point x="310.877" y="113.071"/>
+    </contour>
+    <contour>
+      <point x="600.868" y="0" type="line"/>
+      <point x="742.679" y="0" type="line"/>
+      <point x="742.679" y="693" type="line"/>
+      <point x="600.868" y="693" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

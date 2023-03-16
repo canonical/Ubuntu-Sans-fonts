@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alphamacron.sc" format="2">
+  <advance width="655"/>
+  <anchor x="328" y="0" name="bottom"/>
+  <anchor x="590" y="10" name="ogonek"/>
+  <anchor x="191" y="589" name="topleft"/>
+  <outline>
+    <component base="alpha.sc"/>
+    <component base="macroncomb.sc" xOffset="328"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>85</integer>
+        <key>weight</key>
+        <integer>-11</integer>
+        <key>width</key>
+        <integer>87</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>a.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>a.sc</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

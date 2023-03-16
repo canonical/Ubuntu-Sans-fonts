@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="edieresis-cy.sc" format="2">
+  <advance width="523"/>
+  <anchor x="202" y="731" name="top"/>
+  <outline>
+    <component base="ereversed-cy.sc"/>
+    <component base="dieresiscomb.sc" xOffset="202"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=ereversed-cy.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>o.sc</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

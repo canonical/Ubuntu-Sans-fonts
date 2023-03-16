@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Alphapsiliperispomeniprosgegrammeni.alt" format="2">
+  <advance width="533"/>
+  <anchor x="311.915" y="0" name="bottom"/>
+  <anchor x="496.192" y="10" name="ogonek"/>
+  <anchor x="90.655" y="759.622" name="top"/>
+  <outline>
+    <component base="Alphaprosgegrammeni.alt" xOffset="79.983"/>
+    <component base="psiliperispomeni" xOffset="-66.345" yOffset="-111.345"/>
+    <component base="prosgegrammeni" xOffset="121.023"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Alphaprosgegrammeni.alt</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>psiliperispomeni</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>prosgegrammeni</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

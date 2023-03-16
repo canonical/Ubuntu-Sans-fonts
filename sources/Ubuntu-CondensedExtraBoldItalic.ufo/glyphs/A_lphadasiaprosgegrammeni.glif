@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Alphadasiaprosgegrammeni" format="2">
+  <advance width="774"/>
+  <unicode hex="1F89"/>
+  <outline>
+    <component base="A" xOffset="36"/>
+    <component base="iota" xOffset="498.715"/>
+    <component base="dasia" xOffset="-104.285" yOffset="-89"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>A</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>iota</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>dasia</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

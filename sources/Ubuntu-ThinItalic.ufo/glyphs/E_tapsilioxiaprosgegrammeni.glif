@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etapsilioxiaprosgegrammeni" format="2">
+  <advance width="1087"/>
+  <unicode hex="1F9C"/>
+  <outline>
+    <component base="iota" xOffset="874"/>
+    <component base="H" xOffset="231"/>
+    <component base="psilioxia" xOffset="-50" yOffset="-74"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>iota</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>H</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>psilioxia</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="etadasiaoxiaypogegrammeni.sc" format="2">
+  <advance width="791"/>
+  <anchor x="490" y="0" name="bottom"/>
+  <anchor x="490" y="288" name="center"/>
+  <anchor x="281" y="575" name="topleft"/>
+  <outline>
+    <component base="eta.sc" xOffset="189"/>
+    <component base="dasiaoxia.sc"/>
+    <component base="prosgegrammeni" xOffset="303"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>eta.sc</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>dasiaoxia.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>h.sc</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

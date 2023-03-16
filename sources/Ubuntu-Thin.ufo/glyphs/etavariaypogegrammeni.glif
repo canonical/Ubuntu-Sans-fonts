@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="etavariaypogegrammeni" format="2">
+  <advance width="562"/>
+  <unicode hex="1FC2"/>
+  <anchor x="112" y="0" name="bottom"/>
+  <anchor x="281" y="513" name="top"/>
+  <outline>
+    <component base="eta"/>
+    <component base="prosgegrammeni" xOffset="-99"/>
+    <component base="varia" xOffset="72"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

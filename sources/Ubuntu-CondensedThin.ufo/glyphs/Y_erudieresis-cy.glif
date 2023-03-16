@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yerudieresis-cy" format="2">
+  <advance width="670"/>
+  <unicode hex="04F8"/>
+  <anchor x="333" y="852" name="top"/>
+  <outline>
+    <component base="Yeru-cy"/>
+    <component base="dieresiscomb" xOffset="333" yOffset="151"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

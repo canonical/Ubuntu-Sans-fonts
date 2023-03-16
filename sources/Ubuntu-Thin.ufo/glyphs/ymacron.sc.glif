@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ymacron.sc" format="2">
+  <advance width="481"/>
+  <anchor x="241" y="0" name="bottom"/>
+  <anchor x="241" y="721" name="top"/>
+  <anchor x="20" y="575" name="topleft"/>
+  <outline>
+    <component base="y.sc"/>
+    <component base="macroncomb.sc" xOffset="241"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>y.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>y.sc</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

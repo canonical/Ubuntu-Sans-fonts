@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alphapsiliypogegrammeni" format="2">
+  <advance width="446"/>
+  <unicode hex="1F80"/>
+  <anchor x="231" y="0" name="bottom"/>
+  <anchor x="222" y="517" name="top"/>
+  <outline>
+    <component base="alpha"/>
+    <component base="prosgegrammeni" xOffset="44"/>
+    <component base="psili" xOffset="70"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

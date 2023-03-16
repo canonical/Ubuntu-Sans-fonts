@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qhooktail" format="2">
+  <advance width="450.042"/>
+  <unicode hex="024B"/>
+  <anchor x="225" y="0" name="bottom"/>
+  <anchor x="225" y="522" name="top"/>
+  <outline>
+    <contour>
+      <point x="424" y="-188" type="curve" smooth="yes"/>
+      <point x="442" y="-188"/>
+      <point x="464" y="-185"/>
+      <point x="483" y="-177" type="curve"/>
+      <point x="473" y="-121" type="line"/>
+      <point x="460" y="-125"/>
+      <point x="446" y="-127"/>
+      <point x="432" y="-127" type="curve" smooth="yes"/>
+      <point x="397" y="-127"/>
+      <point x="378" y="-103"/>
+      <point x="378" y="-44" type="curve" smooth="yes"/>
+      <point x="378" y="508" type="line"/>
+      <point x="333" y="524"/>
+      <point x="293" y="533"/>
+      <point x="243" y="533" type="curve" smooth="yes"/>
+      <point x="106" y="533"/>
+      <point x="50" y="429"/>
+      <point x="50" y="262" type="curve" smooth="yes"/>
+      <point x="50" y="68"/>
+      <point x="123" y="-10"/>
+      <point x="226" y="-10" type="curve" smooth="yes"/>
+      <point x="260" y="-10"/>
+      <point x="291" y="0"/>
+      <point x="309" y="13" type="curve"/>
+      <point x="309" y="-53" type="line" smooth="yes"/>
+      <point x="309" y="-151"/>
+      <point x="354" y="-188"/>
+    </contour>
+    <contour>
+      <point x="236" y="50" type="curve" smooth="yes"/>
+      <point x="183" y="50"/>
+      <point x="122" y="82"/>
+      <point x="122" y="262" type="curve" smooth="yes"/>
+      <point x="122" y="426"/>
+      <point x="166" y="473"/>
+      <point x="244" y="473" type="curve" smooth="yes"/>
+      <point x="270" y="473"/>
+      <point x="293" y="468"/>
+      <point x="309" y="460" type="curve"/>
+      <point x="309" y="73" type="line"/>
+      <point x="293" y="59"/>
+      <point x="265" y="50"/>
+    </contour>
+  </outline>
+</glyph>

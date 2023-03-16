@@ -10,7 +10,8 @@
   <anchor x="461" y="776" name="top_2"/>
   <anchor x="594" y="776" name="topright"/>
   <outline>
-    <component base="f_l"/>
+    <component base="f"/>
+    <component base="l" xOffset="336"/>
   </outline>
   <lib>
     <dict>
@@ -22,7 +23,15 @@
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>f_l</string>
+          <string>f</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>l</string>
         </dict>
       </array>
     </dict>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ge-cy.sc" format="2">
+  <advance width="466"/>
+  <anchor x="446" y="0" name="bottomright"/>
+  <anchor x="253" y="580" name="top"/>
+  <outline>
+    <contour>
+      <point x="86" y="0" type="line"/>
+      <point x="162" y="0" type="line"/>
+      <point x="162" y="517" type="line"/>
+      <point x="435" y="517" type="line"/>
+      <point x="435" y="580" type="line"/>
+      <point x="86" y="580" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>84</integer>
+        <key>weight</key>
+        <integer>-8</integer>
+        <key>width</key>
+        <integer>89</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>h.sc</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

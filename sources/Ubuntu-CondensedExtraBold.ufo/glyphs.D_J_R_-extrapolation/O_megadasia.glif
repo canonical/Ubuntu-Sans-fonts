@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omegadasia" format="2">
+  <advance width="657"/>
+  <unicode hex="1F69"/>
+  <anchor x="347" y="0" name="bottom"/>
+  <anchor x="58" y="693" name="topleft"/>
+  <outline>
+    <component base="Omega" xOffset="38"/>
+    <component base="dasia" xOffset="-118" yOffset="-69"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Omega</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dasia</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

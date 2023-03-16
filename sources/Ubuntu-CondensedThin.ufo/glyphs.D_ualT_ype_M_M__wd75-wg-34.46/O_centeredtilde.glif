@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ocenteredtilde" format="2">
+  <advance width="582"/>
+  <unicode hex="019F"/>
+  <unicode hex="0275"/>
+  <outline>
+    <contour>
+      <point x="291.294" y="-6.638" type="curve" smooth="yes"/>
+      <point x="478.689" y="-6.638"/>
+      <point x="518.899" y="166.118"/>
+      <point x="518.899" y="344.328" type="curve" smooth="yes"/>
+      <point x="518.899" y="521.865"/>
+      <point x="475.345" y="700.638"/>
+      <point x="291.294" y="700.638" type="curve" smooth="yes"/>
+      <point x="107.243" y="700.638"/>
+      <point x="62.689" y="521.865"/>
+      <point x="62.689" y="344.328" type="curve" smooth="yes"/>
+      <point x="62.689" y="166.118"/>
+      <point x="103.899" y="-6.638"/>
+    </contour>
+    <contour>
+      <point x="291.294" y="27.209" type="curve" smooth="yes"/>
+      <point x="169.226" y="27.209"/>
+      <point x="100.142" y="149.622"/>
+      <point x="101.831" y="334.068" type="curve"/>
+      <point x="480.429" y="334.068" type="line"/>
+      <point x="482.118" y="144.605"/>
+      <point x="409.345" y="27.209"/>
+    </contour>
+    <contour>
+      <point x="100.159" y="359.932" type="line"/>
+      <point x="101.142" y="540.706"/>
+      <point x="170.899" y="666.791"/>
+      <point x="291.294" y="666.791" type="curve" smooth="yes"/>
+      <point x="411.689" y="666.791"/>
+      <point x="478.774" y="539.034"/>
+      <point x="478.757" y="359.932" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,26 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Delta" format="2">
   <advance width="502"/>
-  <unicode hex="2206"/>
+  <unicode hex="0394"/>
   <outline>
-    <contour>
-      <point x="8" y="0" type="curve"/>
-      <point x="494" y="0" type="line"/>
-      <point x="451" y="220"/>
-      <point x="395" y="457"/>
-      <point x="322" y="693" type="curve"/>
-      <point x="180" y="693" type="line"/>
-      <point x="107" y="457"/>
-      <point x="51" y="220"/>
-    </contour>
-    <contour>
-      <point x="169" y="119" type="line"/>
-      <point x="189" y="246"/>
-      <point x="219" y="402"/>
-      <point x="252" y="544" type="curve"/>
-      <point x="285" y="409"/>
-      <point x="316" y="252"/>
-      <point x="338" y="119" type="curve"/>
-    </contour>
+    <component base="increment"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>increment</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

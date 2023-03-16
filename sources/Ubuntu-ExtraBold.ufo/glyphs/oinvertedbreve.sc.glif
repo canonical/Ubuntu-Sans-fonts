@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oinvertedbreve.sc" format="2">
+  <advance width="701"/>
+  <anchor x="351" y="0" name="bottom"/>
+  <anchor x="351" y="295" name="center"/>
+  <anchor x="631" y="10" name="ogonek"/>
+  <anchor x="351" y="826" name="top"/>
+  <anchor x="20" y="589" name="topleft"/>
+  <anchor x="681" y="589" name="topright"/>
+  <outline>
+    <component base="o.sc"/>
+    <component base="breveinvertedcomb.sc" xOffset="351"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>85</integer>
+        <key>weight</key>
+        <integer>-11</integer>
+        <key>width</key>
+        <integer>87</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>o.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>o.sc</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -2,6 +2,28 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>iotadialytikaoxia</key>
+    <dict>
+      <key>public.kern2.GRK_beta_LC</key>
+      <integer>20</integer>
+      <key>public.kern2.GRK_lambda_LC</key>
+      <integer>62</integer>
+      <key>public.kern2.GRK_theta_LC</key>
+      <integer>10</integer>
+      <key>public.kern2.GRK_zeta_LC</key>
+      <integer>41</integer>
+    </dict>
+    <key>iotadialytikavaria</key>
+    <dict>
+      <key>public.kern2.GRK_beta_LC</key>
+      <integer>20</integer>
+      <key>public.kern2.GRK_lambda_LC</key>
+      <integer>52</integer>
+      <key>public.kern2.GRK_theta_LC</key>
+      <integer>21</integer>
+      <key>public.kern2.GRK_zeta_LC</key>
+      <integer>42</integer>
+    </dict>
     <key>iotadieresistonos</key>
     <dict>
       <key>public.kern2.GRK_beta_LC</key>
@@ -258,8 +280,6 @@
     </dict>
     <key>public.kern1.CYR_afii10020_UC_FIRST</key>
     <dict>
-      <key>afii10104</key>
-      <integer>39</integer>
       <key>public.kern2.CYR_afii10017_UC</key>
       <integer>-120</integer>
       <key>public.kern2.CYR_afii10021_UC</key>
@@ -422,7 +442,9 @@
       <integer>-65</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-60</integer>
-      <key>uni04DF</key>
+      <key>yi-cy</key>
+      <integer>39</integer>
+      <key>zedieresis-cy</key>
       <integer>-8</integer>
     </dict>
     <key>public.kern1.CYR_afii10021_UC</key>
@@ -1061,8 +1083,12 @@
     </dict>
     <key>public.kern1.CYR_afii10036_UC_FIRST</key>
     <dict>
-      <key>afii10104</key>
-      <integer>47</integer>
+      <key>edieresis-cy</key>
+      <integer>-4</integer>
+      <key>obarreddieresis-cy</key>
+      <integer>-69</integer>
+      <key>odieresis-cy</key>
+      <integer>-66</integer>
       <key>public.kern2.CYR_afii10017_UC</key>
       <integer>-75</integer>
       <key>public.kern2.CYR_afii10021_UC</key>
@@ -1213,21 +1239,17 @@
       <integer>-45</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-70</integer>
-      <key>uni04DF</key>
-      <integer>1</integer>
-      <key>uni04E7</key>
-      <integer>-66</integer>
-      <key>uni04EB</key>
-      <integer>-69</integer>
-      <key>uni04ED</key>
-      <integer>-4</integer>
-      <key>uni04F1</key>
+      <key>udieresis-cy</key>
       <integer>-19</integer>
+      <key>yi-cy</key>
+      <integer>47</integer>
+      <key>zedieresis-cy</key>
+      <integer>1</integer>
     </dict>
     <key>public.kern1.CYR_afii10037_UC_FIRST</key>
     <dict>
-      <key>afii10104</key>
-      <integer>70</integer>
+      <key>edieresis-cy</key>
+      <integer>12</integer>
       <key>public.kern2.CYR_afii10017_UC</key>
       <integer>-56</integer>
       <key>public.kern2.CYR_afii10021_UC</key>
@@ -1378,10 +1400,10 @@
       <integer>-68</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-60</integer>
-      <key>uni04DF</key>
+      <key>yi-cy</key>
+      <integer>70</integer>
+      <key>zedieresis-cy</key>
       <integer>13</integer>
-      <key>uni04ED</key>
-      <integer>12</integer>
     </dict>
     <key>public.kern1.CYR_afii10038_UC</key>
     <dict>
@@ -4784,10 +4806,20 @@
     </dict>
     <key>public.kern1.GRK_Chi_UC</key>
     <dict>
+      <key>iotadasiaoxia</key>
+      <integer>-1</integer>
+      <key>iotadasiavaria</key>
+      <integer>15</integer>
+      <key>iotadialytikaoxia</key>
+      <integer>41</integer>
+      <key>iotadialytikavaria</key>
+      <integer>41</integer>
       <key>iotadieresis</key>
       <integer>8</integer>
       <key>iotadieresistonos</key>
       <integer>39</integer>
+      <key>iotapsilivaria</key>
+      <integer>-1</integer>
       <key>public.kern2.GRK_Omicron_UC_SECOND</key>
       <integer>-35</integer>
       <key>public.kern2.GRK_Phi_UC</key>
@@ -4872,16 +4904,6 @@
       <integer>37</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>32</integer>
-      <key>uni1F32</key>
-      <integer>-1</integer>
-      <key>uni1F33</key>
-      <integer>15</integer>
-      <key>uni1F35</key>
-      <integer>-1</integer>
-      <key>uni1FD2</key>
-      <integer>41</integer>
-      <key>uni1FD3</key>
-      <integer>41</integer>
     </dict>
     <key>public.kern1.GRK_Delta_UC</key>
     <dict>
@@ -4972,6 +4994,10 @@
     </dict>
     <key>public.kern1.GRK_Epsilon_UC_FIRST</key>
     <dict>
+      <key>iotadialytikaoxia</key>
+      <integer>41</integer>
+      <key>iotadialytikavaria</key>
+      <integer>32</integer>
       <key>iotadieresistonos</key>
       <integer>47</integer>
       <key>public.kern2.GRK_Alpha_UC_SECOND</key>
@@ -4996,13 +5022,13 @@
       <integer>35</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>20</integer>
-      <key>uni1FD2</key>
-      <integer>32</integer>
-      <key>uni1FD3</key>
-      <integer>41</integer>
     </dict>
     <key>public.kern1.GRK_Eta_UC_FIRST</key>
     <dict>
+      <key>iotadialytikaoxia</key>
+      <integer>21</integer>
+      <key>iotadialytikavaria</key>
+      <integer>21</integer>
       <key>iotadieresistonos</key>
       <integer>21</integer>
       <key>public.kern2.GRK_phi_LC</key>
@@ -5011,17 +5037,37 @@
       <integer>-11</integer>
       <key>public.kern2.PUNCT_quoteright</key>
       <integer>10</integer>
-      <key>uni1FD2</key>
-      <integer>21</integer>
-      <key>uni1FD3</key>
-      <integer>21</integer>
     </dict>
     <key>public.kern1.GRK_Gamma_UC</key>
     <dict>
+      <key>iotadasiaoxia</key>
+      <integer>1</integer>
+      <key>iotadasiavaria</key>
+      <integer>42</integer>
+      <key>iotadialytikaoxia</key>
+      <integer>52</integer>
+      <key>iotadialytikaperispomeni</key>
+      <integer>10</integer>
+      <key>iotadialytikavaria</key>
+      <integer>42</integer>
       <key>iotadieresis</key>
       <integer>23</integer>
       <key>iotadieresistonos</key>
       <integer>63</integer>
+      <key>iotamacron</key>
+      <integer>10</integer>
+      <key>iotaoxia</key>
+      <integer>-50</integer>
+      <key>iotaperispomeni</key>
+      <integer>-70</integer>
+      <key>iotapsilioxia</key>
+      <integer>1</integer>
+      <key>iotapsilivaria</key>
+      <integer>32</integer>
+      <key>iotavaria</key>
+      <integer>-10</integer>
+      <key>iotavrachy</key>
+      <integer>-21</integer>
       <key>public.kern2.GRK_Alpha_UC_SECOND</key>
       <integer>-120</integer>
       <key>public.kern2.GRK_Chi_UC</key>
@@ -5128,52 +5174,50 @@
       <integer>-65</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-60</integer>
-      <key>uni1F32</key>
-      <integer>32</integer>
-      <key>uni1F33</key>
-      <integer>42</integer>
-      <key>uni1F34</key>
-      <integer>1</integer>
-      <key>uni1F35</key>
-      <integer>1</integer>
-      <key>uni1F76</key>
-      <integer>-10</integer>
-      <key>uni1F77</key>
-      <integer>-50</integer>
-      <key>uni1FD0</key>
-      <integer>-21</integer>
-      <key>uni1FD1</key>
-      <integer>10</integer>
-      <key>uni1FD2</key>
-      <integer>42</integer>
-      <key>uni1FD3</key>
-      <integer>52</integer>
-      <key>uni1FD6</key>
-      <integer>-70</integer>
-      <key>uni1FD7</key>
-      <integer>10</integer>
-      <key>uni1FE2</key>
+      <key>upsilondialytikavaria</key>
       <integer>-40</integer>
     </dict>
     <key>public.kern1.GRK_Iota_UC_FIRST</key>
     <dict>
+      <key>iotadialytikaoxia</key>
+      <integer>21</integer>
+      <key>iotadialytikavaria</key>
+      <integer>21</integer>
       <key>iotadieresistonos</key>
       <integer>21</integer>
       <key>public.kern2.GRK_zeta_LC</key>
       <integer>-15</integer>
       <key>public.kern2.PUNCT_quoteright</key>
       <integer>10</integer>
-      <key>uni1FD2</key>
-      <integer>21</integer>
-      <key>uni1FD3</key>
-      <integer>21</integer>
     </dict>
     <key>public.kern1.GRK_Kappa_UC</key>
     <dict>
+      <key>iotadasiaoxia</key>
+      <integer>10</integer>
+      <key>iotadasiavaria</key>
+      <integer>41</integer>
+      <key>iotadialytikaoxia</key>
+      <integer>62</integer>
+      <key>iotadialytikaperispomeni</key>
+      <integer>16</integer>
+      <key>iotadialytikavaria</key>
+      <integer>73</integer>
       <key>iotadieresis</key>
       <integer>23</integer>
       <key>iotadieresistonos</key>
       <integer>63</integer>
+      <key>iotamacron</key>
+      <integer>10</integer>
+      <key>iotaperispomeni</key>
+      <integer>-5</integer>
+      <key>iotapsilioxia</key>
+      <integer>-30</integer>
+      <key>iotapsilivaria</key>
+      <integer>10</integer>
+      <key>iotavaria</key>
+      <integer>-11</integer>
+      <key>iotavrachy</key>
+      <integer>-10</integer>
       <key>public.kern2.GRK_Alpha_UC_SECOND</key>
       <integer>20</integer>
       <key>public.kern2.GRK_Chi_UC</key>
@@ -5276,28 +5320,6 @@
       <integer>30</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>40</integer>
-      <key>uni1F32</key>
-      <integer>10</integer>
-      <key>uni1F33</key>
-      <integer>41</integer>
-      <key>uni1F34</key>
-      <integer>-30</integer>
-      <key>uni1F35</key>
-      <integer>10</integer>
-      <key>uni1F76</key>
-      <integer>-11</integer>
-      <key>uni1FD0</key>
-      <integer>-10</integer>
-      <key>uni1FD1</key>
-      <integer>10</integer>
-      <key>uni1FD2</key>
-      <integer>73</integer>
-      <key>uni1FD3</key>
-      <integer>62</integer>
-      <key>uni1FD6</key>
-      <integer>-5</integer>
-      <key>uni1FD7</key>
-      <integer>16</integer>
     </dict>
     <key>public.kern1.GRK_Lambda_UC</key>
     <dict>
@@ -5421,6 +5443,10 @@
     </dict>
     <key>public.kern1.GRK_Nu_UC</key>
     <dict>
+      <key>iotadialytikaoxia</key>
+      <integer>19</integer>
+      <key>iotadialytikavaria</key>
+      <integer>19</integer>
       <key>iotadieresistonos</key>
       <integer>19</integer>
       <key>public.kern2.GRK_lambda_LC</key>
@@ -5431,10 +5457,6 @@
       <integer>-10</integer>
       <key>public.kern2.PUNCT_quoteright</key>
       <integer>10</integer>
-      <key>uni1FD2</key>
-      <integer>19</integer>
-      <key>uni1FD3</key>
-      <integer>19</integer>
     </dict>
     <key>public.kern1.GRK_Omega_UC_FIRST</key>
     <dict>
@@ -5543,19 +5565,27 @@
     </dict>
     <key>public.kern1.GRK_Pi_UC</key>
     <dict>
+      <key>iotadialytikaoxia</key>
+      <integer>21</integer>
+      <key>iotadialytikavaria</key>
+      <integer>21</integer>
       <key>iotadieresistonos</key>
       <integer>19</integer>
-      <key>uni1FD2</key>
-      <integer>21</integer>
-      <key>uni1FD3</key>
-      <integer>21</integer>
     </dict>
     <key>public.kern1.GRK_Psi_UC</key>
     <dict>
+      <key>iotadasiavaria</key>
+      <integer>5</integer>
+      <key>iotadialytikaoxia</key>
+      <integer>31</integer>
+      <key>iotadialytikavaria</key>
+      <integer>31</integer>
       <key>iotadieresis</key>
       <integer>-10</integer>
       <key>iotadieresistonos</key>
       <integer>32</integer>
+      <key>iotapsilivaria</key>
+      <integer>5</integer>
       <key>public.kern2.GRK_Alpha_UC_SECOND</key>
       <integer>-40</integer>
       <key>public.kern2.GRK_Beta_UC</key>
@@ -5640,14 +5670,6 @@
       <integer>-40</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-39</integer>
-      <key>uni1F32</key>
-      <integer>5</integer>
-      <key>uni1F33</key>
-      <integer>5</integer>
-      <key>uni1FD2</key>
-      <integer>31</integer>
-      <key>uni1FD3</key>
-      <integer>31</integer>
     </dict>
     <key>public.kern1.GRK_Rho_UC</key>
     <dict>
@@ -5732,10 +5754,28 @@
     </dict>
     <key>public.kern1.GRK_Sigma_UC</key>
     <dict>
+      <key>iotadasiaoxia</key>
+      <integer>17</integer>
+      <key>iotadasiavaria</key>
+      <integer>27</integer>
+      <key>iotadialytikaoxia</key>
+      <integer>57</integer>
+      <key>iotadialytikaperispomeni</key>
+      <integer>7</integer>
+      <key>iotadialytikavaria</key>
+      <integer>57</integer>
       <key>iotadieresis</key>
       <integer>24</integer>
       <key>iotadieresistonos</key>
       <integer>52</integer>
+      <key>iotamacron</key>
+      <integer>7</integer>
+      <key>iotaperispomeni</key>
+      <integer>7</integer>
+      <key>iotapsilioxia</key>
+      <integer>7</integer>
+      <key>iotapsilivaria</key>
+      <integer>17</integer>
       <key>public.kern2.GRK_Alpha_UC_SECOND</key>
       <integer>10</integer>
       <key>public.kern2.GRK_Chi_UC</key>
@@ -5814,31 +5854,39 @@
       <integer>20</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>10</integer>
-      <key>uni1F32</key>
-      <integer>17</integer>
-      <key>uni1F33</key>
-      <integer>27</integer>
-      <key>uni1F34</key>
-      <integer>7</integer>
-      <key>uni1F35</key>
-      <integer>17</integer>
-      <key>uni1FD1</key>
-      <integer>7</integer>
-      <key>uni1FD2</key>
-      <integer>57</integer>
-      <key>uni1FD3</key>
-      <integer>57</integer>
-      <key>uni1FD6</key>
-      <integer>7</integer>
-      <key>uni1FD7</key>
-      <integer>7</integer>
     </dict>
     <key>public.kern1.GRK_Tau_UC</key>
     <dict>
+      <key>iotadasiaoxia</key>
+      <integer>32</integer>
+      <key>iotadasiavaria</key>
+      <integer>52</integer>
+      <key>iotadialytikaoxia</key>
+      <integer>83</integer>
+      <key>iotadialytikaperispomeni</key>
+      <integer>21</integer>
+      <key>iotadialytikavaria</key>
+      <integer>83</integer>
       <key>iotadieresis</key>
       <integer>47</integer>
       <key>iotadieresistonos</key>
       <integer>86</integer>
+      <key>iotamacron</key>
+      <integer>42</integer>
+      <key>iotaoxia</key>
+      <integer>-20</integer>
+      <key>iotaperispomeni</key>
+      <integer>32</integer>
+      <key>iotapsili</key>
+      <integer>-50</integer>
+      <key>iotapsilioxia</key>
+      <integer>21</integer>
+      <key>iotapsilivaria</key>
+      <integer>52</integer>
+      <key>iotavaria</key>
+      <integer>3</integer>
+      <key>iotavrachy</key>
+      <integer>10</integer>
       <key>public.kern2.GRK_Alpha_UC_SECOND</key>
       <integer>-76</integer>
       <key>public.kern2.GRK_Chi_UC</key>
@@ -5941,36 +5989,10 @@
       <integer>-45</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-70</integer>
-      <key>uni1F30</key>
-      <integer>-50</integer>
-      <key>uni1F32</key>
-      <integer>52</integer>
-      <key>uni1F33</key>
-      <integer>52</integer>
-      <key>uni1F34</key>
-      <integer>21</integer>
-      <key>uni1F35</key>
-      <integer>32</integer>
-      <key>uni1F76</key>
-      <integer>3</integer>
-      <key>uni1F77</key>
-      <integer>-20</integer>
-      <key>uni1FD0</key>
-      <integer>10</integer>
-      <key>uni1FD1</key>
-      <integer>42</integer>
-      <key>uni1FD2</key>
-      <integer>83</integer>
-      <key>uni1FD3</key>
-      <integer>83</integer>
-      <key>uni1FD6</key>
-      <integer>32</integer>
-      <key>uni1FD7</key>
-      <integer>21</integer>
-      <key>uni1FE2</key>
-      <integer>-21</integer>
-      <key>uni1FE3</key>
+      <key>upsilondialytikaoxia</key>
       <integer>-31</integer>
+      <key>upsilondialytikavaria</key>
+      <integer>-21</integer>
       <key>upsilondieresistonos</key>
       <integer>-24</integer>
     </dict>
@@ -6019,10 +6041,32 @@
     </dict>
     <key>public.kern1.GRK_Upsilon_UC_FIRST</key>
     <dict>
+      <key>iotadasiaoxia</key>
+      <integer>13</integer>
+      <key>iotadasiavaria</key>
+      <integer>42</integer>
+      <key>iotadialytikaoxia</key>
+      <integer>63</integer>
+      <key>iotadialytikaperispomeni</key>
+      <integer>18</integer>
+      <key>iotadialytikavaria</key>
+      <integer>66</integer>
       <key>iotadieresis</key>
       <integer>39</integer>
       <key>iotadieresistonos</key>
       <integer>70</integer>
+      <key>iotamacron</key>
+      <integer>21</integer>
+      <key>iotaperispomeni</key>
+      <integer>4</integer>
+      <key>iotapsilioxia</key>
+      <integer>11</integer>
+      <key>iotapsilivaria</key>
+      <integer>23</integer>
+      <key>iotavaria</key>
+      <integer>-35</integer>
+      <key>iotavrachy</key>
+      <integer>-7</integer>
       <key>public.kern2.GRK_Alpha_UC_SECOND</key>
       <integer>-70</integer>
       <key>public.kern2.GRK_Delta_UC</key>
@@ -6133,50 +6177,38 @@
       <integer>-55</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-50</integer>
-      <key>uni1F32</key>
-      <integer>23</integer>
-      <key>uni1F33</key>
-      <integer>42</integer>
-      <key>uni1F34</key>
-      <integer>11</integer>
-      <key>uni1F35</key>
-      <integer>13</integer>
-      <key>uni1F76</key>
-      <integer>-35</integer>
-      <key>uni1FD0</key>
-      <integer>-7</integer>
-      <key>uni1FD1</key>
-      <integer>21</integer>
-      <key>uni1FD2</key>
-      <integer>66</integer>
-      <key>uni1FD3</key>
-      <integer>63</integer>
-      <key>uni1FD6</key>
-      <integer>4</integer>
-      <key>uni1FD7</key>
-      <integer>18</integer>
     </dict>
     <key>public.kern1.GRK_Xi_UC</key>
     <dict>
+      <key>iotadialytikaoxia</key>
+      <integer>41</integer>
+      <key>iotadialytikavaria</key>
+      <integer>41</integer>
       <key>iotadieresistonos</key>
       <integer>39</integer>
+      <key>iotapsilivaria</key>
+      <integer>17</integer>
       <key>public.kern2.PUNCT_Guilsinglleft</key>
       <integer>-19</integer>
       <key>public.kern2.PUNCT_quoteright</key>
       <integer>30</integer>
-      <key>uni1F32</key>
-      <integer>17</integer>
-      <key>uni1FD2</key>
-      <integer>41</integer>
-      <key>uni1FD3</key>
-      <integer>41</integer>
     </dict>
     <key>public.kern1.GRK_Zeta_UC</key>
     <dict>
+      <key>iotadasiavaria</key>
+      <integer>10</integer>
+      <key>iotadialytikaoxia</key>
+      <integer>42</integer>
+      <key>iotadialytikavaria</key>
+      <integer>32</integer>
       <key>iotadieresis</key>
       <integer>1</integer>
       <key>iotadieresistonos</key>
       <integer>39</integer>
+      <key>iotamacron</key>
+      <integer>-7</integer>
+      <key>iotapsilivaria</key>
+      <integer>11</integer>
       <key>public.kern2.GRK_Chi_UC</key>
       <integer>18</integer>
       <key>public.kern2.GRK_Omicron_UC_SECOND</key>
@@ -6239,16 +6271,6 @@
       <integer>42</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>17</integer>
-      <key>uni1F32</key>
-      <integer>11</integer>
-      <key>uni1F33</key>
-      <integer>10</integer>
-      <key>uni1FD1</key>
-      <integer>-7</integer>
-      <key>uni1FD2</key>
-      <integer>32</integer>
-      <key>uni1FD3</key>
-      <integer>42</integer>
     </dict>
     <key>public.kern1.GRK_alpha_LC</key>
     <dict>
@@ -6359,6 +6381,10 @@
     </dict>
     <key>public.kern1.GRK_delta_LC</key>
     <dict>
+      <key>iotadialytikaoxia</key>
+      <integer>10</integer>
+      <key>iotadialytikavaria</key>
+      <integer>10</integer>
       <key>iotadieresistonos</key>
       <integer>10</integer>
       <key>public.kern2.GRK_chi_LC</key>
@@ -6385,10 +6411,6 @@
       <integer>-18</integer>
       <key>public.kern2.PUNCT_quotesinglbase</key>
       <integer>14</integer>
-      <key>uni1FD2</key>
-      <integer>10</integer>
-      <key>uni1FD3</key>
-      <integer>10</integer>
     </dict>
     <key>public.kern1.GRK_epsilon_LC</key>
     <dict>
@@ -7059,6 +7081,10 @@
     </dict>
     <key>public.kern1.GRK_xi_LC</key>
     <dict>
+      <key>iotadialytikaoxia</key>
+      <integer>72</integer>
+      <key>iotadialytikavaria</key>
+      <integer>62</integer>
       <key>iotadieresis</key>
       <integer>32</integer>
       <key>iotadieresistonos</key>
@@ -7107,13 +7133,13 @@
       <integer>31</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>60</integer>
-      <key>uni1FD2</key>
-      <integer>62</integer>
-      <key>uni1FD3</key>
-      <integer>72</integer>
     </dict>
     <key>public.kern1.GRK_zeta_LC</key>
     <dict>
+      <key>iotadialytikaoxia</key>
+      <integer>63</integer>
+      <key>iotadialytikavaria</key>
+      <integer>62</integer>
       <key>iotadieresis</key>
       <integer>31</integer>
       <key>iotadieresistonos</key>
@@ -7184,10 +7210,6 @@
       <integer>40</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>70</integer>
-      <key>uni1FD2</key>
-      <integer>62</integer>
-      <key>uni1FD3</key>
-      <integer>63</integer>
     </dict>
     <key>public.kern1.LAT_A_UC_FIRST</key>
     <dict>
@@ -10073,6 +10095,8 @@
     </dict>
     <key>public.kern1.LAT_t_LC_FIRST</key>
     <dict>
+      <key>lbar</key>
+      <integer>17</integer>
       <key>public.kern2.LAT_a_LC_SECOND</key>
       <integer>-20</integer>
       <key>public.kern2.LAT_c_LC_SECOND</key>
@@ -10133,8 +10157,6 @@
       <integer>32</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>60</integer>
-      <key>uni019A</key>
-      <integer>17</integer>
     </dict>
     <key>public.kern1.LAT_thorn_LC</key>
     <dict>
@@ -10220,6 +10242,8 @@
     </dict>
     <key>public.kern1.LAT_v_LC</key>
     <dict>
+      <key>lbar</key>
+      <integer>30</integer>
       <key>public.kern2.LAT_j_LC_SECOND</key>
       <integer>-10</integer>
       <key>public.kern2.MIS_uni01AA</key>
@@ -10262,11 +10286,11 @@
       <integer>-27</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-17</integer>
-      <key>uni019A</key>
-      <integer>30</integer>
     </dict>
     <key>public.kern1.LAT_w_LC</key>
     <dict>
+      <key>lbar</key>
+      <integer>29</integer>
       <key>public.kern2.LAT_c_LC_SECOND</key>
       <integer>10</integer>
       <key>public.kern2.LAT_e_LC_SECOND</key>
@@ -10309,8 +10333,6 @@
       <integer>-21</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-11</integer>
-      <key>uni019A</key>
-      <integer>29</integer>
     </dict>
     <key>public.kern1.LAT_x_LC</key>
     <dict>
@@ -10467,6 +10489,8 @@
     </dict>
     <key>public.kern1.MIS_Ohorn_FIRST</key>
     <dict>
+      <key>lbar</key>
+      <integer>17</integer>
       <key>public.kern2.LAT_AE_UC_SECOND</key>
       <integer>-33</integer>
       <key>public.kern2.LAT_A_UC_SECOND</key>
@@ -10517,8 +10541,6 @@
       <integer>14</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-22</integer>
-      <key>uni019A</key>
-      <integer>17</integer>
     </dict>
     <key>public.kern1.MIS_Uhorn_FIRST</key>
     <dict>
@@ -10655,6 +10677,8 @@
     </dict>
     <key>public.kern1.MIS_ohorn_FIRST</key>
     <dict>
+      <key>lbar</key>
+      <integer>26</integer>
       <key>public.kern2.LAT_v_LC</key>
       <integer>36</integer>
       <key>public.kern2.LAT_w_LC</key>
@@ -10705,11 +10729,11 @@
       <integer>50</integer>
       <key>public.kern2.PUNCT_quoteright</key>
       <integer>55</integer>
-      <key>uni019A</key>
-      <integer>26</integer>
     </dict>
     <key>public.kern1.MIS_uhorn_FIRST</key>
     <dict>
+      <key>lbar</key>
+      <integer>33</integer>
       <key>public.kern2.LAT_b_LC_SECOND</key>
       <integer>10</integer>
       <key>public.kern2.LAT_bar</key>
@@ -10784,8 +10808,6 @@
       <integer>10</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>10</integer>
-      <key>uni019A</key>
-      <integer>33</integer>
     </dict>
     <key>public.kern1.MIS_uni0182_FIRST</key>
     <dict>
@@ -11199,6 +11221,8 @@
     </dict>
     <key>public.kern1.MIS_uni0188_FIRST</key>
     <dict>
+      <key>lbar</key>
+      <integer>26</integer>
       <key>public.kern2.LAT_a_LC_SECOND</key>
       <integer>-11</integer>
       <key>public.kern2.LAT_c_LC_SECOND</key>
@@ -11265,8 +11289,6 @@
       <integer>50</integer>
       <key>public.kern2.PUNCT_quoteright</key>
       <integer>53</integer>
-      <key>uni019A</key>
-      <integer>26</integer>
     </dict>
     <key>public.kern1.MIS_uni0190</key>
     <dict>
@@ -11578,6 +11600,8 @@
     </dict>
     <key>public.kern1.MIS_uni01A8</key>
     <dict>
+      <key>lbar</key>
+      <integer>22</integer>
       <key>public.kern2.LAT_x_LC</key>
       <integer>10</integer>
       <key>public.kern2.MIS_uni01AA</key>
@@ -11596,8 +11620,6 @@
       <integer>23</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>16</integer>
-      <key>uni019A</key>
-      <integer>22</integer>
     </dict>
     <key>public.kern1.MIS_uni01A9</key>
     <dict>
@@ -11710,6 +11732,8 @@
     </dict>
     <key>public.kern1.MIS_uni01B4_FIRST</key>
     <dict>
+      <key>lbar</key>
+      <integer>31</integer>
       <key>public.kern2.LAT_j_LC_SECOND</key>
       <integer>-12</integer>
       <key>public.kern2.LAT_v_LC</key>
@@ -11762,8 +11786,6 @@
       <integer>-37</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-16</integer>
-      <key>uni019A</key>
-      <integer>31</integer>
     </dict>
     <key>public.kern1.MIS_uni01B7</key>
     <dict>
@@ -11961,6 +11983,8 @@
     </dict>
     <key>public.kern1.MIS_uni01B9</key>
     <dict>
+      <key>lbar</key>
+      <integer>37</integer>
       <key>public.kern2.LAT_j_LC_SECOND</key>
       <integer>80</integer>
       <key>public.kern2.LAT_v_LC</key>
@@ -12011,11 +12035,11 @@
       <integer>16</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>60</integer>
-      <key>uni019A</key>
-      <integer>37</integer>
     </dict>
     <key>public.kern1.MIS_uni01BA</key>
     <dict>
+      <key>lbar</key>
+      <integer>22</integer>
       <key>public.kern2.LAT_j_LC_SECOND</key>
       <integer>25</integer>
       <key>public.kern2.LAT_v_LC</key>
@@ -12066,8 +12090,6 @@
       <integer>23</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>10</integer>
-      <key>uni019A</key>
-      <integer>22</integer>
     </dict>
     <key>public.kern1.MIS_uni01BB</key>
     <dict>
@@ -12448,6 +12470,8 @@
     </dict>
     <key>public.kern1.MIS_uni021D</key>
     <dict>
+      <key>lbar</key>
+      <integer>14</integer>
       <key>public.kern2.LAT_j_LC_SECOND</key>
       <integer>35</integer>
       <key>public.kern2.MIS_uni0181_SECOND</key>
@@ -12482,8 +12506,6 @@
       <integer>25</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>22</integer>
-      <key>uni019A</key>
-      <integer>14</integer>
     </dict>
     <key>public.kern1.MIS_uni0222</key>
     <dict>
@@ -12653,6 +12675,8 @@
     </dict>
     <key>public.kern1.MIS_uni0236_FIRST</key>
     <dict>
+      <key>lbar</key>
+      <integer>17</integer>
       <key>public.kern2.LAT_a_LC_SECOND</key>
       <integer>-20</integer>
       <key>public.kern2.LAT_c_LC_SECOND</key>
@@ -12713,8 +12737,6 @@
       <integer>32</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>60</integer>
-      <key>uni019A</key>
-      <integer>17</integer>
     </dict>
     <key>public.kern1.MIS_uni0241</key>
     <dict>
@@ -12831,6 +12853,8 @@
     </dict>
     <key>public.kern1.MIS_uni0242</key>
     <dict>
+      <key>lbar</key>
+      <integer>34</integer>
       <key>public.kern2.LAT_v_LC</key>
       <integer>10</integer>
       <key>public.kern2.MIS_uni01BA</key>
@@ -12865,11 +12889,11 @@
       <integer>-18</integer>
       <key>public.kern2.PUNCT_quotesinglbase</key>
       <integer>-8</integer>
-      <key>uni019A</key>
-      <integer>34</integer>
     </dict>
     <key>public.kern1.MIS_uni0249</key>
     <dict>
+      <key>lbar</key>
+      <integer>10</integer>
       <key>public.kern2.LAT_v_LC</key>
       <integer>15</integer>
       <key>public.kern2.MIS_uni01AA</key>
@@ -12926,8 +12950,6 @@
       <integer>20</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>15</integer>
-      <key>uni019A</key>
-      <integer>10</integer>
     </dict>
     <key>public.kern1.MIS_uni024A</key>
     <dict>
@@ -13891,6 +13913,8 @@
     </dict>
     <key>public.kern1.PUNCT_backslash</key>
     <dict>
+      <key>lbar</key>
+      <integer>-21</integer>
       <key>public.kern2.CYR_afii10017_UC</key>
       <integer>20</integer>
       <key>public.kern2.CYR_afii10021_UC</key>
@@ -14171,8 +14195,6 @@
       <integer>-14</integer>
       <key>public.kern2.MIS_uni024D</key>
       <integer>-10</integer>
-      <key>uni019A</key>
-      <integer>-21</integer>
     </dict>
     <key>public.kern1.PUNCT_braceleft</key>
     <dict>
@@ -14431,6 +14453,8 @@
     </dict>
     <key>public.kern1.PUNCT_braceright</key>
     <dict>
+      <key>lbar</key>
+      <integer>28</integer>
       <key>public.kern2.CYR_afii10017_UC</key>
       <integer>-14</integer>
       <key>public.kern2.CYR_afii10021_UC</key>
@@ -14523,8 +14547,6 @@
       <integer>-8</integer>
       <key>public.kern2.MIS_uni024D</key>
       <integer>15</integer>
-      <key>uni019A</key>
-      <integer>28</integer>
     </dict>
     <key>public.kern1.PUNCT_bracketleft</key>
     <dict>
@@ -15149,6 +15171,8 @@
     </dict>
     <key>public.kern1.PUNCT_guilsinglleft</key>
     <dict>
+      <key>lbar</key>
+      <integer>21</integer>
       <key>public.kern2.CYR_afii10029_UC_SECOND</key>
       <integer>10</integer>
       <key>public.kern2.CYR_afii10036_UC_SECOND</key>
@@ -15209,8 +15233,6 @@
       <integer>12</integer>
       <key>public.kern2.MIS_uni0222</key>
       <integer>-11</integer>
-      <key>uni019A</key>
-      <integer>21</integer>
     </dict>
     <key>public.kern1.PUNCT_guilsinglright</key>
     <dict>
@@ -16952,6 +16974,8 @@
     </dict>
     <key>public.kern1.PUNCT_quotesinglbase</key>
     <dict>
+      <key>lbar</key>
+      <integer>-10</integer>
       <key>public.kern2.CYR_afii10017_UC</key>
       <integer>38</integer>
       <key>public.kern2.CYR_afii10021_UC</key>
@@ -17216,8 +17240,6 @@
       <integer>-30</integer>
       <key>public.kern2.MIS_uni0234_SECOND</key>
       <integer>13</integer>
-      <key>uni019A</key>
-      <integer>-10</integer>
     </dict>
     <key>public.kern1.PUNCT_slash</key>
     <dict>
@@ -17503,28 +17525,6 @@
       <integer>40</integer>
       <key>public.kern2.FIG_threeALT</key>
       <integer>20</integer>
-    </dict>
-    <key>uni1FD2</key>
-    <dict>
-      <key>public.kern2.GRK_beta_LC</key>
-      <integer>20</integer>
-      <key>public.kern2.GRK_lambda_LC</key>
-      <integer>52</integer>
-      <key>public.kern2.GRK_theta_LC</key>
-      <integer>21</integer>
-      <key>public.kern2.GRK_zeta_LC</key>
-      <integer>42</integer>
-    </dict>
-    <key>uni1FD3</key>
-    <dict>
-      <key>public.kern2.GRK_beta_LC</key>
-      <integer>20</integer>
-      <key>public.kern2.GRK_lambda_LC</key>
-      <integer>62</integer>
-      <key>public.kern2.GRK_theta_LC</key>
-      <integer>10</integer>
-      <key>public.kern2.GRK_zeta_LC</key>
-      <integer>41</integer>
     </dict>
   </dict>
 </plist>

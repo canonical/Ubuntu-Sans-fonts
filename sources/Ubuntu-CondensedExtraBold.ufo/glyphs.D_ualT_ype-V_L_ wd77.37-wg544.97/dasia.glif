@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dasia" format="2">
+  <advance width="306"/>
+  <unicode hex="1FFE"/>
+  <outline>
+    <contour>
+      <point x="186.077" y="580.192" type="curve"/>
+      <point x="232.249" y="621.388" type="line"/>
+      <point x="204.258" y="646.32"/>
+      <point x="179.87" y="671.775"/>
+      <point x="161.773" y="695.284" type="curve"/>
+      <point x="186.447" y="705.639"/>
+      <point x="202.604" y="729.737"/>
+      <point x="202.604" y="755.317" type="curve" smooth="yes"/>
+      <point x="202.604" y="792.382"/>
+      <point x="172.728" y="816.926"/>
+      <point x="137.027" y="816.926" type="curve" smooth="yes"/>
+      <point x="98.808" y="816.926"/>
+      <point x="66.45" y="792.77"/>
+      <point x="66.45" y="746.479" type="curve" smooth="yes"/>
+      <point x="66.45" y="682.077"/>
+      <point x="125.684" y="624.343"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

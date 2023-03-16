@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Alphadasiavaria" format="2">
+  <advance width="718"/>
+  <unicode hex="1F0B"/>
+  <anchor x="459" y="0" name="bottom"/>
+  <anchor x="691" y="10" name="ogonek"/>
+  <anchor x="459" y="683" name="top"/>
+  <outline>
+    <component base="A" xOffset="200"/>
+    <component base="dasiavaria" xOffset="2" yOffset="-89"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>A</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dasiavaria</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

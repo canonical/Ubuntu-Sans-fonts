@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etapsilivariaprosgegrammeni" format="2">
+  <advance width="1133"/>
+  <unicode hex="1F9A"/>
+  <anchor x="549" y="0" name="bottom"/>
+  <anchor x="549" y="347" name="center"/>
+  <anchor x="549" y="693" name="top_1"/>
+  <anchor x="994" y="527" name="top_2"/>
+  <anchor x="271" y="693" name="topleft"/>
+  <outline>
+    <component base="H" xOffset="251"/>
+    <component base="iota" xOffset="854"/>
+    <component base="psilivaria" xOffset="-32" yOffset="-69"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>H</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>iota</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>psilivaria</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

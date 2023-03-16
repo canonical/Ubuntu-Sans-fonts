@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etadasiaoxiaprosgegrammeni.alt" format="2">
+  <advance width="934"/>
+  <anchor x="627.514" y="0" name="bottom"/>
+  <anchor x="627.514" y="347" name="center"/>
+  <anchor x="171.217" y="717.462" name="top"/>
+  <anchor x="341.161" y="693" name="topleft"/>
+  <outline>
+    <component base="Etaprosgegrammeni.alt" xOffset="321.161"/>
+    <component base="dasiaoxia" xOffset="-62.373" yOffset="-98.947"/>
+    <component base="prosgegrammeni" xOffset="522.508"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Etaprosgegrammeni.alt</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dasiaoxia</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>prosgegrammeni</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

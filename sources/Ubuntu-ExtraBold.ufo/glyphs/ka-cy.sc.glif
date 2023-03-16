@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ka-cy.sc" format="2">
+  <advance width="624"/>
+  <anchor x="604" y="0" name="bottomright"/>
+  <anchor x="312" y="589" name="top"/>
+  <outline>
+    <contour>
+      <point x="74" y="0" type="line"/>
+      <point x="226" y="0" type="line"/>
+      <point x="226" y="240" type="line"/>
+      <point x="307" y="173"/>
+      <point x="385" y="68"/>
+      <point x="428" y="0" type="curve"/>
+      <point x="609" y="0" type="line"/>
+      <point x="523" y="135"/>
+      <point x="442" y="239"/>
+      <point x="348" y="320" type="curve"/>
+      <point x="441" y="413"/>
+      <point x="513" y="491"/>
+      <point x="596" y="589" type="curve"/>
+      <point x="416" y="589" type="line"/>
+      <point x="354" y="522"/>
+      <point x="292" y="449"/>
+      <point x="226" y="378" type="curve"/>
+      <point x="226" y="589" type="line"/>
+      <point x="74" y="589" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>85</integer>
+        <key>weight</key>
+        <integer>-11</integer>
+        <key>width</key>
+        <integer>87</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>h.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>k.sc</string>
+    </dict>
+  </lib>
+</glyph>

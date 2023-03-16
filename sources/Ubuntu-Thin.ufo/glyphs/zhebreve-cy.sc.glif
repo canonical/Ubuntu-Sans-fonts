@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zhebreve-cy.sc" format="2">
+  <advance width="699"/>
+  <anchor x="679" y="0" name="bottomright"/>
+  <anchor x="350" y="761" name="top"/>
+  <outline>
+    <component base="zhe-cy.sc"/>
+    <component base="brevecomb.cyr.sc" xOffset="350"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|k.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>k.sc</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

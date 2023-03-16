@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Alphapsiliperispomeniprosgegrammeni.alt" format="2">
+  <advance width="514"/>
+  <outline>
+    <component base="A" xOffset="74"/>
+    <component base="psiliperispomeni" xOffset="-83" yOffset="-111"/>
+    <component base="prosgegrammeni" xOffset="271"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>A</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>psiliperispomeni</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>prosgegrammeni</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

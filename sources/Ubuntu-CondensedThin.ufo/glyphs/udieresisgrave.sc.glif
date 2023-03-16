@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udieresisgrave.sc" format="2">
+  <advance width="590"/>
+  <anchor x="295" y="0" name="bottom"/>
+  <anchor x="531" y="10" name="ogonek"/>
+  <anchor x="295" y="783" name="top"/>
+  <anchor x="570" y="575" name="topright"/>
+  <outline>
+    <component base="u.sc"/>
+    <component base="dieresis_grave.sc" xOffset="294"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>u.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>u.sc</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

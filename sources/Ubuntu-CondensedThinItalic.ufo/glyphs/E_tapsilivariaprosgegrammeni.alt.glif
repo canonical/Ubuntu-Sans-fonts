@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etapsilivariaprosgegrammeni.alt" format="2">
+  <advance width="740.35"/>
+  <outline>
+    <component base="H" xOffset="206"/>
+    <component base="psilivaria" xOffset="-64" yOffset="-75"/>
+    <component base="prosgegrammeni" xOffset="416"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>H</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>psilivaria</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>prosgegrammeni</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

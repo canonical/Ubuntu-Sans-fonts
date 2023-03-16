@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Io-cy" format="2">
+  <advance width="497"/>
+  <unicode hex="0401"/>
+  <anchor x="248.045" y="0" name="bottom"/>
+  <anchor x="446.081" y="10" name="ogonek"/>
+  <anchor x="248.045" y="693" name="top"/>
+  <anchor x="20" y="693" name="topleft"/>
+  <outline>
+    <component base="E"/>
+    <component base="dieresiscomb" xOffset="47.467" yOffset="159.142"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>E</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dieresiscomb</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

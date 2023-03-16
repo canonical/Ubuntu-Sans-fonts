@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psilivaria.sc" format="2">
+  <advance width="475"/>
+  <outline>
+    <contour>
+      <point x="359.934" y="582.669" type="line"/>
+      <point x="422.194" y="621.494" type="line"/>
+      <point x="330.031" y="813.373" type="line"/>
+      <point x="245.605" y="764.814" type="line"/>
+    </contour>
+    <contour>
+      <point x="105.489" y="580.192" type="line"/>
+      <point x="159.199" y="624.343"/>
+      <point x="211.776" y="681.465"/>
+      <point x="211.776" y="746.479" type="curve" smooth="yes"/>
+      <point x="211.776" y="792.77"/>
+      <point x="184.611" y="816.926"/>
+      <point x="148.202" y="816.926" type="curve" smooth="yes"/>
+      <point x="113.406" y="816.926"/>
+      <point x="85.661" y="792.382"/>
+      <point x="85.661" y="755.317" type="curve" smooth="yes"/>
+      <point x="85.661" y="729.737"/>
+      <point x="99.687" y="705.639"/>
+      <point x="125.267" y="695.284" type="curve"/>
+      <point x="108.98" y="671.775"/>
+      <point x="88.214" y="646.32"/>
+      <point x="63.844" y="621.388" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

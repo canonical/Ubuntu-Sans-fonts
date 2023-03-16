@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Glottalstop" format="2">
+  <advance width="361"/>
+  <unicode hex="0241"/>
+  <outline>
+    <contour>
+      <point x="118" y="0" type="line"/>
+      <point x="153" y="0" type="line"/>
+      <point x="153" y="197" type="line" smooth="yes"/>
+      <point x="153" y="301"/>
+      <point x="190" y="329"/>
+      <point x="247" y="375" type="curve" smooth="yes"/>
+      <point x="301" y="419"/>
+      <point x="335" y="463"/>
+      <point x="335" y="543" type="curve" smooth="yes"/>
+      <point x="335" y="624"/>
+      <point x="282" y="703"/>
+      <point x="164" y="703" type="curve" smooth="yes"/>
+      <point x="114" y="703"/>
+      <point x="64" y="688"/>
+      <point x="18" y="660" type="curve"/>
+      <point x="32" y="630" type="line"/>
+      <point x="71" y="654"/>
+      <point x="115" y="671"/>
+      <point x="164" y="671" type="curve" smooth="yes"/>
+      <point x="247" y="671"/>
+      <point x="300" y="616"/>
+      <point x="300" y="543" type="curve" smooth="yes"/>
+      <point x="300" y="472"/>
+      <point x="273" y="438"/>
+      <point x="224" y="398" type="curve" smooth="yes"/>
+      <point x="164" y="349"/>
+      <point x="118" y="318"/>
+      <point x="118" y="197" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

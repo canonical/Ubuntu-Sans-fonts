@@ -6,7 +6,7 @@
   <anchor x="325" y="526" name="top"/>
   <outline>
     <component base="n" xOffset="30"/>
-    <component base="apostrophe" xOffset="-83"/>
+    <component base="apostrophemod" xOffset="-83"/>
   </outline>
   <lib>
     <dict>
@@ -26,7 +26,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>apostrophe</string>
+          <string>apostrophemod</string>
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Upsilondasiaperispomeni" format="2">
+  <advance width="647"/>
+  <unicode hex="1F5F"/>
+  <anchor x="448.571" y="0" name="bottom"/>
+  <anchor x="90.655" y="759.622" name="top"/>
+  <anchor x="271" y="693" name="topleft"/>
+  <outline>
+    <component base="Y" xOffset="251"/>
+    <component base="dasiaperispomeni" xOffset="-66.345" yOffset="-111.345"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Y</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dasiaperispomeni</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>
