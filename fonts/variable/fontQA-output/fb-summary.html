@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+                <html lang="en">
+                    <head>
+                        <meta charset="utf-8">
+                        <title>Fontbakery Check Report</title>
+                        <style>
+                            
+            html {
+                font-family: sans-serif;
+            }
+            h2 {
+                margin-top: 2em;
+            }
+            h3 {
+                margin-bottom: 1px;
+            }
+
+            table {
+                border-collapse: collapse;
+            }
+
+            th,
+            td {
+                border: 1px solid #ddd;
+                padding: 0.5em
+            }
+
+            tr:nth-child(even) {
+                background-color: #f2f2f2;
+            }
+
+            tr {
+                text-align: left;
+            }
+
+            details {
+                margin-top:.5rem;
+            }
+
+            details div {
+                margin-top: .5rem;
+                margin-left: 1rem;
+            }
+            
+                        </style>
+                    </head>
+                    <body>
+                    <h2>Fontbakery report</h2>
+<p>Fontbakery version: 0.8.11</p>
+<details><summary><b>[1] Family checks</b></summary><div><details><summary>ℹ <b>INFO:</b> Check axis ordering on the STAT table.  (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/STAT/axis_order">com.google.fonts/check/STAT/axis_order</a>)</summary><div>
+
+
+* ℹ **INFO** From a total of 2 font files, 0 of them (0.00%) lack a STAT table.
+
+    And these are the most common STAT axis orderings:
+    ('wdth-wght-ital', 2) [code: summary]
+</div></details><br></div></details>
+<details><summary><b>[13] Ubuntu-Italic[wdth,wght].ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
+
+
+* 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: i̊ i̋ j̀ j́ j̃ j̄ j̈ j̑ į̀ į́ į̂ į̃ į̄ į̌ ɨ̀ ɨ́ ɨ̂ ɨ̃ ɨ̄ ɨ̈ ɨ̋ ɨ̌ ɨ̏ ɨ̧̀ ɨ̧́ ɨ̧̂ ɨ̧̌ ɨ̱̀ ɨ̱́ ɨ̱̈ і́
+
+The dot of soft dotted characters should disappear in other cases, for example: i̇ i̒ ị̇ ị̊ ị̋ ị̒ i̦̇ i̦̊ i̦̋ i̦̒ i̧̇ i̧̊ i̧̋ i̧̒ i̩̇ i̩̊ i̩̋ i̩̒ i̱̇ i̱̊ [code: soft-dotted]
+</div></details><details><summary>⚠ <b>WARN:</b> Checking OS/2 fsType does not impose restrictions. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Type Network>.html#com.typenetwork/check/fstype">com.typenetwork/check/fstype</a>)</summary><div>
+
+
+* ⚠ **WARN** In this font fsType is set to 0 mettyaning that:
+
+
+ TN advises setting the fsType to bit 4, Print & Preview, which slightly less restrictive. This setting will match TN’s EULA. [code: no-preview-print]
+</div></details><details><summary>⚠ <b>WARN:</b> Check if font has PUA encoded glyphs. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Type Network>.html#com.typenetwork/check/PUA_encoded_glyphs">com.typenetwork/check/PUA_encoded_glyphs</a>)</summary><div>
+
+
+* ⚠ **WARN** Glyphs with PUA codepoints:
+
+    - uniF000 U+F000 [code: pua-encoded]
+</div></details><details><summary>⚠ <b>WARN:</b> Font has all mandatory 'name' table entries? This is  (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Type Network>.html#com.typenetwork/check/name/mandatory_entries">com.typenetwork/check/name/mandatory_entries</a>)</summary><div>
+
+
+* ⚠ **WARN** Font lacks entry with nameId=10 (DESCRIPTION) [code: missing-optional-entry]
+* ⚠ **WARN** Font lacks entry with nameId=13 (LICENSE_DESCRIPTION) [code: missing-optional-entry]
+* ⚠ **WARN** Font lacks entry with nameId=14 (LICENSE_INFO_URL) [code: missing-optional-entry]
+</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
+
+    - NULL
+
+    - eight_fraction_nine
+
+    - five_fraction_nine
+
+    - five_fraction_seven
+
+    - four_fraction_nine
+
+    - four_fraction_seven
+
+    - seven_fraction_nine
+
+    - six_fraction_seven
+
+    - three_fraction_seven
+
+    - two_fraction_nine
+
+    - two_fraction_seven 
+
+    - uni030C.alt
+ [code: unreachable-glyphs]
+</div></details><details><summary>⚠ <b>WARN:</b> Does the font contain a soft hyphen? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_hyphen">com.google.fonts/check/soft_hyphen</a>)</summary><div>
+
+
+* ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
+</div></details><details><summary>⚠ <b>WARN:</b> Detect any interpolation issues in the font. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/interpolation_issues">com.google.fonts/check/interpolation_issues</a>)</summary><div>
+
+
+* ⚠ **WARN** Interpolation issues were found in the font:   - Contour 1 start point differs in glyph 'zero' between location <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x11c8ad870> and location <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x12136b580>
+
+    - Contour 1 start point differs in glyph 'o' between location <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x11c8ad870> and location <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x12136b580>
+
+    - Contour 1 start point differs in glyph 'ohorn' between location <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x11c8ad870> and location <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x12136b580>
+
+    - Contour 1 start point differs in glyph 'uni01A3' between location <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x11c8ad870> and location <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x12136b580>
+
+    - Contour 1 start point differs in glyph 'uni01EB' between location <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x11c8ad870> and location <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x12136b580> 
+
+    - Contour 1 start point differs in glyph 'yucy' between location <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x11c8ad870> and location <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x12136b580> [code: interpolation-issues]
+</div></details><details><summary>⚠ <b>WARN:</b> Check mark characters are in GDEF mark glyph class. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_mark_chars">com.google.fonts/check/gdef_mark_chars</a>)</summary><div>
+
+
+* ⚠ **WARN** The following mark characters could be in the GDEF mark glyph class:
+     uni0328 (U+0328) [code: mark-chars]
+</div></details><details><summary>⚠ <b>WARN:</b> Check if font has Mac name table entries (platform=1) (derived from com.fontwerk/check/no_mac_entries) (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Fontwerk>.html#com.fontwerk/check/no_mac_entries">com.fontwerk/check/no_mac_entries</a>)</summary><div>
+
+
+* ⚠ **WARN** Please remove name ID 256 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 257 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 258 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 259 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 260 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 261 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 262 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 263 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 264 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 265 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 266 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 267 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 268 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 269 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 270 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 271 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 272 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 273 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 274 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 275 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 276 [code: mac-names]
+</div></details><details><summary>ℹ <b>INFO:</b> Font contains all required tables? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/required_tables">com.google.fonts/check/required_tables</a>)</summary><div>
+
+
+* ℹ **INFO** This font contains the following optional tables:
+
+    - loca
+
+    - prep
+
+    - GPOS
+
+    - GSUB 
+
+    - gasp [code: optional-tables]
+</div></details><details><summary>ℹ <b>INFO:</b> List all superfamily filepaths (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/superfamily/list">com.google.fonts/check/superfamily/list</a>)</summary><div>
+
+
+* ℹ **INFO** /Users/guidoferreyra/Documents/gitRepositories/Ubuntu-fonts/fonts/variable [code: family-path]
+</div></details><details><summary>ℹ <b>INFO:</b> Is there kerning info for non-ligated sequences? (derived from com.google.fonts/check/kerning_for_non_ligated_sequences) (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
+
+
+* ℹ **INFO** GPOS table lacks kerning info for the following non-ligated sequences:
+
+    - f + f
+
+    - f + i
+
+    - i + f
+
+    - f + l
+
+    - l + f 
+
+    - i + l [code: lacks-kern-info]
+</div></details><details><summary>ℹ <b>INFO:</b> Is the Grid-fitting and Scan-conversion Procedure ('gasp') table set to optimize rendering? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/gasp">com.google.fonts/check/gasp</a>)</summary><div>
+
+
+* ℹ **INFO** These are the ppm ranges declared on the gasp table:
+
+PPM <= 65535:
+    flag = 0x0F
+    - Use grid-fitting
+    - Use grayscale rendering
+    - Use gridfitting with ClearType symmetric smoothing
+    - Use smoothing along multiple axes with ClearType®
+ [code: ranges]
+</div></details><br></div></details>
+<details><summary><b>[13] Ubuntu[wdth,wght].ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
+
+
+* 🔥 **FAIL** The dot of soft dotted characters used in orthographies must disappear in the following strings: i̊ i̋ j̀ j́ j̃ j̄ j̈ j̑ į̀ į́ į̂ į̃ į̄ į̌ ɨ̀ ɨ́ ɨ̂ ɨ̃ ɨ̄ ɨ̈ ɨ̋ ɨ̌ ɨ̏ ɨ̧̀ ɨ̧́ ɨ̧̂ ɨ̧̌ ɨ̱̀ ɨ̱́ ɨ̱̈ і́
+
+The dot of soft dotted characters should disappear in other cases, for example: i̇ i̒ ị̇ ị̊ ị̋ ị̒ i̦̇ i̦̊ i̦̋ i̦̒ i̧̇ i̧̊ i̧̋ i̧̒ i̩̇ i̩̊ i̩̋ i̩̒ i̱̇ i̱̊ [code: soft-dotted]
+</div></details><details><summary>🔥 <b>FAIL:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (derived from com.google.fonts/check/gdef_non_mark_chars) (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
+
+
+* 🔥 **FAIL** The following non-mark characters should not be in the GDEF mark glyph class:
+     U+0384, U+0385, U+1FBE, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD, U+1FDE, U+1FDF, U+1FED, U+1FEF, U+1FFD and U+1FFE [code: non-mark-chars]
+</div></details><details><summary>⚠ <b>WARN:</b> Checking OS/2 fsType does not impose restrictions. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Type Network>.html#com.typenetwork/check/fstype">com.typenetwork/check/fstype</a>)</summary><div>
+
+
+* ⚠ **WARN** In this font fsType is set to 0 mettyaning that:
+
+
+ TN advises setting the fsType to bit 4, Print & Preview, which slightly less restrictive. This setting will match TN’s EULA. [code: no-preview-print]
+</div></details><details><summary>⚠ <b>WARN:</b> Check if font has PUA encoded glyphs. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Type Network>.html#com.typenetwork/check/PUA_encoded_glyphs">com.typenetwork/check/PUA_encoded_glyphs</a>)</summary><div>
+
+
+* ⚠ **WARN** Glyphs with PUA codepoints:
+
+    - uniE0FF U+E0FF
+
+    - uniF000 U+F000
+
+    - uniF0FF U+F0FF 
+
+    - ubuntu U+F200 [code: pua-encoded]
+</div></details><details><summary>⚠ <b>WARN:</b> Font has all mandatory 'name' table entries? This is  (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Type Network>.html#com.typenetwork/check/name/mandatory_entries">com.typenetwork/check/name/mandatory_entries</a>)</summary><div>
+
+
+* ⚠ **WARN** Font lacks entry with nameId=10 (DESCRIPTION) [code: missing-optional-entry]
+* ⚠ **WARN** Font lacks entry with nameId=13 (LICENSE_DESCRIPTION) [code: missing-optional-entry]
+* ⚠ **WARN** Font lacks entry with nameId=14 (LICENSE_INFO_URL) [code: missing-optional-entry]
+</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
+
+    - NULL
+
+    - eight_fraction_nine
+
+    - five_fraction_nine
+
+    - five_fraction_seven
+
+    - four_fraction_nine
+
+    - four_fraction_seven
+
+    - seven_fraction_nine
+
+    - six_fraction_seven
+
+    - three_fraction_seven
+
+    - two_fraction_nine 
+
+    - two_fraction_seven
+ [code: unreachable-glyphs]
+</div></details><details><summary>⚠ <b>WARN:</b> Does the font contain a soft hyphen? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_hyphen">com.google.fonts/check/soft_hyphen</a>)</summary><div>
+
+
+* ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
+</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
+
+
+* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
+     acute_greek.sc (unencoded), dieresistonos (U+0385), grave_greek.sc (unencoded), tonos (U+0384), tonos.sc (unencoded), uni1FBE (U+1FBE), uni1FBF (U+1FBF), uni1FBF.sc (unencoded), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1), uni1FCD (U+1FCD), uni1FCD.sc (unencoded), uni1FCE (U+1FCE), uni1FCE.sc (unencoded), uni1FCF (U+1FCF), uni1FCF.sc (unencoded), uni1FDD (U+1FDD), uni1FDD.sc (unencoded), uni1FDE (U+1FDE), uni1FDE.sc (unencoded), uni1FDF (U+1FDF), uni1FDF.sc (unencoded), uni1FED (U+1FED), uni1FEF (U+1FEF), uni1FFD (U+1FFD), uni1FFE (U+1FFE) and uni1FFE.sc (unencoded) [code: spacing-mark-glyphs]
+</div></details><details><summary>⚠ <b>WARN:</b> Check if font has Mac name table entries (platform=1) (derived from com.fontwerk/check/no_mac_entries) (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Fontwerk>.html#com.fontwerk/check/no_mac_entries">com.fontwerk/check/no_mac_entries</a>)</summary><div>
+
+
+* ⚠ **WARN** Please remove name ID 256 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 257 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 258 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 259 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 260 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 261 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 262 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 263 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 264 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 265 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 266 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 267 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 268 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 269 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 270 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 271 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 272 [code: mac-names]
+* ⚠ **WARN** Please remove name ID 273 [code: mac-names]
+</div></details><details><summary>ℹ <b>INFO:</b> Font contains all required tables? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/required_tables">com.google.fonts/check/required_tables</a>)</summary><div>
+
+
+* ℹ **INFO** This font contains the following optional tables:
+
+    - loca
+
+    - prep
+
+    - GPOS
+
+    - GSUB 
+
+    - gasp [code: optional-tables]
+</div></details><details><summary>ℹ <b>INFO:</b> List all superfamily filepaths (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/superfamily/list">com.google.fonts/check/superfamily/list</a>)</summary><div>
+
+
+* ℹ **INFO** /Users/guidoferreyra/Documents/gitRepositories/Ubuntu-fonts/fonts/variable [code: family-path]
+</div></details><details><summary>ℹ <b>INFO:</b> Is there kerning info for non-ligated sequences? (derived from com.google.fonts/check/kerning_for_non_ligated_sequences) (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
+
+
+* ℹ **INFO** GPOS table lacks kerning info for the following non-ligated sequences:
+
+    - f + f
+
+    - f + i
+
+    - i + f
+
+    - f + l
+
+    - l + f 
+
+    - i + l [code: lacks-kern-info]
+</div></details><details><summary>ℹ <b>INFO:</b> Is the Grid-fitting and Scan-conversion Procedure ('gasp') table set to optimize rendering? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/gasp">com.google.fonts/check/gasp</a>)</summary><div>
+
+
+* ℹ **INFO** These are the ppm ranges declared on the gasp table:
+
+PPM <= 65535:
+    flag = 0x0F
+    - Use grid-fitting
+    - Use grayscale rendering
+    - Use gridfitting with ClearType symmetric smoothing
+    - Use smoothing along multiple axes with ClearType®
+ [code: ranges]
+</div></details><br></div></details>
+
+<h3>Summary</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">💔 ERROR</th>
+<th style="text-align: center;">🔥 FAIL</th>
+<th style="text-align: center;">⚠ WARN</th>
+<th style="text-align: center;">💤 SKIP</th>
+<th style="text-align: center;">ℹ INFO</th>
+<th style="text-align: center;">🍞 PASS</th>
+<th style="text-align: center;">🔎 DEBUG</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">15</td>
+<td style="text-align: center;">30</td>
+<td style="text-align: center;">9</td>
+<td style="text-align: center;">209</td>
+<td style="text-align: center;">0</td>
+</tr>
+<tr>
+<td style="text-align: center;">0%</td>
+<td style="text-align: center;">1%</td>
+<td style="text-align: center;">6%</td>
+<td style="text-align: center;">11%</td>
+<td style="text-align: center;">3%</td>
+<td style="text-align: center;">79%</td>
+<td style="text-align: center;">0%</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Note:</strong> The following loglevels were omitted in this report:
+* <strong>SKIP</strong>
+* <strong>PASS</strong>
+* <strong>DEBUG</strong></p>
+                    </body>
+                </html>

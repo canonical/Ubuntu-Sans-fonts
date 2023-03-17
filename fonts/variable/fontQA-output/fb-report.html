@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+                <html lang="en">
+                    <head>
+                        <meta charset="utf-8">
+                        <title>Fontbakery Check Report</title>
+                        <style>
+                            
+            html {
+                font-family: sans-serif;
+            }
+
+            h2 {
+                margin-top: 2em;
+            }
+
+            h3 {
+                margin-bottom: 1px;
+            }
+
+            table {
+                border-collapse: collapse;
+            }
+
+            th,
+            td {
+                border: 1px solid #ddd;
+                padding: 0.5em
+            }
+
+            tr:nth-child(even) {
+                background-color: #f2f2f2;
+            }
+
+            tr {
+                text-align: left;
+            }
+
+            ul {
+                margin-top: 0;
+            }
+
+            .details_item {
+                list-style: none;
+                display: flex;
+                align-items: baseline;
+            }
+
+            .details_indicator {
+                flex: 0 0 5em;
+                font-weight: bold;
+                padding-right: 0.5em;
+                text-align: right;
+            }
+
+            .details_text {
+                flex: 1 0;
+            }
+            
+                        </style>
+                    </head>
+                    <body>
+                    <h1>Fontbakery Technical Report</h1>
+<div>If you think a check is flawed or have an idea for a check, please  file an issue at <a href='https://github.com/googlefonts/fontbakery/issues'>https://github.com/googlefonts/fontbakery/issues</a> and remember to include a pointer to the repo and branch you're checking.</div>
+<h2>Summary</h2>
+            <table>
+            <tr>
+                <th>💥 ERROR</th>
+                <th>🔥 FAIL</th>
+                <th>⚠️ WARN</th>
+                <th>⏩ SKIP</th>
+                <th>ℹ️ INFO</th>
+                <th>✅ PASS</th>
+            </tr>
+            <tr>
+                <td>0</td>
+                <td>3</td>
+                <td>15</td>
+                <td>30</td>
+                <td>9</td>
+                <td>209</td>
+            </tr>
+            <tr>
+                <td>0%</td>
+                <td>2%</td>
+                <td>11%</td>
+                <td>22%</td>
+                <td>7%</td>
+                <td>155%</td>
+            </tr>
+            </table>
+            
+<p><strong>Note:</strong> The following loglevels were omitted in this report: SKIP, PASS, DEBUG</p>
+<h2>&lt;Section: Type Network&gt; ⚠️⚠️⚠️⚠️⚠️⚠️</h2>
+<h3>Checking OS/2 fsType does not impose restrictions.</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.typenetwork/check/fstype&gt;</div>
+
+<details><summary>⚠️ <strong>/Users/guidoferreyra/Documents/gitRepositories/Ubuntu-fonts/fonts/variable/Ubuntu-Italic[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>In this font fsType is set to 0 mettyaning that:</p>
+<p>TN advises setting the fsType to bit 4, Print &amp; Preview, which slightly less restrictive. This setting will match TN’s EULA. [code: no-preview-print]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>/Users/guidoferreyra/Documents/gitRepositories/Ubuntu-fonts/fonts/variable/Ubuntu[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>In this font fsType is set to 0 mettyaning that:</p>
+<p>TN advises setting the fsType to bit 4, Print &amp; Preview, which slightly less restrictive. This setting will match TN’s EULA. [code: no-preview-print]</p>
+</span></li></ul></div></details>
+<h3>Check if font has PUA encoded glyphs.</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.typenetwork/check/PUA_encoded_glyphs&gt;</div>
+
+<details><summary>⚠️ <strong>/Users/guidoferreyra/Documents/gitRepositories/Ubuntu-fonts/fonts/variable/Ubuntu-Italic[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Glyphs with PUA codepoints:</p>
+<pre><code>- uniF000 U+F000 [code: pua-encoded]
+</code></pre>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>/Users/guidoferreyra/Documents/gitRepositories/Ubuntu-fonts/fonts/variable/Ubuntu[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Glyphs with PUA codepoints:</p>
+<pre><code>- uniE0FF U+E0FF
+
+- uniF000 U+F000
+
+- uniF0FF U+F0FF 
+
+- ubuntu U+F200 [code: pua-encoded]
+</code></pre>
+</span></li></ul></div></details>
+<h3>Font has all mandatory 'name' table entries? This is </h3>
+<div>Check ID: &lt;FontBakeryCheck:com.typenetwork/check/name/mandatory_entries&gt;</div>
+
+<details><summary>⚠️ <strong>/Users/guidoferreyra/Documents/gitRepositories/Ubuntu-fonts/fonts/variable/Ubuntu-Italic[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Font lacks entry with nameId=10 (DESCRIPTION) [code: missing-optional-entry]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Font lacks entry with nameId=13 (LICENSE_DESCRIPTION) [code: missing-optional-entry]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Font lacks entry with nameId=14 (LICENSE_INFO_URL) [code: missing-optional-entry]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>/Users/guidoferreyra/Documents/gitRepositories/Ubuntu-fonts/fonts/variable/Ubuntu[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Font lacks entry with nameId=10 (DESCRIPTION) [code: missing-optional-entry]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Font lacks entry with nameId=13 (LICENSE_DESCRIPTION) [code: missing-optional-entry]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Font lacks entry with nameId=14 (LICENSE_INFO_URL) [code: missing-optional-entry]</p>
+</span></li></ul></div></details>
+<h2>&lt;Section: Universal&gt; 🔥🔥⚠️⚠️⚠️⚠️⚠️⏩⏩⏩⏩⏩⏩ℹ️ℹ️ℹ️ℹ️</h2>
+<h3>Font contains all required tables?</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/required_tables&gt;</div>
+
+<details><summary>ℹ️ <strong>/Users/guidoferreyra/Documents/gitRepositories/Ubuntu-fonts/fonts/variable/Ubuntu-Italic[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>ℹ️ INFO</span><span class='details_text'><p>This font contains the following optional tables:</p>
+<pre><code>- loca
+
+- prep
+
+- GPOS
+
+- GSUB 
+
+- gasp [code: optional-tables]
+</code></pre>
+</span></li></ul></div></details>
+<details><summary>ℹ️ <strong>/Users/guidoferreyra/Documents/gitRepositories/Ubuntu-fonts/fonts/variable/Ubuntu[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>ℹ️ INFO</span><span class='details_text'><p>This font contains the following optional tables:</p>
+<pre><code>- loca
+
+- prep
+
+- GPOS
+
+- GSUB 
+
+- gasp [code: optional-tables]
+</code></pre>
+</span></li></ul></div></details>
+<h3>List all superfamily filepaths</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/superfamily/list&gt;</div>
+
+<details><summary>ℹ️ <strong>/Users/guidoferreyra/Documents/gitRepositories/Ubuntu-fonts/fonts/variable/Ubuntu-Italic[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>ℹ️ INFO</span><span class='details_text'><p>/Users/guidoferreyra/Documents/gitRepositories/Ubuntu-fonts/fonts/variable [code: family-path]</p>
+</span></li></ul></div></details>
+<details><summary>ℹ️ <strong>/Users/guidoferreyra/Documents/gitRepositories/Ubuntu-fonts/fonts/variable/Ubuntu[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>ℹ️ INFO</span><span class='details_text'><p>/Users/guidoferreyra/Documents/gitRepositories/Ubuntu-fonts/fonts/variable [code: family-path]</p>
+</span></li></ul></div></details>
+<h3>Check font contains no unreachable glyphs</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/unreachable_glyphs&gt;</div>
+
+<details><summary>⚠️ <strong>/Users/guidoferreyra/Documents/gitRepositories/Ubuntu-fonts/fonts/variable/Ubuntu-Italic[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs could not be reached by codepoint or substitution rules:</p>
+<pre><code>- NULL
+
+- eight_fraction_nine
+
+- five_fraction_nine
+
+- five_fraction_seven
+
+- four_fraction_nine
+
+- four_fraction_seven
+
+- seven_fraction_nine
+
+- six_fraction_seven
+
+- three_fraction_seven
+
+- two_fraction_nine
+
+- two_fraction_seven 
+
+- uni030C.alt
+</code></pre>
+<p>[code: unreachable-glyphs]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>/Users/guidoferreyra/Documents/gitRepositories/Ubuntu-fonts/fonts/variable/Ubuntu[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs could not be reached by codepoint or substitution rules:</p>
+<pre><code>- NULL
+
+- eight_fraction_nine
+
+- five_fraction_nine
+
+- five_fraction_seven
+
+- four_fraction_nine
+
+- four_fraction_seven
+
+- seven_fraction_nine
+
+- six_fraction_seven
+
+- three_fraction_seven
+
+- two_fraction_nine 
+
+- two_fraction_seven
+</code></pre>
+<p>[code: unreachable-glyphs]</p>
+</span></li></ul></div></details>
+<h3>Does the font contain a soft hyphen?</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/soft_hyphen&gt;</div>
+
+<details><summary>⚠️ <strong>/Users/guidoferreyra/Documents/gitRepositories/Ubuntu-fonts/fonts/variable/Ubuntu-Italic[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This font has a 'Soft Hyphen' character. [code: softhyphen]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>/Users/guidoferreyra/Documents/gitRepositories/Ubuntu-fonts/fonts/variable/Ubuntu[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This font has a 'Soft Hyphen' character. [code: softhyphen]</p>
+</span></li></ul></div></details>
+<h3>Ensure soft_dotted characters lose their dot when combined with marks that replace the dot.</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/soft_dotted&gt;</div>
+
+<details><summary>🔥 <strong>/Users/guidoferreyra/Documents/gitRepositories/Ubuntu-fonts/fonts/variable/Ubuntu-Italic[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>The dot of soft dotted characters used in orthographies must disappear in the following strings: i̊ i̋ j̀ j́ j̃ j̄ j̈ j̑ į̀ į́ į̂ į̃ į̄ į̌ ɨ̀ ɨ́ ɨ̂ ɨ̃ ɨ̄ ɨ̈ ɨ̋ ɨ̌ ɨ̏ ɨ̧̀ ɨ̧́ ɨ̧̂ ɨ̧̌ ɨ̱̀ ɨ̱́ ɨ̱̈ і́</p>
+<p>The dot of soft dotted characters should disappear in other cases, for example: i̇ i̒ ị̇ ị̊ ị̋ ị̒ i̦̇ i̦̊ i̦̋ i̦̒ i̧̇ i̧̊ i̧̋ i̧̒ i̩̇ i̩̊ i̩̋ i̩̒ i̱̇ i̱̊ [code: soft-dotted]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>/Users/guidoferreyra/Documents/gitRepositories/Ubuntu-fonts/fonts/variable/Ubuntu[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>The dot of soft dotted characters used in orthographies must disappear in the following strings: i̊ i̋ j̀ j́ j̃ j̄ j̈ j̑ į̀ į́ į̂ į̃ į̄ į̌ ɨ̀ ɨ́ ɨ̂ ɨ̃ ɨ̄ ɨ̈ ɨ̋ ɨ̌ ɨ̏ ɨ̧̀ ɨ̧́ ɨ̧̂ ɨ̧̌ ɨ̱̀ ɨ̱́ ɨ̱̈ і́</p>
+<p>The dot of soft dotted characters should disappear in other cases, for example: i̇ i̒ ị̇ ị̊ ị̋ ị̒ i̦̇ i̦̊ i̦̋ i̦̒ i̧̇ i̧̊ i̧̋ i̧̒ i̩̇ i̩̊ i̩̋ i̩̒ i̱̇ i̱̊ [code: soft-dotted]</p>
+</span></li></ul></div></details>
+<h3>Detect any interpolation issues in the font.</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/interpolation_issues&gt;</div>
+
+<details><summary>⚠️ <strong>/Users/guidoferreyra/Documents/gitRepositories/Ubuntu-fonts/fonts/variable/Ubuntu-Italic[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Interpolation issues were found in the font: 	- Contour 1 start point differs in glyph 'zero' between location &lt;fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x11c8ad870&gt; and location &lt;fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x12136b580&gt;</p>
+<pre><code>- Contour 1 start point differs in glyph 'o' between location &lt;fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x11c8ad870&gt; and location &lt;fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x12136b580&gt;
+
+- Contour 1 start point differs in glyph 'ohorn' between location &lt;fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x11c8ad870&gt; and location &lt;fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x12136b580&gt;
+
+- Contour 1 start point differs in glyph 'uni01A3' between location &lt;fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x11c8ad870&gt; and location &lt;fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x12136b580&gt;
+
+- Contour 1 start point differs in glyph 'uni01EB' between location &lt;fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x11c8ad870&gt; and location &lt;fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x12136b580&gt; 
+
+- Contour 1 start point differs in glyph 'yucy' between location &lt;fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x11c8ad870&gt; and location &lt;fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x12136b580&gt; [code: interpolation-issues]
+</code></pre>
+</span></li></ul></div></details>
+<h2>&lt;Section: fontbakery.profiles.gdef&gt; 🔥⚠️⚠️</h2>
+<h3>Check glyphs in mark glyph class are non-spacing.</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/gdef_spacing_marks&gt;</div>
+
+<details><summary>⚠️ <strong>/Users/guidoferreyra/Documents/gitRepositories/Ubuntu-fonts/fonts/variable/Ubuntu[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following spacing glyphs may be in the GDEF mark glyph class by mistake:
+acute_greek.sc (unencoded), dieresistonos (U+0385), grave_greek.sc (unencoded), tonos (U+0384), tonos.sc (unencoded), uni1FBE (U+1FBE), uni1FBF (U+1FBF), uni1FBF.sc (unencoded), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1), uni1FCD (U+1FCD), uni1FCD.sc (unencoded), uni1FCE (U+1FCE), uni1FCE.sc (unencoded), uni1FCF (U+1FCF), uni1FCF.sc (unencoded), uni1FDD (U+1FDD), uni1FDD.sc (unencoded), uni1FDE (U+1FDE), uni1FDE.sc (unencoded), uni1FDF (U+1FDF), uni1FDF.sc (unencoded), uni1FED (U+1FED), uni1FEF (U+1FEF), uni1FFD (U+1FFD), uni1FFE (U+1FFE) and uni1FFE.sc (unencoded) [code: spacing-mark-glyphs]</p>
+</span></li></ul></div></details>
+<h3>Check mark characters are in GDEF mark glyph class.</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/gdef_mark_chars&gt;</div>
+
+<details><summary>⚠️ <strong>/Users/guidoferreyra/Documents/gitRepositories/Ubuntu-fonts/fonts/variable/Ubuntu-Italic[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following mark characters could be in the GDEF mark glyph class:
+uni0328 (U+0328) [code: mark-chars]</p>
+</span></li></ul></div></details>
+<h3>Check GDEF mark glyph class doesn't have characters that are not marks. (derived from com.google.fonts/check/gdef_non_mark_chars)</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/gdef_non_mark_chars:typenetwork&gt;</div>
+
+<details><summary>🔥 <strong>/Users/guidoferreyra/Documents/gitRepositories/Ubuntu-fonts/fonts/variable/Ubuntu[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>The following non-mark characters should not be in the GDEF mark glyph class:
+U+0384, U+0385, U+1FBE, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD, U+1FDE, U+1FDF, U+1FED, U+1FEF, U+1FFD and U+1FFE [code: non-mark-chars]</p>
+</span></li></ul></div></details>
+<h2>&lt;Section: Fontwerk&gt; ⚠️⚠️</h2>
+<h3>Check if font has Mac name table entries (platform=1) (derived from com.fontwerk/check/no_mac_entries)</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.fontwerk/check/no_mac_entries:typenetwork&gt;</div>
+
+<details><summary>⚠️ <strong>/Users/guidoferreyra/Documents/gitRepositories/Ubuntu-fonts/fonts/variable/Ubuntu-Italic[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 256 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 257 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 258 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 259 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 260 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 261 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 262 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 263 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 264 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 265 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 266 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 267 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 268 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 269 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 270 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 271 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 272 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 273 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 274 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 275 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 276 [code: mac-names]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>/Users/guidoferreyra/Documents/gitRepositories/Ubuntu-fonts/fonts/variable/Ubuntu[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 256 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 257 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 258 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 259 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 260 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 261 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 262 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 263 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 264 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 265 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 266 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 267 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 268 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 269 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 270 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 271 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 272 [code: mac-names]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Please remove name ID 273 [code: mac-names]</p>
+</span></li></ul></div></details>
+<h2>&lt;Section: Google Fonts&gt; ℹ️ℹ️ℹ️ℹ️ℹ️</h2>
+<h3>Check axis ordering on the STAT table. </h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/STAT/axis_order&gt;</div>
+
+<details><summary>ℹ️ <strong>Family check</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>ℹ️ INFO</span><span class='details_text'><p>From a total of 2 font files, 0 of them (0.00%) lack a STAT table.</p>
+<pre><code>And these are the most common STAT axis orderings:
+('wdth-wght-ital', 2) [code: summary]
+</code></pre>
+</span></li></ul></div></details>
+<h3>Is there kerning info for non-ligated sequences? (derived from com.google.fonts/check/kerning_for_non_ligated_sequences)</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/kerning_for_non_ligated_sequences:typenetwork&gt;</div>
+
+<details><summary>ℹ️ <strong>/Users/guidoferreyra/Documents/gitRepositories/Ubuntu-fonts/fonts/variable/Ubuntu-Italic[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>ℹ️ INFO</span><span class='details_text'><p>GPOS table lacks kerning info for the following non-ligated sequences:</p>
+<pre><code>- f + f
+
+- f + i
+
+- i + f
+
+- f + l
+
+- l + f 
+
+- i + l [code: lacks-kern-info]
+</code></pre>
+</span></li></ul></div></details>
+<details><summary>ℹ️ <strong>/Users/guidoferreyra/Documents/gitRepositories/Ubuntu-fonts/fonts/variable/Ubuntu[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>ℹ️ INFO</span><span class='details_text'><p>GPOS table lacks kerning info for the following non-ligated sequences:</p>
+<pre><code>- f + f
+
+- f + i
+
+- i + f
+
+- f + l
+
+- l + f 
+
+- i + l [code: lacks-kern-info]
+</code></pre>
+</span></li></ul></div></details>
+<h3>Is the Grid-fitting and Scan-conversion Procedure ('gasp') table set to optimize rendering?</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/gasp&gt;</div>
+
+<details><summary>ℹ️ <strong>/Users/guidoferreyra/Documents/gitRepositories/Ubuntu-fonts/fonts/variable/Ubuntu-Italic[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>ℹ️ INFO</span><span class='details_text'><p>These are the ppm ranges declared on the gasp table:</p>
+<p>PPM &lt;= 65535:
+flag = 0x0F
+- Use grid-fitting
+- Use grayscale rendering
+- Use gridfitting with ClearType symmetric smoothing
+- Use smoothing along multiple axes with ClearType®
+[code: ranges]</p>
+</span></li></ul></div></details>
+<details><summary>ℹ️ <strong>/Users/guidoferreyra/Documents/gitRepositories/Ubuntu-fonts/fonts/variable/Ubuntu[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>ℹ️ INFO</span><span class='details_text'><p>These are the ppm ranges declared on the gasp table:</p>
+<p>PPM &lt;= 65535:
+flag = 0x0F
+- Use grid-fitting
+- Use grayscale rendering
+- Use gridfitting with ClearType symmetric smoothing
+- Use smoothing along multiple axes with ClearType®
+[code: ranges]</p>
+</span></li></ul></div></details>
+                    </body>
+                </html>
