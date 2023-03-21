@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sixinferior" format="2">
-  <advance width="290"/>
+  <advance width="291"/>
   <unicode hex="2086"/>
   <outline>
-    <component base="sixsuperior" xOffset="-74" yOffset="-307"/>
+    <component base="six.numr" xOffset="-105" yOffset="-440"/>
   </outline>
   <lib>
     <dict>
@@ -15,7 +15,7 @@
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>sixsuperior</string>
+          <string>six.numr</string>
         </dict>
       </array>
     </dict>

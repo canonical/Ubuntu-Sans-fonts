@@ -3,9 +3,9 @@
   <advance width="878"/>
   <unicode hex="2156"/>
   <outline>
-    <component base="twosuperior"/>
+    <component base="two.numr"/>
     <component base="fraction" xOffset="373"/>
-    <component base="fivesuperior" xOffset="515" yOffset="-300"/>
+    <component base="five.numr" xOffset="515" yOffset="-300"/>
   </outline>
   <lib>
     <dict>
@@ -17,7 +17,7 @@
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>twosuperior</string>
+          <string>two.numr</string>
         </dict>
         <dict>
           <key>alignment</key>
@@ -33,7 +33,7 @@
           <key>index</key>
           <integer>2</integer>
           <key>name</key>
-          <string>fivesuperior</string>
+          <string>five.numr</string>
         </dict>
       </array>
     </dict>

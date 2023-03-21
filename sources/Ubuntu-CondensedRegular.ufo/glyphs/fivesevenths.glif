@@ -2,9 +2,9 @@
 <glyph name="fivesevenths" format="2">
   <advance width="719.306"/>
   <outline>
-    <component base="fivesuperior" yOffset="2"/>
+    <component base="five.numr" yOffset="2"/>
     <component base="fraction" xOffset="283"/>
-    <component base="sevensuperior" xOffset="436" yOffset="-305"/>
+    <component base="seven.numr" xOffset="436" yOffset="-305"/>
   </outline>
   <lib>
     <dict>
@@ -16,7 +16,7 @@
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>fivesuperior</string>
+          <string>five.numr</string>
         </dict>
         <dict>
           <key>alignment</key>
@@ -32,7 +32,7 @@
           <key>index</key>
           <integer>2</integer>
           <key>name</key>
-          <string>sevensuperior</string>
+          <string>seven.numr</string>
         </dict>
       </array>
     </dict>

@@ -3,48 +3,21 @@
   <advance width="280"/>
   <unicode hex="00B3"/>
   <outline>
-    <contour>
-      <point x="122.706" y="302.345" type="curve" smooth="yes"/>
-      <point x="164.554" y="302.345"/>
-      <point x="228.622" y="343.294"/>
-      <point x="228.622" y="409.311" type="curve" smooth="yes"/>
-      <point x="228.622" y="443.949"/>
-      <point x="213.983" y="489.311"/>
-      <point x="154.899" y="514" type="curve"/>
-      <point x="191.932" y="528.311"/>
-      <point x="217.622" y="562.672"/>
-      <point x="217.622" y="606.345" type="curve" smooth="yes"/>
-      <point x="217.622" y="655.017"/>
-      <point x="169.243" y="695.655"/>
-      <point x="128.362" y="695.655" type="curve" smooth="yes"/>
-      <point x="121.791" y="695.655"/>
-      <point x="101.824" y="702.051"/>
-      <point x="47.068" y="667" type="curve"/>
-      <point x="57.689" y="638.085" type="line"/>
-      <point x="92.068" y="663.791"/>
-      <point x="118.757" y="661.085"/>
-      <point x="123.362" y="661.085" type="curve" smooth="yes"/>
-      <point x="162.395" y="661.085"/>
-      <point x="184.068" y="633.706"/>
-      <point x="184.068" y="602.706" type="curve" smooth="yes"/>
-      <point x="184.068" y="563.378"/>
-      <point x="173.152" y="528.966"/>
-      <point x="113.362" y="528.966" type="curve" smooth="yes"/>
-      <point x="88.706" y="528.966" type="line"/>
-      <point x="88.706" y="498.395" type="line"/>
-      <point x="109.362" y="498.395" type="line" smooth="yes"/>
-      <point x="179.48" y="498.395"/>
-      <point x="195.412" y="455.311"/>
-      <point x="195.412" y="412.311" type="curve" smooth="yes"/>
-      <point x="195.412" y="355.899"/>
-      <point x="147" y="336.243"/>
-      <point x="119.362" y="336.243" type="curve" smooth="yes"/>
-      <point x="114.429" y="336.243"/>
-      <point x="91.085" y="336.554"/>
-      <point x="50.689" y="357.243" type="curve"/>
-      <point x="37.378" y="325.672" type="line"/>
-      <point x="81.101" y="301.311"/>
-      <point x="117.791" y="302.345"/>
-    </contour>
+    <component base="three.numr" yOffset="129"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>three.numr</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

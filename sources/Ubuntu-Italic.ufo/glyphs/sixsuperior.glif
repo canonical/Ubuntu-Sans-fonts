@@ -3,43 +3,21 @@
   <advance width="373"/>
   <unicode hex="2076"/>
   <outline>
-    <contour>
-      <point x="283" y="306" type="curve" smooth="yes"/>
-      <point x="365" y="306"/>
-      <point x="436" y="359"/>
-      <point x="436" y="451" type="curve" smooth="yes"/>
-      <point x="436" y="509"/>
-      <point x="401" y="555"/>
-      <point x="331" y="555" type="curve" smooth="yes"/>
-      <point x="301" y="555"/>
-      <point x="269" y="547"/>
-      <point x="239" y="535" type="curve"/>
-      <point x="273" y="604"/>
-      <point x="345" y="650"/>
-      <point x="453" y="651" type="curve"/>
-      <point x="457" y="703" type="line"/>
-      <point x="287" y="699"/>
-      <point x="159" y="597"/>
-      <point x="159" y="435" type="curve" smooth="yes"/>
-      <point x="159" y="343"/>
-      <point x="216" y="306"/>
-    </contour>
-    <contour>
-      <point x="284" y="357" type="curve" smooth="yes"/>
-      <point x="233" y="357"/>
-      <point x="217" y="399"/>
-      <point x="217" y="436" type="curve" smooth="yes"/>
-      <point x="217" y="454"/>
-      <point x="219" y="472"/>
-      <point x="223" y="488" type="curve"/>
-      <point x="248" y="498"/>
-      <point x="280" y="508"/>
-      <point x="312" y="508" type="curve" smooth="yes"/>
-      <point x="354" y="508"/>
-      <point x="375" y="485"/>
-      <point x="375" y="445" type="curve" smooth="yes"/>
-      <point x="375" y="400"/>
-      <point x="343" y="357"/>
-    </contour>
+    <component base="six.numr" xOffset="42" yOffset="120"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>six.numr</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

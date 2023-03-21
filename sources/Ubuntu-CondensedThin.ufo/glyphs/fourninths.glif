@@ -2,9 +2,9 @@
 <glyph name="fourninths" format="2">
   <advance width="706"/>
   <outline>
-    <component base="foursuperior" yOffset="3"/>
+    <component base="four.numr" yOffset="3"/>
     <component base="fraction" xOffset="286"/>
-    <component base="ninesuperior" xOffset="426" yOffset="-311"/>
+    <component base="nine.numr" xOffset="426" yOffset="-311"/>
   </outline>
   <lib>
     <dict>
@@ -16,7 +16,7 @@
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>foursuperior</string>
+          <string>four.numr</string>
         </dict>
         <dict>
           <key>alignment</key>
@@ -32,7 +32,7 @@
           <key>index</key>
           <integer>2</integer>
           <key>name</key>
-          <string>ninesuperior</string>
+          <string>nine.numr</string>
         </dict>
       </array>
     </dict>
