@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t.sc" format="2">
+  <advance width="508"/>
+  <anchor x="254" y="0" name="bottom"/>
+  <anchor x="254" y="290" name="center"/>
+  <anchor x="254" y="580" name="top"/>
+  <outline>
+    <contour>
+      <point x="216" y="0" type="line"/>
+      <point x="292" y="0" type="line"/>
+      <point x="292" y="514" type="line"/>
+      <point x="479" y="514" type="line"/>
+      <point x="479" y="580" type="line"/>
+      <point x="29" y="580" type="line"/>
+      <point x="29" y="514" type="line"/>
+      <point x="216" y="514" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>83</integer>
+        <key>weight</key>
+        <integer>4</integer>
+        <key>width</key>
+        <real>84.5</real>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

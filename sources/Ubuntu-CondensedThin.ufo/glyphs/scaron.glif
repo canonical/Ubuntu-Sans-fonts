@@ -1,34 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="scaron" format="2">
-  <advance width="311"/>
+  <advance width="316"/>
   <unicode hex="0161"/>
-  <anchor x="156" y="0" name="bottom"/>
-  <anchor x="156" y="517" name="top"/>
+  <anchor x="136" y="0" name="bottom"/>
+  <anchor x="170" y="753" name="top"/>
   <outline>
     <component base="s"/>
-    <component base="caron" xOffset="15"/>
+    <component base="caroncomb" xOffset="170"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>s</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>caron</string>
-        </dict>
-      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

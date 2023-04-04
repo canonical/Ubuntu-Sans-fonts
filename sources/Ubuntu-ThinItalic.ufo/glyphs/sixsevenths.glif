@@ -1,11 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sixsevenths" format="2">
   <advance width="880"/>
-  <unicode hex="F50B"/>
   <outline>
     <component base="fraction" xOffset="345"/>
-    <component base="sixsuperior" xOffset="16"/>
-    <component base="sevensuperior" xOffset="412" yOffset="-316"/>
+    <component base="six.numr" xOffset="16"/>
+    <component base="seven.numr" xOffset="412" yOffset="-316"/>
   </outline>
   <lib>
     <dict>
@@ -25,7 +24,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>sixsuperior</string>
+          <string>six.numr</string>
         </dict>
         <dict>
           <key>alignment</key>
@@ -33,7 +32,7 @@
           <key>index</key>
           <integer>2</integer>
           <key>name</key>
-          <string>sevensuperior</string>
+          <string>seven.numr</string>
         </dict>
       </array>
     </dict>

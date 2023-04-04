@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omicronpsili" format="2">
+  <advance width="631"/>
+  <unicode hex="1F48"/>
+  <anchor x="340.672" y="0" name="bottom"/>
+  <anchor x="340.672" y="347" name="center"/>
+  <anchor x="572.638" y="10" name="ogonek"/>
+  <anchor x="26.655" y="680.226" name="top"/>
+  <anchor x="69.378" y="693" name="topleft"/>
+  <anchor x="610.966" y="693" name="topright"/>
+  <outline>
+    <component base="O" xOffset="49.378"/>
+    <component base="psili" xOffset="-131.328" yOffset="-75.345"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>O</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>psili</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

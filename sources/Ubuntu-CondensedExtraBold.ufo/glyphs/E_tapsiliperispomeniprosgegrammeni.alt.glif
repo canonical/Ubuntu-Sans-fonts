@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etapsiliperispomeniprosgegrammeni.alt" format="2">
+  <advance width="806"/>
+  <anchor x="507" y="0" name="bottom"/>
+  <anchor x="507" y="347" name="center"/>
+  <anchor x="507" y="683" name="top"/>
+  <anchor x="228" y="693" name="topleft"/>
+  <outline>
+    <component base="Etaprosgegrammeni.alt" xOffset="208"/>
+    <component base="psiliperispomeni" xOffset="-32" yOffset="-110"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Etaprosgegrammeni.alt</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>psiliperispomeni</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

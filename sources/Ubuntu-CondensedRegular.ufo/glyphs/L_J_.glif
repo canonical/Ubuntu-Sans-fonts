@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="LJ" format="2">
+  <advance width="806"/>
+  <unicode hex="01C7"/>
+  <anchor x="241" y="0" name="bottom_1"/>
+  <anchor x="619" y="0" name="bottom_2"/>
+  <anchor x="206" y="347" name="center"/>
+  <anchor x="122" y="673" name="top_1"/>
+  <anchor x="692" y="673" name="top_2"/>
+  <anchor x="156" y="693" name="topright"/>
+  <outline>
+    <component base="L"/>
+    <component base="J" xOffset="430"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>L</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>J</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -3,7 +3,7 @@
   <advance width="755"/>
   <outline>
     <component base="N" xOffset="67"/>
-    <component base="apostrophe" xOffset="-77"/>
+    <component base="apostrophemod" xOffset="-77"/>
   </outline>
   <lib>
     <dict>
@@ -23,7 +23,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>apostrophe</string>
+          <string>apostrophemod</string>
         </dict>
       </array>
     </dict>

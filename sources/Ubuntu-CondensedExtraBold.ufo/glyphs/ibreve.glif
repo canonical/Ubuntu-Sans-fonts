@@ -4,32 +4,15 @@
   <unicode hex="012D"/>
   <anchor x="138" y="0" name="bottom"/>
   <anchor x="248" y="10" name="ogonek"/>
-  <anchor x="138" y="532" name="top"/>
+  <anchor x="138" y="759" name="top"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="breve" xOffset="-22"/>
+    <component base="idotless"/>
+    <component base="brevecomb" xOffset="138"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>dotlessi</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>breve</string>
-        </dict>
-      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

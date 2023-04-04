@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f.sc" format="2">
+  <advance width="477"/>
+  <anchor x="239" y="0" name="bottom"/>
+  <anchor x="239" y="580" name="top"/>
+  <outline>
+    <contour>
+      <point x="86" y="0" type="line"/>
+      <point x="162" y="0" type="line"/>
+      <point x="162" y="266" type="line"/>
+      <point x="406" y="266" type="line"/>
+      <point x="406" y="331" type="line"/>
+      <point x="162" y="331" type="line"/>
+      <point x="162" y="515" type="line"/>
+      <point x="436" y="515" type="line"/>
+      <point x="436" y="580" type="line"/>
+      <point x="86" y="580" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>83</integer>
+        <key>weight</key>
+        <integer>4</integer>
+        <key>width</key>
+        <real>84.5</real>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>h.sc</string>
+    </dict>
+  </lib>
+</glyph>

@@ -259,6 +259,13 @@
       <integer>3</integer>
       <key>com.letterror.mathModelPref</key>
       <string>previewVarLib</string>
+      <key>public.skipExportGlyphs</key>
+      <array>
+        <string>ubuntu</string>
+        <string>uniE0FF</string>
+        <string>uniF000</string>
+        <string>uniF0FF</string>
+      </array>
     </dict>
   </lib>
 </designspace>

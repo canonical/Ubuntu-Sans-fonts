@@ -2,8 +2,8 @@
 <glyph name="c" format="2">
   <advance width="500"/>
   <unicode hex="0063"/>
-  <anchor x="250" y="0" name="bottom"/>
-  <anchor x="250" y="526" name="top"/>
+  <anchor x="270" y="0" name="bottom"/>
+  <anchor x="301" y="526" name="top"/>
   <outline>
     <contour>
       <point x="319" y="-14" type="curve" smooth="yes"/>
@@ -34,4 +34,10 @@
       <point x="126" y="-14"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

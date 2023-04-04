@@ -5,12 +5,18 @@
     <key>lib</key>
     <dict>
       <key>com.schriftgestaltung.layerId</key>
-      <string>7D5EADFF-D20A-403C-ABBA-E0CD9290D868</string>
+      <string>643CF5EE-2D26-4E77-ADD2-07F437975453</string>
       <key>com.schriftgestaltung.layerOrderInGlyph.AE</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Aacute</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Agrave</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Alphadasiaoxiaprosgegrammeni</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Alphadasiaprosgegrammeni</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Alphapsiliperispomeniprosgegrammeni</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Aogonek</key>
       <integer>4</integer>
@@ -18,23 +24,61 @@
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Aringacute</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Astroke</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Bhook</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Btopbar</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Ccedilla</key>
       <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.Delta</key>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Cheabkhasian-cy</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Chedescenderabkhasian-cy</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Cstroke</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.De-cy</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Dhook</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.El-cy</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Eng</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Enhook-cy</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Eogonek</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Eopen</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Ereversed-cy</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Eth</key>
       <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.Euro</key>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Ezh</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Fita-cy</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Gamma-latin</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Glottalstop</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Hardsign-cy</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Hbar</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Iacute</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Io-cy</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Iogonek</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Izhitsa-cy</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Khook</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Lje-cy</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Lslash</key>
       <integer>4</integer>
@@ -44,17 +88,31 @@
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Omega</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Omegapsili</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Oslash</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Qhooktail</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Scedilla</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Semisoftsign-cy</key>
+      <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Sigma</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Softsign-cy</key>
+      <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Tbar</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Tcedilla</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Theta</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Thook</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Thorn</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Ubar</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Uhorn</key>
       <integer>4</integer>
@@ -62,47 +120,37 @@
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Wacute</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Yat-cy</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Yhook</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Yr</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Zhedescender-cy</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Zhook</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.acute.asc</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.acute_greek.sc</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ae</key>
       <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.afii10021</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.afii10023</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.afii10029</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.afii10044</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.afii10046</key>
-      <integer>5</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.afii10047</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.afii10058</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.afii10066</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.afii10066.locl</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.afii10073</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.afii10077</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.afii10092</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.afii10099</key>
-      <integer>5</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.afii10106</key>
-      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.aogonek</key>
       <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.apostrophe</key>
+      <key>com.schriftgestaltung.layerOrderInGlyph.apostrophemod</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.approxequal</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.be-cy</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.be-cy.locl</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.breve</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.brokenbar</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.btopbar</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.caron</key>
       <integer>4</integer>
@@ -116,13 +164,13 @@
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.cent</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.cheverticalstroke-cy</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.chi</key>
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.circumflex</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.circumflex.asc</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.commaaccent</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.copyright</key>
       <integer>4</integer>
@@ -132,7 +180,19 @@
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.daggerdbl</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dasiavaria</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dasiavaria.sc</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dbdigraph</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dcroat</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dcurl</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.deltaturned</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dialytikaperispomeni</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dieresis</key>
       <integer>4</integer>
@@ -140,25 +200,41 @@
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dieresis_breve.cap</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dieresis_breve.sc</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dieresis_grave</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dieresis_grave.cap</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dieresis_macron</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dieresis_macron.sc</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dje-cy</key>
+      <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dot_macron</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dot_macron.sc</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dotaccent</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.double_grave</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.double_grave.sc</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.el-cy</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.eng</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.enge-cy</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.eogonek</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.euro</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.exclamdown</key>
       <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.fivesuperior</key>
+      <key>com.schriftgestaltung.layerOrderInGlyph.five.numr</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.florin</key>
       <integer>4</integer>
@@ -166,17 +242,33 @@
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.germandbls</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.glottalstopsmall</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.grave</key>
       <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.guillemotright</key>
+      <key>com.schriftgestaltung.layerOrderInGlyph.grave_greek.sc</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.guillemetright</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.guilsinglleft</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.haabkhasian-cy</key>
+      <integer>5</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.hadescender-cy</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.hardsign-cy</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.hbar</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.hungarumlaut</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.increment</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.iogonek</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.izhitsa-cy</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.jstroke</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.kgreenlandic</key>
       <integer>4</integer>
@@ -184,17 +276,19 @@
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.less</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.lje-cy</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.longs</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.lozenge</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.lslash</key>
       <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.mu</key>
+      <key>com.schriftgestaltung.layerOrderInGlyph.micro</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.multiply</key>
       <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.ninesuperior</key>
+      <key>com.schriftgestaltung.layerOrderInGlyph.nine.numr</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.oe</key>
       <integer>4</integer>
@@ -210,6 +304,20 @@
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.plusminus</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.prosgegrammeni</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.prosgegrammeni.sc</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.psilioxia</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.psilioxia.sc</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.psiliperispomeni</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.psiliperispomeni.sc</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.published</key>
+      <integer>8</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.questiondown</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.quotedblleft</key>
@@ -220,15 +328,17 @@
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.registered</key>
       <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.revcommaaccent</key>
-      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ring</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ring_acute</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.rupeeIndian</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.scedilla</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.section</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.semisoftsign-cy</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.slash</key>
       <integer>4</integer>
@@ -238,13 +348,25 @@
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.tbar</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.tcedilla</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.thook</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.thorn</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.tilde</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.tilde_macron</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.tilde_macron.sc</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.tonefive</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.tonesix</key>
+      <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.trademark</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.tugrik</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.two</key>
       <integer>4</integer>
@@ -252,127 +374,25 @@
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.uhorn</key>
       <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni0162</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni0163</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni0181</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni0182</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni0183</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni0185</key>
-      <integer>5</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni018A</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni018D</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni0190</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni0194</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni0198</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni01A6</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni01AC</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni01AD</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni01B3</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni01B7</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni01BD</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni0221</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni0224</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni0238</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni023A</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni023B</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni0240</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni0241</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni0242</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni0244</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni0249</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni024A</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni024F</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni0462</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni0463</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni0472</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni0474</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni0475</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni048C</key>
-      <integer>5</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni048D</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni0496</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni0497</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni04A5</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni04A9</key>
-      <integer>5</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni04B1</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni04B3</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni04B9</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni04BC</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni04BE</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni04C7</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni1F68</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni1F89</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni1F8D</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni1F8E</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni1FBE</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni1FC1</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni1FCE</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni1FCF</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni1FDD</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni20AE</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uni20B9</key>
-      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.uogonek</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ustraightstroke-cy</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.wacute</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.yat-cy</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.yen</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ygrave</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ystroke</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ze-cy</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.zhedescender-cy</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.zswashtail</key>
       <integer>4</integer>
     </dict>
   </dict>

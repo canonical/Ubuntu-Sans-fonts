@@ -6,7 +6,7 @@
   <anchor x="341.588" y="693" name="top"/>
   <outline>
     <component base="AE"/>
-    <component base="acute" xOffset="300.412" yOffset="156"/>
+    <component base="acutecomb" xOffset="300.412" yOffset="156"/>
   </outline>
   <lib>
     <dict>
@@ -26,9 +26,11 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>acute</string>
+          <string>acutecomb</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

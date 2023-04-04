@@ -3,7 +3,7 @@
   <advance width="230"/>
   <unicode hex="0135"/>
   <outline>
-    <component base="dotlessj" xOffset="5" yOffset="3"/>
+    <component base="jdotless" xOffset="5" yOffset="3"/>
     <component base="circumflex" xOffset="-39"/>
   </outline>
   <lib>
@@ -16,7 +16,7 @@
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>dotlessj</string>
+          <string>jdotless</string>
         </dict>
         <dict>
           <key>alignment</key>

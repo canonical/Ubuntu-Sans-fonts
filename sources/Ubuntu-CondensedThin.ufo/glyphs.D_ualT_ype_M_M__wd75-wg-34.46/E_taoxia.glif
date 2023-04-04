@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etaoxia" format="2">
+  <advance width="651"/>
+  <unicode hex="1FCB"/>
+  <anchor x="372.638" y="0" name="bottom"/>
+  <anchor x="372.638" y="347" name="center"/>
+  <anchor x="372.638" y="693" name="top"/>
+  <anchor x="114.672" y="693" name="topleft"/>
+  <outline>
+    <component base="H" xOffset="94.672"/>
+    <component base="acute" xOffset="-135.622" yOffset="-75.345"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>H</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>acute</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

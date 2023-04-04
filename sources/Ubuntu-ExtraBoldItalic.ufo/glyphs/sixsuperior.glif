@@ -3,43 +3,6 @@
   <advance width="373"/>
   <unicode hex="2076"/>
   <outline>
-    <contour>
-      <point x="252" y="294" type="curve" smooth="yes"/>
-      <point x="332" y="294"/>
-      <point x="417" y="349"/>
-      <point x="417" y="446" type="curve" smooth="yes"/>
-      <point x="417" y="534"/>
-      <point x="363" y="559"/>
-      <point x="308" y="559" type="curve" smooth="yes"/>
-      <point x="285" y="559"/>
-      <point x="265" y="556"/>
-      <point x="246" y="550" type="curve"/>
-      <point x="286" y="597"/>
-      <point x="343" y="617"/>
-      <point x="442" y="618" type="curve"/>
-      <point x="450" y="703" type="line"/>
-      <point x="210" y="703"/>
-      <point x="115" y="570"/>
-      <point x="115" y="430" type="curve" smooth="yes"/>
-      <point x="115" y="336"/>
-      <point x="181" y="294"/>
-    </contour>
-    <contour>
-      <point x="253" y="380" type="curve" smooth="yes"/>
-      <point x="221" y="380"/>
-      <point x="210" y="403"/>
-      <point x="210" y="430" type="curve" smooth="yes"/>
-      <point x="210" y="445"/>
-      <point x="214" y="463"/>
-      <point x="219" y="478" type="curve"/>
-      <point x="236" y="483"/>
-      <point x="254" y="487"/>
-      <point x="269" y="487" type="curve" smooth="yes"/>
-      <point x="302" y="487"/>
-      <point x="317" y="465"/>
-      <point x="317" y="441" type="curve" smooth="yes"/>
-      <point x="317" y="412"/>
-      <point x="296" y="380"/>
-    </contour>
+    <component base="six.numr" xOffset="29" yOffset="120"/>
   </outline>
 </glyph>

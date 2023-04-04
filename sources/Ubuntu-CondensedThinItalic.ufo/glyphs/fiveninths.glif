@@ -1,11 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fiveninths" format="2">
   <advance width="716.55"/>
-  <unicode hex="F50F"/>
   <outline>
     <component base="fraction" xOffset="297"/>
-    <component base="fivesuperior" yOffset="4"/>
-    <component base="ninesuperior" xOffset="353" yOffset="-311"/>
+    <component base="five.numr" yOffset="4"/>
+    <component base="nine.numr" xOffset="353" yOffset="-311"/>
   </outline>
   <lib>
     <dict>
@@ -25,7 +24,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>fivesuperior</string>
+          <string>five.numr</string>
         </dict>
         <dict>
           <key>alignment</key>
@@ -33,7 +32,7 @@
           <key>index</key>
           <integer>2</integer>
           <key>name</key>
-          <string>ninesuperior</string>
+          <string>nine.numr</string>
         </dict>
       </array>
     </dict>

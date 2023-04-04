@@ -2,10 +2,10 @@
 <glyph name="l" format="2">
   <advance width="316"/>
   <unicode hex="006C"/>
-  <anchor x="158" y="0" name="bottom"/>
+  <anchor x="178" y="0" name="bottom"/>
   <anchor x="158" y="388" name="center"/>
   <anchor x="158" y="776" name="top"/>
-  <anchor x="296" y="776" name="topright"/>
+  <anchor x="269" y="776" name="topright"/>
   <outline>
     <contour>
       <point x="280" y="-10" type="curve"/>
@@ -20,4 +20,10 @@
       <point x="108" y="-7"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Udieresisgrave" format="2">
+  <advance width="537"/>
+  <unicode hex="01DB"/>
+  <anchor x="269" y="0" name="bottom"/>
+  <anchor x="485" y="10" name="ogonek"/>
+  <anchor x="269" y="958" name="top"/>
+  <anchor x="519" y="693" name="topright"/>
+  <outline>
+    <component base="U"/>
+    <component base="dieresis_grave.cap" xOffset="269"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -4,7 +4,7 @@
   <unicode hex="0055"/>
   <anchor x="285" y="0" name="bottom"/>
   <anchor x="515" y="10" name="ogonek"/>
-  <anchor x="285" y="693" name="top"/>
+  <anchor x="285" y="683" name="top"/>
   <anchor x="554" y="693" name="topright"/>
   <outline>
     <contour>
@@ -28,4 +28,10 @@
       <point x="141" y="-14"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

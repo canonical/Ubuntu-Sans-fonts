@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dasiaoxia.sc" format="2">
+  <advance width="314"/>
+  <outline>
+    <contour>
+      <point x="171.209" y="587.378" type="line"/>
+      <point x="251.797" y="749.672" type="line"/>
+      <point x="229.949" y="753.571" type="line"/>
+      <point x="159.328" y="590.966" type="line"/>
+    </contour>
+    <contour>
+      <point x="113.034" y="589.378" type="curve"/>
+      <point x="125.638" y="602.311" type="line"/>
+      <point x="92.605" y="628.655"/>
+      <point x="57.226" y="681.74"/>
+      <point x="61.277" y="703.74" type="curve"/>
+      <point x="80.605" y="706.723"/>
+      <point x="86.915" y="720.034"/>
+      <point x="86.915" y="732" type="curve" smooth="yes"/>
+      <point x="86.915" y="750.294"/>
+      <point x="73.277" y="755.571"/>
+      <point x="64.345" y="755.571" type="curve" smooth="yes"/>
+      <point x="56.085" y="755.571"/>
+      <point x="46.135" y="746.277"/>
+      <point x="46.135" y="728.345" type="curve" smooth="yes"/>
+      <point x="46.135" y="678.706"/>
+      <point x="69.034" y="630.395"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>dasia.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>psilioxia.sc</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hcircumflex.sc" format="2">
+  <advance width="623"/>
+  <anchor x="312" y="0" name="bottom"/>
+  <anchor x="312" y="290" name="center"/>
+  <anchor x="312" y="804" name="top"/>
+  <anchor x="20" y="580" name="topleft"/>
+  <outline>
+    <component base="h.sc"/>
+    <component base="circumflexcomb.sc" xOffset="312"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>h.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>h.sc</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

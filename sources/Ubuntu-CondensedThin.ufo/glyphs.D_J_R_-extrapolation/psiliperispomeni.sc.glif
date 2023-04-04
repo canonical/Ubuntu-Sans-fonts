@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psiliperispomeni.sc" format="2">
+  <advance width="314"/>
+  <outline>
+    <contour>
+      <point x="46" y="760" type="curve"/>
+      <point x="75" y="760" type="line"/>
+      <point x="83" y="859"/>
+      <point x="135" y="854"/>
+      <point x="156" y="854" type="curve" smooth="yes"/>
+      <point x="178" y="854"/>
+      <point x="230" y="859"/>
+      <point x="238" y="760" type="curve"/>
+      <point x="267" y="760" type="line"/>
+      <point x="262" y="814"/>
+      <point x="243" y="871"/>
+      <point x="156" y="871" type="curve" smooth="yes"/>
+      <point x="69" y="871"/>
+      <point x="51" y="814"/>
+    </contour>
+    <contour>
+      <point x="115" y="588" type="line"/>
+      <point x="197" y="644"/>
+      <point x="184" y="687"/>
+      <point x="184" y="705" type="curve" smooth="yes"/>
+      <point x="184" y="717"/>
+      <point x="172" y="734"/>
+      <point x="157" y="734" type="curve" smooth="yes"/>
+      <point x="150" y="734"/>
+      <point x="131" y="728"/>
+      <point x="131" y="707" type="curve" smooth="yes"/>
+      <point x="131" y="693"/>
+      <point x="140" y="676"/>
+      <point x="166" y="679" type="curve"/>
+      <point x="160" y="659"/>
+      <point x="128" y="620"/>
+      <point x="99" y="599" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

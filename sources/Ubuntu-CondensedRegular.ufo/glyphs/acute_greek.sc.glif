@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acute_greek.sc" format="2">
+  <advance width="211"/>
+  <anchor x="211" y="580" name="_topleft"/>
+  <outline>
+    <contour>
+      <point x="13" y="411" type="line"/>
+      <point x="149" y="556" type="line"/>
+      <point x="100" y="599" type="line"/>
+      <point x="-23" y="442" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

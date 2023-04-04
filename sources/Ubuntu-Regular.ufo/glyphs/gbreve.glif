@@ -1,34 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gbreve" format="2">
-  <advance width="575.394"/>
+  <advance width="575"/>
   <unicode hex="011F"/>
   <anchor x="288" y="-185" name="bottom"/>
-  <anchor x="288" y="518" name="top"/>
+  <anchor x="303" y="748" name="top"/>
   <outline>
     <component base="g"/>
-    <component base="breve" xOffset="116"/>
+    <component base="brevecomb" xOffset="303"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>g</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>breve</string>
-        </dict>
-      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

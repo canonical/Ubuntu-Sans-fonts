@@ -2,6 +2,7 @@
 <glyph name="rho" format="2">
   <advance width="590.736"/>
   <unicode hex="03C1"/>
+  <anchor x="298" y="518" name="top"/>
   <outline>
     <contour>
       <point x="79" y="-185" type="line"/>
@@ -36,4 +37,10 @@
       <point x="416" y="55"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

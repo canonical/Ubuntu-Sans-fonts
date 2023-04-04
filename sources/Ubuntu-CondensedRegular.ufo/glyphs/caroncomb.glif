@@ -1,26 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="caroncomb" format="2">
   <unicode hex="030C"/>
-  <anchor x="160" y="522" name="_top"/>
-  <anchor x="160" y="766" name="top"/>
+  <anchor x="0" y="522" name="_top"/>
+  <anchor x="0" y="766" name="top"/>
   <outline>
-    <component base="caron"/>
+    <contour>
+      <point x="1" y="591" type="line"/>
+      <point x="115" y="736" type="line"/>
+      <point x="80" y="766" type="line"/>
+      <point x="0" y="672" type="line"/>
+      <point x="-79" y="766" type="line"/>
+      <point x="-115" y="736" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>caron</string>
-        </dict>
-      </array>
-      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <real>316.57</real>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

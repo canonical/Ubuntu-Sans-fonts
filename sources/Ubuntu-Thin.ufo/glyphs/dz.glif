@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dz" format="2">
+  <advance width="1004"/>
+  <unicode hex="01F3"/>
+  <anchor x="502" y="513" name="top"/>
+  <anchor x="284" y="0" name="bottom_1"/>
+  <anchor x="786" y="0" name="bottom_2"/>
+  <anchor x="284" y="257" name="center_1"/>
+  <anchor x="786" y="257" name="center_2"/>
+  <anchor x="547" y="776" name="topright"/>
+  <outline>
+    <component base="d"/>
+    <component base="z" xOffset="567"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>d</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>z</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

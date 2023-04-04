@@ -3,18 +3,21 @@
   <advance width="359"/>
   <unicode hex="2077"/>
   <outline>
-    <contour>
-      <point x="103" y="319" type="curve"/>
-      <point x="134" y="319" type="line"/>
-      <point x="147" y="439"/>
-      <point x="225" y="598"/>
-      <point x="307" y="670" type="curve"/>
-      <point x="307" y="696" type="line"/>
-      <point x="54" y="696" type="line"/>
-      <point x="54" y="668" type="line"/>
-      <point x="266" y="668" type="line"/>
-      <point x="188" y="592"/>
-      <point x="116" y="439"/>
-    </contour>
+    <component base="seven.numr" yOffset="120"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>seven.numr</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde_macron.sc" format="2">
+  <anchor x="0" y="580" name="_top"/>
+  <anchor x="0" y="820" name="top"/>
+  <outline>
+    <contour>
+      <point x="-113" y="616" type="line"/>
+      <point x="-100" y="639"/>
+      <point x="-85" y="653"/>
+      <point x="-60" y="653" type="curve" smooth="yes"/>
+      <point x="-47" y="653"/>
+      <point x="-33" y="648"/>
+      <point x="-10" y="637" type="curve"/>
+      <point x="10" y="628"/>
+      <point x="35" y="618"/>
+      <point x="60" y="618" type="curve" smooth="yes"/>
+      <point x="109" y="618"/>
+      <point x="135" y="663"/>
+      <point x="149" y="693" type="curve"/>
+      <point x="113" y="711" type="line"/>
+      <point x="100" y="689"/>
+      <point x="85" y="674"/>
+      <point x="60" y="674" type="curve" smooth="yes"/>
+      <point x="47" y="674"/>
+      <point x="33" y="680"/>
+      <point x="11" y="690" type="curve" smooth="yes"/>
+      <point x="-10" y="700"/>
+      <point x="-35" y="710"/>
+      <point x="-60" y="710" type="curve"/>
+      <point x="-109" y="710"/>
+      <point x="-135" y="666"/>
+      <point x="-149" y="635" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-126" y="763" type="line"/>
+      <point x="126" y="763" type="line"/>
+      <point x="126" y="820" type="line"/>
+      <point x="-126" y="820" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

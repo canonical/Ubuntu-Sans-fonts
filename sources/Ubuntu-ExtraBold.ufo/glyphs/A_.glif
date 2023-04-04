@@ -4,7 +4,7 @@
   <unicode hex="0041"/>
   <anchor x="361" y="0" name="bottom"/>
   <anchor x="649" y="10" name="ogonek"/>
-  <anchor x="361" y="693" name="top"/>
+  <anchor x="361" y="685" name="top"/>
   <outline>
     <contour>
       <point x="10" y="0" type="curve"/>
@@ -34,4 +34,10 @@
       <point x="456" y="274" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -3,32 +3,15 @@
   <advance width="220"/>
   <unicode hex="0135"/>
   <anchor x="110" y="-185" name="bottom"/>
-  <anchor x="110" y="513" name="top"/>
+  <anchor x="110" y="751" name="top"/>
   <outline>
-    <component base="dotlessj"/>
-    <component base="circumflex" xOffset="-77"/>
+    <component base="jdotless"/>
+    <component base="circumflexcomb" xOffset="110"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>dotlessj</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>circumflex</string>
-        </dict>
-      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

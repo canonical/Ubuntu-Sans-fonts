@@ -3,18 +3,21 @@
   <advance width="363"/>
   <unicode hex="00B9"/>
   <outline>
-    <contour>
-      <point x="161" y="302" type="line"/>
-      <point x="275" y="302" type="line"/>
-      <point x="275" y="701" type="line"/>
-      <point x="188" y="701" type="line"/>
-      <point x="149" y="670"/>
-      <point x="94" y="641"/>
-      <point x="38" y="618" type="curve"/>
-      <point x="69" y="531" type="line"/>
-      <point x="109" y="546"/>
-      <point x="134" y="557"/>
-      <point x="161" y="572" type="curve"/>
-    </contour>
+    <component base="one.numr" yOffset="120"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>one.numr</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

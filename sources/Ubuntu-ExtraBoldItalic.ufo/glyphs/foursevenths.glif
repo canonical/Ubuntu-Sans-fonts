@@ -1,11 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="foursevenths" format="2">
   <advance width="888"/>
-  <unicode hex="F509"/>
   <outline>
     <component base="fraction" xOffset="415"/>
-    <component base="foursuperior" xOffset="-17"/>
-    <component base="sevensuperior" xOffset="456" yOffset="-300"/>
+    <component base="four.numr" xOffset="-17"/>
+    <component base="seven.numr" xOffset="456" yOffset="-300"/>
   </outline>
   <lib>
     <dict>
@@ -25,7 +24,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>foursuperior</string>
+          <string>four.numr</string>
         </dict>
         <dict>
           <key>alignment</key>
@@ -33,7 +32,7 @@
           <key>index</key>
           <integer>2</integer>
           <key>name</key>
-          <string>sevensuperior</string>
+          <string>seven.numr</string>
         </dict>
       </array>
     </dict>

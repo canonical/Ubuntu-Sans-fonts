@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Alpha" format="2">
-  <advance width="480.788"/>
+  <advance width="481"/>
   <unicode hex="0391"/>
   <anchor x="20" y="693" name="topleft"/>
   <anchor x="240" y="0" name="bottom"/>
@@ -10,17 +10,8 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>A</string>
-        </dict>
-      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

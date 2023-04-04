@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idotless.sc" format="2">
+  <advance width="248"/>
+  <anchor x="124" y="0" name="bottom"/>
+  <anchor x="223" y="10" name="ogonek"/>
+  <anchor x="124" y="580" name="top"/>
+  <anchor x="20" y="580" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="86" y="0" type="line"/>
+      <point x="162" y="0" type="line"/>
+      <point x="162" y="580" type="line"/>
+      <point x="86" y="580" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>83</integer>
+        <key>weight</key>
+        <integer>4</integer>
+        <key>width</key>
+        <real>84.5</real>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>h.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>h.sc</string>
+    </dict>
+  </lib>
+</glyph>

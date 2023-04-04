@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shha-cy" format="2">
+  <advance width="505"/>
+  <unicode hex="04BB"/>
+  <anchor x="485" y="0" name="bottomright"/>
+  <anchor x="252" y="388" name="center"/>
+  <anchor x="252" y="776" name="top"/>
+  <outline>
+    <component base="h"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>h</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,26 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotaccentcomb" format="2">
   <unicode hex="0307"/>
-  <anchor x="145" y="522" name="_top"/>
-  <anchor x="145" y="722" name="top"/>
+  <anchor x="0" y="522" name="_top"/>
+  <anchor x="0" y="722" name="top"/>
   <outline>
-    <component base="dotaccent"/>
+    <contour>
+      <point x="0" y="625" type="curve" smooth="yes"/>
+      <point x="25" y="625"/>
+      <point x="47" y="646"/>
+      <point x="47" y="673" type="curve" smooth="yes"/>
+      <point x="47" y="701"/>
+      <point x="25" y="722"/>
+      <point x="0" y="722" type="curve" smooth="yes"/>
+      <point x="-25" y="722"/>
+      <point x="-47" y="701"/>
+      <point x="-47" y="673" type="curve" smooth="yes"/>
+      <point x="-47" y="646"/>
+      <point x="-25" y="625"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>dotaccent</string>
-        </dict>
-      </array>
-      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <real>290.3</real>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omegadasiavariaypogegrammeni" format="2">
+  <advance width="662"/>
+  <unicode hex="1FA3"/>
+  <anchor x="319" y="0" name="bottom"/>
+  <anchor x="331" y="517" name="top"/>
+  <outline>
+    <component base="omega"/>
+    <component base="dasiavaria" xOffset="143"/>
+    <component base="prosgegrammeni" xOffset="132"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

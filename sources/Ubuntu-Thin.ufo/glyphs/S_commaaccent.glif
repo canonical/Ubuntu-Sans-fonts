@@ -2,33 +2,16 @@
 <glyph name="Scommaaccent" format="2">
   <advance width="500"/>
   <unicode hex="0218"/>
-  <anchor x="214" y="-182" name="bottom"/>
-  <anchor x="250" y="693" name="top"/>
+  <anchor x="270" y="-182" name="bottom"/>
+  <anchor x="260" y="669" name="top"/>
   <outline>
     <component base="S"/>
-    <component base="commaaccent" xOffset="-29"/>
+    <component base="commaaccentcomb" xOffset="270"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>S</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>commaaccent</string>
-        </dict>
-      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

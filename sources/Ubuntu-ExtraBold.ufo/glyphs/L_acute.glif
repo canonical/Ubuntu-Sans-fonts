@@ -2,35 +2,18 @@
 <glyph name="Lacute" format="2">
   <advance width="563"/>
   <unicode hex="0139"/>
-  <anchor x="282" y="0" name="bottom"/>
+  <anchor x="307" y="0" name="bottom"/>
   <anchor x="282" y="347" name="center"/>
-  <anchor x="282" y="693" name="top"/>
-  <anchor x="543" y="693" name="topright"/>
+  <anchor x="182" y="958" name="top"/>
+  <anchor x="236" y="693" name="topright"/>
   <outline>
     <component base="L"/>
-    <component base="acute" xOffset="48" yOffset="160"/>
+    <component base="acutecomb" xOffset="182" yOffset="159"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>L</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>acute</string>
-        </dict>
-      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

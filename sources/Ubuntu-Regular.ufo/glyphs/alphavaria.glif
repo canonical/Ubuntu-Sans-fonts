@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alphavaria" format="2">
+  <advance width="600"/>
+  <unicode hex="1F70"/>
+  <anchor x="299" y="0" name="bottom"/>
+  <anchor x="300" y="518" name="top"/>
+  <outline>
+    <component base="alpha"/>
+    <component base="varia" xOffset="111"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

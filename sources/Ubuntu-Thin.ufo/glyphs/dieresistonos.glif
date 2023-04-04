@@ -2,6 +2,7 @@
 <glyph name="dieresistonos" format="2">
   <advance width="288"/>
   <unicode hex="0385"/>
+  <anchor x="144" y="513" name="_top"/>
   <outline>
     <contour>
       <point x="113" y="594" type="line"/>
@@ -38,4 +39,10 @@
       <point x="237" y="638"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
 </glyph>

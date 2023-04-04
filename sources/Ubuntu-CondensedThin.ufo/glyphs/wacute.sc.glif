@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wacute.sc" format="2">
+  <advance width="794"/>
+  <anchor x="397" y="0" name="bottom"/>
+  <anchor x="397" y="794" name="top"/>
+  <outline>
+    <component base="w.sc"/>
+    <component base="acutecomb.sc" xOffset="397"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>w.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>w.sc</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

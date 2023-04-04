@@ -1,13 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="caroncomb.alt" format="2">
-  <anchor x="148" y="776" name="_topright"/>
+  <anchor x="0" y="776" name="_topright"/>
   <outline>
-    <component base="caron.alt"/>
+    <contour>
+      <point x="105" y="565" type="line"/>
+      <point x="127" y="565" type="line"/>
+      <point x="143" y="776" type="line"/>
+      <point x="105" y="776" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>376</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
     </dict>
   </lib>
 </glyph>

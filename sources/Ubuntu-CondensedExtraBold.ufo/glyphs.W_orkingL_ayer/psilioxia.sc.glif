@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psilioxia.sc" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="255" y="561" type="line"/>
+      <point x="382" y="746" type="line"/>
+      <point x="270" y="810" type="line"/>
+      <point x="173" y="611" type="line"/>
+    </contour>
+    <contour>
+      <point x="83" y="563" type="line"/>
+      <point x="127" y="594"/>
+      <point x="210" y="655"/>
+      <point x="210" y="722" type="curve" smooth="yes"/>
+      <point x="210" y="780"/>
+      <point x="170" y="812"/>
+      <point x="118" y="812" type="curve" smooth="yes"/>
+      <point x="69" y="812"/>
+      <point x="38" y="774"/>
+      <point x="38" y="732" type="curve" smooth="yes"/>
+      <point x="38" y="700"/>
+      <point x="59" y="673"/>
+      <point x="81" y="660" type="curve"/>
+      <point x="54" y="638"/>
+      <point x="51" y="635"/>
+      <point x="33" y="616" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>psili.sc</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

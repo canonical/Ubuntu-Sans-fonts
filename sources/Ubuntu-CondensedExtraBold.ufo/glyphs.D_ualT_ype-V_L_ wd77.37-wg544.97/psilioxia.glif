@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psilioxia" format="2">
+  <advance width="438"/>
+  <unicode hex="1FCE"/>
+  <outline>
+    <contour>
+      <point x="305.823" y="582.669" type="line"/>
+      <point x="420.152" y="764.814" type="line"/>
+      <point x="335.726" y="813.373" type="line"/>
+      <point x="243.563" y="621.494" type="line"/>
+    </contour>
+    <contour>
+      <point x="135.873" y="580.192" type="line"/>
+      <point x="189.583" y="624.343"/>
+      <point x="242.16" y="681.465"/>
+      <point x="242.16" y="746.479" type="curve" smooth="yes"/>
+      <point x="242.16" y="792.77"/>
+      <point x="214.995" y="816.926"/>
+      <point x="178.586" y="816.926" type="curve" smooth="yes"/>
+      <point x="143.79" y="816.926"/>
+      <point x="116.045" y="792.382"/>
+      <point x="116.045" y="755.317" type="curve" smooth="yes"/>
+      <point x="116.045" y="729.737"/>
+      <point x="130.071" y="705.639"/>
+      <point x="155.651" y="695.284" type="curve"/>
+      <point x="139.364" y="671.775"/>
+      <point x="118.598" y="646.32"/>
+      <point x="94.228" y="621.388" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

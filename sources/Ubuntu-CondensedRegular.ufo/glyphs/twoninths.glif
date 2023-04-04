@@ -1,11 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="twoninths" format="2">
   <advance width="719.306"/>
-  <unicode hex="F50D"/>
   <outline>
-    <component base="twosuperior"/>
+    <component base="two.numr"/>
     <component base="fraction" xOffset="298"/>
-    <component base="ninesuperior" xOffset="436" yOffset="-307"/>
+    <component base="nine.numr" xOffset="436" yOffset="-307"/>
   </outline>
   <lib>
     <dict>
@@ -17,7 +16,7 @@
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>twosuperior</string>
+          <string>two.numr</string>
         </dict>
         <dict>
           <key>alignment</key>
@@ -33,7 +32,7 @@
           <key>index</key>
           <integer>2</integer>
           <key>name</key>
-          <string>ninesuperior</string>
+          <string>nine.numr</string>
         </dict>
       </array>
     </dict>

@@ -1,15 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gravecomb" format="2">
   <unicode hex="0300"/>
-  <anchor x="158" y="517" name="_top"/>
-  <anchor x="158" y="774" name="top"/>
+  <anchor x="0" y="517" name="_top"/>
+  <anchor x="0" y="774" name="top"/>
   <outline>
-    <component base="grave"/>
+    <contour>
+      <point x="31" y="596" type="line"/>
+      <point x="49" y="612" type="line"/>
+      <point x="-80" y="774" type="line"/>
+      <point x="-107" y="751" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <integer>314</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotapsili" format="2">
+  <advance width="288"/>
+  <unicode hex="1F38"/>
+  <anchor x="176" y="0" name="bottom"/>
+  <anchor x="266" y="10" name="ogonek"/>
+  <anchor x="176" y="669" name="top"/>
+  <anchor x="83" y="693" name="topleft"/>
+  <outline>
+    <component base="I" xOffset="63"/>
+    <component base="psili" xOffset="-164" yOffset="-74"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>I</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>psili</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcommaaccent.sc" format="2">
+  <advance width="513"/>
+  <anchor x="277" y="-203" name="bottom"/>
+  <anchor x="227" y="295" name="center"/>
+  <anchor x="150" y="589" name="top"/>
+  <anchor x="226" y="589" name="topright"/>
+  <outline>
+    <component base="l.sc"/>
+    <component base="commaaccentcomb.sc" xOffset="277"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>85</integer>
+        <key>weight</key>
+        <integer>-11</integer>
+        <key>width</key>
+        <integer>87</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>h.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>l.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>l.sc</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

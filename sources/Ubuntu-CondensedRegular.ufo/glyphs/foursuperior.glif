@@ -3,27 +3,21 @@
   <advance width="283.798"/>
   <unicode hex="2074"/>
   <outline>
-    <contour>
-      <point x="164" y="305" type="line"/>
-      <point x="215" y="305" type="line"/>
-      <point x="215" y="400" type="line"/>
-      <point x="263" y="400" type="line"/>
-      <point x="263" y="446" type="line"/>
-      <point x="215" y="446" type="line"/>
-      <point x="215" y="691" type="line"/>
-      <point x="156" y="691" type="line"/>
-      <point x="107" y="616"/>
-      <point x="58" y="531"/>
-      <point x="19" y="437" type="curve"/>
-      <point x="19" y="400" type="line"/>
-      <point x="164" y="400" type="line"/>
-    </contour>
-    <contour>
-      <point x="70" y="446" type="line"/>
-      <point x="98" y="512"/>
-      <point x="127" y="568"/>
-      <point x="166" y="628" type="curve"/>
-      <point x="166" y="446" type="line"/>
-    </contour>
+    <component base="four.numr" yOffset="129"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>four.numr</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

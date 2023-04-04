@@ -6,8 +6,8 @@
   <anchor x="243" y="10" name="ogonek"/>
   <anchor x="136" y="527" name="top"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="circumflex" xOffset="-23"/>
+    <component base="idotless"/>
+    <component base="circumflexcomb" xOffset="-23"/>
   </outline>
   <lib>
     <dict>
@@ -19,7 +19,7 @@
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>dotlessi</string>
+          <string>idotless</string>
         </dict>
         <dict>
           <key>alignment</key>
@@ -27,9 +27,11 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>circumflex</string>
+          <string>circumflexcomb</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

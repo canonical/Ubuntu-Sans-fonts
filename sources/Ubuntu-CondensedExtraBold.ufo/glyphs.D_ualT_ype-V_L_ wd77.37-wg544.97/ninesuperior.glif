@@ -3,43 +3,21 @@
   <advance width="290"/>
   <unicode hex="2079"/>
   <outline>
-    <contour>
-      <point x="46.222" y="292.459" type="line"/>
-      <point x="170.214" y="295.562"/>
-      <point x="270.344" y="362.415"/>
-      <point x="270.344" y="530.755" type="curve" smooth="yes"/>
-      <point x="270.344" y="638.663"/>
-      <point x="225.359" y="700.465"/>
-      <point x="138.039" y="700.465" type="curve" smooth="yes"/>
-      <point x="57.728" y="700.465"/>
-      <point x="13.959" y="649.985"/>
-      <point x="13.959" y="568.047" type="curve" smooth="yes"/>
-      <point x="13.959" y="484.042"/>
-      <point x="58.944" y="439.613"/>
-      <point x="120.178" y="439.613" type="curve"/>
-      <point x="138.912" y="439.613"/>
-      <point x="156.832" y="444.45"/>
-      <point x="166.593" y="447.119" type="curve"/>
-      <point x="141.388" y="392.758"/>
-      <point x="105.805" y="379.693"/>
-      <point x="33.332" y="372.423" type="curve"/>
-    </contour>
-    <contour>
-      <point x="147.137" y="512.039" type="curve" smooth="yes"/>
-      <point x="120.696" y="512.039"/>
-      <point x="111.391" y="529.098"/>
-      <point x="111.391" y="565.323" type="curve" smooth="yes"/>
-      <point x="111.391" y="604.414"/>
-      <point x="122.861" y="618.518"/>
-      <point x="139.039" y="618.518" type="curve" smooth="yes"/>
-      <point x="159.826" y="618.518"/>
-      <point x="175.723" y="593.175"/>
-      <point x="174.498" y="529.154" type="curve" smooth="yes"/>
-      <point x="174.498" y="525.672"/>
-      <point x="174.498" y="524.225"/>
-      <point x="175.016" y="521.778" type="curve"/>
-      <point x="164.468" y="515.228"/>
-      <point x="153.69" y="512.039"/>
-    </contour>
+    <component base="nine.numr" yOffset="128.148"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>nine.numr</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

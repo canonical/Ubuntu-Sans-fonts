@@ -1,11 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="twosevenths" format="2">
   <advance width="888"/>
-  <unicode hex="F507"/>
   <outline>
     <component base="fraction" xOffset="367"/>
-    <component base="twosuperior" xOffset="12"/>
-    <component base="sevensuperior" xOffset="426" yOffset="-314"/>
+    <component base="two.numr" xOffset="12"/>
+    <component base="seven.numr" xOffset="426" yOffset="-314"/>
   </outline>
   <lib>
     <dict>
@@ -25,7 +24,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>twosuperior</string>
+          <string>two.numr</string>
         </dict>
         <dict>
           <key>alignment</key>
@@ -33,7 +32,7 @@
           <key>index</key>
           <integer>2</integer>
           <key>name</key>
-          <string>sevensuperior</string>
+          <string>seven.numr</string>
         </dict>
       </array>
     </dict>

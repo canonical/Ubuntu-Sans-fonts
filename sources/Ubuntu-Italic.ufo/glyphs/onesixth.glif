@@ -4,8 +4,8 @@
   <unicode hex="2159"/>
   <outline>
     <component base="fraction" xOffset="349"/>
-    <component base="onesuperior" xOffset="-4"/>
-    <component base="sixsuperior" xOffset="438" yOffset="-314"/>
+    <component base="one.numr" xOffset="-4"/>
+    <component base="six.numr" xOffset="438" yOffset="-314"/>
   </outline>
   <lib>
     <dict>
@@ -25,7 +25,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>onesuperior</string>
+          <string>one.numr</string>
         </dict>
         <dict>
           <key>alignment</key>
@@ -33,7 +33,7 @@
           <key>index</key>
           <integer>2</integer>
           <key>name</key>
-          <string>sixsuperior</string>
+          <string>six.numr</string>
         </dict>
       </array>
     </dict>

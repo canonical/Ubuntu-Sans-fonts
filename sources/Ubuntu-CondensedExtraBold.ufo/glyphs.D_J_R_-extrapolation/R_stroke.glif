@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rstroke" format="2">
+  <advance width="562"/>
+  <unicode hex="024C"/>
+  <anchor x="280" y="0" name="bottom"/>
+  <anchor x="280" y="693" name="top"/>
+  <outline>
+    <contour>
+      <point x="78" y="0" type="line"/>
+      <point x="220" y="0" type="line"/>
+      <point x="220" y="257" type="line"/>
+      <point x="252" y="257" type="line" smooth="yes"/>
+      <point x="257" y="257"/>
+      <point x="267" y="256"/>
+      <point x="275" y="255" type="curve"/>
+      <point x="271" y="231"/>
+      <point x="343" y="108"/>
+      <point x="382" y="0" type="curve"/>
+      <point x="524" y="0" type="line"/>
+      <point x="500" y="113"/>
+      <point x="400" y="276"/>
+      <point x="408" y="286" type="curve"/>
+      <point x="447" y="322"/>
+      <point x="492" y="382"/>
+      <point x="492" y="479" type="curve" smooth="yes"/>
+      <point x="492" y="635"/>
+      <point x="387" y="703"/>
+      <point x="240" y="703" type="curve" smooth="yes"/>
+      <point x="210" y="703"/>
+      <point x="145" y="697"/>
+      <point x="78" y="680" type="curve"/>
+      <point x="78" y="371" type="line"/>
+      <point x="10" y="371" type="line"/>
+      <point x="10" y="257" type="line"/>
+      <point x="78" y="257" type="line"/>
+    </contour>
+    <contour>
+      <point x="220" y="371" type="line"/>
+      <point x="220" y="583" type="line"/>
+      <point x="229" y="580"/>
+      <point x="221" y="582"/>
+      <point x="255" y="582" type="curve" smooth="yes"/>
+      <point x="249" y="582"/>
+      <point x="341" y="595"/>
+      <point x="341" y="479" type="curve" smooth="yes"/>
+      <point x="341" y="359"/>
+      <point x="251" y="371"/>
+      <point x="209" y="371" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

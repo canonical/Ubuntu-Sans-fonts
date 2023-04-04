@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Adieresismacron" format="2">
+  <advance width="617"/>
+  <unicode hex="01DE"/>
+  <anchor x="309" y="0" name="bottom"/>
+  <anchor x="555" y="10" name="ogonek"/>
+  <anchor x="309" y="942" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="dieresis_macron" xOffset="309" yOffset="156"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

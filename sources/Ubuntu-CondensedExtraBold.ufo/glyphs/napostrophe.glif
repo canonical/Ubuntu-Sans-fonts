@@ -2,11 +2,11 @@
 <glyph name="napostrophe" format="2">
   <advance width="519"/>
   <unicode hex="0149"/>
-  <anchor x="266" y="0" name="bottom"/>
-  <anchor x="266" y="527" name="top"/>
+  <anchor x="257" y="0" name="bottom"/>
+  <anchor x="267" y="532" name="top"/>
   <outline>
     <component base="n" xOffset="14"/>
-    <component base="apostrophe" xOffset="-82"/>
+    <component base="apostrophemod" xOffset="-82" yOffset="-5"/>
   </outline>
   <lib>
     <dict>
@@ -26,9 +26,13 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>apostrophe</string>
+          <string>apostrophemod</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>n</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
     </dict>
   </lib>
 </glyph>

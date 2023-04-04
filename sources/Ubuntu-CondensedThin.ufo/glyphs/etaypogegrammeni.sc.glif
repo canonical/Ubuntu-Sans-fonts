@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="etaypogegrammeni.sc" format="2">
+  <advance width="602"/>
+  <anchor x="20" y="575" name="topleft"/>
+  <anchor x="301" y="-184" name="bottom"/>
+  <anchor x="301" y="288" name="center"/>
+  <outline>
+    <component base="eta.sc"/>
+    <component base="prosgegrammeni.sc" xOffset="301"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>h.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>h.sc</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

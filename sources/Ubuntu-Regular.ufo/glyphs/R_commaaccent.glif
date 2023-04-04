@@ -1,34 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Rcommaaccent" format="2">
-  <advance width="623.586"/>
+  <advance width="624"/>
   <unicode hex="0156"/>
-  <anchor x="295" y="-190" name="bottom"/>
-  <anchor x="312" y="693" name="top"/>
+  <anchor x="327" y="-190" name="bottom"/>
+  <anchor x="292" y="673" name="top"/>
   <outline>
     <component base="R"/>
-    <component base="commaaccent" xOffset="133"/>
+    <component base="commaaccentcomb" xOffset="327"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>R</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>commaaccent</string>
-        </dict>
-      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

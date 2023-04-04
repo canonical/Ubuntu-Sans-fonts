@@ -2,7 +2,7 @@
 <glyph name="epsilon" format="2">
   <advance width="375.762"/>
   <unicode hex="03B5"/>
-  <anchor x="188" y="522" name="top"/>
+  <anchor x="201" y="522" name="top"/>
   <outline>
     <contour>
       <point x="218" y="-10" type="curve" smooth="yes"/>
@@ -48,4 +48,10 @@
       <point x="124" y="-10"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

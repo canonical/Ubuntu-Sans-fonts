@@ -2,32 +2,15 @@
 <glyph name="oslashacute" format="2">
   <advance width="440"/>
   <unicode hex="01FF"/>
-  <anchor x="220" y="517" name="top"/>
+  <anchor x="220" y="774" name="top"/>
   <outline>
     <component base="oslash"/>
-    <component base="acute" xOffset="96"/>
+    <component base="acutecomb" xOffset="220"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>oslash</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>acute</string>
-        </dict>
-      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

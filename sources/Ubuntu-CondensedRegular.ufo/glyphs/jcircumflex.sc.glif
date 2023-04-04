@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jcircumflex.sc" format="2">
+  <advance width="445"/>
+  <anchor x="223" y="0" name="bottom"/>
+  <anchor x="328" y="804" name="top"/>
+  <outline>
+    <component base="j.sc"/>
+    <component base="circumflexcomb.sc" xOffset="328"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>j.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>j.sc</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

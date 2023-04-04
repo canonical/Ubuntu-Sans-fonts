@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zeroinferior" format="2">
-  <advance width="290.1"/>
+  <advance width="295.05"/>
   <unicode hex="2080"/>
   <outline>
-    <component base="zerosuperior" xOffset="-73" yOffset="-308"/>
+    <component base="zero.numr" xOffset="-108" yOffset="-450"/>
   </outline>
   <lib>
     <dict>
@@ -15,7 +15,7 @@
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>zerosuperior</string>
+          <string>zero.numr</string>
         </dict>
       </array>
     </dict>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u.sc" format="2">
+  <advance width="633"/>
+  <anchor x="317" y="0" name="bottom"/>
+  <anchor x="570" y="10" name="ogonek"/>
+  <anchor x="317" y="589" name="top"/>
+  <anchor x="613" y="589" name="topright"/>
+  <outline>
+    <contour>
+      <point x="314" y="-12" type="curve" smooth="yes"/>
+      <point x="487" y="-12"/>
+      <point x="569" y="82"/>
+      <point x="569" y="224" type="curve" smooth="yes"/>
+      <point x="569" y="589" type="line"/>
+      <point x="417" y="589" type="line"/>
+      <point x="417" y="236" type="line" smooth="yes"/>
+      <point x="417" y="149"/>
+      <point x="375" y="119"/>
+      <point x="316" y="119" type="curve" smooth="yes"/>
+      <point x="257" y="119"/>
+      <point x="216" y="149"/>
+      <point x="216" y="236" type="curve" smooth="yes"/>
+      <point x="216" y="589" type="line"/>
+      <point x="64" y="589" type="line"/>
+      <point x="64" y="224" type="line" smooth="yes"/>
+      <point x="64" y="84"/>
+      <point x="143" y="-12"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>85</integer>
+        <key>weight</key>
+        <integer>-11</integer>
+        <key>width</key>
+        <integer>87</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

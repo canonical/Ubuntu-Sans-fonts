@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Udieresismacron" format="2">
+  <advance width="520"/>
+  <unicode hex="01D5"/>
+  <anchor x="260" y="0" name="bottom"/>
+  <anchor x="469" y="10" name="ogonek"/>
+  <anchor x="260" y="940" name="top"/>
+  <anchor x="500" y="693" name="topright"/>
+  <outline>
+    <component base="U"/>
+    <component base="dieresis_macron" xOffset="260" yOffset="151"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

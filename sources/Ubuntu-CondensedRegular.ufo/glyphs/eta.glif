@@ -2,7 +2,8 @@
 <glyph name="eta" format="2">
   <advance width="471.332"/>
   <unicode hex="03B7"/>
-  <anchor x="236" y="522" name="top"/>
+  <anchor x="110" y="0" name="bottom"/>
+  <anchor x="233" y="522" name="top"/>
   <outline>
     <contour>
       <point x="329" y="-185" type="line"/>
@@ -25,4 +26,10 @@
       <point x="329" y="316" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>
