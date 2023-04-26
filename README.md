@@ -1,16 +1,16 @@
 # Ubuntu Font Family
 
-[![][Fontbakery]](https://djrrb.github.io/Ubuntu-fonts/fontbakery/fontbakery-report.html)
-[![][Universal]](https://djrrb.github.io/Ubuntu-fonts/fontbakery/fontbakery-report.html)
-[![][GF Profile]](https://djrrb.github.io/Ubuntu-fonts/fontbakery/fontbakery-report.html)
-[![][Outline Correctness]](https://djrrb.github.io/Ubuntu-fonts/fontbakery/fontbakery-report.html)
-[![][Shaping]](https://djrrb.github.io/Ubuntu-fonts/fontbakery/fontbakery-report.html)
+[![][Fontbakery]](https://canonical.github.io/Ubuntu-fonts/fontbakery/fontbakery-report.html)
+[![][Universal]](https://canonical.github.io/Ubuntu-fonts/fontbakery/fontbakery-report.html)
+[![][GF Profile]](https://canonical.github.io/Ubuntu-fonts/fontbakery/fontbakery-report.html)
+[![][Outline Correctness]](https://canonical.github.io/Ubuntu-fonts/fontbakery/fontbakery-report.html)
+[![][Shaping]](https://canonical.github.io/Ubuntu-fonts/fontbakery/fontbakery-report.html)
 
-[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdjrrb%2FUbuntu-fonts%2Fgh-pages%2Fbadges%2Foverall.json
-[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdjrrb%2FUbuntu-fonts%2Fgh-pages%2Fbadges%2FGoogleFonts.json
-[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdjrrb%2FUbuntu-fonts%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
-[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdjrrb%2FUbuntu-fonts%2Fgh-pages%2Fbadges%2FShapingChecks.json
-[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdjrrb%2FUbuntu-fonts%2Fgh-pages%2Fbadges%2FUniversal.json
+[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcanonical%2FUbuntu-fonts%2Fgh-pages%2Fbadges%2Foverall.json
+[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcanonical%2FUbuntu-fonts%2Fgh-pages%2Fbadges%2FGoogleFonts.json
+[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcanonical%2FUbuntu-fonts%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
+[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcanonical%2FUbuntu-fonts%2Fgh-pages%2Fbadges%2FShapingChecks.json
+[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcanonical%2FUbuntu-fonts%2Fgh-pages%2Fbadges%2FUniversal.json
 
 The **Ubuntu Font Family** are a set of matching libre/open fonts. The fonts were originally developed in 2010–2011, further expanded and improved in 2015, and expanded again in 2022–2023 when variable fonts were added. 
 
