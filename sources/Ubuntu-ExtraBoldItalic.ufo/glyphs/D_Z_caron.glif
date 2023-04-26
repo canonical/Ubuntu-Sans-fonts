@@ -1,14 +1,46 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="DZcaron" format="2">
-  <advance width="1284"/>
+  <advance width="1316"/>
   <unicode hex="01C4"/>
+  <anchor x="304" y="0" name="bottom_1"/>
+  <anchor x="969" y="0" name="bottom_2"/>
+  <anchor x="387" y="347" name="center_1"/>
+  <anchor x="1012" y="347" name="center_2"/>
+  <anchor x="472" y="687" name="top_1"/>
+  <anchor x="1207" y="954" name="top_2"/>
   <outline>
-    <component base="D"/>
-    <component base="Z" xOffset="666"/>
-    <component base="caron" xOffset="841" yOffset="161"/>
+    <component base="D" xOffset="3"/>
+    <component base="Zcaron" xOffset="668"/>
   </outline>
   <lib>
     <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
@@ -25,17 +57,15 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>Z</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>2</integer>
-          <key>name</key>
-          <string>caron</string>
+          <string>Zcaron</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Z</string>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
     </dict>
   </lib>
 </glyph>

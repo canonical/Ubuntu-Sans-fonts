@@ -101,11 +101,29 @@
     >
       <location>
         <dimension name="Width" xvalue="100"/>
-        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Weight" xvalue="473"/>
       </location>
       <kerning/>
       <info/>
     </instance>
+    
+    
+    <instance 
+        name="Ubuntu Original Weight Italic" 
+        familyname="Ubuntu Original Weight" 
+        stylename="Italic" 
+        filename="../instance_ufo/UbuntuOriginalWeight-Italic.ufo" 
+        stylemapfamilyname="UbuntuOriginalWeight" 
+        stylemapstylename="italic"
+    >
+      <location>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Weight" xvalue="473"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    
     <instance 
         name="Ubuntu Medium Italic" 
         familyname="Ubuntu" 

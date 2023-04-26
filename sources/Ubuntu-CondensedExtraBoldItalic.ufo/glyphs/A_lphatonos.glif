@@ -2,12 +2,42 @@
 <glyph name="Alphatonos" format="2">
   <advance width="518"/>
   <unicode hex="0386"/>
+  <anchor x="294.061" y="0" name="bottom"/>
+  <anchor x="438.061" y="10" name="ogonek"/>
+  <anchor x="444.061" y="681" name="top"/>
   <outline>
     <component base="A" xOffset="33.061"/>
     <component base="tonos.cap" xOffset="-61"/>
   </outline>
   <lib>
     <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>

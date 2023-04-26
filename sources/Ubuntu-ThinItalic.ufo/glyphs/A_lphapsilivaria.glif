@@ -2,12 +2,42 @@
 <glyph name="Alphapsilivaria" format="2">
   <advance width="707"/>
   <unicode hex="1F0A"/>
+  <anchor x="420" y="0" name="bottom"/>
+  <anchor x="589" y="10" name="ogonek"/>
+  <anchor x="573" y="669" name="top"/>
   <outline>
     <component base="A" xOffset="113"/>
     <component base="psilivaria" xOffset="-38" yOffset="-74"/>
   </outline>
   <lib>
     <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>

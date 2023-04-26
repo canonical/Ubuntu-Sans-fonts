@@ -1,34 +1,59 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="i.sc" format="2">
-  <advance width="218"/>
-  <anchor x="109" y="0" name="bottom"/>
-  <anchor x="196" y="10" name="ogonek"/>
-  <anchor x="109" y="575" name="top"/>
+  <advance width="170"/>
+  <anchor x="85" y="0" name="bottom"/>
+  <anchor x="153" y="10" name="ogonek"/>
+  <anchor x="85" y="575" name="top"/>
   <outline>
     <contour>
-      <point x="92" y="0" type="line"/>
-      <point x="126" y="0" type="line"/>
-      <point x="126" y="575" type="line"/>
-      <point x="92" y="575" type="line"/>
+      <point x="69" y="0" type="line"/>
+      <point x="101" y="0" type="line"/>
+      <point x="101" y="575" type="line"/>
+      <point x="69" y="575" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>RMXScaler</key>
       <dict>
-        <key>height</key>
-        <integer>83</integer>
         <key>weight</key>
-        <integer>4</integer>
+        <integer>21</integer>
         <key>width</key>
-        <real>84.5</real>
+        <integer>76</integer>
+      </dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
       </dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>h.sc</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>h.sc</string>
       <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

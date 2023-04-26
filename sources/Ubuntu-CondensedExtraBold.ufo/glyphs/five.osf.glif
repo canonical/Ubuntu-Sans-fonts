@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five.osf" format="2">
+  <advance width="378"/>
+  <outline>
+    <contour>
+      <point x="143" y="-173" type="curve"/>
+      <point x="276" y="-173"/>
+      <point x="360" y="-69"/>
+      <point x="360" y="57" type="curve"/>
+      <point x="360" y="170"/>
+      <point x="298" y="250"/>
+      <point x="162" y="277" type="curve"/>
+      <point x="166" y="322"/>
+      <point x="169" y="369"/>
+      <point x="170" y="420" type="curve"/>
+      <point x="341" y="420" type="line"/>
+      <point x="341" y="534" type="line"/>
+      <point x="54" y="534" type="line"/>
+      <point x="55" y="446"/>
+      <point x="44" y="275"/>
+      <point x="33" y="176" type="curve"/>
+      <point x="174" y="169"/>
+      <point x="216" y="125"/>
+      <point x="216" y="56" type="curve"/>
+      <point x="216" y="-20"/>
+      <point x="184" y="-54"/>
+      <point x="124" y="-54" type="curve"/>
+      <point x="89" y="-54"/>
+      <point x="61" y="-45"/>
+      <point x="37" y="-30" type="curve"/>
+      <point x="3" y="-142" type="line"/>
+      <point x="37" y="-162"/>
+      <point x="85" y="-173"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

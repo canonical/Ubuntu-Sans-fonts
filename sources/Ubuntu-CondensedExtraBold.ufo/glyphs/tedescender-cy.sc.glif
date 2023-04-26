@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tedescender-cy.sc" format="2">
-  <advance width="557"/>
+  <advance width="415"/>
   <outline>
     <contour>
-      <point x="328" y="-157" type="line"/>
-      <point x="474" y="-157" type="line"/>
-      <point x="474" y="128" type="line"/>
-      <point x="355" y="128" type="line"/>
-      <point x="355" y="460" type="line"/>
-      <point x="535" y="460" type="line"/>
-      <point x="535" y="589" type="line"/>
-      <point x="24" y="589" type="line"/>
-      <point x="24" y="460" type="line"/>
-      <point x="203" y="460" type="line"/>
-      <point x="203" y="0" type="line"/>
-      <point x="328" y="0" type="line"/>
+      <point x="231" y="-157" type="line"/>
+      <point x="361" y="-157" type="line"/>
+      <point x="361" y="117" type="line"/>
+      <point x="276" y="117" type="line"/>
+      <point x="276" y="471" type="line"/>
+      <point x="404" y="471" type="line"/>
+      <point x="404" y="588" type="line"/>
+      <point x="11" y="588" type="line"/>
+      <point x="11" y="471" type="line"/>
+      <point x="138" y="471" type="line"/>
+      <point x="138" y="0" type="line"/>
+      <point x="231" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -28,8 +28,39 @@
         <key>width</key>
         <integer>87</integer>
       </dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>t.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>t.sc</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,42 +1,77 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="rupeeIndian" format="2">
-  <advance width="412"/>
+  <advance width="420"/>
   <unicode hex="20B9"/>
   <outline>
     <contour>
-      <point x="243" y="0" type="curve"/>
-      <point x="282" y="0" type="line"/>
-      <point x="215" y="124"/>
-      <point x="149" y="224"/>
-      <point x="75" y="312" type="curve"/>
-      <point x="84" y="312" type="line" smooth="yes"/>
-      <point x="197" y="312"/>
-      <point x="275" y="383"/>
-      <point x="279" y="490" type="curve"/>
-      <point x="361" y="490" type="line"/>
-      <point x="365" y="520" type="line"/>
-      <point x="278" y="520" type="line"/>
-      <point x="273" y="587"/>
-      <point x="241" y="636"/>
-      <point x="185" y="662" type="curve"/>
-      <point x="391" y="662" type="line"/>
-      <point x="395" y="692" type="line"/>
-      <point x="33" y="692" type="line"/>
-      <point x="33" y="659" type="line"/>
-      <point x="73" y="659" type="line" smooth="yes"/>
-      <point x="169" y="659"/>
-      <point x="234" y="606"/>
-      <point x="243" y="520" type="curve"/>
-      <point x="33" y="520" type="line"/>
-      <point x="33" y="490" type="line"/>
-      <point x="244" y="490" type="line"/>
-      <point x="240" y="400"/>
-      <point x="178" y="343"/>
-      <point x="82" y="343" type="curve" smooth="yes"/>
-      <point x="33" y="343" type="line"/>
-      <point x="33" y="311" type="line"/>
-      <point x="119" y="207"/>
-      <point x="194" y="97"/>
+      <point x="260" y="0" type="curve"/>
+      <point x="299" y="0" type="line"/>
+      <point x="232" y="124"/>
+      <point x="166" y="224"/>
+      <point x="92" y="312" type="curve"/>
+      <point x="101" y="312" type="line" smooth="yes"/>
+      <point x="214" y="312"/>
+      <point x="292" y="383"/>
+      <point x="296" y="490" type="curve"/>
+      <point x="378" y="490" type="line"/>
+      <point x="382" y="520" type="line"/>
+      <point x="295" y="520" type="line"/>
+      <point x="290" y="587"/>
+      <point x="258" y="636"/>
+      <point x="202" y="662" type="curve"/>
+      <point x="408" y="662" type="line"/>
+      <point x="412" y="692" type="line"/>
+      <point x="50" y="692" type="line"/>
+      <point x="50" y="659" type="line"/>
+      <point x="90" y="659" type="line" smooth="yes"/>
+      <point x="186" y="659"/>
+      <point x="251" y="606"/>
+      <point x="260" y="520" type="curve"/>
+      <point x="50" y="520" type="line"/>
+      <point x="50" y="490" type="line"/>
+      <point x="261" y="490" type="line"/>
+      <point x="257" y="400"/>
+      <point x="195" y="343"/>
+      <point x="99" y="343" type="curve" smooth="yes"/>
+      <point x="50" y="343" type="line"/>
+      <point x="50" y="311" type="line"/>
+      <point x="136" y="207"/>
+      <point x="211" y="97"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>zero</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
 </glyph>

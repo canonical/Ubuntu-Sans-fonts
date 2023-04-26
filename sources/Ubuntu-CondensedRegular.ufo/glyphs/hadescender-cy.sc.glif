@@ -1,32 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hadescender-cy.sc" format="2">
-  <advance width="585"/>
+  <advance width="433"/>
   <outline>
     <contour>
-      <point x="473" y="-155" type="line"/>
-      <point x="545" y="-155" type="line"/>
-      <point x="545" y="63" type="line"/>
-      <point x="482" y="63" type="line"/>
-      <point x="433" y="142"/>
-      <point x="391" y="208"/>
-      <point x="321" y="301" type="curve"/>
-      <point x="512" y="580" type="line"/>
-      <point x="427" y="580" type="line"/>
-      <point x="279" y="359" type="line"/>
-      <point x="129" y="580" type="line"/>
-      <point x="40" y="580" type="line"/>
-      <point x="231" y="303" type="line"/>
-      <point x="126" y="162"/>
-      <point x="73" y="79"/>
-      <point x="29" y="0" type="curve"/>
-      <point x="115" y="0" type="line"/>
-      <point x="148" y="62"/>
-      <point x="216" y="171"/>
-      <point x="273" y="245" type="curve"/>
-      <point x="333" y="162"/>
-      <point x="399" y="64"/>
-      <point x="430" y="0" type="curve"/>
-      <point x="473" y="0" type="line"/>
+      <point x="360" y="-155" type="line"/>
+      <point x="423" y="-155" type="line"/>
+      <point x="423" y="60" type="line"/>
+      <point x="368" y="60" type="line"/>
+      <point x="342" y="120"/>
+      <point x="311" y="180"/>
+      <point x="247" y="301" type="curve"/>
+      <point x="387" y="579" type="line"/>
+      <point x="315" y="579" type="line"/>
+      <point x="211" y="352" type="line"/>
+      <point x="103" y="579" type="line"/>
+      <point x="27" y="579" type="line"/>
+      <point x="168" y="303" type="line"/>
+      <point x="101" y="180"/>
+      <point x="60" y="97"/>
+      <point x="20" y="0" type="curve"/>
+      <point x="93" y="0" type="line"/>
+      <point x="114" y="57"/>
+      <point x="179" y="196"/>
+      <point x="205" y="252" type="curve"/>
+      <point x="260" y="144"/>
+      <point x="294" y="71"/>
+      <point x="319" y="0" type="curve"/>
+      <point x="360" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -40,8 +40,37 @@
         <key>width</key>
         <integer>89</integer>
       </dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>x.sc</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

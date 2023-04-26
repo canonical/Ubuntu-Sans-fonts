@@ -2,6 +2,8 @@
 <glyph name="J" format="2">
   <advance width="366"/>
   <unicode hex="004A"/>
+  <anchor x="120" y="0" name="bottom"/>
+  <anchor x="418" y="677" name="top"/>
   <outline>
     <contour>
       <point x="135" y="-10" type="curve" smooth="yes"/>
@@ -11,7 +13,7 @@
       <point x="457" y="693" type="line"/>
       <point x="385" y="693" type="line"/>
       <point x="262" y="183" type="line" smooth="yes"/>
-      <point x="241" y="93"/>
+      <point x="240" y="93"/>
       <point x="208" y="53"/>
       <point x="146" y="53" type="curve" smooth="yes"/>
       <point x="114" y="53"/>
@@ -22,4 +24,37 @@
       <point x="98" y="-10"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
 </glyph>

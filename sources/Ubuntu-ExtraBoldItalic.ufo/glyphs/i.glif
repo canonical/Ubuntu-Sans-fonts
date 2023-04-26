@@ -2,26 +2,42 @@
 <glyph name="i" format="2">
   <advance width="293"/>
   <unicode hex="0069"/>
+  <anchor x="148" y="0" name="bottom"/>
+  <anchor x="203" y="10" name="ogonek"/>
+  <anchor x="326" y="786" name="top"/>
   <outline>
-    <contour>
-      <point x="75" y="0" type="line"/>
-      <point x="223" y="0" type="line"/>
-      <point x="349" y="526" type="line"/>
-      <point x="200" y="526" type="line"/>
-    </contour>
-    <contour>
-      <point x="295" y="590" type="curve" smooth="yes"/>
-      <point x="350" y="590"/>
-      <point x="398" y="635"/>
-      <point x="398" y="691" type="curve" smooth="yes"/>
-      <point x="398" y="742"/>
-      <point x="358" y="766"/>
-      <point x="317" y="766" type="curve" smooth="yes"/>
-      <point x="262" y="766"/>
-      <point x="214" y="721"/>
-      <point x="214" y="665" type="curve" smooth="yes"/>
-      <point x="214" y="614"/>
-      <point x="254" y="590"/>
-    </contour>
+    <component base="idotless"/>
+    <component base="dotaccentcomb.i" xOffset="200"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -1,32 +1,48 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Odotaccentmacron" format="2">
-  <advance width="595"/>
+  <advance width="584"/>
   <unicode hex="0230"/>
+  <anchor x="292" y="0" name="bottom"/>
+  <anchor x="376" y="347" name="center"/>
+  <anchor x="466" y="10" name="ogonek"/>
+  <anchor x="453" y="677" name="top"/>
+  <anchor x="124" y="693" name="topleft"/>
+  <anchor x="668" y="693" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="dot_macron" xOffset="173" yOffset="157"/>
+    <component base="dot_macron" xOffset="173" yOffset="155"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>O</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>dot_macron</string>
-        </dict>
-      </array>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

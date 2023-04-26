@@ -33,6 +33,21 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>-41</integer>
     </dict>
+    <key>eight.osf</key>
+    <dict>
+      <key>public.kern2.FIG_zeroDFLT</key>
+      <integer>-20</integer>
+    </dict>
+    <key>five.osf</key>
+    <dict>
+      <key>public.kern2.FIG_zeroDFLT</key>
+      <integer>-30</integer>
+    </dict>
+    <key>four.osf</key>
+    <dict>
+      <key>four.osf</key>
+      <integer>10</integer>
+    </dict>
     <key>iotadialytikaoxia</key>
     <dict>
       <key>public.kern2.GRK_beta_LC</key>
@@ -71,6 +86,18 @@
       <integer>19</integer>
       <key>public.kern2.GRK_zeta_LC</key>
       <integer>5</integer>
+    </dict>
+    <key>nine.osf</key>
+    <dict>
+      <key>nine.osf</key>
+      <integer>-18</integer>
+      <key>public.kern2.FIG_zeroDFLT</key>
+      <integer>-20</integer>
+    </dict>
+    <key>one.osf</key>
+    <dict>
+      <key>public.kern2.FIG_zeroDFLT</key>
+      <integer>-20</integer>
     </dict>
     <key>public.kern1.CYR_afii10017_UC</key>
     <dict>
@@ -625,6 +652,8 @@
       <integer>-72</integer>
       <key>schwadieresis-cy</key>
       <integer>-63</integer>
+      <key>trademark</key>
+      <integer>20</integer>
       <key>yi-cy</key>
       <integer>35</integer>
       <key>zedieresis-cy</key>
@@ -1736,6 +1765,8 @@
       <integer>10</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-59</integer>
+      <key>trademark</key>
+      <integer>18</integer>
       <key>udieresis-cy</key>
       <integer>-19</integer>
       <key>yi-cy</key>
@@ -1923,6 +1954,8 @@
       <integer>-8</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-36</integer>
+      <key>trademark</key>
+      <integer>22</integer>
       <key>yi-cy</key>
       <integer>49</integer>
       <key>zedieresis-cy</key>
@@ -2478,6 +2511,8 @@
       <integer>-82</integer>
       <key>public.kern2.PUNCT_quotesingle</key>
       <integer>-82</integer>
+      <key>trademark</key>
+      <integer>-43</integer>
     </dict>
     <key>public.kern1.CYR_afii10047_UC</key>
     <dict>
@@ -6221,6 +6256,21 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>-22</integer>
     </dict>
+    <key>public.kern1.FIG_zeroDFLT</key>
+    <dict>
+      <key>eight.osf</key>
+      <integer>-10</integer>
+      <key>five.osf</key>
+      <integer>-25</integer>
+      <key>nine.osf</key>
+      <integer>-20</integer>
+      <key>public.kern2.FIG_sixALT</key>
+      <integer>-20</integer>
+      <key>seven.osf</key>
+      <integer>-17</integer>
+      <key>three.osf</key>
+      <integer>-28</integer>
+    </dict>
     <key>public.kern1.GRK_Alpha_UC_FIRST</key>
     <dict>
       <key>public.kern2.GRK_Alpha_UC_SECOND</key>
@@ -9816,6 +9866,8 @@
       <integer>-59</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>18</integer>
+      <key>trademark</key>
+      <integer>-70</integer>
     </dict>
     <key>public.kern1.LAT_B_UC_FIRST</key>
     <dict>
@@ -10749,6 +10801,10 @@
       <integer>-105</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>3</integer>
+      <key>registered</key>
+      <integer>-62</integer>
+      <key>trademark</key>
+      <integer>-80</integer>
     </dict>
     <key>public.kern1.LAT_M_UC</key>
     <dict>
@@ -10876,6 +10932,8 @@
       <integer>-21</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-29</integer>
+      <key>trademark</key>
+      <integer>-11</integer>
     </dict>
     <key>public.kern1.LAT_P_UC_FIRST</key>
     <dict>
@@ -11487,6 +11545,8 @@
       <integer>10</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-59</integer>
+      <key>trademark</key>
+      <integer>20</integer>
       <key>ydieresis</key>
       <integer>-21</integer>
     </dict>
@@ -11792,6 +11852,8 @@
       <integer>-6</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-34</integer>
+      <key>trademark</key>
+      <integer>20</integer>
     </dict>
     <key>public.kern1.LAT_W_UC</key>
     <dict>
@@ -11931,6 +11993,8 @@
       <integer>-3</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-18</integer>
+      <key>trademark</key>
+      <integer>12</integer>
     </dict>
     <key>public.kern1.LAT_X_UC</key>
     <dict>
@@ -12261,6 +12325,8 @@
       <integer>-6</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-40</integer>
+      <key>trademark</key>
+      <integer>21</integer>
     </dict>
     <key>public.kern1.LAT_Z_UC_FIRST</key>
     <dict>
@@ -12375,6 +12441,8 @@
     </dict>
     <key>public.kern1.LAT_a_LC_FIRST</key>
     <dict>
+      <key>public.kern2.LAT_j_LC_SECOND</key>
+      <integer>48</integer>
       <key>public.kern2.LAT_x_LC</key>
       <integer>13</integer>
       <key>public.kern2.LAT_y_LC_SECOND</key>
@@ -12882,6 +12950,8 @@
       <integer>49</integer>
       <key>public.kern2.PUNCT_quotesingle</key>
       <integer>49</integer>
+      <key>trademark</key>
+      <integer>27</integer>
     </dict>
     <key>public.kern1.LAT_g_LC_FIRST</key>
     <dict>
@@ -13108,6 +13178,8 @@
       <integer>2</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>15</integer>
+      <key>trademark</key>
+      <integer>-28</integer>
     </dict>
     <key>public.kern1.LAT_l_LC_FIRST</key>
     <dict>
@@ -13654,7 +13726,7 @@
       <key>public.kern2.LAT_g_LC_SECOND</key>
       <integer>-1</integer>
       <key>public.kern2.LAT_j_LC_SECOND</key>
-      <integer>-1</integer>
+      <integer>48</integer>
       <key>public.kern2.LAT_q_LC_SECOND</key>
       <integer>-1</integer>
       <key>public.kern2.LAT_x_LC</key>
@@ -14797,7 +14869,7 @@
       <key>public.kern2.PUNCT_bracketleft</key>
       <integer>1</integer>
       <key>public.kern2.PUNCT_bracketright</key>
-      <integer>7</integer>
+      <integer>35</integer>
       <key>public.kern2.PUNCT_colon</key>
       <integer>-1</integer>
       <key>public.kern2.PUNCT_exclam</key>
@@ -14811,11 +14883,11 @@
       <key>public.kern2.PUNCT_parenleft</key>
       <integer>-1</integer>
       <key>public.kern2.PUNCT_parenright</key>
-      <integer>4</integer>
+      <integer>12</integer>
       <key>public.kern2.PUNCT_period</key>
       <integer>-1</integer>
       <key>public.kern2.PUNCT_question</key>
-      <integer>4</integer>
+      <integer>24</integer>
       <key>public.kern2.PUNCT_questiondown</key>
       <integer>-2</integer>
       <key>public.kern2.PUNCT_quoteleft</key>
@@ -15143,6 +15215,14 @@
       <integer>-19</integer>
       <key>public.kern2.MIS_uni0292</key>
       <integer>-27</integer>
+      <key>public.kern2.PUNCT_braceright</key>
+      <integer>44</integer>
+      <key>public.kern2.PUNCT_bracketright</key>
+      <integer>44</integer>
+      <key>public.kern2.PUNCT_parenright</key>
+      <integer>18</integer>
+      <key>public.kern2.PUNCT_question</key>
+      <integer>30</integer>
     </dict>
     <key>public.kern1.MIS_uni0195_FIRST</key>
     <dict>
@@ -20519,7 +20599,7 @@
       <key>public.kern2.LAT_Y_UC_SECOND</key>
       <integer>-40</integer>
       <key>public.kern2.LAT_j_LC_SECOND</key>
-      <integer>51</integer>
+      <integer>22</integer>
       <key>public.kern2.MIS_uni0186_SECOND</key>
       <integer>-1</integer>
       <key>public.kern2.MIS_uni021C</key>
@@ -22230,6 +22310,10 @@
       <integer>-1</integer>
       <key>public.kern2.MIS_uni024D</key>
       <integer>-3</integer>
+      <key>public.kern2.PUNCT_Questiondown</key>
+      <integer>-84</integer>
+      <key>public.kern2.PUNCT_questiondown</key>
+      <integer>-98</integer>
     </dict>
     <key>public.kern1.PUNCT_quoteright</key>
     <dict>
@@ -23236,6 +23320,41 @@
       <integer>20</integer>
       <key>public.kern2.FIG_zeroALT</key>
       <integer>21</integer>
+    </dict>
+    <key>public.kern1.t</key>
+    <dict>
+      <key>public.kern2.FIG_zeroDFLT</key>
+      <integer>-46</integer>
+      <key>six.osf</key>
+      <integer>-20</integer>
+    </dict>
+    <key>seven.osf</key>
+    <dict>
+      <key>public.kern2.FIG_zeroDFLT</key>
+      <integer>-28</integer>
+    </dict>
+    <key>six.osf</key>
+    <dict>
+      <key>public.kern2.FIG_zeroDFLT</key>
+      <integer>-20</integer>
+      <key>six.osf</key>
+      <integer>-18</integer>
+      <key>two.osf</key>
+      <integer>10</integer>
+    </dict>
+    <key>three.osf</key>
+    <dict>
+      <key>public.kern2.FIG_zeroDFLT</key>
+      <integer>-40</integer>
+      <key>six.osf</key>
+      <integer>-22</integer>
+    </dict>
+    <key>trademark</key>
+    <dict>
+      <key>public.kern2.CYR_afii10035_UC</key>
+      <integer>10</integer>
+      <key>space</key>
+      <integer>0</integer>
     </dict>
   </dict>
 </plist>

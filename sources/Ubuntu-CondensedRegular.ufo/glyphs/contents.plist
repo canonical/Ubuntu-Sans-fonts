@@ -422,6 +422,8 @@
     <string>I_-cy.glif</string>
     <key>IJ</key>
     <string>I_J_.glif</string>
+    <key>IJacute</key>
+    <string>I_J_acute.glif</string>
     <key>Iacute</key>
     <string>I_acute.glif</string>
     <key>Ibreve</key>
@@ -1194,6 +1196,8 @@
     <string>amacron.sc.glif</string>
     <key>ampersand</key>
     <string>ampersand.glif</string>
+    <key>ampersand.c2sc</key>
+    <string>ampersand.c2sc.glif</string>
     <key>aogonek</key>
     <string>aogonek.glif</string>
     <key>aogonek.sc</key>
@@ -1218,6 +1222,8 @@
     <string>asterisk.glif</string>
     <key>at</key>
     <string>at.glif</string>
+    <key>at.c2sc</key>
+    <string>at.c2sc.glif</string>
     <key>at.case</key>
     <string>at.case.glif</string>
     <key>atilde</key>
@@ -1230,10 +1236,10 @@
     <string>b.sc.glif</string>
     <key>backslash</key>
     <string>backslash.glif</string>
+    <key>backslash.c2sc</key>
+    <string>backslash.c2sc.glif</string>
     <key>backslash.case</key>
     <string>backslash.case.glif</string>
-    <key>backslash.sc</key>
-    <string>backslash.sc.glif</string>
     <key>bar</key>
     <string>bar.glif</string>
     <key>be-cy</key>
@@ -1248,28 +1254,28 @@
     <string>beta.sc.glif</string>
     <key>braceleft</key>
     <string>braceleft.glif</string>
+    <key>braceleft.c2sc</key>
+    <string>braceleft.c2sc.glif</string>
     <key>braceleft.case</key>
     <string>braceleft.case.glif</string>
-    <key>braceleft.sc</key>
-    <string>braceleft.sc.glif</string>
     <key>braceright</key>
     <string>braceright.glif</string>
+    <key>braceright.c2sc</key>
+    <string>braceright.c2sc.glif</string>
     <key>braceright.case</key>
     <string>braceright.case.glif</string>
-    <key>braceright.sc</key>
-    <string>braceright.sc.glif</string>
     <key>bracketleft</key>
     <string>bracketleft.glif</string>
+    <key>bracketleft.c2sc</key>
+    <string>bracketleft.c2sc.glif</string>
     <key>bracketleft.case</key>
     <string>bracketleft.case.glif</string>
-    <key>bracketleft.sc</key>
-    <string>bracketleft.sc.glif</string>
     <key>bracketright</key>
     <string>bracketright.glif</string>
+    <key>bracketright.c2sc</key>
+    <string>bracketright.c2sc.glif</string>
     <key>bracketright.case</key>
     <string>bracketright.case.glif</string>
-    <key>bracketright.sc</key>
-    <string>bracketright.sc.glif</string>
     <key>breve</key>
     <string>breve.glif</string>
     <key>brevecomb</key>
@@ -1296,10 +1302,10 @@
     <string>btopbar.sc.glif</string>
     <key>bullet</key>
     <string>bullet.glif</string>
+    <key>bullet.c2sc</key>
+    <string>bullet.c2sc.glif</string>
     <key>bullet.case</key>
     <string>bullet.case.glif</string>
-    <key>bullet.sc</key>
-    <string>bullet.sc.glif</string>
     <key>bulletoperator</key>
     <string>bulletoperator.glif</string>
     <key>c</key>
@@ -1414,6 +1420,8 @@
     <string>commaturnedabovecomb.glif</string>
     <key>copyright</key>
     <string>copyright.glif</string>
+    <key>copyright.c2sc</key>
+    <string>copyright.c2sc.glif</string>
     <key>crossMark</key>
     <string>crossM_ark.glif</string>
     <key>cstroke</key>
@@ -1518,6 +1526,8 @@
     <string>dje-cy.sc.glif</string>
     <key>dollar</key>
     <string>dollar.glif</string>
+    <key>dollar.c2sc</key>
+    <string>dollar.c2sc.glif</string>
     <key>dot_macron</key>
     <string>dot_macron.glif</string>
     <key>dot_macron.sc</key>
@@ -1526,6 +1536,8 @@
     <string>dotaccent.glif</string>
     <key>dotaccentcomb</key>
     <string>dotaccentcomb.glif</string>
+    <key>dotaccentcomb.i</key>
+    <string>dotaccentcomb.i.glif</string>
     <key>dotaccentcomb.sc</key>
     <string>dotaccentcomb.sc.glif</string>
     <key>dotbelowcomb</key>
@@ -1620,6 +1632,10 @@
     <string>eight.lf.glif</string>
     <key>eight.numr</key>
     <string>eight.numr.glif</string>
+    <key>eight.osf</key>
+    <string>eight.osf.glif</string>
+    <key>eight.tosf</key>
+    <string>eight.tosf.glif</string>
     <key>eightinferior</key>
     <string>eightinferior.glif</string>
     <key>eightninths</key>
@@ -1650,10 +1666,10 @@
     <string>emacron.sc.glif</string>
     <key>emdash</key>
     <string>emdash.glif</string>
+    <key>emdash.c2sc</key>
+    <string>emdash.c2sc.glif</string>
     <key>emdash.case</key>
     <string>emdash.case.glif</string>
-    <key>emdash.sc</key>
-    <string>emdash.sc.glif</string>
     <key>emtail-cy</key>
     <string>emtail-cy.glif</string>
     <key>emtail-cy.sc</key>
@@ -1664,10 +1680,10 @@
     <string>en-cy.sc.glif</string>
     <key>endash</key>
     <string>endash.glif</string>
+    <key>endash.c2sc</key>
+    <string>endash.c2sc.glif</string>
     <key>endash.case</key>
     <string>endash.case.glif</string>
-    <key>endash.sc</key>
-    <string>endash.sc.glif</string>
     <key>endescender-cy</key>
     <string>endescender-cy.glif</string>
     <key>endescender-cy.sc</key>
@@ -1744,6 +1760,8 @@
     <string>ereversed-cy.sc.glif</string>
     <key>ertick-cy</key>
     <string>ertick-cy.glif</string>
+    <key>ertick-cy.sc</key>
+    <string>ertick-cy.sc.glif</string>
     <key>es-cy</key>
     <string>es-cy.glif</string>
     <key>es-cy.sc</key>
@@ -1864,14 +1882,18 @@
     <string>eturned.sc.glif</string>
     <key>euro</key>
     <string>euro.glif</string>
+    <key>euro.c2sc</key>
+    <string>euro.c2sc.glif</string>
     <key>exclam</key>
     <string>exclam.glif</string>
+    <key>exclam.c2sc</key>
+    <string>exclam.c2sc.glif</string>
     <key>exclamdown</key>
     <string>exclamdown.glif</string>
+    <key>exclamdown.c2sc</key>
+    <string>exclamdown.c2sc.glif</string>
     <key>exclamdown.case</key>
     <string>exclamdown.case.glif</string>
-    <key>exclamdown.sc</key>
-    <string>exclamdown.sc.glif</string>
     <key>ezh</key>
     <string>ezh.glif</string>
     <key>ezh.sc</key>
@@ -1918,6 +1940,10 @@
     <string>five.lf.glif</string>
     <key>five.numr</key>
     <string>five.numr.glif</string>
+    <key>five.osf</key>
+    <string>five.osf.glif</string>
+    <key>five.tosf</key>
+    <string>five.tosf.glif</string>
     <key>fiveeighths</key>
     <string>fiveeighths.glif</string>
     <key>fiveinferior</key>
@@ -1942,6 +1968,10 @@
     <string>four.lf.glif</string>
     <key>four.numr</key>
     <string>four.numr.glif</string>
+    <key>four.osf</key>
+    <string>four.osf.glif</string>
+    <key>four.tosf</key>
+    <string>four.tosf.glif</string>
     <key>fourfifths</key>
     <string>fourfifths.glif</string>
     <key>fourinferior</key>
@@ -2038,28 +2068,28 @@
     <string>gstroke.sc.glif</string>
     <key>guillemetleft</key>
     <string>guillemetleft.glif</string>
+    <key>guillemetleft.c2sc</key>
+    <string>guillemetleft.c2sc.glif</string>
     <key>guillemetleft.case</key>
     <string>guillemetleft.case.glif</string>
-    <key>guillemetleft.sc</key>
-    <string>guillemetleft.sc.glif</string>
     <key>guillemetright</key>
     <string>guillemetright.glif</string>
+    <key>guillemetright.c2sc</key>
+    <string>guillemetright.c2sc.glif</string>
     <key>guillemetright.case</key>
     <string>guillemetright.case.glif</string>
-    <key>guillemetright.sc</key>
-    <string>guillemetright.sc.glif</string>
     <key>guilsinglleft</key>
     <string>guilsinglleft.glif</string>
+    <key>guilsinglleft.c2sc</key>
+    <string>guilsinglleft.c2sc.glif</string>
     <key>guilsinglleft.case</key>
     <string>guilsinglleft.case.glif</string>
-    <key>guilsinglleft.sc</key>
-    <string>guilsinglleft.sc.glif</string>
     <key>guilsinglright</key>
     <string>guilsinglright.glif</string>
+    <key>guilsinglright.c2sc</key>
+    <string>guilsinglright.c2sc.glif</string>
     <key>guilsinglright.case</key>
     <string>guilsinglright.case.glif</string>
-    <key>guilsinglright.sc</key>
-    <string>guilsinglright.sc.glif</string>
     <key>h</key>
     <string>h.glif</string>
     <key>h.sc</key>
@@ -2096,6 +2126,8 @@
     <string>horizontalbar.glif</string>
     <key>hryvnia</key>
     <string>hryvnia.glif</string>
+    <key>hryvnia.c2sc</key>
+    <string>hryvnia.c2sc.glif</string>
     <key>hungarumlaut</key>
     <string>hungarumlaut.glif</string>
     <key>hungarumlautcomb</key>
@@ -2108,10 +2140,10 @@
     <string>hv.sc.glif</string>
     <key>hyphen</key>
     <string>hyphen.glif</string>
+    <key>hyphen.c2sc</key>
+    <string>hyphen.c2sc.glif</string>
     <key>hyphen.case</key>
     <string>hyphen.case.glif</string>
-    <key>hyphen.sc</key>
-    <string>hyphen.sc.glif</string>
     <key>i</key>
     <string>i.glif</string>
     <key>i-cy</key>
@@ -2120,8 +2152,6 @@
     <string>i-cy.sc.glif</string>
     <key>i.locl</key>
     <string>i.locl.glif</string>
-    <key>i.locl.sc</key>
-    <string>i.locl.sc.glif</string>
     <key>i.sc</key>
     <string>i.sc.glif</string>
     <key>iacute</key>
@@ -2196,6 +2226,10 @@
     <string>ij.glif</string>
     <key>ij.sc</key>
     <string>ij.sc.glif</string>
+    <key>ijacute</key>
+    <string>ijacute.glif</string>
+    <key>ijacute.sc</key>
+    <string>ijacute.sc.glif</string>
     <key>imacron</key>
     <string>imacron.glif</string>
     <key>imacron-cy</key>
@@ -2494,6 +2528,10 @@
     <string>nine.lf.glif</string>
     <key>nine.numr</key>
     <string>nine.numr.glif</string>
+    <key>nine.osf</key>
+    <string>nine.osf.glif</string>
+    <key>nine.tosf</key>
+    <string>nine.tosf.glif</string>
     <key>nineinferior</key>
     <string>nineinferior.glif</string>
     <key>ninesuperior</key>
@@ -2522,6 +2560,8 @@
     <string>nu.sc.glif</string>
     <key>numbersign</key>
     <string>numbersign.glif</string>
+    <key>numbersign.c2sc</key>
+    <string>numbersign.c2sc.glif</string>
     <key>numero</key>
     <string>numero.glif</string>
     <key>o</key>
@@ -2756,6 +2796,10 @@
     <string>one.lf.glif</string>
     <key>one.numr</key>
     <string>one.numr.glif</string>
+    <key>one.osf</key>
+    <string>one.osf.glif</string>
+    <key>one.tosf</key>
+    <string>one.tosf.glif</string>
     <key>oneeighth</key>
     <string>oneeighth.glif</string>
     <key>onefifth</key>
@@ -2820,18 +2864,20 @@
     <string>palochka-cy.sc.glif</string>
     <key>paragraph</key>
     <string>paragraph.glif</string>
+    <key>paragraph.c2sc</key>
+    <string>paragraph.c2sc.glif</string>
     <key>parenleft</key>
     <string>parenleft.glif</string>
+    <key>parenleft.c2sc</key>
+    <string>parenleft.c2sc.glif</string>
     <key>parenleft.case</key>
     <string>parenleft.case.glif</string>
-    <key>parenleft.sc</key>
-    <string>parenleft.sc.glif</string>
     <key>parenright</key>
     <string>parenright.glif</string>
+    <key>parenright.c2sc</key>
+    <string>parenright.c2sc.glif</string>
     <key>parenright.case</key>
     <string>parenright.case.glif</string>
-    <key>parenright.sc</key>
-    <string>parenright.sc.glif</string>
     <key>partialdiff</key>
     <string>partialdiff.glif</string>
     <key>pe-cy</key>
@@ -2844,6 +2890,8 @@
     <string>pemiddlehook-cy.sc.glif</string>
     <key>percent</key>
     <string>percent.glif</string>
+    <key>percent.c2sc</key>
+    <string>percent.c2sc.glif</string>
     <key>period</key>
     <string>period.glif</string>
     <key>periodcentered</key>
@@ -2908,28 +2956,42 @@
     <string>qpdigraph.glif</string>
     <key>question</key>
     <string>question.glif</string>
+    <key>question.c2sc</key>
+    <string>question.c2sc.glif</string>
     <key>questiondown</key>
     <string>questiondown.glif</string>
+    <key>questiondown.c2sc</key>
+    <string>questiondown.c2sc.glif</string>
     <key>questiondown.case</key>
     <string>questiondown.case.glif</string>
-    <key>questiondown.sc</key>
-    <string>questiondown.sc.glif</string>
     <key>quotedbl</key>
     <string>quotedbl.glif</string>
+    <key>quotedbl.c2sc</key>
+    <string>quotedbl.c2sc.glif</string>
     <key>quotedblbase</key>
     <string>quotedblbase.glif</string>
     <key>quotedblleft</key>
     <string>quotedblleft.glif</string>
+    <key>quotedblleft.c2sc</key>
+    <string>quotedblleft.c2sc.glif</string>
     <key>quotedblright</key>
     <string>quotedblright.glif</string>
+    <key>quotedblright.c2sc</key>
+    <string>quotedblright.c2sc.glif</string>
     <key>quoteleft</key>
     <string>quoteleft.glif</string>
+    <key>quoteleft.c2sc</key>
+    <string>quoteleft.c2sc.glif</string>
     <key>quoteright</key>
     <string>quoteright.glif</string>
+    <key>quoteright.c2sc</key>
+    <string>quoteright.c2sc.glif</string>
     <key>quotesinglbase</key>
     <string>quotesinglbase.glif</string>
     <key>quotesingle</key>
     <string>quotesingle.glif</string>
+    <key>quotesingle.c2sc</key>
+    <string>quotesingle.c2sc.glif</string>
     <key>r</key>
     <string>r.glif</string>
     <key>r.sc</key>
@@ -2954,6 +3016,8 @@
     <string>rdblgrave.sc.glif</string>
     <key>registered</key>
     <string>registered.glif</string>
+    <key>registered.c2sc</key>
+    <string>registered.c2sc.glif</string>
     <key>rho</key>
     <string>rho.glif</string>
     <key>rho.sc</key>
@@ -2982,8 +3046,12 @@
     <string>rstroke.sc.glif</string>
     <key>ruble</key>
     <string>ruble.glif</string>
+    <key>ruble.c2sc</key>
+    <string>ruble.c2sc.glif</string>
     <key>rupeeIndian</key>
     <string>rupeeI_ndian.glif</string>
+    <key>rupeeIndian.c2sc</key>
+    <string>rupeeI_ndian.c2sc.glif</string>
     <key>s</key>
     <string>s.glif</string>
     <key>s.sc</key>
@@ -3020,6 +3088,8 @@
     <string>second.glif</string>
     <key>section</key>
     <string>section.glif</string>
+    <key>section.c2sc</key>
+    <string>section.c2sc.glif</string>
     <key>semicolon</key>
     <string>semicolon.glif</string>
     <key>semisoftsign-cy</key>
@@ -3036,6 +3106,10 @@
     <string>seven.lf.glif</string>
     <key>seven.numr</key>
     <string>seven.numr.glif</string>
+    <key>seven.osf</key>
+    <string>seven.osf.glif</string>
+    <key>seven.tosf</key>
+    <string>seven.tosf.glif</string>
     <key>seveneighths</key>
     <string>seveneighths.glif</string>
     <key>seveninferior</key>
@@ -3070,6 +3144,10 @@
     <string>six.lf.glif</string>
     <key>six.numr</key>
     <string>six.numr.glif</string>
+    <key>six.osf</key>
+    <string>six.osf.glif</string>
+    <key>six.tosf</key>
+    <string>six.tosf.glif</string>
     <key>sixinferior</key>
     <string>sixinferior.glif</string>
     <key>sixsevenths</key>
@@ -3078,10 +3156,10 @@
     <string>sixsuperior.glif</string>
     <key>slash</key>
     <string>slash.glif</string>
+    <key>slash.c2sc</key>
+    <string>slash.c2sc.glif</string>
     <key>slash.case</key>
     <string>slash.case.glif</string>
-    <key>slash.sc</key>
-    <string>slash.sc.glif</string>
     <key>softhyphen</key>
     <string>softhyphen.glif</string>
     <key>softsign-cy</key>
@@ -3094,6 +3172,8 @@
     <string>sswashtail.glif</string>
     <key>sterling</key>
     <string>sterling.glif</string>
+    <key>sterling.c2sc</key>
+    <string>sterling.c2sc.glif</string>
     <key>summation</key>
     <string>summation.glif</string>
     <key>t</key>
@@ -3132,6 +3212,8 @@
     <string>tedescender-cy.sc.glif</string>
     <key>tenge</key>
     <string>tenge.glif</string>
+    <key>tenge.c2sc</key>
+    <string>tenge.c2sc.glif</string>
     <key>tetse-cy</key>
     <string>tetse-cy.glif</string>
     <key>tetse-cy.sc</key>
@@ -3158,6 +3240,10 @@
     <string>three.lf.glif</string>
     <key>three.numr</key>
     <string>three.numr.glif</string>
+    <key>three.osf</key>
+    <string>three.osf.glif</string>
+    <key>three.tosf</key>
+    <string>three.tosf.glif</string>
     <key>threeeighths</key>
     <string>threeeighths.glif</string>
     <key>threefifths</key>
@@ -3214,6 +3300,8 @@
     <string>tshe-cy.sc.glif</string>
     <key>tugrik</key>
     <string>tugrik.glif</string>
+    <key>tugrik.c2sc</key>
+    <string>tugrik.c2sc.glif</string>
     <key>two</key>
     <string>two.glif</string>
     <key>two.dnom</key>
@@ -3222,6 +3310,10 @@
     <string>two.lf.glif</string>
     <key>two.numr</key>
     <string>two.numr.glif</string>
+    <key>two.osf</key>
+    <string>two.osf.glif</string>
+    <key>two.tosf</key>
+    <string>two.tosf.glif</string>
     <key>twofifths</key>
     <string>twofifths.glif</string>
     <key>twoinferior</key>
@@ -3486,6 +3578,8 @@
     <string>ydieresis.sc.glif</string>
     <key>yen</key>
     <string>yen.glif</string>
+    <key>yen.c2sc</key>
+    <string>yen.c2sc.glif</string>
     <key>yeru-cy</key>
     <string>yeru-cy.glif</string>
     <key>yeru-cy.sc</key>
@@ -3558,6 +3652,10 @@
     <string>zero.lf.glif</string>
     <key>zero.numr</key>
     <string>zero.numr.glif</string>
+    <key>zero.osf</key>
+    <string>zero.osf.glif</string>
+    <key>zero.tosf</key>
+    <string>zero.tosf.glif</string>
     <key>zeroinferior</key>
     <string>zeroinferior.glif</string>
     <key>zerosuperior</key>

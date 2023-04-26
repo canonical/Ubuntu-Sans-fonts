@@ -1,26 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ustraight-cy.sc" format="2">
-  <advance width="544"/>
+  <advance width="525"/>
+  <anchor x="263" y="0" name="bottom"/>
+  <anchor x="263" y="580" name="top"/>
+  <anchor x="20" y="580" name="topleft"/>
   <outline>
-    <contour>
-      <point x="235" y="0" type="line"/>
-      <point x="311" y="0" type="line"/>
-      <point x="311" y="236" type="line"/>
-      <point x="378" y="334"/>
-      <point x="437" y="428"/>
-      <point x="525" y="580" type="curve"/>
-      <point x="443" y="580" type="line"/>
-      <point x="393" y="485"/>
-      <point x="336" y="391"/>
-      <point x="274" y="300" type="curve"/>
-      <point x="212" y="389"/>
-      <point x="154" y="486"/>
-      <point x="106" y="580" type="curve"/>
-      <point x="19" y="580" type="line"/>
-      <point x="78" y="474"/>
-      <point x="149" y="360"/>
-      <point x="235" y="235" type="curve"/>
-    </contour>
+    <component base="y.sc"/>
   </outline>
   <lib>
     <dict>
@@ -33,10 +18,39 @@
         <key>width</key>
         <integer>89</integer>
       </dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>y.sc</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>y.sc</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

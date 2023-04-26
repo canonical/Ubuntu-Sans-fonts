@@ -1,71 +1,98 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="b.sc" format="2">
-  <advance width="549"/>
-  <anchor x="275" y="0" name="bottom"/>
-  <anchor x="275" y="288" name="center"/>
-  <anchor x="275" y="575" name="top"/>
+  <advance width="415"/>
+  <anchor x="205" y="0" name="bottom"/>
+  <anchor x="205" y="288" name="center"/>
+  <anchor x="205" y="575" name="top"/>
   <outline>
     <contour>
-      <point x="229" y="-4" type="curve" smooth="yes"/>
-      <point x="408" y="-4"/>
-      <point x="487" y="52"/>
-      <point x="487" y="162" type="curve" smooth="yes"/>
-      <point x="487" y="240"/>
-      <point x="439" y="288"/>
-      <point x="357" y="302" type="curve"/>
-      <point x="418" y="316"/>
-      <point x="459" y="367"/>
-      <point x="459" y="431" type="curve" smooth="yes"/>
-      <point x="459" y="533"/>
-      <point x="377" y="579"/>
-      <point x="229" y="579" type="curve" smooth="yes"/>
-      <point x="191" y="579"/>
-      <point x="125" y="574"/>
-      <point x="92" y="564" type="curve"/>
-      <point x="92" y="12" type="line"/>
-      <point x="120" y="4"/>
-      <point x="184" y="-4"/>
+      <point x="172" y="-4" type="curve" smooth="yes"/>
+      <point x="304" y="-4"/>
+      <point x="369" y="51"/>
+      <point x="369" y="163" type="curve" smooth="yes"/>
+      <point x="369" y="240"/>
+      <point x="332" y="288"/>
+      <point x="255" y="302" type="curve"/>
+      <point x="311" y="317"/>
+      <point x="348" y="368"/>
+      <point x="348" y="432" type="curve" smooth="yes"/>
+      <point x="348" y="534"/>
+      <point x="283" y="579"/>
+      <point x="171" y="579" type="curve" smooth="yes"/>
+      <point x="137" y="579"/>
+      <point x="91" y="573"/>
+      <point x="69" y="564" type="curve"/>
+      <point x="69" y="12" type="line"/>
+      <point x="93" y="4"/>
+      <point x="136" y="-4"/>
     </contour>
     <contour>
-      <point x="228" y="27" type="curve" smooth="yes"/>
-      <point x="201" y="27"/>
-      <point x="154" y="30"/>
-      <point x="126" y="36" type="curve"/>
-      <point x="126" y="284" type="line"/>
-      <point x="261" y="284" type="line" smooth="yes"/>
-      <point x="397" y="284"/>
-      <point x="451" y="243"/>
-      <point x="451" y="162" type="curve" smooth="yes"/>
-      <point x="451" y="66"/>
-      <point x="378" y="27"/>
+      <point x="172" y="26" type="curve" smooth="yes"/>
+      <point x="154" y="26"/>
+      <point x="122" y="29"/>
+      <point x="101" y="35" type="curve"/>
+      <point x="101" y="284" type="line"/>
+      <point x="174" y="284" type="line" smooth="yes"/>
+      <point x="289" y="284"/>
+      <point x="336" y="243"/>
+      <point x="336" y="163" type="curve" smooth="yes"/>
+      <point x="336" y="71"/>
+      <point x="282" y="26"/>
     </contour>
     <contour>
-      <point x="126" y="314" type="line"/>
-      <point x="126" y="540" type="line"/>
-      <point x="147" y="543"/>
-      <point x="186" y="548"/>
-      <point x="224" y="548" type="curve" smooth="yes"/>
-      <point x="356" y="548"/>
-      <point x="424" y="513"/>
-      <point x="424" y="433" type="curve" smooth="yes"/>
-      <point x="424" y="353"/>
-      <point x="369" y="314"/>
-      <point x="256" y="314" type="curve" smooth="yes"/>
+      <point x="101" y="314" type="line"/>
+      <point x="101" y="541" type="line"/>
+      <point x="117" y="544"/>
+      <point x="141" y="549"/>
+      <point x="169" y="549" type="curve" smooth="yes"/>
+      <point x="266" y="549"/>
+      <point x="315" y="513"/>
+      <point x="315" y="432" type="curve" smooth="yes"/>
+      <point x="315" y="353"/>
+      <point x="268" y="314"/>
+      <point x="169" y="314" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>RMXScaler</key>
       <dict>
-        <key>height</key>
-        <integer>83</integer>
         <key>weight</key>
-        <integer>4</integer>
+        <integer>21</integer>
         <key>width</key>
-        <real>84.5</real>
+        <integer>76</integer>
+      </dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
       </dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>h.sc</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

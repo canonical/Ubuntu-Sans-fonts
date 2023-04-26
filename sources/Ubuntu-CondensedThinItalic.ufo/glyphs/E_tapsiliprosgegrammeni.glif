@@ -2,6 +2,11 @@
 <glyph name="Etapsiliprosgegrammeni" format="2">
   <advance width="792.3"/>
   <unicode hex="1F98"/>
+  <anchor x="318" y="0" name="bottom"/>
+  <anchor x="401" y="347" name="center"/>
+  <anchor x="476" y="672" name="top_1"/>
+  <anchor x="807" y="516" name="top_2"/>
+  <anchor x="184" y="693" name="topleft"/>
   <outline>
     <component base="H" xOffset="60"/>
     <component base="iota" xOffset="587"/>
@@ -9,6 +14,33 @@
   </outline>
   <lib>
     <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>

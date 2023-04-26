@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="napostrophe.sc" format="2">
-  <advance width="679"/>
-  <anchor x="402" y="0" name="bottom"/>
-  <anchor x="402" y="589" name="top"/>
+  <advance width="777"/>
+  <anchor x="500" y="0" name="bottom"/>
+  <anchor x="500" y="589" name="top"/>
   <outline>
-    <component base="n.sc"/>
-    <component base="apostrophemod" xOffset="-199" yOffset="-102"/>
+    <component base="n.sc" xOffset="98"/>
+    <component base="apostrophemod" xOffset="-101" yOffset="-94"/>
   </outline>
   <lib>
     <dict>
@@ -18,8 +18,43 @@
         <key>width</key>
         <integer>87</integer>
       </dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>n.sc</string>
+        </dict>
         <dict>
           <key>alignment</key>
           <integer>-1</integer>
@@ -29,8 +64,10 @@
           <string>apostrophemod</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>n.sc</string>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.65,0.48,0.2,1</string>
     </dict>
   </lib>
 </glyph>

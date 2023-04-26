@@ -1,14 +1,41 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="omegapsilioxia.sc" format="2">
-  <advance width="816"/>
-  <anchor x="476" y="0" name="bottom"/>
+  <advance width="650"/>
+  <anchor x="396" y="0" name="bottom"/>
   <anchor x="266" y="575" name="topleft"/>
   <outline>
-    <component base="omega.sc" xOffset="135"/>
+    <component base="omega.sc" xOffset="141"/>
     <component base="psilioxia.sc"/>
   </outline>
   <lib>
     <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
@@ -25,7 +52,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>omega.sc</string>
       <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <string>0.65,0.48,0.2,1</string>
     </dict>
   </lib>
 </glyph>

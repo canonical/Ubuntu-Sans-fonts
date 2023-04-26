@@ -1,41 +1,41 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hardsign-cy.sc" format="2">
-  <advance width="661"/>
-  <anchor x="331" y="580" name="top"/>
+  <advance width="509"/>
+  <anchor x="255" y="579" name="top"/>
   <outline>
     <contour>
-      <point x="350" y="-5" type="curve" smooth="yes"/>
-      <point x="533" y="-5"/>
-      <point x="617" y="63"/>
-      <point x="617" y="183" type="curve" smooth="yes"/>
-      <point x="617" y="308"/>
-      <point x="527" y="371"/>
-      <point x="355" y="371" type="curve" smooth="yes"/>
-      <point x="326" y="371"/>
-      <point x="285" y="369"/>
-      <point x="264" y="366" type="curve"/>
-      <point x="264" y="580" type="line"/>
-      <point x="27" y="580" type="line"/>
-      <point x="27" y="517" type="line"/>
-      <point x="188" y="517" type="line"/>
-      <point x="188" y="11" type="line"/>
-      <point x="235" y="0"/>
-      <point x="299" y="-5"/>
+      <point x="261" y="-5" type="curve" smooth="yes"/>
+      <point x="402" y="-5"/>
+      <point x="474" y="62"/>
+      <point x="474" y="182" type="curve" smooth="yes"/>
+      <point x="474" y="306"/>
+      <point x="402" y="369"/>
+      <point x="268" y="369" type="curve" smooth="yes"/>
+      <point x="251" y="369"/>
+      <point x="219" y="367"/>
+      <point x="202" y="364" type="curve"/>
+      <point x="202" y="579" type="line"/>
+      <point x="13" y="580" type="line"/>
+      <point x="13" y="520" type="line"/>
+      <point x="133" y="520" type="line"/>
+      <point x="133" y="11" type="line"/>
+      <point x="172" y="0"/>
+      <point x="221" y="-5"/>
     </contour>
     <contour>
-      <point x="354" y="58" type="curve" smooth="yes"/>
-      <point x="314" y="58"/>
-      <point x="285" y="61"/>
-      <point x="264" y="63" type="curve"/>
-      <point x="264" y="303" type="line"/>
-      <point x="289" y="306"/>
-      <point x="319" y="308"/>
-      <point x="353" y="308" type="curve" smooth="yes"/>
-      <point x="461" y="308"/>
-      <point x="539" y="281"/>
-      <point x="539" y="183" type="curve" smooth="yes"/>
-      <point x="539" y="83"/>
-      <point x="454" y="58"/>
+      <point x="266" y="55" type="curve" smooth="yes"/>
+      <point x="237" y="55"/>
+      <point x="217" y="58"/>
+      <point x="202" y="60" type="curve"/>
+      <point x="202" y="304" type="line"/>
+      <point x="219" y="307"/>
+      <point x="245" y="309"/>
+      <point x="267" y="309" type="curve" smooth="yes"/>
+      <point x="347" y="309"/>
+      <point x="402" y="279"/>
+      <point x="402" y="182" type="curve" smooth="yes"/>
+      <point x="402" y="83"/>
+      <point x="339" y="55"/>
     </contour>
   </outline>
   <lib>
@@ -49,8 +49,37 @@
         <key>width</key>
         <integer>89</integer>
       </dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>=softsign-cy.sc</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

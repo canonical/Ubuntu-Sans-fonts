@@ -1,40 +1,75 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="yen" format="2">
-  <advance width="568"/>
+  <advance width="564"/>
   <unicode hex="00A5"/>
   <outline>
     <contour>
-      <point x="209" y="0" type="line"/>
-      <point x="360" y="0" type="line"/>
-      <point x="360" y="111" type="line"/>
-      <point x="508" y="111" type="line"/>
-      <point x="508" y="210" type="line"/>
-      <point x="360" y="210" type="line"/>
-      <point x="360" y="275" type="line"/>
-      <point x="508" y="275" type="line"/>
-      <point x="508" y="374" type="line"/>
-      <point x="408" y="374" type="line"/>
-      <point x="469" y="482"/>
-      <point x="522" y="590"/>
-      <point x="573" y="693" type="curve"/>
-      <point x="404" y="693" type="line"/>
-      <point x="364" y="604"/>
-      <point x="331" y="507"/>
-      <point x="287" y="419" type="curve"/>
-      <point x="242" y="507"/>
-      <point x="206" y="601"/>
-      <point x="165" y="693" type="curve"/>
-      <point x="-5" y="693" type="line"/>
-      <point x="35" y="604"/>
-      <point x="105" y="475"/>
-      <point x="161" y="374" type="curve"/>
-      <point x="61" y="374" type="line"/>
-      <point x="61" y="275" type="line"/>
-      <point x="209" y="275" type="line"/>
-      <point x="209" y="210" type="line"/>
-      <point x="61" y="210" type="line"/>
-      <point x="61" y="111" type="line"/>
-      <point x="209" y="111" type="line"/>
+      <point x="207" y="0" type="line"/>
+      <point x="358" y="0" type="line"/>
+      <point x="358" y="111" type="line"/>
+      <point x="506" y="111" type="line"/>
+      <point x="506" y="210" type="line"/>
+      <point x="358" y="210" type="line"/>
+      <point x="358" y="275" type="line"/>
+      <point x="506" y="275" type="line"/>
+      <point x="506" y="374" type="line"/>
+      <point x="406" y="374" type="line"/>
+      <point x="467" y="482"/>
+      <point x="520" y="590"/>
+      <point x="571" y="693" type="curve"/>
+      <point x="402" y="693" type="line"/>
+      <point x="362" y="604"/>
+      <point x="329" y="507"/>
+      <point x="285" y="419" type="curve"/>
+      <point x="240" y="507"/>
+      <point x="204" y="601"/>
+      <point x="163" y="693" type="curve"/>
+      <point x="-7" y="693" type="line"/>
+      <point x="33" y="604"/>
+      <point x="103" y="475"/>
+      <point x="159" y="374" type="curve"/>
+      <point x="59" y="374" type="line"/>
+      <point x="59" y="275" type="line"/>
+      <point x="207" y="275" type="line"/>
+      <point x="207" y="210" type="line"/>
+      <point x="59" y="210" type="line"/>
+      <point x="59" y="111" type="line"/>
+      <point x="207" y="111" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>zero</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
 </glyph>

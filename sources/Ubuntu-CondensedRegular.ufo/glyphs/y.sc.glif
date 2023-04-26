@@ -1,43 +1,68 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="y.sc" format="2">
-  <advance width="525"/>
-  <anchor x="263" y="0" name="bottom"/>
-  <anchor x="263" y="580" name="top"/>
-  <anchor x="20" y="580" name="topleft"/>
+  <advance width="420"/>
+  <anchor x="211" y="0" name="bottom"/>
+  <anchor x="211" y="579" name="top"/>
+  <anchor x="16" y="579" name="topleft"/>
   <outline>
     <contour>
-      <point x="225" y="0" type="line"/>
-      <point x="301" y="0" type="line"/>
-      <point x="301" y="234" type="line"/>
-      <point x="389" y="363"/>
-      <point x="450" y="466"/>
-      <point x="506" y="580" type="curve"/>
-      <point x="424" y="580" type="line"/>
-      <point x="385" y="495"/>
-      <point x="342" y="420"/>
-      <point x="265" y="300" type="curve"/>
-      <point x="206" y="389"/>
-      <point x="153" y="481"/>
-      <point x="106" y="580" type="curve"/>
-      <point x="19" y="580" type="line"/>
-      <point x="84" y="453"/>
-      <point x="152" y="338"/>
-      <point x="225" y="232" type="curve"/>
+      <point x="176" y="0" type="line"/>
+      <point x="245" y="0" type="line"/>
+      <point x="245" y="235" type="line"/>
+      <point x="314" y="371"/>
+      <point x="364" y="473"/>
+      <point x="406" y="579" type="curve"/>
+      <point x="333" y="579" type="line"/>
+      <point x="300" y="494"/>
+      <point x="261" y="404"/>
+      <point x="212" y="295" type="curve"/>
+      <point x="168" y="385"/>
+      <point x="125" y="481"/>
+      <point x="89" y="579" type="curve"/>
+      <point x="14" y="579" type="line"/>
+      <point x="65" y="453"/>
+      <point x="117" y="343"/>
+      <point x="176" y="233" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>RMXScaler</key>
       <dict>
-        <key>height</key>
-        <integer>83</integer>
         <key>weight</key>
-        <integer>4</integer>
+        <integer>-37</integer>
         <key>width</key>
-        <real>84.5</real>
+        <integer>78</integer>
+      </dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

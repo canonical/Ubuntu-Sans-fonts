@@ -2,6 +2,9 @@
 <glyph name="Z" format="2">
   <advance width="462"/>
   <unicode hex="005A"/>
+  <anchor x="227" y="0" name="bottom"/>
+  <anchor x="250" y="347" name="center"/>
+  <anchor x="392" y="681" name="top"/>
   <outline>
     <contour>
       <point x="37" y="0" type="line"/>
@@ -20,4 +23,37 @@
       <point x="58" y="87" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
 </glyph>

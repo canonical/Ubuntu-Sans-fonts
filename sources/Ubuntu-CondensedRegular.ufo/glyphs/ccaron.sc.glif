@@ -1,20 +1,47 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ccaron.sc" format="2">
-  <advance width="551"/>
-  <anchor x="276" y="0" name="bottom"/>
-  <anchor x="329" y="806" name="top"/>
+  <advance width="408"/>
+  <anchor x="222" y="0" name="bottom"/>
+  <anchor x="231" y="805" name="top"/>
   <outline>
     <component base="c.sc"/>
-    <component base="caroncomb.sc" xOffset="330"/>
+    <component base="caroncomb.sc" xOffset="232" yOffset="-1"/>
   </outline>
   <lib>
     <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>o.sc</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>c.sc</string>
       <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

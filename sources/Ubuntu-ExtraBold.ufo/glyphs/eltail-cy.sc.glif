@@ -10,7 +10,6 @@
       <point x="644" y="128" type="line"/>
       <point x="644" y="589" type="line"/>
       <point x="212" y="589" type="line"/>
-      <point x="212" y="570" type="line"/>
       <point x="211" y="420"/>
       <point x="197" y="293"/>
       <point x="173" y="220" type="curve" smooth="yes"/>
@@ -23,8 +22,7 @@
       <point x="308" y="158" type="curve" smooth="yes"/>
       <point x="341" y="241"/>
       <point x="347" y="343"/>
-      <point x="354" y="445" type="curve"/>
-      <point x="355" y="461" type="line"/>
+      <point x="355" y="461" type="curve"/>
       <point x="492" y="461" type="line"/>
       <point x="492" y="0" type="line"/>
       <point x="589" y="0" type="line"/>
@@ -44,8 +42,39 @@
         <key>width</key>
         <integer>87</integer>
       </dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>=el-cy.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>entail-cy.sc</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

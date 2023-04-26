@@ -1,9 +1,50 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Alphaprosgegrammeni" format="2">
-  <advance width="815"/>
+  <advance width="807"/>
   <unicode hex="1FBC"/>
+  <anchor x="307" y="0" name="bottom"/>
+  <anchor x="476" y="10" name="ogonek"/>
+  <anchor x="460" y="669" name="top_1"/>
+  <anchor x="825" y="513" name="top_2"/>
   <outline>
     <component base="A"/>
-    <component base="iota" xOffset="602"/>
+    <component base="iota" xOffset="594"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>iota</string>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
 </glyph>

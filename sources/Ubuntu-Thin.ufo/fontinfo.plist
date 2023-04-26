@@ -12,6 +12,41 @@
     <integer>-185</integer>
     <key>familyName</key>
     <string>Ubuntu</string>
+    <key>guidelines</key>
+    <array>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>x</key>
+        <integer>134</integer>
+        <key>y</key>
+        <integer>682</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>x</key>
+        <integer>166</integer>
+        <key>y</key>
+        <integer>267</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>x</key>
+        <integer>160</integer>
+        <key>y</key>
+        <integer>575</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>90</integer>
+        <key>x</key>
+        <integer>250</integer>
+        <key>y</key>
+        <integer>352</integer>
+      </dict>
+    </array>
     <key>italicAngle</key>
     <integer>0</integer>
     <key>openTypeHeadCreated</key>
@@ -106,7 +141,7 @@
     <key>versionMajor</key>
     <integer>0</integer>
     <key>versionMinor</key>
-    <integer>866</integer>
+    <integer>867</integer>
     <key>xHeight</key>
     <integer>513</integer>
   </dict>

@@ -1,9 +1,45 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Tcommaaccent" format="2">
-  <advance width="453"/>
+  <advance width="463"/>
   <unicode hex="021A"/>
+  <anchor x="165" y="-203" name="bottom"/>
+  <anchor x="251" y="347" name="center"/>
+  <anchor x="395" y="681" name="top"/>
   <outline>
     <component base="T"/>
     <component base="commaaccentcomb" xOffset="96"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

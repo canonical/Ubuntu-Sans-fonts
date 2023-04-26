@@ -1,34 +1,34 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zstroke.sc" format="2">
-  <advance width="551"/>
+  <advance width="406"/>
   <outline>
     <contour>
-      <point x="36" y="0" type="line"/>
-      <point x="521" y="0" type="line"/>
-      <point x="521" y="126" type="line"/>
-      <point x="223" y="126" type="line"/>
-      <point x="247" y="164"/>
-      <point x="281" y="210"/>
-      <point x="309" y="246" type="curve"/>
-      <point x="503" y="246" type="line"/>
-      <point x="503" y="351" type="line"/>
-      <point x="388" y="351" type="line"/>
-      <point x="434" y="406"/>
-      <point x="480" y="458"/>
-      <point x="511" y="488" type="curve"/>
-      <point x="511" y="589" type="line"/>
-      <point x="49" y="589" type="line"/>
-      <point x="49" y="463" type="line"/>
-      <point x="308" y="463" type="line"/>
-      <point x="279" y="429"/>
-      <point x="242" y="385"/>
-      <point x="216" y="351" type="curve"/>
-      <point x="56" y="351" type="line"/>
-      <point x="56" y="246" type="line"/>
-      <point x="142" y="246" type="line"/>
-      <point x="100" y="188"/>
-      <point x="62" y="132"/>
-      <point x="36" y="88" type="curve"/>
+      <point x="24" y="0" type="line"/>
+      <point x="382" y="0" type="line"/>
+      <point x="382" y="119" type="line"/>
+      <point x="178" y="119" type="line"/>
+      <point x="194" y="153"/>
+      <point x="217" y="199"/>
+      <point x="243" y="249" type="curve"/>
+      <point x="367" y="249" type="line"/>
+      <point x="367" y="346" type="line"/>
+      <point x="295" y="346" type="line"/>
+      <point x="324" y="398"/>
+      <point x="352" y="447"/>
+      <point x="375" y="483" type="curve"/>
+      <point x="375" y="588" type="line"/>
+      <point x="32" y="588" type="line"/>
+      <point x="32" y="469" type="line"/>
+      <point x="228" y="469" type="line"/>
+      <point x="213" y="446"/>
+      <point x="187" y="400"/>
+      <point x="157" y="346" type="curve"/>
+      <point x="41" y="346" type="line"/>
+      <point x="41" y="249" type="line"/>
+      <point x="104" y="249" type="line"/>
+      <point x="75" y="194"/>
+      <point x="46" y="138"/>
+      <point x="24" y="92" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -42,10 +42,39 @@
         <key>width</key>
         <integer>87</integer>
       </dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>z.sc</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>z.sc</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

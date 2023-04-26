@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.tosf" format="2">
+  <advance width="420"/>
+  <outline>
+    <contour>
+      <point x="100" y="0" type="curve"/>
+      <point x="353" y="0" type="line"/>
+      <point x="359" y="32" type="line"/>
+      <point x="137" y="32" type="line"/>
+      <point x="164" y="132"/>
+      <point x="223" y="188"/>
+      <point x="286" y="249" type="curve" smooth="yes"/>
+      <point x="346" y="307"/>
+      <point x="409" y="362"/>
+      <point x="409" y="441" type="curve" smooth="yes"/>
+      <point x="409" y="499"/>
+      <point x="371" y="544"/>
+      <point x="305" y="544" type="curve" smooth="yes"/>
+      <point x="256" y="544"/>
+      <point x="208" y="529"/>
+      <point x="167" y="494" type="curve"/>
+      <point x="179" y="473" type="line"/>
+      <point x="214" y="499"/>
+      <point x="253" y="515"/>
+      <point x="300" y="515" type="curve" smooth="yes"/>
+      <point x="351" y="515"/>
+      <point x="376" y="481"/>
+      <point x="376" y="436" type="curve" smooth="yes"/>
+      <point x="376" y="362"/>
+      <point x="317" y="317"/>
+      <point x="253" y="256" type="curve" smooth="yes"/>
+      <point x="189" y="195"/>
+      <point x="123" y="117"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

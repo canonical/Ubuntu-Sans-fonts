@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.osf" format="2">
+  <advance width="532"/>
+  <outline>
+    <contour>
+      <point x="301" y="-159" type="line"/>
+      <point x="447" y="-159" type="line"/>
+      <point x="447" y="-4" type="line"/>
+      <point x="521" y="-4" type="line"/>
+      <point x="521" y="118" type="line"/>
+      <point x="447" y="118" type="line"/>
+      <point x="447" y="534" type="line"/>
+      <point x="306" y="534" type="line"/>
+      <point x="186" y="414"/>
+      <point x="60" y="222"/>
+      <point x="2" y="105" type="curve"/>
+      <point x="2" y="-4" type="line"/>
+      <point x="301" y="-4" type="line"/>
+    </contour>
+    <contour>
+      <point x="144" y="118" type="line"/>
+      <point x="184" y="202"/>
+      <point x="249" y="284"/>
+      <point x="301" y="352" type="curve"/>
+      <point x="301" y="118" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

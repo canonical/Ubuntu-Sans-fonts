@@ -1636,6 +1636,7 @@
     </array>
     <key>public.kern1.LAT_Z_UC_FIRST.c2sc</key>
     <array>
+      <string>dz.sc</string>
       <string>dzcaron.sc</string>
       <string>z.sc</string>
       <string>zhook.sc</string>
@@ -2140,6 +2141,10 @@
     <array>
       <string>euro</string>
     </array>
+    <key>public.kern1.PUNCT_Euro.001</key>
+    <array>
+      <string>euro.c2sc</string>
+    </array>
     <key>public.kern1.PUNCT_Guilsinglleft</key>
     <array>
       <string>guillemetleft.case</string>
@@ -2180,6 +2185,10 @@
     <array>
       <string>at</string>
     </array>
+    <key>public.kern1.PUNCT_at.001</key>
+    <array>
+      <string>at.c2sc</string>
+    </array>
     <key>public.kern1.PUNCT_braceleft</key>
     <array>
       <string>braceleft</string>
@@ -2208,6 +2217,7 @@
     <key>public.kern1.PUNCT_exclam</key>
     <array>
       <string>exclam</string>
+      <string>exclam.c2sc</string>
     </array>
     <key>public.kern1.PUNCT_exclamdown</key>
     <array>
@@ -2242,6 +2252,10 @@
     <array>
       <string>percent</string>
     </array>
+    <key>public.kern1.PUNCT_percent.001</key>
+    <array>
+      <string>percent.c2sc</string>
+    </array>
     <key>public.kern1.PUNCT_period</key>
     <array>
       <string>period</string>
@@ -2251,6 +2265,7 @@
     <key>public.kern1.PUNCT_question</key>
     <array>
       <string>question</string>
+      <string>question.c2sc</string>
     </array>
     <key>public.kern1.PUNCT_questiondown</key>
     <array>
@@ -2285,9 +2300,281 @@
     <array>
       <string>sterling</string>
     </array>
+    <key>public.kern1.PUNCT_sterling.001</key>
+    <array>
+      <string>sterling.c2sc</string>
+    </array>
     <key>public.kern1.PUNCT_yen</key>
     <array>
       <string>yen</string>
+    </array>
+    <key>public.kern1.PUNCT_yen.001</key>
+    <array>
+      <string>yen.c2sc</string>
+    </array>
+    <key>public.kern1.cyr_afii10017_uc.sc</key>
+    <array>
+      <string>a-cy.sc</string>
+    </array>
+    <key>public.kern1.cyr_afii10019_uc.sc</key>
+    <array>
+      <string>ve-cy.sc</string>
+    </array>
+    <key>public.kern1.cyr_afii10022_uc.sc</key>
+    <array>
+      <string>ie-cy.sc</string>
+    </array>
+    <key>public.kern1.cyr_afii10029_uc_first.sc</key>
+    <array>
+      <string>en-cy.sc</string>
+      <string>i-cy.sc</string>
+      <string>yi-cy.sc</string>
+      <string>palochka-cy.sc</string>
+    </array>
+    <key>public.kern1.cyr_afii10030_uc.sc</key>
+    <array>
+      <string>em-cy.sc</string>
+    </array>
+    <key>public.kern1.cyr_afii10032_uc_first.sc</key>
+    <array>
+      <string>o-cy.sc</string>
+    </array>
+    <key>public.kern1.cyr_afii10034_uc_first.sc</key>
+    <array>
+      <string>er-cy.sc</string>
+    </array>
+    <key>public.kern1.cyr_afii10035_uc.sc</key>
+    <array>
+      <string>es-cy.sc</string>
+    </array>
+    <key>public.kern1.cyr_afii10036_uc_first.sc</key>
+    <array>
+      <string>te-cy.sc</string>
+    </array>
+    <key>public.kern1.cyr_afii10039_uc.sc</key>
+    <array>
+      <string>ha-cy.sc</string>
+    </array>
+    <key>public.kern1.cyr_afii10054_uc.sc</key>
+    <array>
+      <string>dze-cy.sc</string>
+    </array>
+    <key>public.kern1.cyr_afii10057_uc_first.sc</key>
+    <array>
+      <string>je-cy.sc</string>
+    </array>
+    <key>public.kern1.grk_alpha_uc_first.sc</key>
+    <array>
+      <string>alpha.sc</string>
+      <string>alphatonos.sc</string>
+      <string>alphamacron.sc</string>
+    </array>
+    <key>public.kern1.grk_beta_uc.sc</key>
+    <array>
+      <string>beta.sc</string>
+    </array>
+    <key>public.kern1.grk_chi_uc.sc</key>
+    <array>
+      <string>chi.sc</string>
+    </array>
+    <key>public.kern1.grk_epsilon_uc_first.sc</key>
+    <array>
+      <string>epsilon.sc</string>
+      <string>epsilontonos.sc</string>
+    </array>
+    <key>public.kern1.grk_eta_uc_first.sc</key>
+    <array>
+      <string>eta.sc</string>
+      <string>iota.sc</string>
+      <string>nu.sc</string>
+      <string>iotatonos.sc</string>
+      <string>etatonos.sc</string>
+      <string>iotamacron.sc</string>
+    </array>
+    <key>public.kern1.grk_kappa_uc.sc</key>
+    <array>
+      <string>kappa.sc</string>
+    </array>
+    <key>public.kern1.grk_mu_uc.sc</key>
+    <array>
+      <string>mu.sc</string>
+    </array>
+    <key>public.kern1.grk_omega_uc_first.sc</key>
+    <array>
+      <string>omegatonos.sc</string>
+    </array>
+    <key>public.kern1.grk_omicron_uc_first.sc</key>
+    <array>
+      <string>theta.sc</string>
+      <string>omicron.sc</string>
+      <string>omicrontonos.sc</string>
+    </array>
+    <key>public.kern1.grk_rho_uc.sc</key>
+    <array>
+      <string>rho.sc</string>
+    </array>
+    <key>public.kern1.grk_tau_uc.sc</key>
+    <array>
+      <string>tau.sc</string>
+    </array>
+    <key>public.kern1.grk_upsilon_uc_first.sc</key>
+    <array>
+      <string>upsilontonos.sc</string>
+      <string>upsilondieresis.sc</string>
+      <string>upsilonmacron.sc</string>
+    </array>
+    <key>public.kern1.grk_zeta_uc.sc</key>
+    <array>
+      <string>zeta.sc</string>
+    </array>
+    <key>public.kern1.lat_a_uc_first.sc</key>
+    <array>
+      <string>aacute.sc</string>
+      <string>abreve.sc</string>
+      <string>acaron.sc</string>
+      <string>acircumflex.sc</string>
+      <string>adieresis.sc</string>
+      <string>adieresismacron.sc</string>
+      <string>adotaccent.sc</string>
+      <string>adotmacron.sc</string>
+      <string>agrave.sc</string>
+      <string>ainvertedbreve.sc</string>
+      <string>amacron.sc</string>
+      <string>atilde.sc</string>
+    </array>
+    <key>public.kern1.lat_c_uc_first.sc</key>
+    <array>
+      <string>cacute.sc</string>
+      <string>ccaron.sc</string>
+      <string>ccircumflex.sc</string>
+      <string>cdotaccent.sc</string>
+    </array>
+    <key>public.kern1.lat_d_uc_first.sc</key>
+    <array>
+      <string>dcaron.sc</string>
+    </array>
+    <key>public.kern1.lat_e_uc_first.sc</key>
+    <array>
+      <string>aeacute.sc</string>
+      <string>aemacron.sc</string>
+      <string>eacute.sc</string>
+      <string>ebreve.sc</string>
+      <string>ecaron.sc</string>
+      <string>ecedilla.sc</string>
+      <string>ecircumflex.sc</string>
+      <string>edieresis.sc</string>
+      <string>edotaccent.sc</string>
+      <string>egrave.sc</string>
+      <string>einvertedbreve.sc</string>
+      <string>emacron.sc</string>
+    </array>
+    <key>public.kern1.lat_g_uc_first.sc</key>
+    <array>
+      <string>gacute.sc</string>
+      <string>gbreve.sc</string>
+      <string>gcaron.sc</string>
+      <string>gcircumflex.sc</string>
+      <string>gcommaaccent.sc</string>
+      <string>gdotaccent.sc</string>
+    </array>
+    <key>public.kern1.lat_j_uc_first.sc</key>
+    <array>
+      <string>ij.sc</string>
+      <string>jcircumflex.sc</string>
+      <string>lj.sc</string>
+      <string>nj.sc</string>
+    </array>
+    <key>public.kern1.lat_k_uc.sc</key>
+    <array>
+      <string>kcaron.sc</string>
+      <string>kcommaaccent.sc</string>
+    </array>
+    <key>public.kern1.lat_l_uc_first.sc</key>
+    <array>
+      <string>lacute.sc</string>
+      <string>lcaron.sc</string>
+      <string>lcommaaccent.sc</string>
+      <string>ldot.sc</string>
+    </array>
+    <key>public.kern1.lat_o_uc_first.sc</key>
+    <array>
+      <string>oacute.sc</string>
+      <string>obreve.sc</string>
+      <string>ocaron.sc</string>
+      <string>ocircumflex.sc</string>
+      <string>odieresis.sc</string>
+      <string>odieresismacron.sc</string>
+      <string>odotaccent.sc</string>
+      <string>odotaccentmacron.sc</string>
+      <string>ograve.sc</string>
+      <string>ohungarumlaut.sc</string>
+      <string>oinvertedbreve.sc</string>
+      <string>omacron.sc</string>
+      <string>oogonekmacron.sc</string>
+      <string>oslashacute.sc</string>
+      <string>otilde.sc</string>
+      <string>otildemacron.sc</string>
+    </array>
+    <key>public.kern1.lat_r_uc_first.sc</key>
+    <array>
+      <string>racute.sc</string>
+      <string>rcaron.sc</string>
+      <string>rcommaaccent.sc</string>
+      <string>rinvertedbreve.sc</string>
+    </array>
+    <key>public.kern1.lat_s_uc.sc</key>
+    <array>
+      <string>sacute.sc</string>
+      <string>scircumflex.sc</string>
+      <string>scommaaccent.sc</string>
+    </array>
+    <key>public.kern1.lat_t_uc_first.sc</key>
+    <array>
+      <string>tcaron.sc</string>
+      <string>tcommaaccent.sc</string>
+    </array>
+    <key>public.kern1.lat_u_uc_first.sc</key>
+    <array>
+      <string>uacute.sc</string>
+      <string>ubreve.sc</string>
+      <string>ucaron.sc</string>
+      <string>ucircumflex.sc</string>
+      <string>udieresis.sc</string>
+      <string>udieresisacute.sc</string>
+      <string>udieresiscaron.sc</string>
+      <string>udieresisgrave.sc</string>
+      <string>udieresismacron.sc</string>
+      <string>ugrave.sc</string>
+      <string>uhungarumlaut.sc</string>
+      <string>uinvertedbreve.sc</string>
+      <string>umacron.sc</string>
+      <string>uring.sc</string>
+      <string>utilde.sc</string>
+    </array>
+    <key>public.kern1.lat_w_uc.sc</key>
+    <array>
+      <string>wacute.sc</string>
+      <string>wcircumflex.sc</string>
+      <string>wdieresis.sc</string>
+      <string>wgrave.sc</string>
+    </array>
+    <key>public.kern1.lat_y_uc_first.sc</key>
+    <array>
+      <string>yacute.sc</string>
+      <string>ycircumflex.sc</string>
+      <string>ydieresis.sc</string>
+      <string>ygrave.sc</string>
+      <string>ymacron.sc</string>
+    </array>
+    <key>public.kern1.lat_z_uc_first.sc</key>
+    <array>
+      <string>zacute.sc</string>
+      <string>zcaron.sc</string>
+      <string>zdotaccent.sc</string>
+    </array>
+    <key>public.kern1.mis_uni023d.sc</key>
+    <array>
+      <string>lbar.sc</string>
     </array>
     <key>public.kern2.CYR_afii10017_UC</key>
     <array>
@@ -3377,6 +3664,7 @@
     <array>
       <string>btopbar.sc</string>
       <string>d.sc</string>
+      <string>dz.sc</string>
       <string>dzcaron.sc</string>
       <string>eth.sc</string>
       <string>h.sc</string>
@@ -3386,7 +3674,6 @@
       <string>idblgrave.sc</string>
       <string>iogonek.sc</string>
       <string>n.sc</string>
-      <string>i.locl.sc</string>
     </array>
     <key>public.kern2.LAT_E_UC_SECOND</key>
     <array>
@@ -4183,6 +4470,10 @@
     <array>
       <string>euro</string>
     </array>
+    <key>public.kern2.PUNCT_Euro.001</key>
+    <array>
+      <string>euro.c2sc</string>
+    </array>
     <key>public.kern2.PUNCT_Guilsinglleft</key>
     <array>
       <string>guillemetleft.case</string>
@@ -4223,6 +4514,10 @@
     <array>
       <string>at</string>
     </array>
+    <key>public.kern2.PUNCT_at.001</key>
+    <array>
+      <string>at.c2sc</string>
+    </array>
     <key>public.kern2.PUNCT_braceleft</key>
     <array>
       <string>braceleft</string>
@@ -4251,6 +4546,7 @@
     <key>public.kern2.PUNCT_exclam</key>
     <array>
       <string>exclam</string>
+      <string>exclam.c2sc</string>
     </array>
     <key>public.kern2.PUNCT_exclamdown</key>
     <array>
@@ -4285,6 +4581,10 @@
     <array>
       <string>percent</string>
     </array>
+    <key>public.kern2.PUNCT_percent.001</key>
+    <array>
+      <string>percent.c2sc</string>
+    </array>
     <key>public.kern2.PUNCT_period</key>
     <array>
       <string>period</string>
@@ -4294,6 +4594,7 @@
     <key>public.kern2.PUNCT_question</key>
     <array>
       <string>question</string>
+      <string>question.c2sc</string>
     </array>
     <key>public.kern2.PUNCT_questiondown</key>
     <array>
@@ -4328,9 +4629,286 @@
     <array>
       <string>sterling</string>
     </array>
+    <key>public.kern2.PUNCT_sterling.001</key>
+    <array>
+      <string>sterling.c2sc</string>
+    </array>
     <key>public.kern2.PUNCT_yen</key>
     <array>
       <string>yen</string>
+    </array>
+    <key>public.kern2.PUNCT_yen.001</key>
+    <array>
+      <string>yen.c2sc</string>
+    </array>
+    <key>public.kern2.cyr_afii10017_uc.sc</key>
+    <array>
+      <string>a-cy.sc</string>
+    </array>
+    <key>public.kern2.cyr_afii10018_uc_second.sc</key>
+    <array>
+      <string>en-cy.sc</string>
+      <string>i-cy.sc</string>
+      <string>yi-cy.sc</string>
+      <string>palochka-cy.sc</string>
+    </array>
+    <key>public.kern2.cyr_afii10019_uc.sc</key>
+    <array>
+      <string>ve-cy.sc</string>
+    </array>
+    <key>public.kern2.cyr_afii10022_uc.sc</key>
+    <array>
+      <string>ie-cy.sc</string>
+    </array>
+    <key>public.kern2.cyr_afii10030_uc.sc</key>
+    <array>
+      <string>em-cy.sc</string>
+    </array>
+    <key>public.kern2.cyr_afii10032_uc_second.sc</key>
+    <array>
+      <string>o-cy.sc</string>
+    </array>
+    <key>public.kern2.cyr_afii10035_uc.sc</key>
+    <array>
+      <string>es-cy.sc</string>
+    </array>
+    <key>public.kern2.cyr_afii10036_uc_second.sc</key>
+    <array>
+      <string>te-cy.sc</string>
+    </array>
+    <key>public.kern2.cyr_afii10039_uc.sc</key>
+    <array>
+      <string>ha-cy.sc</string>
+    </array>
+    <key>public.kern2.cyr_afii10054_uc.sc</key>
+    <array>
+      <string>dze-cy.sc</string>
+    </array>
+    <key>public.kern2.cyr_afii10057_uc_second.sc</key>
+    <array>
+      <string>je-cy.sc</string>
+    </array>
+    <key>public.kern2.grk_alpha_uc_second.sc</key>
+    <array>
+      <string>alpha.sc</string>
+      <string>alphamacron.sc</string>
+    </array>
+    <key>public.kern2.grk_beta_uc.sc</key>
+    <array>
+      <string>beta.sc</string>
+    </array>
+    <key>public.kern2.grk_chi_uc.sc</key>
+    <array>
+      <string>chi.sc</string>
+    </array>
+    <key>public.kern2.grk_epsilon_uc_second.sc</key>
+    <array>
+      <string>epsilon.sc</string>
+      <string>iota.sc</string>
+      <string>iotadieresis.sc</string>
+      <string>iotamacron.sc</string>
+    </array>
+    <key>public.kern2.grk_eta_uc_second.sc</key>
+    <array>
+      <string>eta.sc</string>
+      <string>nu.sc</string>
+    </array>
+    <key>public.kern2.grk_kappa_uc.sc</key>
+    <array>
+      <string>kappa.sc</string>
+    </array>
+    <key>public.kern2.grk_mu_uc.sc</key>
+    <array>
+      <string>mu.sc</string>
+    </array>
+    <key>public.kern2.grk_omicron_uc_second.sc</key>
+    <array>
+      <string>theta.sc</string>
+      <string>omicron.sc</string>
+    </array>
+    <key>public.kern2.grk_rho_uc.sc</key>
+    <array>
+      <string>rho.sc</string>
+    </array>
+    <key>public.kern2.grk_tau_uc.sc</key>
+    <array>
+      <string>tau.sc</string>
+    </array>
+    <key>public.kern2.grk_upsilon_uc_second.sc</key>
+    <array>
+      <string>upsilondieresis.sc</string>
+      <string>upsilonmacron.sc</string>
+    </array>
+    <key>public.kern2.grk_zeta_uc.sc</key>
+    <array>
+      <string>zeta.sc</string>
+    </array>
+    <key>public.kern2.lat_a_uc_second.sc</key>
+    <array>
+      <string>aacute.sc</string>
+      <string>abreve.sc</string>
+      <string>acaron.sc</string>
+      <string>acircumflex.sc</string>
+      <string>adieresis.sc</string>
+      <string>adieresismacron.sc</string>
+      <string>adotaccent.sc</string>
+      <string>adotmacron.sc</string>
+      <string>agrave.sc</string>
+      <string>ainvertedbreve.sc</string>
+      <string>amacron.sc</string>
+      <string>atilde.sc</string>
+    </array>
+    <key>public.kern2.lat_ae_uc_second.sc</key>
+    <array>
+      <string>aeacute.sc</string>
+      <string>aemacron.sc</string>
+    </array>
+    <key>public.kern2.lat_c_uc_second.sc</key>
+    <array>
+      <string>cacute.sc</string>
+      <string>ccaron.sc</string>
+      <string>ccircumflex.sc</string>
+      <string>cdotaccent.sc</string>
+    </array>
+    <key>public.kern2.lat_d_uc_second.sc</key>
+    <array>
+      <string>dcaron.sc</string>
+      <string>hcaron.sc</string>
+      <string>hcircumflex.sc</string>
+      <string>iacute.sc</string>
+      <string>ibreve.sc</string>
+      <string>icaron.sc</string>
+      <string>icircumflex.sc</string>
+      <string>idieresis.sc</string>
+      <string>igrave.sc</string>
+      <string>iinvertedbreve.sc</string>
+      <string>imacron.sc</string>
+      <string>itilde.sc</string>
+      <string>nacute.sc</string>
+      <string>ncaron.sc</string>
+      <string>ncommaaccent.sc</string>
+      <string>ngrave.sc</string>
+      <string>ntilde.sc</string>
+    </array>
+    <key>public.kern2.lat_e_uc_second.sc</key>
+    <array>
+      <string>eacute.sc</string>
+      <string>ebreve.sc</string>
+      <string>ecaron.sc</string>
+      <string>ecedilla.sc</string>
+      <string>ecircumflex.sc</string>
+      <string>edieresis.sc</string>
+      <string>edotaccent.sc</string>
+      <string>egrave.sc</string>
+      <string>einvertedbreve.sc</string>
+      <string>emacron.sc</string>
+    </array>
+    <key>public.kern2.lat_g_uc_second.sc</key>
+    <array>
+      <string>gacute.sc</string>
+      <string>gbreve.sc</string>
+      <string>gcaron.sc</string>
+      <string>gcircumflex.sc</string>
+      <string>gcommaaccent.sc</string>
+      <string>gdotaccent.sc</string>
+    </array>
+    <key>public.kern2.lat_j_uc_second.sc</key>
+    <array>
+      <string>jcircumflex.sc</string>
+    </array>
+    <key>public.kern2.lat_k_uc.sc</key>
+    <array>
+      <string>kcaron.sc</string>
+      <string>kcommaaccent.sc</string>
+    </array>
+    <key>public.kern2.lat_l_uc_second.sc</key>
+    <array>
+      <string>lacute.sc</string>
+      <string>lcaron.sc</string>
+      <string>lcommaaccent.sc</string>
+      <string>ldot.sc</string>
+      <string>lj.sc</string>
+      <string>nj.sc</string>
+    </array>
+    <key>public.kern2.lat_o_uc_second.sc</key>
+    <array>
+      <string>oacute.sc</string>
+      <string>obreve.sc</string>
+      <string>ocaron.sc</string>
+      <string>ocircumflex.sc</string>
+      <string>odieresis.sc</string>
+      <string>odieresismacron.sc</string>
+      <string>odotaccent.sc</string>
+      <string>odotaccentmacron.sc</string>
+      <string>ograve.sc</string>
+      <string>ohungarumlaut.sc</string>
+      <string>oinvertedbreve.sc</string>
+      <string>omacron.sc</string>
+      <string>oogonekmacron.sc</string>
+      <string>oslashacute.sc</string>
+      <string>otilde.sc</string>
+      <string>otildemacron.sc</string>
+    </array>
+    <key>public.kern2.lat_r_uc_second.sc</key>
+    <array>
+      <string>racute.sc</string>
+      <string>rcaron.sc</string>
+      <string>rcommaaccent.sc</string>
+      <string>rinvertedbreve.sc</string>
+    </array>
+    <key>public.kern2.lat_s_uc.sc</key>
+    <array>
+      <string>sacute.sc</string>
+      <string>scircumflex.sc</string>
+      <string>scommaaccent.sc</string>
+    </array>
+    <key>public.kern2.lat_t_uc_second.sc</key>
+    <array>
+      <string>tcaron.sc</string>
+      <string>tcommaaccent.sc</string>
+    </array>
+    <key>public.kern2.lat_u_uc_second.sc</key>
+    <array>
+      <string>uacute.sc</string>
+      <string>ubreve.sc</string>
+      <string>ucaron.sc</string>
+      <string>ucircumflex.sc</string>
+      <string>udieresis.sc</string>
+      <string>udieresisacute.sc</string>
+      <string>udieresiscaron.sc</string>
+      <string>udieresisgrave.sc</string>
+      <string>udieresismacron.sc</string>
+      <string>ugrave.sc</string>
+      <string>uhungarumlaut.sc</string>
+      <string>uinvertedbreve.sc</string>
+      <string>umacron.sc</string>
+      <string>uring.sc</string>
+      <string>utilde.sc</string>
+    </array>
+    <key>public.kern2.lat_w_uc.sc</key>
+    <array>
+      <string>wacute.sc</string>
+      <string>wcircumflex.sc</string>
+      <string>wdieresis.sc</string>
+      <string>wgrave.sc</string>
+    </array>
+    <key>public.kern2.lat_y_uc_second.sc</key>
+    <array>
+      <string>yacute.sc</string>
+      <string>ycircumflex.sc</string>
+      <string>ydieresis.sc</string>
+      <string>ygrave.sc</string>
+      <string>ymacron.sc</string>
+    </array>
+    <key>public.kern2.lat_z_uc_second.sc</key>
+    <array>
+      <string>zacute.sc</string>
+      <string>zcaron.sc</string>
+      <string>zdotaccent.sc</string>
+    </array>
+    <key>public.kern2.mis_uni023d.sc</key>
+    <array>
+      <string>lbar.sc</string>
     </array>
   </dict>
 </plist>

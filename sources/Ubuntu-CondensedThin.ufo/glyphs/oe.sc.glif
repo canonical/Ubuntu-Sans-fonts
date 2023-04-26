@@ -1,48 +1,48 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oe.sc" format="2">
-  <advance width="857"/>
-  <anchor x="429" y="0" name="bottom"/>
-  <anchor x="429" y="575" name="top"/>
+  <advance width="633"/>
+  <anchor x="317" y="0" name="bottom"/>
+  <anchor x="317" y="575" name="top"/>
   <outline>
     <contour>
-      <point x="371" y="-8" type="curve" smooth="yes"/>
-      <point x="414" y="-8"/>
-      <point x="438" y="-6"/>
-      <point x="477" y="0" type="curve"/>
-      <point x="807" y="0" type="line"/>
-      <point x="807" y="31" type="line"/>
-      <point x="511" y="31" type="line"/>
-      <point x="511" y="287" type="line"/>
-      <point x="754" y="287" type="line"/>
-      <point x="754" y="317" type="line"/>
-      <point x="511" y="317" type="line"/>
-      <point x="511" y="544" type="line"/>
-      <point x="784" y="544" type="line"/>
-      <point x="784" y="575" type="line"/>
-      <point x="477" y="575" type="line"/>
-      <point x="452" y="579"/>
-      <point x="413" y="583"/>
-      <point x="371" y="583" type="curve" smooth="yes"/>
-      <point x="192" y="583"/>
-      <point x="68" y="481"/>
-      <point x="68" y="288" type="curve" smooth="yes"/>
-      <point x="68" y="77"/>
-      <point x="207" y="-8"/>
+      <point x="268" y="-8" type="curve" smooth="yes"/>
+      <point x="292" y="-8"/>
+      <point x="326" y="-5"/>
+      <point x="349" y="0" type="curve"/>
+      <point x="580" y="0" type="line"/>
+      <point x="580" y="30" type="line"/>
+      <point x="372" y="30" type="line"/>
+      <point x="372" y="288" type="line"/>
+      <point x="553" y="288" type="line"/>
+      <point x="553" y="318" type="line"/>
+      <point x="372" y="318" type="line"/>
+      <point x="372" y="545" type="line"/>
+      <point x="578" y="545" type="line"/>
+      <point x="578" y="575" type="line"/>
+      <point x="346" y="575" type="line"/>
+      <point x="324" y="580"/>
+      <point x="297" y="583"/>
+      <point x="268" y="583" type="curve" smooth="yes"/>
+      <point x="130" y="583"/>
+      <point x="55" y="473"/>
+      <point x="55" y="287" type="curve" smooth="yes"/>
+      <point x="55" y="101"/>
+      <point x="130" y="-8"/>
     </contour>
     <contour>
-      <point x="368" y="24" type="curve" smooth="yes"/>
-      <point x="208" y="24"/>
-      <point x="104" y="113"/>
-      <point x="104" y="288" type="curve" smooth="yes"/>
-      <point x="104" y="437"/>
-      <point x="180" y="551"/>
-      <point x="370" y="551" type="curve" smooth="yes"/>
-      <point x="418" y="551"/>
-      <point x="455" y="548"/>
-      <point x="477" y="542" type="curve"/>
-      <point x="477" y="35" type="line"/>
-      <point x="441" y="27"/>
-      <point x="414" y="24"/>
+      <point x="268" y="22" type="curve" smooth="yes"/>
+      <point x="151" y="22"/>
+      <point x="88" y="120"/>
+      <point x="88" y="287" type="curve" smooth="yes"/>
+      <point x="88" y="454"/>
+      <point x="151" y="553"/>
+      <point x="268" y="553" type="curve" smooth="yes"/>
+      <point x="301" y="553"/>
+      <point x="321" y="550"/>
+      <point x="340" y="546" type="curve"/>
+      <point x="340" y="27" type="line"/>
+      <point x="320" y="23"/>
+      <point x="295" y="22"/>
     </contour>
   </outline>
   <lib>
@@ -56,10 +56,39 @@
         <key>width</key>
         <real>84.5</real>
       </dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>o.sc</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>e.sc</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

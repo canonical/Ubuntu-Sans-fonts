@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eight.tosf" format="2">
+  <advance width="564"/>
+  <outline>
+    <contour>
+      <point x="280" y="-14" type="curve" smooth="yes"/>
+      <point x="444" y="-14"/>
+      <point x="527" y="74"/>
+      <point x="527" y="193" type="curve" smooth="yes"/>
+      <point x="527" y="265"/>
+      <point x="497" y="316"/>
+      <point x="421" y="365" type="curve"/>
+      <point x="472" y="397"/>
+      <point x="510" y="456"/>
+      <point x="510" y="520" type="curve" smooth="yes"/>
+      <point x="510" y="607"/>
+      <point x="445" y="709"/>
+      <point x="281" y="709" type="curve" smooth="yes"/>
+      <point x="142" y="709"/>
+      <point x="51" y="615"/>
+      <point x="51" y="507" type="curve" smooth="yes"/>
+      <point x="51" y="436"/>
+      <point x="78" y="398"/>
+      <point x="135" y="351" type="curve"/>
+      <point x="83" y="312"/>
+      <point x="36" y="261"/>
+      <point x="36" y="181" type="curve" smooth="yes"/>
+      <point x="36" y="103"/>
+      <point x="94" y="-14"/>
+    </contour>
+    <contour>
+      <point x="281" y="106" type="curve" smooth="yes"/>
+      <point x="209" y="106"/>
+      <point x="181" y="154"/>
+      <point x="181" y="187" type="curve" smooth="yes"/>
+      <point x="181" y="239"/>
+      <point x="210" y="275"/>
+      <point x="247" y="303" type="curve"/>
+      <point x="322" y="279"/>
+      <point x="381" y="249"/>
+      <point x="381" y="187" type="curve" smooth="yes"/>
+      <point x="381" y="146"/>
+      <point x="350" y="106"/>
+    </contour>
+    <contour>
+      <point x="300" y="406" type="curve"/>
+      <point x="224" y="433"/>
+      <point x="196" y="471"/>
+      <point x="196" y="514" type="curve" smooth="yes"/>
+      <point x="196" y="546"/>
+      <point x="222" y="589"/>
+      <point x="281" y="589" type="curve" smooth="yes"/>
+      <point x="342" y="589"/>
+      <point x="366" y="544"/>
+      <point x="366" y="516" type="curve" smooth="yes"/>
+      <point x="366" y="465"/>
+      <point x="343" y="433"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

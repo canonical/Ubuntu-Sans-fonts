@@ -1,33 +1,68 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tugrik" format="2">
-  <advance width="568"/>
+  <advance width="564"/>
   <unicode hex="20AE"/>
   <outline>
     <contour>
-      <point x="206" y="0" type="line"/>
-      <point x="362" y="0" type="line"/>
-      <point x="362" y="178" type="line"/>
-      <point x="486" y="236" type="line"/>
-      <point x="443" y="327" type="line"/>
-      <point x="362" y="289" type="line"/>
-      <point x="362" y="367" type="line"/>
-      <point x="484" y="424" type="line"/>
-      <point x="443" y="511" type="line"/>
-      <point x="362" y="473" type="line"/>
-      <point x="362" y="570" type="line"/>
-      <point x="556" y="570" type="line"/>
-      <point x="556" y="693" type="line"/>
-      <point x="12" y="693" type="line"/>
-      <point x="12" y="570" type="line"/>
-      <point x="206" y="570" type="line"/>
-      <point x="206" y="400" type="line"/>
-      <point x="90" y="346" type="line"/>
-      <point x="131" y="259" type="line"/>
-      <point x="206" y="294" type="line"/>
-      <point x="206" y="216" type="line"/>
-      <point x="90" y="162" type="line"/>
-      <point x="133" y="71" type="line"/>
-      <point x="206" y="105" type="line"/>
+      <point x="204" y="0" type="line"/>
+      <point x="360" y="0" type="line"/>
+      <point x="360" y="178" type="line"/>
+      <point x="484" y="236" type="line"/>
+      <point x="441" y="327" type="line"/>
+      <point x="360" y="289" type="line"/>
+      <point x="360" y="367" type="line"/>
+      <point x="482" y="424" type="line"/>
+      <point x="441" y="511" type="line"/>
+      <point x="360" y="473" type="line"/>
+      <point x="360" y="570" type="line"/>
+      <point x="554" y="570" type="line"/>
+      <point x="554" y="693" type="line"/>
+      <point x="10" y="693" type="line"/>
+      <point x="10" y="570" type="line"/>
+      <point x="204" y="570" type="line"/>
+      <point x="204" y="400" type="line"/>
+      <point x="88" y="346" type="line"/>
+      <point x="129" y="259" type="line"/>
+      <point x="204" y="294" type="line"/>
+      <point x="204" y="216" type="line"/>
+      <point x="88" y="162" type="line"/>
+      <point x="131" y="71" type="line"/>
+      <point x="204" y="105" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>zero</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
 </glyph>

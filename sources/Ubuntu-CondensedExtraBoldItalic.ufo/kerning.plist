@@ -35,6 +35,11 @@
       <key>public.kern2.GRK_zeta_LC</key>
       <integer>30</integer>
     </dict>
+    <key>nine.osf</key>
+    <dict>
+      <key>nine.osf</key>
+      <integer>-6</integer>
+    </dict>
     <key>public.kern1.CYR_afii10017_UC</key>
     <dict>
       <key>public.kern2.CYR_afii10029_UC_SECOND</key>
@@ -147,6 +152,8 @@
       <integer>15</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>20</integer>
+      <key>trademark</key>
+      <integer>-62</integer>
     </dict>
     <key>public.kern1.CYR_afii10018_UC_FIRST</key>
     <dict>
@@ -4690,6 +4697,11 @@
       <key>public.kern2.PUNCT_degree</key>
       <integer>-20</integer>
     </dict>
+    <key>public.kern1.FIG_zeroDFLT</key>
+    <dict>
+      <key>seven.osf</key>
+      <integer>-14</integer>
+    </dict>
     <key>public.kern1.GRK_Alpha_UC_FIRST</key>
     <dict>
       <key>public.kern2.GRK_Omicron_UC_SECOND</key>
@@ -7355,6 +7367,8 @@
       <integer>15</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>20</integer>
+      <key>trademark</key>
+      <integer>-62</integer>
     </dict>
     <key>public.kern1.LAT_B_UC_FIRST</key>
     <dict>
@@ -7998,6 +8012,10 @@
       <integer>30</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>20</integer>
+      <key>registered</key>
+      <integer>-68</integer>
+      <key>trademark</key>
+      <integer>-82</integer>
     </dict>
     <key>public.kern1.LAT_M_UC</key>
     <dict>
@@ -8085,6 +8103,8 @@
       <integer>-15</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-15</integer>
+      <key>trademark</key>
+      <integer>-40</integer>
     </dict>
     <key>public.kern1.LAT_P_UC_FIRST</key>
     <dict>
@@ -8763,6 +8783,8 @@
       <integer>-40</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-30</integer>
+      <key>trademark</key>
+      <integer>12</integer>
     </dict>
     <key>public.kern1.LAT_W_UC</key>
     <dict>
@@ -8884,6 +8906,8 @@
       <integer>-15</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-15</integer>
+      <key>trademark</key>
+      <integer>18</integer>
     </dict>
     <key>public.kern1.LAT_X_UC</key>
     <dict>
@@ -9212,6 +9236,8 @@
     </dict>
     <key>public.kern1.LAT_a_LC_FIRST</key>
     <dict>
+      <key>public.kern2.LAT_j_LC_SECOND</key>
+      <integer>20</integer>
       <key>public.kern2.LAT_x_LC</key>
       <integer>10</integer>
       <key>public.kern2.LAT_y_LC_SECOND</key>
@@ -9481,6 +9507,8 @@
     </dict>
     <key>public.kern1.LAT_dcaron_LC_FIRST</key>
     <dict>
+      <key>exclam</key>
+      <integer>25</integer>
       <key>ibreve</key>
       <integer>90</integer>
       <key>icircumflex</key>
@@ -9519,6 +9547,16 @@
       <integer>45</integer>
       <key>public.kern2.LAT_z_LC_SECOND</key>
       <integer>30</integer>
+      <key>public.kern2.PUNCT_question</key>
+      <integer>43</integer>
+      <key>public.kern2.PUNCT_quoteleft</key>
+      <integer>58</integer>
+      <key>public.kern2.PUNCT_quoteright</key>
+      <integer>80</integer>
+      <key>registered</key>
+      <integer>38</integer>
+      <key>trademark</key>
+      <integer>103</integer>
     </dict>
     <key>public.kern1.LAT_e_LC_FIRST</key>
     <dict>
@@ -9594,6 +9632,8 @@
       <integer>25</integer>
       <key>itilde</key>
       <integer>35</integer>
+      <key>trademark</key>
+      <integer>30</integer>
     </dict>
     <key>public.kern1.LAT_g_LC_FIRST</key>
     <dict>
@@ -10095,6 +10135,8 @@
     </dict>
     <key>public.kern1.LAT_t_LC_FIRST</key>
     <dict>
+      <key>exclam</key>
+      <integer>30</integer>
       <key>lbar</key>
       <integer>15</integer>
       <key>public.kern2.LAT_a_LC_SECOND</key>
@@ -10147,16 +10189,22 @@
       <integer>-15</integer>
       <key>public.kern2.PUNCT_period</key>
       <integer>15</integer>
+      <key>public.kern2.PUNCT_question</key>
+      <integer>37</integer>
       <key>public.kern2.PUNCT_questiondown</key>
       <integer>15</integer>
       <key>public.kern2.PUNCT_quoteleft</key>
       <integer>30</integer>
       <key>public.kern2.PUNCT_quoteright</key>
-      <integer>20</integer>
+      <integer>30</integer>
       <key>public.kern2.PUNCT_quotesinglbase</key>
       <integer>25</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>45</integer>
+      <key>registered</key>
+      <integer>12</integer>
+      <key>trademark</key>
+      <integer>75</integer>
     </dict>
     <key>public.kern1.LAT_thorn_LC</key>
     <dict>
@@ -10206,7 +10254,7 @@
       <key>public.kern2.LAT_g_LC_SECOND</key>
       <integer>-10</integer>
       <key>public.kern2.LAT_j_LC_SECOND</key>
-      <integer>-10</integer>
+      <integer>20</integer>
       <key>public.kern2.LAT_q_LC_SECOND</key>
       <integer>-10</integer>
       <key>public.kern2.LAT_x_LC</key>
@@ -11187,7 +11235,7 @@
       <key>public.kern2.PUNCT_braceleft</key>
       <integer>-15</integer>
       <key>public.kern2.PUNCT_braceright</key>
-      <integer>60</integer>
+      <integer>45</integer>
       <key>public.kern2.PUNCT_bracketleft</key>
       <integer>10</integer>
       <key>public.kern2.PUNCT_bracketright</key>
@@ -11390,6 +11438,17 @@
       <integer>15</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>10</integer>
+    </dict>
+    <key>public.kern1.MIS_uni0193_FIRST</key>
+    <dict>
+      <key>public.kern2.PUNCT_braceright</key>
+      <integer>45</integer>
+      <key>public.kern2.PUNCT_bracketright</key>
+      <integer>45</integer>
+      <key>public.kern2.PUNCT_parenright</key>
+      <integer>32</integer>
+      <key>public.kern2.PUNCT_question</key>
+      <integer>30</integer>
     </dict>
     <key>public.kern1.MIS_uni0195_FIRST</key>
     <dict>
@@ -16454,7 +16513,7 @@
       <key>public.kern2.LAT_O_UC_SECOND</key>
       <integer>-5</integer>
       <key>public.kern2.LAT_Q_UC</key>
-      <integer>-5</integer>
+      <integer>-38</integer>
       <key>public.kern2.LAT_S_UC</key>
       <integer>-5</integer>
       <key>public.kern2.LAT_T_UC_SECOND</key>
@@ -16469,6 +16528,8 @@
       <integer>-45</integer>
       <key>public.kern2.LAT_Z_UC_SECOND</key>
       <integer>-15</integer>
+      <key>public.kern2.LAT_j_LC_SECOND</key>
+      <integer>26</integer>
       <key>public.kern2.MIS_uni0181_SECOND</key>
       <integer>-10</integer>
       <key>public.kern2.MIS_uni018B_SECOND</key>
@@ -16708,6 +16769,10 @@
       <integer>-5</integer>
       <key>public.kern2.MIS_uni024D</key>
       <real>-18.75</real>
+      <key>public.kern2.PUNCT_Questiondown</key>
+      <integer>-25</integer>
+      <key>public.kern2.PUNCT_questiondown</key>
+      <integer>-40</integer>
     </dict>
     <key>public.kern1.PUNCT_quoteright</key>
     <dict>
@@ -17525,6 +17590,16 @@
       <integer>30</integer>
       <key>public.kern2.FIG_threeALT</key>
       <integer>15</integer>
+    </dict>
+    <key>seven.osf</key>
+    <dict>
+      <key>public.kern2.FIG_zeroDFLT</key>
+      <integer>-14</integer>
+    </dict>
+    <key>six.osf</key>
+    <dict>
+      <key>six.osf</key>
+      <integer>-4</integer>
     </dict>
   </dict>
 </plist>

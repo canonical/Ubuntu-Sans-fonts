@@ -2,12 +2,45 @@
 <glyph name="Omicrondasiavaria" format="2">
   <advance width="911"/>
   <unicode hex="1F4B"/>
+  <anchor x="597" y="0" name="bottom"/>
+  <anchor x="621" y="347" name="center"/>
+  <anchor x="838" y="10" name="ogonek"/>
+  <anchor x="757" y="669" name="top"/>
+  <anchor x="350" y="693" name="topleft"/>
+  <anchor x="1057" y="693" name="topright"/>
   <outline>
     <component base="O" xOffset="225"/>
     <component base="dasiavaria" xOffset="-48" yOffset="-74"/>
   </outline>
   <lib>
     <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>

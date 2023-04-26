@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kadescender-cy.sc" format="2">
-  <advance width="531"/>
+  <advance width="402"/>
   <outline>
     <contour>
-      <point x="479" y="-154" type="line"/>
-      <point x="513" y="-154" type="line"/>
-      <point x="513" y="31" type="line"/>
-      <point x="461" y="31" type="line"/>
-      <point x="368" y="157"/>
-      <point x="245" y="254"/>
-      <point x="167" y="300" type="curve"/>
-      <point x="259" y="372"/>
-      <point x="396" y="507"/>
-      <point x="464" y="575" type="curve"/>
-      <point x="423" y="575" type="line"/>
-      <point x="356" y="505"/>
-      <point x="224" y="382"/>
-      <point x="126" y="305" type="curve"/>
-      <point x="126" y="575" type="line"/>
-      <point x="92" y="575" type="line"/>
-      <point x="92" y="0" type="line"/>
-      <point x="126" y="0" type="line"/>
-      <point x="126" y="286" type="line"/>
-      <point x="233" y="230"/>
-      <point x="356" y="121"/>
-      <point x="445" y="0" type="curve"/>
-      <point x="479" y="0" type="line"/>
+      <point x="360" y="-154" type="line"/>
+      <point x="390" y="-154" type="line"/>
+      <point x="390" y="30" type="line"/>
+      <point x="351" y="30" type="line"/>
+      <point x="296" y="134"/>
+      <point x="205" y="243"/>
+      <point x="135" y="300" type="curve"/>
+      <point x="202" y="373"/>
+      <point x="297" y="495"/>
+      <point x="356" y="575" type="curve"/>
+      <point x="319" y="575" type="line"/>
+      <point x="263" y="496"/>
+      <point x="167" y="377"/>
+      <point x="101" y="306" type="curve"/>
+      <point x="101" y="575" type="line"/>
+      <point x="69" y="575" type="line"/>
+      <point x="69" y="0" type="line"/>
+      <point x="101" y="0" type="line"/>
+      <point x="101" y="285" type="line"/>
+      <point x="170" y="241"/>
+      <point x="272" y="112"/>
+      <point x="330" y="0" type="curve"/>
+      <point x="360" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -39,8 +39,37 @@
         <key>width</key>
         <real>84.5</real>
       </dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>h.sc</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

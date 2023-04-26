@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="xi.sc" format="2">
-  <advance width="499"/>
+  <advance width="409"/>
   <outline>
     <contour>
-      <point x="36" y="0" type="line"/>
-      <point x="463" y="0" type="line"/>
-      <point x="463" y="129" type="line"/>
-      <point x="36" y="129" type="line"/>
+      <point x="22" y="0" type="line"/>
+      <point x="387" y="0" type="line"/>
+      <point x="387" y="117" type="line"/>
+      <point x="22" y="117" type="line"/>
     </contour>
     <contour>
-      <point x="70" y="244" type="line"/>
-      <point x="429" y="244" type="line"/>
-      <point x="429" y="370" type="line"/>
-      <point x="70" y="370" type="line"/>
+      <point x="54" y="249" type="line"/>
+      <point x="355" y="249" type="line"/>
+      <point x="355" y="363" type="line"/>
+      <point x="54" y="363" type="line"/>
     </contour>
     <contour>
-      <point x="33" y="460" type="line"/>
-      <point x="466" y="460" type="line"/>
-      <point x="466" y="589" type="line"/>
-      <point x="33" y="589" type="line"/>
+      <point x="32" y="471" type="line"/>
+      <point x="377" y="471" type="line"/>
+      <point x="377" y="588" type="line"/>
+      <point x="32" y="588" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -32,6 +32,35 @@
         <key>width</key>
         <integer>87</integer>
       </dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>
