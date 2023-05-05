@@ -239,9 +239,42 @@
       </dict>
     </dict>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>3185</string>
+    <string>3192</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Export Mac Name Table Entries</key>
     <integer>0</integer>
+    <key>com.schriftgestaltung.customParameter.GSFont.Family Alignment Zones</key>
+    <array>
+      <dict>
+        <key>pos</key>
+        <integer>776</integer>
+        <key>size</key>
+        <integer>16</integer>
+      </dict>
+      <dict>
+        <key>pos</key>
+        <integer>693</integer>
+        <key>size</key>
+        <integer>16</integer>
+      </dict>
+      <dict>
+        <key>pos</key>
+        <integer>518</integer>
+        <key>size</key>
+        <integer>16</integer>
+      </dict>
+      <dict>
+        <key>pos</key>
+        <integer>0</integer>
+        <key>size</key>
+        <integer>-16</integer>
+      </dict>
+      <dict>
+        <key>pos</key>
+        <integer>-185</integer>
+        <key>size</key>
+        <integer>-16</integer>
+      </dict>
+    </array>
     <key>com.schriftgestaltung.customParameter.GSFont.Guides Palette Config</key>
     <dict>
       <key>showAngle</key>
@@ -2144,6 +2177,51 @@
       <string>dot_macron.sc</string>
       <string>double_grave.sc</string>
       <string>ijacute.sc</string>
+      <string>ertick-cy.sc</string>
+      <string>exclam.c2sc</string>
+      <string>exclamdown.c2sc</string>
+      <string>question.c2sc</string>
+      <string>questiondown.c2sc</string>
+      <string>bullet.c2sc</string>
+      <string>numbersign.c2sc</string>
+      <string>slash.c2sc</string>
+      <string>backslash.c2sc</string>
+      <string>hyphen.c2sc</string>
+      <string>endash.c2sc</string>
+      <string>emdash.c2sc</string>
+      <string>parenleft.c2sc</string>
+      <string>parenright.c2sc</string>
+      <string>braceleft.c2sc</string>
+      <string>braceright.c2sc</string>
+      <string>bracketleft.c2sc</string>
+      <string>bracketright.c2sc</string>
+      <string>quotedblleft.c2sc</string>
+      <string>quotedblright.c2sc</string>
+      <string>quoteleft.c2sc</string>
+      <string>quoteright.c2sc</string>
+      <string>guillemetleft.c2sc</string>
+      <string>guillemetright.c2sc</string>
+      <string>guilsinglleft.c2sc</string>
+      <string>guilsinglright.c2sc</string>
+      <string>quotedbl.c2sc</string>
+      <string>quotesingle.c2sc</string>
+      <string>at.c2sc</string>
+      <string>ampersand.c2sc</string>
+      <string>paragraph.c2sc</string>
+      <string>section.c2sc</string>
+      <string>copyright.c2sc</string>
+      <string>registered.c2sc</string>
+      <string>dollar.c2sc</string>
+      <string>euro.c2sc</string>
+      <string>hryvnia.c2sc</string>
+      <string>ruble.c2sc</string>
+      <string>rupeeIndian.c2sc</string>
+      <string>sterling.c2sc</string>
+      <string>tenge.c2sc</string>
+      <string>tugrik.c2sc</string>
+      <string>yen.c2sc</string>
+      <string>percent.c2sc</string>
+      <string>dotaccentcomb.i</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

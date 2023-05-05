@@ -9,7 +9,7 @@
     <key>copyright</key>
     <string>Copyright 2011, 2022, 2023 Canonical Ltd. Licensed under the Ubuntu Font Licence 1.0</string>
     <key>descender</key>
-    <integer>-200</integer>
+    <integer>-185</integer>
     <key>familyName</key>
     <string>Ubuntu</string>
     <key>guidelines</key>
@@ -166,6 +166,34 @@
     <real>0.04</real>
     <key>postscriptBlueShift</key>
     <integer>7</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>-16</integer>
+      <integer>0</integer>
+      <integer>517</integer>
+      <integer>533</integer>
+      <integer>575</integer>
+      <integer>591</integer>
+      <integer>693</integer>
+      <integer>709</integer>
+      <integer>776</integer>
+      <integer>792</integer>
+    </array>
+    <key>postscriptOtherBlues</key>
+    <array>
+      <integer>-201</integer>
+      <integer>-185</integer>
+    </array>
+    <key>postscriptStemSnapH</key>
+    <array>
+      <integer>34</integer>
+      <integer>32</integer>
+    </array>
+    <key>postscriptStemSnapV</key>
+    <array>
+      <integer>38</integer>
+      <integer>34</integer>
+    </array>
     <key>postscriptUnderlinePosition</key>
     <integer>-138</integer>
     <key>postscriptUnderlineThickness</key>
