@@ -2,13 +2,13 @@
 <glyph name="Einvertedbreve" format="2">
   <advance width="604"/>
   <unicode hex="0206"/>
-  <anchor x="309" y="0" name="bottom"/>
-  <anchor x="483" y="10" name="ogonek"/>
-  <anchor x="519" y="942" name="top"/>
-  <anchor x="123" y="693" name="topleft"/>
+  <anchor x="249" y="0" name="bottom"/>
+  <anchor x="423" y="10" name="ogonek"/>
+  <anchor x="477" y="942" name="top"/>
+  <anchor x="63" y="693" name="topleft"/>
   <outline>
     <component base="E"/>
-    <component base="breveinvertedcomb" xOffset="161" yOffset="166"/>
+    <component base="breveinvertedcomb" xOffset="101" yOffset="166"/>
   </outline>
   <lib>
     <dict>
@@ -63,7 +63,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
       <string>E</string>
       <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

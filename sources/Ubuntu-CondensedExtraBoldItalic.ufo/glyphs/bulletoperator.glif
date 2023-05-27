@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bulletoperator" format="2">
-  <advance width="232"/>
+  <advance width="420"/>
   <unicode hex="2219"/>
   <outline>
-    <component base="period" xOffset="46" yOffset="220.117"/>
+    <component base="period" xOffset="140" yOffset="220"/>
   </outline>
   <lib>
     <dict>
@@ -34,6 +34,8 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

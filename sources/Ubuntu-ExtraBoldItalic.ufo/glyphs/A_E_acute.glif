@@ -2,11 +2,11 @@
 <glyph name="AEacute" format="2">
   <advance width="987"/>
   <unicode hex="01FC"/>
-  <anchor x="431" y="0" name="bottom"/>
-  <anchor x="854" y="960" name="top"/>
+  <anchor x="371" y="0" name="bottom"/>
+  <anchor x="793" y="960" name="top"/>
   <outline>
     <component base="AE"/>
-    <component base="acutecomb" xOffset="529" yOffset="161"/>
+    <component base="acutecomb" xOffset="469" yOffset="161"/>
   </outline>
   <lib>
     <dict>
@@ -38,7 +38,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="I" format="2">
-  <advance width="205.3"/>
+  <advance width="205"/>
   <unicode hex="0049"/>
-  <anchor x="99" y="-21" name="bottom"/>
-  <anchor x="125" y="10" name="ogonek"/>
-  <anchor x="265" y="672" name="top"/>
-  <anchor x="124" y="693" name="topleft"/>
+  <anchor x="36" y="-21" name="bottom"/>
+  <anchor x="62" y="10" name="ogonek"/>
+  <anchor x="202" y="672" name="top"/>
+  <anchor x="61" y="693" name="topleft"/>
   <outline>
     <contour>
-      <point x="89" y="0" type="line"/>
-      <point x="118" y="0" type="line"/>
-      <point x="284" y="693" type="line"/>
-      <point x="255" y="693" type="line"/>
+      <point x="26" y="0" type="line"/>
+      <point x="55" y="0" type="line"/>
+      <point x="221" y="693" type="line"/>
+      <point x="192" y="693" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -43,8 +43,12 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
       <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

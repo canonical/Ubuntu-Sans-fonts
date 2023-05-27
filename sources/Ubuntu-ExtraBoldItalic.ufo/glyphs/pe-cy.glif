@@ -2,8 +2,8 @@
 <glyph name="pe-cy" format="2">
   <advance width="577"/>
   <unicode hex="043F"/>
-  <anchor x="299" y="0" name="bottom"/>
-  <anchor x="398" y="526" name="top"/>
+  <anchor x="239" y="0" name="bottom"/>
+  <anchor x="338" y="526" name="top"/>
   <outline>
     <component base="n"/>
   </outline>
@@ -36,6 +36,8 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

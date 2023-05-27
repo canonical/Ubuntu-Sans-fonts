@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="nlegrightlong" format="2">
-  <advance width="549"/>
+  <advance width="558"/>
   <unicode hex="019E"/>
-  <anchor x="128" y="0" name="bottom"/>
-  <anchor x="395" y="518" name="top"/>
+  <anchor x="65" y="0" name="bottom"/>
+  <anchor x="332" y="518" name="top"/>
   <outline>
     <component base="eta"/>
   </outline>
@@ -47,6 +47,12 @@
           <string>eta</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>n</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

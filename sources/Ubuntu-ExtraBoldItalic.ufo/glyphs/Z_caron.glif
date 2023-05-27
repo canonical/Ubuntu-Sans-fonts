@@ -2,12 +2,12 @@
 <glyph name="Zcaron" format="2">
   <advance width="648"/>
   <unicode hex="017D"/>
-  <anchor x="301" y="0" name="bottom"/>
-  <anchor x="344" y="347" name="center"/>
-  <anchor x="539" y="954" name="top"/>
+  <anchor x="241" y="0" name="bottom"/>
+  <anchor x="284" y="347" name="center"/>
+  <anchor x="484" y="954" name="top"/>
   <outline>
     <component base="Z"/>
-    <component base="caroncomb" xOffset="162" yOffset="161"/>
+    <component base="caroncomb" xOffset="102" yOffset="161"/>
   </outline>
   <lib>
     <dict>
@@ -39,7 +39,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

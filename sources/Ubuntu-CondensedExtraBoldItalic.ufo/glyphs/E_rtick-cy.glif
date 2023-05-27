@@ -1,47 +1,47 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ertick-cy" format="2">
-  <advance width="524"/>
+  <advance width="525"/>
   <unicode hex="048E"/>
   <outline>
     <contour>
-      <point x="75" y="0" type="line"/>
-      <point x="217" y="0" type="line"/>
-      <point x="274" y="239" type="line"/>
-      <point x="305" y="239" type="line" smooth="yes"/>
-      <point x="332" y="239"/>
-      <point x="357" y="241"/>
-      <point x="381" y="246" type="curve"/>
-      <point x="398" y="164" type="line"/>
-      <point x="479" y="186" type="line"/>
-      <point x="461" y="273" type="line"/>
-      <point x="557" y="319"/>
-      <point x="617" y="410"/>
-      <point x="617" y="529" type="curve" smooth="yes"/>
-      <point x="617" y="640"/>
-      <point x="544" y="703"/>
-      <point x="415" y="703" type="curve"/>
-      <point x="356" y="703"/>
-      <point x="303" y="697"/>
-      <point x="239" y="683" type="curve"/>
+      <point x="11" y="0" type="line"/>
+      <point x="153" y="0" type="line"/>
+      <point x="210" y="239" type="line"/>
+      <point x="241" y="239" type="line" smooth="yes"/>
+      <point x="268" y="239"/>
+      <point x="293" y="241"/>
+      <point x="317" y="246" type="curve"/>
+      <point x="334" y="164" type="line"/>
+      <point x="415" y="186" type="line"/>
+      <point x="397" y="273" type="line"/>
+      <point x="493" y="319"/>
+      <point x="553" y="410"/>
+      <point x="553" y="529" type="curve" smooth="yes"/>
+      <point x="553" y="640"/>
+      <point x="480" y="703"/>
+      <point x="351" y="703" type="curve"/>
+      <point x="292" y="703"/>
+      <point x="239" y="697"/>
+      <point x="175" y="683" type="curve"/>
     </contour>
     <contour>
-      <point x="303" y="357" type="line"/>
-      <point x="356" y="578" type="line"/>
-      <point x="368" y="582"/>
-      <point x="384" y="583"/>
-      <point x="395" y="583" type="curve" smooth="yes"/>
-      <point x="446" y="583"/>
-      <point x="473" y="559"/>
-      <point x="473" y="511" type="curve" smooth="yes"/>
-      <point x="473" y="458"/>
-      <point x="462" y="418"/>
-      <point x="437" y="392" type="curve"/>
-      <point x="422" y="468" type="line"/>
-      <point x="341" y="446" type="line"/>
-      <point x="359" y="359" type="line"/>
-      <point x="348" y="358"/>
-      <point x="338" y="357"/>
-      <point x="326" y="357" type="curve" smooth="yes"/>
+      <point x="239" y="357" type="line"/>
+      <point x="292" y="578" type="line"/>
+      <point x="304" y="582"/>
+      <point x="320" y="583"/>
+      <point x="331" y="583" type="curve" smooth="yes"/>
+      <point x="382" y="583"/>
+      <point x="409" y="559"/>
+      <point x="409" y="511" type="curve" smooth="yes"/>
+      <point x="409" y="458"/>
+      <point x="398" y="418"/>
+      <point x="373" y="392" type="curve"/>
+      <point x="358" y="468" type="line"/>
+      <point x="277" y="446" type="line"/>
+      <point x="295" y="359" type="line"/>
+      <point x="284" y="358"/>
+      <point x="274" y="357"/>
+      <point x="262" y="357" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -73,6 +73,12 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>En-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Er-cy</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kje-cy" format="2">
-  <advance width="466"/>
+  <advance width="469"/>
   <unicode hex="045C"/>
   <anchor x="382" y="0" name="bottomright"/>
-  <anchor x="449" y="785" name="top"/>
+  <anchor x="383" y="785" name="top"/>
   <outline>
     <component base="ka-cy"/>
-    <component base="acutecomb" xOffset="111"/>
+    <component base="acutecomb" xOffset="47"/>
   </outline>
   <lib>
     <dict>
@@ -37,8 +37,21 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>acutecomb</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ka-cy</string>
       <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

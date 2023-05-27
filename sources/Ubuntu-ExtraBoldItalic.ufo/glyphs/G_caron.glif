@@ -2,11 +2,11 @@
 <glyph name="Gcaron" format="2">
   <advance width="698"/>
   <unicode hex="01E6"/>
-  <anchor x="426" y="0" name="bottom"/>
-  <anchor x="575" y="954" name="top"/>
+  <anchor x="366" y="0" name="bottom"/>
+  <anchor x="520" y="954" name="top"/>
   <outline>
     <component base="G"/>
-    <component base="caroncomb" xOffset="198" yOffset="161"/>
+    <component base="caroncomb" xOffset="138" yOffset="161"/>
   </outline>
   <lib>
     <dict>
@@ -38,7 +38,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

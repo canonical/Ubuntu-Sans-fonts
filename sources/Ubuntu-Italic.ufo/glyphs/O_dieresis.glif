@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Odieresis" format="2">
-  <advance width="759"/>
+  <advance width="760"/>
   <unicode hex="00D6"/>
-  <anchor x="380" y="0" name="bottom"/>
-  <anchor x="439" y="347" name="center"/>
-  <anchor x="623" y="10" name="ogonek"/>
-  <anchor x="575" y="881" name="top"/>
-  <anchor x="124" y="693" name="topleft"/>
-  <anchor x="843" y="693" name="topright"/>
+  <anchor x="317" y="0" name="bottom"/>
+  <anchor x="376" y="347" name="center"/>
+  <anchor x="560" y="10" name="ogonek"/>
+  <anchor x="517" y="881" name="top"/>
+  <anchor x="61" y="693" name="topleft"/>
+  <anchor x="780" y="693" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="dieresiscomb" xOffset="242" yOffset="156"/>
+    <component base="dieresiscomb" xOffset="179" yOffset="156"/>
   </outline>
   <lib>
     <dict>
@@ -42,7 +42,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

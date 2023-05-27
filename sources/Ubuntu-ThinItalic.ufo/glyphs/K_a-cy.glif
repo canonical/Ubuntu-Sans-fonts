@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ka-cy" format="2">
-  <advance width="580"/>
+  <advance width="578"/>
   <unicode hex="041A"/>
-  <anchor x="333" y="0" name="bottom"/>
-  <anchor x="433" y="669" name="top"/>
+  <anchor x="269" y="0" name="bottom"/>
+  <anchor x="369" y="669" name="top"/>
   <outline>
     <component base="K"/>
   </outline>
@@ -36,6 +36,8 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

@@ -2,24 +2,24 @@
 <glyph name="Ii-cy" format="2">
   <advance width="742"/>
   <unicode hex="0418"/>
-  <anchor x="659" y="0" name="bottomright"/>
-  <anchor x="523" y="687" name="top"/>
+  <anchor x="599" y="0" name="bottomright"/>
+  <anchor x="463" y="687" name="top"/>
   <outline>
     <contour>
-      <point x="80" y="0" type="line"/>
-      <point x="210" y="0" type="line"/>
-      <point x="338" y="158"/>
-      <point x="457" y="293"/>
-      <point x="610" y="454" type="curve"/>
-      <point x="501" y="0" type="line"/>
-      <point x="655" y="0" type="line"/>
-      <point x="822" y="693" type="line"/>
-      <point x="695" y="693" type="line"/>
-      <point x="574" y="586"/>
-      <point x="433" y="429"/>
-      <point x="302" y="284" type="curve"/>
-      <point x="401" y="693" type="line"/>
-      <point x="246" y="693" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="278" y="158"/>
+      <point x="397" y="293"/>
+      <point x="550" y="454" type="curve"/>
+      <point x="441" y="0" type="line"/>
+      <point x="595" y="0" type="line"/>
+      <point x="762" y="693" type="line"/>
+      <point x="635" y="693" type="line"/>
+      <point x="514" y="586"/>
+      <point x="373" y="429"/>
+      <point x="242" y="284" type="curve"/>
+      <point x="341" y="693" type="line"/>
+      <point x="186" y="693" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -51,8 +51,12 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>En-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>En-cy</string>
       <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

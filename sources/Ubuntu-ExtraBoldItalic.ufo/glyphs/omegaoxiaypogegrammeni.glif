@@ -2,8 +2,8 @@
 <glyph name="omegaoxiaypogegrammeni" format="2">
   <advance width="844"/>
   <unicode hex="1FF4"/>
-  <anchor x="459" y="0" name="bottom"/>
-  <anchor x="534" y="526" name="top"/>
+  <anchor x="399" y="0" name="bottom"/>
+  <anchor x="474" y="526" name="top"/>
   <outline>
     <component base="omega"/>
     <component base="oxia" xOffset="275"/>
@@ -39,7 +39,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

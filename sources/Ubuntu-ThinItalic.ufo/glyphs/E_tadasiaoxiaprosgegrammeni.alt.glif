@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Etadasiaoxiaprosgegrammeni.alt" format="2">
-  <advance width="821"/>
-  <anchor x="557" y="0" name="bottom"/>
-  <anchor x="638" y="347" name="center"/>
-  <anchor x="719" y="669" name="top"/>
-  <anchor x="366" y="693" name="topleft"/>
+  <advance width="882"/>
+  <anchor x="495" y="0" name="bottom"/>
+  <anchor x="576" y="347" name="center"/>
+  <anchor x="657" y="669" name="top"/>
+  <anchor x="304" y="693" name="topleft"/>
   <outline>
     <component base="H" xOffset="241"/>
     <component base="dasiaoxia" yOffset="-74"/>
@@ -66,6 +66,10 @@
           <string>prosgegrammeni</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Eta</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

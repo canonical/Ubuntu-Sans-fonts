@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ereversed" format="2">
-  <advance width="435"/>
+  <advance width="434"/>
   <unicode hex="018E"/>
   <outline>
     <contour>
-      <point x="46" y="0" type="line"/>
-      <point x="352" y="0" type="line"/>
-      <point x="518" y="693" type="line"/>
-      <point x="207" y="693" type="line"/>
-      <point x="193" y="632" type="line"/>
-      <point x="432" y="632" type="line"/>
-      <point x="369" y="370" type="line"/>
-      <point x="164" y="370" type="line"/>
-      <point x="151" y="310" type="line"/>
-      <point x="355" y="310" type="line"/>
-      <point x="295" y="61" type="line"/>
-      <point x="61" y="61" type="line"/>
+      <point x="-17" y="0" type="line"/>
+      <point x="289" y="0" type="line"/>
+      <point x="455" y="693" type="line"/>
+      <point x="144" y="693" type="line"/>
+      <point x="130" y="632" type="line"/>
+      <point x="369" y="632" type="line"/>
+      <point x="306" y="370" type="line"/>
+      <point x="101" y="370" type="line"/>
+      <point x="88" y="310" type="line"/>
+      <point x="292" y="310" type="line"/>
+      <point x="232" y="61" type="line"/>
+      <point x="-2" y="61" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -47,6 +47,10 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

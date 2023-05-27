@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Iotapsilivaria" format="2">
-  <advance width="573"/>
+  <advance width="574"/>
   <unicode hex="1F3A"/>
-  <anchor x="425" y="0" name="bottom"/>
-  <anchor x="483" y="10" name="ogonek"/>
-  <anchor x="589" y="681" name="top"/>
-  <anchor x="404" y="693" name="topleft"/>
+  <anchor x="362" y="0" name="bottom"/>
+  <anchor x="420" y="10" name="ogonek"/>
+  <anchor x="526" y="681" name="top"/>
+  <anchor x="341" y="693" name="topleft"/>
   <outline>
     <component base="I" xOffset="281"/>
     <component base="psilivaria" xOffset="-55" yOffset="-89"/>
@@ -58,6 +58,10 @@
           <string>psilivaria</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Iota</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

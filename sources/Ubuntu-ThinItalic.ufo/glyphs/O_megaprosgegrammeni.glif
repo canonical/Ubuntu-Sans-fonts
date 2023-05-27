@@ -2,7 +2,7 @@
 <glyph name="Omegaprosgegrammeni" format="2">
   <advance width="942"/>
   <unicode hex="1FFC"/>
-  <anchor x="960" y="513" name="top"/>
+  <anchor x="898" y="513" name="top"/>
   <outline>
     <component base="iota" xOffset="729"/>
     <component base="Omega"/>
@@ -55,6 +55,10 @@
           <string>Omega</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>iota</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

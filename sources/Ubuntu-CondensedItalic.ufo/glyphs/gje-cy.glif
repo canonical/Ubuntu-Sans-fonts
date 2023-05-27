@@ -2,11 +2,11 @@
 <glyph name="gje-cy" format="2">
   <advance width="328"/>
   <unicode hex="0453"/>
-  <anchor x="185" y="0" name="bottomright"/>
-  <anchor x="361" y="778" name="top"/>
+  <anchor x="122" y="0" name="bottomright"/>
+  <anchor x="296" y="778" name="top"/>
   <outline>
     <component base="ge-cy"/>
-    <component base="acutecomb" xOffset="31"/>
+    <component base="acutecomb" xOffset="-32"/>
   </outline>
   <lib>
     <dict>
@@ -38,7 +38,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

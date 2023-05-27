@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Epsilondasiavaria" format="2">
-  <advance width="749"/>
+  <advance width="750"/>
   <unicode hex="1F1B"/>
-  <anchor x="508.368" y="0" name="bottom"/>
-  <anchor x="638.3679999999999" y="10" name="ogonek"/>
-  <anchor x="659.3679999999999" y="681" name="top"/>
-  <anchor x="385.368" y="693" name="topleft"/>
+  <anchor x="445.368" y="0" name="bottom"/>
+  <anchor x="575.3679999999999" y="10" name="ogonek"/>
+  <anchor x="596.3679999999999" y="681" name="top"/>
+  <anchor x="322.368" y="693" name="topleft"/>
   <outline>
     <component base="E" xOffset="262.368"/>
     <component base="dasiavaria" xOffset="-24" yOffset="-89"/>
@@ -58,6 +58,10 @@
           <string>dasiavaria</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Epsilon</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

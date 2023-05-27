@@ -2,10 +2,10 @@
 <glyph name="Etapsilivaria" format="2">
   <advance width="940"/>
   <unicode hex="1F2A"/>
-  <anchor x="597" y="0" name="bottom"/>
-  <anchor x="678" y="347" name="center"/>
-  <anchor x="760" y="674" name="top"/>
-  <anchor x="392" y="693" name="topleft"/>
+  <anchor x="534" y="0" name="bottom"/>
+  <anchor x="615" y="347" name="center"/>
+  <anchor x="697" y="674" name="top"/>
+  <anchor x="329" y="693" name="topleft"/>
   <outline>
     <component base="H" xOffset="268"/>
     <component base="psilivaria" xOffset="-66" yOffset="-57"/>
@@ -58,6 +58,10 @@
           <string>psilivaria</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Eta</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

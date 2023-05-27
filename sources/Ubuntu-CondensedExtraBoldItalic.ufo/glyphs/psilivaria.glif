@@ -2,30 +2,31 @@
 <glyph name="psilivaria" format="2">
   <advance width="411"/>
   <unicode hex="1FCD"/>
+  <anchor x="265" y="532" name="_top"/>
   <outline>
     <contour>
-      <point x="225" y="570" type="line"/>
-      <point x="279" y="611"/>
-      <point x="358" y="672"/>
-      <point x="358" y="747" type="curve" smooth="yes"/>
-      <point x="358" y="786"/>
-      <point x="334" y="807"/>
-      <point x="301" y="807" type="curve" smooth="yes"/>
-      <point x="262" y="807"/>
-      <point x="229" y="773"/>
-      <point x="229" y="732" type="curve" smooth="yes"/>
-      <point x="229" y="714"/>
-      <point x="236" y="694"/>
-      <point x="258" y="683" type="curve"/>
-      <point x="233" y="652"/>
-      <point x="208" y="626"/>
-      <point x="187" y="607" type="curve"/>
+      <point x="161" y="570" type="line"/>
+      <point x="215" y="611"/>
+      <point x="294" y="672"/>
+      <point x="294" y="747" type="curve" smooth="yes"/>
+      <point x="294" y="786"/>
+      <point x="270" y="807"/>
+      <point x="237" y="807" type="curve" smooth="yes"/>
+      <point x="198" y="807"/>
+      <point x="165" y="773"/>
+      <point x="165" y="732" type="curve" smooth="yes"/>
+      <point x="165" y="714"/>
+      <point x="172" y="694"/>
+      <point x="194" y="683" type="curve"/>
+      <point x="169" y="652"/>
+      <point x="144" y="626"/>
+      <point x="123" y="607" type="curve"/>
     </contour>
     <contour>
-      <point x="436" y="576" type="line"/>
-      <point x="512" y="595" type="line"/>
-      <point x="475" y="806" type="line"/>
-      <point x="375" y="775" type="line"/>
+      <point x="372" y="576" type="line"/>
+      <point x="448" y="595" type="line"/>
+      <point x="411" y="806" type="line"/>
+      <point x="311" y="775" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -57,6 +58,8 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
     </dict>
   </lib>
 </glyph>

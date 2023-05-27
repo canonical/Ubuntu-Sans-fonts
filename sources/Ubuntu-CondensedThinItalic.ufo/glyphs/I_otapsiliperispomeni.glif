@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Iotapsiliperispomeni" format="2">
-  <advance width="340.3"/>
+  <advance width="335"/>
   <unicode hex="1F3E"/>
-  <anchor x="229" y="-21" name="bottom"/>
-  <anchor x="255" y="10" name="ogonek"/>
-  <anchor x="395" y="672" name="top"/>
-  <anchor x="254" y="693" name="topleft"/>
+  <anchor x="166" y="-21" name="bottom"/>
+  <anchor x="192" y="10" name="ogonek"/>
+  <anchor x="332" y="672" name="top"/>
+  <anchor x="191" y="693" name="topleft"/>
   <outline>
     <component base="I" xOffset="130"/>
     <component base="psiliperispomeni" xOffset="-95" yOffset="-97"/>
@@ -58,6 +58,10 @@
           <string>psiliperispomeni</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Iota</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

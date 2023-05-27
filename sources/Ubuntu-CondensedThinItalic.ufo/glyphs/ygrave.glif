@@ -2,11 +2,11 @@
 <glyph name="ygrave" format="2">
   <advance width="350"/>
   <unicode hex="1EF3"/>
-  <anchor x="113" y="0" name="bottom"/>
-  <anchor x="301" y="774" name="top"/>
+  <anchor x="51" y="0" name="bottom"/>
+  <anchor x="269" y="774" name="top"/>
   <outline>
     <component base="y"/>
-    <component base="gravecomb" xOffset="-22"/>
+    <component base="gravecomb" xOffset="-84"/>
   </outline>
   <lib>
     <dict>
@@ -38,7 +38,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

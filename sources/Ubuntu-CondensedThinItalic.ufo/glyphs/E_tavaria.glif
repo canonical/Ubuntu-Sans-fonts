@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Etavaria" format="2">
-  <advance width="619.45"/>
+  <advance width="618"/>
   <unicode hex="1FCA"/>
-  <anchor x="342" y="0" name="bottom"/>
-  <anchor x="425" y="347" name="center"/>
-  <anchor x="500" y="672" name="top"/>
-  <anchor x="208" y="693" name="topleft"/>
+  <anchor x="280" y="0" name="bottom"/>
+  <anchor x="363" y="347" name="center"/>
+  <anchor x="438" y="672" name="top"/>
+  <anchor x="146" y="693" name="topleft"/>
   <outline>
     <component base="H" xOffset="84"/>
-    <component base="grave" xOffset="-121" yOffset="-56"/>
+    <component base="grave" xOffset="-184" yOffset="-56"/>
   </outline>
   <lib>
     <dict>
@@ -58,6 +58,10 @@
           <string>grave</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Eta</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

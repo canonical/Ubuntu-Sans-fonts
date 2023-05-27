@@ -2,12 +2,12 @@
 <glyph name="IJ" format="2">
   <advance width="851"/>
   <unicode hex="0132"/>
-  <anchor x="157" y="-6" name="bottom_1"/>
-  <anchor x="525" y="0" name="bottom_2"/>
-  <anchor x="229" y="10" name="ogonek"/>
-  <anchor x="323" y="687" name="top_1"/>
-  <anchor x="846" y="687" name="top_2"/>
-  <anchor x="123" y="693" name="topleft"/>
+  <anchor x="97" y="-6" name="bottom_1"/>
+  <anchor x="465" y="0" name="bottom_2"/>
+  <anchor x="169" y="10" name="ogonek"/>
+  <anchor x="263" y="687" name="top_1"/>
+  <anchor x="786" y="687" name="top_2"/>
+  <anchor x="63" y="693" name="topleft"/>
   <outline>
     <component base="I"/>
     <component base="J" xOffset="325"/>
@@ -60,6 +60,12 @@
           <string>J</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>I</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>J</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

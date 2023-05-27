@@ -2,8 +2,8 @@
 <designspace format="4.1">
   <axes>
     <axis tag="wdth" name="Width" minimum="75" maximum="100" default="100"/>
-    <axis tag="wght" name="Weight" minimum="300" maximum="800" default="400">
-      <!--<map input="100" output="100"/>-->
+    <axis tag="wght" name="Weight" minimum="100" maximum="800" default="400">
+      <map input="100" output="100"/>
       <map input="300" output="300"/>
       <map input="400" output="400"/>
       <map input="500" output="530"/>
@@ -12,14 +12,14 @@
     </axis>
   </axes>
   <sources>
-  <!--
+  
     <source filename="Ubuntu-ThinItalic.ufo" name="Ubuntu Thin Italic" familyname="Ubuntu" stylename="Thin">
       <location>
         <dimension name="Width" xvalue="100"/>
         <dimension name="Weight" xvalue="100"/>
       </location>
     </source>
-    -->
+    
     <source filename="Ubuntu-Italic.ufo" name="Ubuntu Italic" familyname="Ubuntu" stylename="Italic">
       <lib copy="1"/>
       <groups copy="1"/>
@@ -59,7 +59,7 @@
   </sources>
   <instances>
     <!-- normal width -->
-    <!--
+    
     <instance 
         name="Ubuntu Thin Italic" 
         familyname="Ubuntu" 
@@ -75,7 +75,7 @@
       <kerning/>
       <info/>
     </instance>
-    -->
+    
     <instance 
         name="Ubuntu Light Italic" 
         familyname="Ubuntu" 
@@ -174,7 +174,7 @@
     
     <!-- condensed width -->
     
-    <!--
+    
     <instance 
         name="Ubuntu Condensed Thin Italic" 
         familyname="Ubuntu Condensed" 
@@ -190,7 +190,7 @@
       <kerning/>
       <info/>
     </instance>
-    -->
+    
     
     <instance 
         name="Ubuntu Condensed Light Italic" 

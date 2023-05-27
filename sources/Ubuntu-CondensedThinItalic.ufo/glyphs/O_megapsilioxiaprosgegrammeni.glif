@@ -2,7 +2,7 @@
 <glyph name="Omegapsilioxiaprosgegrammeni" format="2">
   <advance width="893.15"/>
   <unicode hex="1FAC"/>
-  <anchor x="908" y="516" name="top"/>
+  <anchor x="846" y="516" name="top"/>
   <outline>
     <component base="Omega" xOffset="124"/>
     <component base="iota" xOffset="688"/>
@@ -64,6 +64,10 @@
           <string>psilioxia</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>iota</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

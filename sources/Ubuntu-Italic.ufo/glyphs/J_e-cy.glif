@@ -2,8 +2,8 @@
 <glyph name="Je-cy" format="2">
   <advance width="468"/>
   <unicode hex="0408"/>
-  <anchor x="182" y="0" name="bottom"/>
-  <anchor x="506" y="674" name="top"/>
+  <anchor x="119" y="0" name="bottom"/>
+  <anchor x="443" y="674" name="top"/>
   <outline>
     <component base="J"/>
   </outline>
@@ -36,6 +36,8 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

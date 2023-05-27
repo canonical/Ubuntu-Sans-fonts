@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="caroncomb.alt" format="2">
-  <anchor x="353" y="774" name="_topright"/>
+  <anchor x="292" y="774" name="_topright"/>
   <outline>
     <component base="caron.alt"/>
   </outline>
@@ -34,7 +34,9 @@
         <integer>0</integer>
       </dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <integer>346</integer>
+      <integer>393</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

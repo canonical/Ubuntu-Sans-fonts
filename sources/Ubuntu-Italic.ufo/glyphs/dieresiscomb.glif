@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresiscomb" format="2">
   <unicode hex="0308"/>
-  <anchor x="284" y="518" name="_top"/>
-  <anchor x="333" y="725" name="top"/>
+  <anchor x="289" y="518" name="_top"/>
+  <anchor x="338" y="725" name="top"/>
   <outline>
     <component base="dieresis"/>
   </outline>
@@ -37,6 +37,8 @@
       </dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>369</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

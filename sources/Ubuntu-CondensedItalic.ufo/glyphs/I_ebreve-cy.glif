@@ -2,13 +2,13 @@
 <glyph name="Iebreve-cy" format="2">
   <advance width="434"/>
   <unicode hex="04D6"/>
-  <anchor x="225" y="0" name="bottom"/>
-  <anchor x="331" y="10" name="ogonek"/>
-  <anchor x="431" y="894" name="top"/>
-  <anchor x="124" y="693" name="topleft"/>
+  <anchor x="162" y="0" name="bottom"/>
+  <anchor x="268" y="10" name="ogonek"/>
+  <anchor x="369" y="894" name="top"/>
+  <anchor x="61" y="693" name="topleft"/>
   <outline>
     <component base="E"/>
-    <component base="brevecomb.cyr" xOffset="119" yOffset="156"/>
+    <component base="brevecomb.cyr" xOffset="57" yOffset="156"/>
   </outline>
   <lib>
     <dict>
@@ -58,6 +58,12 @@
           <string>brevecomb.cyr</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>En-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ie-cy</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

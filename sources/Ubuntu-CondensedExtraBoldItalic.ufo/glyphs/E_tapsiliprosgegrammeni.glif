@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Etapsiliprosgegrammeni" format="2">
-  <advance width="950"/>
+  <advance width="951"/>
   <unicode hex="1F98"/>
-  <anchor x="385.944" y="0" name="bottom"/>
-  <anchor x="468.944" y="347" name="center"/>
-  <anchor x="549.944" y="681" name="top_1"/>
-  <anchor x="928.828" y="532" name="top_2"/>
-  <anchor x="226.94400000000002" y="693" name="topleft"/>
+  <anchor x="322.944" y="0" name="bottom"/>
+  <anchor x="405.944" y="347" name="center"/>
+  <anchor x="486.944" y="681" name="top_1"/>
+  <anchor x="864.828" y="532" name="top_2"/>
+  <anchor x="163.94400000000002" y="693" name="topleft"/>
   <outline>
     <component base="H" xOffset="103.944"/>
     <component base="iota" xOffset="674.828"/>
@@ -68,6 +68,10 @@
           <string>psili</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>iota</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

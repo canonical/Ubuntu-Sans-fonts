@@ -2,11 +2,11 @@
 <glyph name="wdieresis" format="2">
   <advance width="826"/>
   <unicode hex="1E85"/>
-  <anchor x="404" y="0" name="bottom"/>
-  <anchor x="576" y="754" name="top"/>
+  <anchor x="344" y="0" name="bottom"/>
+  <anchor x="521" y="754" name="top"/>
   <outline>
     <component base="w"/>
-    <component base="dieresiscomb" xOffset="141"/>
+    <component base="dieresiscomb" xOffset="81"/>
   </outline>
   <lib>
     <dict>
@@ -38,7 +38,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

@@ -2,12 +2,12 @@
 <glyph name="Upsilonmacron" format="2">
   <advance width="662"/>
   <unicode hex="1FE9"/>
-  <anchor x="325" y="0" name="bottom"/>
-  <anchor x="506" y="886" name="top"/>
-  <anchor x="123" y="693" name="topleft"/>
+  <anchor x="265" y="0" name="bottom"/>
+  <anchor x="451" y="886" name="top"/>
+  <anchor x="63" y="693" name="topleft"/>
   <outline>
     <component base="Upsilon"/>
-    <component base="macroncomb" xOffset="149" yOffset="161"/>
+    <component base="macroncomb" xOffset="89" yOffset="161"/>
   </outline>
   <lib>
     <dict>
@@ -39,7 +39,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

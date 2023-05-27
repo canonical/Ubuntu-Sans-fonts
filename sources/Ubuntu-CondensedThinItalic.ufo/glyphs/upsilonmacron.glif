@@ -2,10 +2,10 @@
 <glyph name="upsilonmacron" format="2">
   <advance width="442"/>
   <unicode hex="1FE1"/>
-  <anchor x="375" y="691" name="top"/>
+  <anchor x="318" y="691" name="top"/>
   <outline>
     <component base="upsilon"/>
-    <component base="macroncomb" xOffset="67"/>
+    <component base="macroncomb" xOffset="5"/>
   </outline>
   <lib>
     <dict>
@@ -37,7 +37,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

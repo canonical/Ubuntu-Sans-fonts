@@ -2,7 +2,7 @@
 <glyph name="upsilondasia" format="2">
   <advance width="487"/>
   <unicode hex="1F51"/>
-  <anchor x="368" y="532" name="top"/>
+  <anchor x="304" y="532" name="top"/>
   <outline>
     <component base="upsilon"/>
     <component base="dasia" xOffset="71"/>
@@ -37,7 +37,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

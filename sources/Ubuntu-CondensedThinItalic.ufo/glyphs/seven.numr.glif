@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="seven.numr" format="2">
-  <advance width="290.55"/>
+  <advance width="291"/>
   <outline>
     <contour>
-      <point x="182" y="308" type="curve"/>
-      <point x="211" y="308" type="line"/>
-      <point x="236" y="419"/>
-      <point x="303" y="568"/>
-      <point x="385" y="668" type="curve"/>
-      <point x="387" y="689" type="line"/>
-      <point x="231" y="689" type="line"/>
-      <point x="229" y="664" type="line"/>
-      <point x="353" y="664" type="line"/>
-      <point x="272" y="559"/>
-      <point x="204" y="406"/>
+      <point x="120" y="308" type="curve"/>
+      <point x="149" y="308" type="line"/>
+      <point x="174" y="419"/>
+      <point x="241" y="568"/>
+      <point x="323" y="668" type="curve"/>
+      <point x="325" y="689" type="line"/>
+      <point x="169" y="689" type="line"/>
+      <point x="167" y="664" type="line"/>
+      <point x="291" y="664" type="line"/>
+      <point x="210" y="559"/>
+      <point x="142" y="406"/>
     </contour>
   </outline>
   <lib>
@@ -45,6 +45,8 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

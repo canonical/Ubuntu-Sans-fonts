@@ -2,7 +2,7 @@
 <glyph name="Omegadasiaperispomeniprosgegrammeni" format="2">
   <advance width="946"/>
   <unicode hex="1FAF"/>
-  <anchor x="948" y="522" name="top"/>
+  <anchor x="885" y="522" name="top"/>
   <outline>
     <component base="Omega" xOffset="138"/>
     <component base="iota" xOffset="714"/>
@@ -64,6 +64,10 @@
           <string>dasiaperispomeni</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>iota</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

@@ -3,9 +3,9 @@
   <advance width="226"/>
   <unicode hex="020B"/>
   <guideline x="123" y="0" angle="103.5"/>
-  <anchor x="106" y="0" name="bottom"/>
-  <anchor x="144" y="10" name="ogonek"/>
-  <anchor x="295" y="774" name="top"/>
+  <anchor x="44" y="0" name="bottom"/>
+  <anchor x="82" y="10" name="ogonek"/>
+  <anchor x="230" y="774" name="top"/>
   <outline>
     <component base="idotless"/>
     <component base="breveinvertedcomb" xOffset="-48"/>
@@ -40,7 +40,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

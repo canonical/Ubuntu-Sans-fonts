@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="u-cy" format="2">
-  <advance width="532"/>
+  <advance width="542"/>
   <unicode hex="0443"/>
-  <anchor x="208" y="0" name="bottom"/>
-  <anchor x="384" y="526" name="top"/>
+  <anchor x="148" y="0" name="bottom"/>
+  <anchor x="324" y="526" name="top"/>
   <outline>
     <component base="y"/>
   </outline>
@@ -36,6 +36,8 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

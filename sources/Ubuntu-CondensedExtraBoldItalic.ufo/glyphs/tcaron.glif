@@ -2,10 +2,10 @@
 <glyph name="tcaron" format="2">
   <advance width="353"/>
   <unicode hex="0165"/>
-  <anchor x="225.385" y="0" name="bottom"/>
-  <anchor x="176.385" y="266" name="center"/>
-  <anchor x="240.385" y="532" name="top"/>
-  <anchor x="454.385" y="776" name="topright"/>
+  <anchor x="161.385" y="0" name="bottom"/>
+  <anchor x="112.385" y="266" name="center"/>
+  <anchor x="176.385" y="532" name="top"/>
+  <anchor x="390.385" y="776" name="topright"/>
   <outline>
     <component base="t" xOffset="-0.615"/>
     <component base="caron.alt.short" xOffset="129"/>
@@ -58,6 +58,8 @@
           <string>caron.alt.short</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

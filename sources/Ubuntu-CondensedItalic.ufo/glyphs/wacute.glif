@@ -2,11 +2,11 @@
 <glyph name="wacute" format="2">
   <advance width="593"/>
   <unicode hex="1E83"/>
-  <anchor x="313" y="0" name="bottom"/>
-  <anchor x="468" y="778" name="top"/>
+  <anchor x="250" y="0" name="bottom"/>
+  <anchor x="403" y="778" name="top"/>
   <outline>
     <component base="w"/>
-    <component base="acutecomb" xOffset="138"/>
+    <component base="acutecomb" xOffset="75"/>
   </outline>
   <lib>
     <dict>
@@ -38,7 +38,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

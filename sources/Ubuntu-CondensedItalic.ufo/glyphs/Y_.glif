@@ -2,28 +2,28 @@
 <glyph name="Y" format="2">
   <advance width="450"/>
   <unicode hex="0059"/>
-  <anchor x="225" y="0" name="bottom"/>
-  <anchor x="378" y="677" name="top"/>
-  <anchor x="124" y="693" name="topleft"/>
+  <anchor x="162" y="0" name="bottom"/>
+  <anchor x="315" y="677" name="top"/>
+  <anchor x="61" y="693" name="topleft"/>
   <outline>
     <contour>
-      <point x="190" y="0" type="line"/>
-      <point x="261" y="0" type="line"/>
-      <point x="327" y="270" type="line"/>
-      <point x="417" y="393"/>
-      <point x="519" y="554"/>
-      <point x="595" y="693" type="curve"/>
-      <point x="520" y="693" type="line"/>
-      <point x="467" y="589"/>
-      <point x="399" y="473"/>
-      <point x="305" y="341" type="curve"/>
-      <point x="280" y="474"/>
-      <point x="266" y="588"/>
-      <point x="261" y="693" type="curve"/>
-      <point x="186" y="693" type="line"/>
-      <point x="197" y="552"/>
-      <point x="225" y="392"/>
-      <point x="254" y="268" type="curve"/>
+      <point x="127" y="0" type="line"/>
+      <point x="198" y="0" type="line"/>
+      <point x="264" y="270" type="line"/>
+      <point x="354" y="393"/>
+      <point x="456" y="554"/>
+      <point x="532" y="693" type="curve"/>
+      <point x="457" y="693" type="line"/>
+      <point x="404" y="589"/>
+      <point x="336" y="473"/>
+      <point x="242" y="341" type="curve"/>
+      <point x="217" y="474"/>
+      <point x="203" y="588"/>
+      <point x="198" y="693" type="curve"/>
+      <point x="123" y="693" type="line"/>
+      <point x="134" y="552"/>
+      <point x="162" y="392"/>
+      <point x="191" y="268" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -56,7 +56,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

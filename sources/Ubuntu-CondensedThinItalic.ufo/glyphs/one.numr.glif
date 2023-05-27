@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one.numr" format="2">
-  <advance width="290.55"/>
+  <advance width="291"/>
   <outline>
     <contour>
-      <point x="220" y="308" type="line"/>
-      <point x="248" y="308" type="line"/>
-      <point x="339" y="690" type="line"/>
-      <point x="311" y="690" type="line"/>
-      <point x="286" y="654"/>
-      <point x="251" y="630"/>
-      <point x="223" y="616" type="curve"/>
-      <point x="237" y="592" type="line"/>
-      <point x="261" y="605"/>
-      <point x="283" y="622"/>
-      <point x="300" y="643" type="curve"/>
+      <point x="158" y="308" type="line"/>
+      <point x="186" y="308" type="line"/>
+      <point x="277" y="690" type="line"/>
+      <point x="249" y="690" type="line"/>
+      <point x="224" y="654"/>
+      <point x="189" y="630"/>
+      <point x="161" y="616" type="curve"/>
+      <point x="175" y="592" type="line"/>
+      <point x="199" y="605"/>
+      <point x="221" y="622"/>
+      <point x="238" y="643" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -45,6 +45,8 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

@@ -2,8 +2,8 @@
 <glyph name="etatonos" format="2">
   <advance width="465"/>
   <unicode hex="03AE"/>
-  <anchor x="115" y="0" name="bottom"/>
-  <anchor x="356" y="522" name="top"/>
+  <anchor x="52" y="0" name="bottom"/>
+  <anchor x="293" y="522" name="top"/>
   <outline>
     <component base="eta"/>
     <component base="tonos" xOffset="95"/>
@@ -38,7 +38,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

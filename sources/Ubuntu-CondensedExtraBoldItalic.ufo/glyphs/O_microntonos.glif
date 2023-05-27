@@ -2,12 +2,12 @@
 <glyph name="Omicrontonos" format="2">
   <advance width="678"/>
   <unicode hex="038C"/>
-  <anchor x="365.846" y="0" name="bottom"/>
-  <anchor x="448.846" y="347" name="center"/>
-  <anchor x="555.846" y="10" name="ogonek"/>
-  <anchor x="529.846" y="681" name="top"/>
-  <anchor x="193.846" y="693" name="topleft"/>
-  <anchor x="760.846" y="693" name="topright"/>
+  <anchor x="301.846" y="0" name="bottom"/>
+  <anchor x="384.846" y="347" name="center"/>
+  <anchor x="491.846" y="10" name="ogonek"/>
+  <anchor x="465.846" y="681" name="top"/>
+  <anchor x="129.846" y="693" name="topleft"/>
+  <anchor x="696.846" y="693" name="topright"/>
   <outline>
     <component base="O" xOffset="70.846"/>
     <component base="tonos.cap" xOffset="-100"/>
@@ -60,6 +60,8 @@
           <string>tonos.cap</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

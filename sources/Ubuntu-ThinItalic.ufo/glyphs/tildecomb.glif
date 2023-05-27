@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tildecomb" format="2">
   <unicode hex="0303"/>
-  <anchor x="286" y="513" name="_top"/>
-  <anchor x="337" y="717" name="top"/>
+  <anchor x="296" y="513" name="_top"/>
+  <anchor x="345" y="715" name="top"/>
   <outline>
     <component base="tilde"/>
   </outline>
@@ -36,7 +36,9 @@
         <integer>0</integer>
       </dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <integer>346</integer>
+      <integer>329</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

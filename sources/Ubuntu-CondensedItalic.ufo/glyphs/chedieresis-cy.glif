@@ -2,11 +2,11 @@
 <glyph name="chedieresis-cy" format="2">
   <advance width="432"/>
   <unicode hex="04F5"/>
-  <anchor x="349" y="0" name="bottomright"/>
-  <anchor x="355" y="718" name="top"/>
+  <anchor x="286" y="0" name="bottomright"/>
+  <anchor x="297" y="718" name="top"/>
   <outline>
     <component base="che-cy"/>
-    <component base="dieresiscomb" xOffset="22"/>
+    <component base="dieresiscomb" xOffset="-41"/>
   </outline>
   <lib>
     <dict>
@@ -38,7 +38,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gravecomb" format="2">
   <unicode hex="0300"/>
-  <anchor x="291" y="513" name="_top"/>
-  <anchor x="352" y="761" name="top"/>
+  <anchor x="301" y="513" name="_top"/>
+  <anchor x="362" y="761" name="top"/>
   <outline>
     <component base="grave"/>
   </outline>
@@ -36,7 +36,9 @@
         <integer>0</integer>
       </dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <integer>346</integer>
+      <integer>376</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

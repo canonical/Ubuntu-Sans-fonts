@@ -2,12 +2,12 @@
 <glyph name="Omicronpsili" format="2">
   <advance width="738"/>
   <unicode hex="1F48"/>
-  <anchor x="426.303" y="0" name="bottom"/>
-  <anchor x="509.303" y="347" name="center"/>
-  <anchor x="616.303" y="10" name="ogonek"/>
-  <anchor x="590.303" y="681" name="top"/>
-  <anchor x="254.303" y="693" name="topleft"/>
-  <anchor x="821.303" y="693" name="topright"/>
+  <anchor x="362.303" y="0" name="bottom"/>
+  <anchor x="445.303" y="347" name="center"/>
+  <anchor x="552.303" y="10" name="ogonek"/>
+  <anchor x="526.303" y="681" name="top"/>
+  <anchor x="190.303" y="693" name="topleft"/>
+  <anchor x="757.303" y="693" name="topright"/>
   <outline>
     <component base="O" xOffset="131.303"/>
     <component base="psili" xOffset="-55" yOffset="-89"/>
@@ -60,6 +60,10 @@
           <string>psili</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Omicron</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

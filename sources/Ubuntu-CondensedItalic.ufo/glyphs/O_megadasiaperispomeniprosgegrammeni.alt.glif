@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Omegadasiaperispomeniprosgegrammeni.alt" format="2">
-  <advance width="723"/>
+  <advance width="725"/>
   <outline>
     <component base="Omega" xOffset="138"/>
     <component base="dasiaperispomeni" xOffset="-92" yOffset="-152"/>
@@ -62,6 +62,10 @@
           <string>prosgegrammeni</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Omega</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

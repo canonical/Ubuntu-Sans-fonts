@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Iotadasiaoxia" format="2">
-  <advance width="500"/>
+  <advance width="502"/>
   <unicode hex="1F3D"/>
-  <anchor x="371" y="-19" name="bottom"/>
-  <anchor x="415" y="10" name="ogonek"/>
-  <anchor x="537" y="674" name="top"/>
-  <anchor x="375" y="693" name="topleft"/>
+  <anchor x="308" y="-19" name="bottom"/>
+  <anchor x="352" y="10" name="ogonek"/>
+  <anchor x="474" y="674" name="top"/>
+  <anchor x="312" y="693" name="topleft"/>
   <outline>
     <component base="I" xOffset="251"/>
     <component base="dasiaoxia" xOffset="-76" yOffset="-58"/>
@@ -58,6 +58,10 @@
           <string>dasiaoxia</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Iota</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

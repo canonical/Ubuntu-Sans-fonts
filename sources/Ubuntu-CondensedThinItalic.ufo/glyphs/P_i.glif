@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Pi" format="2">
-  <advance width="528.25"/>
+  <advance width="529"/>
   <unicode hex="03A0"/>
   <outline>
     <contour>
-      <point x="86" y="0" type="line"/>
-      <point x="116" y="0" type="line"/>
-      <point x="275" y="665" type="line"/>
-      <point x="571" y="665" type="line"/>
-      <point x="411" y="0" type="line"/>
-      <point x="440" y="0" type="line"/>
-      <point x="606" y="693" type="line"/>
-      <point x="252" y="693" type="line"/>
+      <point x="26" y="0" type="line"/>
+      <point x="56" y="0" type="line"/>
+      <point x="215" y="665" type="line"/>
+      <point x="511" y="665" type="line"/>
+      <point x="351" y="0" type="line"/>
+      <point x="380" y="0" type="line"/>
+      <point x="546" y="693" type="line"/>
+      <point x="192" y="693" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -43,6 +43,12 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Eta</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Eta</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

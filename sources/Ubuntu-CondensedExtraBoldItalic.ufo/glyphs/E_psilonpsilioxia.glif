@@ -2,10 +2,10 @@
 <glyph name="Epsilonpsilioxia" format="2">
   <advance width="779"/>
   <unicode hex="1F1C"/>
-  <anchor x="538.106" y="0" name="bottom"/>
-  <anchor x="668.106" y="10" name="ogonek"/>
-  <anchor x="689.106" y="681" name="top"/>
-  <anchor x="415.106" y="693" name="topleft"/>
+  <anchor x="475.106" y="0" name="bottom"/>
+  <anchor x="605.106" y="10" name="ogonek"/>
+  <anchor x="626.106" y="681" name="top"/>
+  <anchor x="352.106" y="693" name="topleft"/>
   <outline>
     <component base="E" xOffset="292.106"/>
     <component base="psilioxia" xOffset="-7" yOffset="-89"/>
@@ -58,6 +58,10 @@
           <string>psilioxia</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Epsilon</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

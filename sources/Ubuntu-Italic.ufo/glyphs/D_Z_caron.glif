@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="DZcaron" format="2">
-  <advance width="1222"/>
+  <advance width="1218"/>
   <unicode hex="01C4"/>
-  <anchor x="289" y="0" name="bottom_1"/>
-  <anchor x="932" y="0" name="bottom_2"/>
-  <anchor x="372" y="347" name="center_1"/>
-  <anchor x="960" y="347" name="center_2"/>
-  <anchor x="457" y="674" name="top_1"/>
-  <anchor x="1138" y="922" name="top_2"/>
+  <anchor x="226" y="0" name="bottom_1"/>
+  <anchor x="865" y="0" name="bottom_2"/>
+  <anchor x="309" y="347" name="center_1"/>
+  <anchor x="893" y="347" name="center_2"/>
+  <anchor x="394" y="674" name="top_1"/>
+  <anchor x="1076" y="922" name="top_2"/>
   <outline>
-    <component base="D" xOffset="4"/>
-    <component base="Zcaron" xOffset="655"/>
+    <component base="D"/>
+    <component base="Zcaron" xOffset="651"/>
   </outline>
   <lib>
     <dict>
@@ -61,11 +61,11 @@
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>H</string>
+      <string>D</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>Z</string>
       <key>public.markColor</key>
-      <string>0.65,0.48,0.2,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

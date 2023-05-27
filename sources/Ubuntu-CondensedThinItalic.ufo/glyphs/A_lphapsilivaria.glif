@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Alphapsilivaria" format="2">
-  <advance width="613.35"/>
+  <advance width="615"/>
   <unicode hex="1F0A"/>
-  <anchor x="383" y="0" name="bottom"/>
-  <anchor x="509" y="10" name="ogonek"/>
-  <anchor x="537" y="672" name="top"/>
+  <anchor x="321" y="0" name="bottom"/>
+  <anchor x="447" y="10" name="ogonek"/>
+  <anchor x="475" y="672" name="top"/>
   <outline>
     <component base="A" xOffset="162"/>
     <component base="psilivaria" xOffset="-41" yOffset="-75"/>
@@ -57,6 +57,10 @@
           <string>psilivaria</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Alpha</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

@@ -2,10 +2,10 @@
 <glyph name="Etadasiaoxia" format="2">
   <advance width="776"/>
   <unicode hex="1F2D"/>
-  <anchor x="492" y="0" name="bottom"/>
-  <anchor x="576" y="347" name="center"/>
-  <anchor x="651" y="677" name="top"/>
-  <anchor x="348" y="693" name="topleft"/>
+  <anchor x="429" y="0" name="bottom"/>
+  <anchor x="513" y="347" name="center"/>
+  <anchor x="588" y="677" name="top"/>
+  <anchor x="285" y="693" name="topleft"/>
   <outline>
     <component base="H" xOffset="224"/>
     <component base="dasiaoxia" xOffset="-52" yOffset="-80"/>
@@ -58,6 +58,10 @@
           <string>dasiaoxia</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Eta</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

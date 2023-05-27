@@ -2,12 +2,12 @@
 <glyph name="zacute" format="2">
   <advance width="372"/>
   <unicode hex="017A"/>
-  <anchor x="186" y="0" name="bottom"/>
-  <anchor x="250" y="266" name="center"/>
-  <anchor x="376" y="785" name="top"/>
+  <anchor x="122" y="0" name="bottom"/>
+  <anchor x="186" y="266" name="center"/>
+  <anchor x="310" y="785" name="top"/>
   <outline>
     <component base="z"/>
-    <component base="acutecomb" xOffset="38"/>
+    <component base="acutecomb" xOffset="-26"/>
   </outline>
   <lib>
     <dict>
@@ -39,7 +39,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

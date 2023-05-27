@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Hcircumflex" format="2">
-  <advance width="672"/>
+  <advance width="673"/>
   <unicode hex="0124"/>
-  <anchor x="329" y="0" name="bottom"/>
-  <anchor x="410" y="347" name="center"/>
-  <anchor x="546" y="921" name="top"/>
-  <anchor x="124" y="693" name="topleft"/>
+  <anchor x="266" y="0" name="bottom"/>
+  <anchor x="347" y="347" name="center"/>
+  <anchor x="488" y="921" name="top"/>
+  <anchor x="61" y="693" name="topleft"/>
   <outline>
     <component base="H"/>
-    <component base="circumflexcomb" xOffset="211" yOffset="156"/>
+    <component base="circumflexcomb" xOffset="148" yOffset="156"/>
   </outline>
   <lib>
     <dict>
@@ -40,7 +40,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

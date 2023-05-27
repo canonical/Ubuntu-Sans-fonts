@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Gcircumflex" format="2">
-  <advance width="655"/>
+  <advance width="654"/>
   <unicode hex="011C"/>
-  <anchor x="387" y="0" name="bottom"/>
-  <anchor x="581" y="921" name="top"/>
+  <anchor x="323" y="0" name="bottom"/>
+  <anchor x="522" y="921" name="top"/>
   <outline>
     <component base="G"/>
-    <component base="circumflexcomb" xOffset="246" yOffset="156"/>
+    <component base="circumflexcomb" xOffset="182" yOffset="156"/>
   </outline>
   <lib>
     <dict>
@@ -38,7 +38,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

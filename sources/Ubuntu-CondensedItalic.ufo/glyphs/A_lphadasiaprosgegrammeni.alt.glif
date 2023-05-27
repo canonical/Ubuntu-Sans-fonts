@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Alphadasiaprosgegrammeni.alt" format="2">
-  <advance width="471"/>
-  <anchor x="243" y="0" name="bottom"/>
-  <anchor x="379" y="10" name="ogonek"/>
-  <anchor x="401" y="677" name="top"/>
+  <advance width="487"/>
+  <anchor x="180" y="0" name="bottom"/>
+  <anchor x="316" y="10" name="ogonek"/>
+  <anchor x="338" y="677" name="top"/>
   <outline>
     <component base="A" xOffset="10"/>
     <component base="dasia" xOffset="-85" yOffset="-80"/>
@@ -65,6 +65,10 @@
           <string>prosgegrammeni</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Alpha</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

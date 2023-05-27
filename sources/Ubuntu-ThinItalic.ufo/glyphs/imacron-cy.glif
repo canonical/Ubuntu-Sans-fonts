@@ -2,13 +2,13 @@
 <glyph name="imacron-cy" format="2">
   <advance width="504"/>
   <unicode hex="04E3"/>
-  <anchor x="190" y="0" name="bottom"/>
-  <anchor x="395" y="10" name="ogonek"/>
-  <anchor x="395" y="696" name="top"/>
-  <anchor x="546" y="513" name="topright"/>
+  <anchor x="128" y="0" name="bottom"/>
+  <anchor x="333" y="10" name="ogonek"/>
+  <anchor x="336" y="694" name="top"/>
+  <anchor x="484" y="513" name="topright"/>
   <outline>
     <component base="ii-cy"/>
-    <component base="macroncomb" xOffset="91"/>
+    <component base="macroncomb" xOffset="29"/>
   </outline>
   <lib>
     <dict>
@@ -40,7 +40,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

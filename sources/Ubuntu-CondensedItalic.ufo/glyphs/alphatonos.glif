@@ -2,8 +2,8 @@
 <glyph name="alphatonos" format="2">
   <advance width="462"/>
   <unicode hex="03AC"/>
-  <anchor x="244" y="0" name="bottom"/>
-  <anchor x="363" y="522" name="top"/>
+  <anchor x="181" y="0" name="bottom"/>
+  <anchor x="300" y="522" name="top"/>
   <outline>
     <component base="alpha"/>
     <component base="tonos" xOffset="102"/>
@@ -38,7 +38,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

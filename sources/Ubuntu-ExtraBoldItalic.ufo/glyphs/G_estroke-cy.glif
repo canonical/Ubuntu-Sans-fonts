@@ -4,20 +4,20 @@
   <unicode hex="0492"/>
   <outline>
     <contour>
-      <point x="100" y="0" type="line"/>
-      <point x="256" y="0" type="line"/>
-      <point x="327" y="293" type="line"/>
-      <point x="475" y="293" type="line"/>
-      <point x="501" y="403" type="line"/>
-      <point x="353" y="403" type="line"/>
-      <point x="391" y="561" type="line"/>
-      <point x="688" y="561" type="line"/>
-      <point x="720" y="693" type="line"/>
-      <point x="267" y="693" type="line"/>
-      <point x="197" y="403" type="line"/>
-      <point x="116" y="403" type="line"/>
-      <point x="90" y="293" type="line"/>
-      <point x="171" y="293" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="196" y="0" type="line"/>
+      <point x="267" y="293" type="line"/>
+      <point x="415" y="293" type="line"/>
+      <point x="441" y="403" type="line"/>
+      <point x="293" y="403" type="line"/>
+      <point x="331" y="561" type="line"/>
+      <point x="628" y="561" type="line"/>
+      <point x="660" y="693" type="line"/>
+      <point x="207" y="693" type="line"/>
+      <point x="137" y="403" type="line"/>
+      <point x="56" y="403" type="line"/>
+      <point x="30" y="293" type="line"/>
+      <point x="111" y="293" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -49,6 +49,8 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

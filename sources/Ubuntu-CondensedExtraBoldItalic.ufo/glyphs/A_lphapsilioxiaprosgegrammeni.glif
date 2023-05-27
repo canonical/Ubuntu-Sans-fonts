@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Alphapsilioxiaprosgegrammeni" format="2">
-  <advance width="983"/>
+  <advance width="984"/>
   <unicode hex="1F8C"/>
-  <anchor x="460.303" y="0" name="bottom"/>
-  <anchor x="604.303" y="10" name="ogonek"/>
-  <anchor x="610.303" y="681" name="top_1"/>
-  <anchor x="962" y="532" name="top_2"/>
+  <anchor x="396.303" y="0" name="bottom"/>
+  <anchor x="540.303" y="10" name="ogonek"/>
+  <anchor x="546.303" y="681" name="top_1"/>
+  <anchor x="898" y="532" name="top_2"/>
   <outline>
     <component base="A" xOffset="199.303"/>
     <component base="iota" xOffset="708"/>
@@ -67,6 +67,10 @@
           <string>psilioxia</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>iota</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Oinvertedbreve" format="2">
-  <advance width="747"/>
+  <advance width="752"/>
   <unicode hex="020E"/>
-  <anchor x="372" y="0" name="bottom"/>
-  <anchor x="396" y="347" name="center"/>
-  <anchor x="613" y="10" name="ogonek"/>
-  <anchor x="597" y="930" name="top"/>
-  <anchor x="125" y="693" name="topleft"/>
-  <anchor x="832" y="693" name="topright"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="334" y="347" name="center"/>
+  <anchor x="551" y="10" name="ogonek"/>
+  <anchor x="532" y="930" name="top"/>
+  <anchor x="63" y="693" name="topleft"/>
+  <anchor x="770" y="693" name="topright"/>
   <outline>
     <component base="O"/>
     <component base="breveinvertedcomb" xOffset="254" yOffset="156"/>
@@ -44,7 +44,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
       <string>O</string>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

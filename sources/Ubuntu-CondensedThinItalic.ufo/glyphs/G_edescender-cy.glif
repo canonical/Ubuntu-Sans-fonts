@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Gedescender-cy" format="2">
-  <advance width="351.5"/>
+  <advance width="353"/>
   <unicode hex="04F6"/>
   <outline>
     <contour>
-      <point x="73" y="-185" type="line"/>
-      <point x="103" y="-185" type="line"/>
-      <point x="155" y="28" type="line"/>
-      <point x="123" y="28" type="line"/>
-      <point x="276" y="665" type="line"/>
-      <point x="485" y="665" type="line"/>
-      <point x="490" y="693" type="line"/>
-      <point x="253" y="693" type="line"/>
-      <point x="87" y="0" type="line"/>
-      <point x="117" y="0" type="line"/>
+      <point x="12" y="-185" type="line"/>
+      <point x="42" y="-185" type="line"/>
+      <point x="94" y="28" type="line"/>
+      <point x="62" y="28" type="line"/>
+      <point x="215" y="665" type="line"/>
+      <point x="424" y="665" type="line"/>
+      <point x="429" y="693" type="line"/>
+      <point x="192" y="693" type="line"/>
+      <point x="26" y="0" type="line"/>
+      <point x="56" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -45,6 +45,10 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>En-cy</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

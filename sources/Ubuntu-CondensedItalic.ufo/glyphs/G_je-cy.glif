@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Gje-cy" format="2">
-  <advance width="379"/>
+  <advance width="380"/>
   <unicode hex="0403"/>
-  <anchor x="296" y="0" name="bottomright"/>
-  <anchor x="461" y="933" name="top"/>
+  <anchor x="234" y="0" name="bottomright"/>
+  <anchor x="397" y="933" name="top"/>
   <outline>
     <component base="Ge-cy"/>
-    <component base="acutecomb" xOffset="131" yOffset="155"/>
+    <component base="acutecomb" xOffset="69" yOffset="155"/>
   </outline>
   <lib>
     <dict>
@@ -37,8 +37,10 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>En-cy</string>
       <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

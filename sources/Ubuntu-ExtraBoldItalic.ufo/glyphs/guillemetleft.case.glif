@@ -2,8 +2,8 @@
 <glyph name="guillemetleft.case" format="2">
   <advance width="623"/>
   <outline>
-    <component base="guilsinglleft" xOffset="14" yOffset="62"/>
-    <component base="guilsinglleft" xOffset="284" yOffset="62"/>
+    <component base="guilsinglleft" xOffset="15" yOffset="62"/>
+    <component base="guilsinglleft" xOffset="285" yOffset="62"/>
   </outline>
   <lib>
     <dict>
@@ -34,6 +34,12 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>guillemetleft</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>guillemetleft</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

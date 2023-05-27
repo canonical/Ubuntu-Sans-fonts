@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Kappa" format="2">
-  <advance width="518"/>
+  <advance width="519"/>
   <unicode hex="039A"/>
-  <anchor x="297" y="0" name="bottom"/>
-  <anchor x="445" y="681" name="top"/>
+  <anchor x="234" y="0" name="bottom"/>
+  <anchor x="382" y="681" name="top"/>
   <outline>
     <component base="K"/>
   </outline>
@@ -36,6 +36,8 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

@@ -2,13 +2,13 @@
 <glyph name="Iinvertedbreve" format="2">
   <advance width="322"/>
   <unicode hex="020A"/>
-  <anchor x="157" y="-6" name="bottom"/>
-  <anchor x="229" y="10" name="ogonek"/>
-  <anchor x="366" y="937" name="top"/>
-  <anchor x="123" y="693" name="topleft"/>
+  <anchor x="97" y="-6" name="bottom"/>
+  <anchor x="169" y="10" name="ogonek"/>
+  <anchor x="324" y="937" name="top"/>
+  <anchor x="63" y="693" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="breveinvertedcomb" xOffset="8" yOffset="161"/>
+    <component base="breveinvertedcomb" xOffset="-52" yOffset="161"/>
   </outline>
   <lib>
     <dict>
@@ -42,7 +42,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
       <string>I</string>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

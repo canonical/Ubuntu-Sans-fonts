@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Zeta" format="2">
-  <advance width="452"/>
+  <advance width="462"/>
   <unicode hex="0396"/>
-  <anchor x="227" y="0" name="bottom"/>
-  <anchor x="250" y="347" name="center"/>
-  <anchor x="392" y="681" name="top"/>
+  <anchor x="163" y="0" name="bottom"/>
+  <anchor x="186" y="347" name="center"/>
+  <anchor x="328" y="681" name="top"/>
   <outline>
     <component base="Z"/>
   </outline>
@@ -37,6 +37,8 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

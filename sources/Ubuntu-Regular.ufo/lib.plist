@@ -46,7 +46,7 @@
         <string>copyright</string>
       </dict>
     </dict>
-    <key>com.schriftgestaltung.Glyphs.glyphUserData.dollar.c2sc</key>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.dollar.osf</key>
     <dict>
       <key>RMXScaler</key>
       <dict>
@@ -62,7 +62,7 @@
         <string>Ertick-cy</string>
       </dict>
     </dict>
-    <key>com.schriftgestaltung.Glyphs.glyphUserData.euro.c2sc</key>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.euro.osf</key>
     <dict>
       <key>RMXScaler</key>
       <dict>
@@ -86,7 +86,7 @@
         <string>four</string>
       </dict>
     </dict>
-    <key>com.schriftgestaltung.Glyphs.glyphUserData.hryvnia.c2sc</key>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.hryvnia.osf</key>
     <dict>
       <key>RMXScaler</key>
       <dict>
@@ -134,7 +134,7 @@
         <string>paragraph</string>
       </dict>
     </dict>
-    <key>com.schriftgestaltung.Glyphs.glyphUserData.percent.c2sc</key>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.percent.osf</key>
     <dict>
       <key>RMXScaler</key>
       <dict>
@@ -150,7 +150,7 @@
         <string>registered</string>
       </dict>
     </dict>
-    <key>com.schriftgestaltung.Glyphs.glyphUserData.ruble.c2sc</key>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.ruble.osf</key>
     <dict>
       <key>RMXScaler</key>
       <dict>
@@ -158,7 +158,7 @@
         <string>ruble</string>
       </dict>
     </dict>
-    <key>com.schriftgestaltung.Glyphs.glyphUserData.rupeeIndian.c2sc</key>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.rupeeIndian.osf</key>
     <dict>
       <key>RMXScaler</key>
       <dict>
@@ -182,7 +182,7 @@
         <string>M</string>
       </dict>
     </dict>
-    <key>com.schriftgestaltung.Glyphs.glyphUserData.sterling.c2sc</key>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.sterling.osf</key>
     <dict>
       <key>RMXScaler</key>
       <dict>
@@ -190,7 +190,7 @@
         <string>sterling</string>
       </dict>
     </dict>
-    <key>com.schriftgestaltung.Glyphs.glyphUserData.tenge.c2sc</key>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.tenge.osf</key>
     <dict>
       <key>RMXScaler</key>
       <dict>
@@ -206,7 +206,7 @@
         <string>three</string>
       </dict>
     </dict>
-    <key>com.schriftgestaltung.Glyphs.glyphUserData.tugrik.c2sc</key>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.tugrik.osf</key>
     <dict>
       <key>RMXScaler</key>
       <dict>
@@ -222,7 +222,7 @@
         <string>two</string>
       </dict>
     </dict>
-    <key>com.schriftgestaltung.Glyphs.glyphUserData.yen.c2sc</key>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.yen.osf</key>
     <dict>
       <key>RMXScaler</key>
       <dict>
@@ -242,39 +242,6 @@
     <string>3192</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Export Mac Name Table Entries</key>
     <integer>0</integer>
-    <key>com.schriftgestaltung.customParameter.GSFont.Family Alignment Zones</key>
-    <array>
-      <dict>
-        <key>pos</key>
-        <integer>776</integer>
-        <key>size</key>
-        <integer>16</integer>
-      </dict>
-      <dict>
-        <key>pos</key>
-        <integer>693</integer>
-        <key>size</key>
-        <integer>16</integer>
-      </dict>
-      <dict>
-        <key>pos</key>
-        <integer>518</integer>
-        <key>size</key>
-        <integer>16</integer>
-      </dict>
-      <dict>
-        <key>pos</key>
-        <integer>0</integer>
-        <key>size</key>
-        <integer>-16</integer>
-      </dict>
-      <dict>
-        <key>pos</key>
-        <integer>-185</integer>
-        <key>size</key>
-        <integer>-16</integer>
-      </dict>
-    </array>
     <key>com.schriftgestaltung.customParameter.GSFont.Guides Palette Config</key>
     <dict>
       <key>showAngle</key>
@@ -311,7 +278,7 @@
     <key>com.schriftgestaltung.customParameter.GSFontMaster.iconName</key>
     <string></string>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.weightValue</key>
-    <integer>357</integer>
+    <integer>400</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
     <integer>100</integer>
     <key>com.schriftgestaltung.fontMasterID</key>
@@ -323,7 +290,7 @@
     <key>com.schriftgestaltung.weight</key>
     <string>Regular</string>
     <key>com.schriftgestaltung.weightValue</key>
-    <integer>357</integer>
+    <integer>400</integer>
     <key>com.schriftgestaltung.width</key>
     <string>Regular</string>
     <key>com.schriftgestaltung.widthValue</key>
@@ -2211,16 +2178,16 @@
       <string>section.c2sc</string>
       <string>copyright.c2sc</string>
       <string>registered.c2sc</string>
-      <string>dollar.c2sc</string>
-      <string>euro.c2sc</string>
-      <string>hryvnia.c2sc</string>
-      <string>ruble.c2sc</string>
-      <string>rupeeIndian.c2sc</string>
-      <string>sterling.c2sc</string>
-      <string>tenge.c2sc</string>
-      <string>tugrik.c2sc</string>
-      <string>yen.c2sc</string>
-      <string>percent.c2sc</string>
+      <string>dollar.osf</string>
+      <string>euro.osf</string>
+      <string>hryvnia.osf</string>
+      <string>ruble.osf</string>
+      <string>rupeeIndian.osf</string>
+      <string>sterling.osf</string>
+      <string>tenge.osf</string>
+      <string>tugrik.osf</string>
+      <string>yen.osf</string>
+      <string>percent.osf</string>
       <string>dotaccentcomb.i</string>
     </array>
     <key>public.postscriptNames</key>
@@ -3437,8 +3404,8 @@
       <string>uni01DD.sc</string>
       <key>euro</key>
       <string>Euro</string>
-      <key>euro.c2sc</key>
-      <string>Euro.c2sc</string>
+      <key>euro.osf</key>
+      <string>Euro.osf</string>
       <key>ezh</key>
       <string>uni0292</string>
       <key>ezh.sc</key>
@@ -3559,8 +3526,8 @@
       <string>uni2015</string>
       <key>hryvnia</key>
       <string>uni20B4</string>
-      <key>hryvnia.c2sc</key>
-      <string>uni20B4.c2sc</string>
+      <key>hryvnia.osf</key>
+      <string>uni20B4.osf</string>
       <key>hungarumlautcomb</key>
       <string>uni030B</string>
       <key>hungarumlautcomb.sc</key>
@@ -4085,12 +4052,12 @@
       <string>uni024D.sc</string>
       <key>ruble</key>
       <string>uni20BD</string>
-      <key>ruble.c2sc</key>
-      <string>uni20BD.c2sc</string>
+      <key>ruble.osf</key>
+      <string>uni20BD.osf</string>
       <key>rupeeIndian</key>
       <string>uni20B9</string>
-      <key>rupeeIndian.c2sc</key>
-      <string>uni20B9.c2sc</string>
+      <key>rupeeIndian.osf</key>
+      <string>uni20B9.osf</string>
       <key>schwa-cy</key>
       <string>uni04D9</string>
       <key>schwa-cy.sc</key>
@@ -4163,8 +4130,8 @@
       <string>uni04AD.sc</string>
       <key>tenge</key>
       <string>uni20B8</string>
-      <key>tenge.c2sc</key>
-      <string>uni20B8.c2sc</string>
+      <key>tenge.osf</key>
+      <string>uni20B8.osf</string>
       <key>tetse-cy</key>
       <string>uni04B5</string>
       <key>tetse-cy.sc</key>
@@ -4209,8 +4176,8 @@
       <string>uni045B.sc</string>
       <key>tugrik</key>
       <string>uni20AE</string>
-      <key>tugrik.c2sc</key>
-      <string>uni20AE.c2sc</string>
+      <key>tugrik.osf</key>
+      <string>uni20AE.osf</string>
       <key>twofifths</key>
       <string>uni2156</string>
       <key>twoinferior</key>

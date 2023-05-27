@@ -2,10 +2,10 @@
 <glyph name="iotadieresis" format="2">
   <advance width="213"/>
   <unicode hex="03CA"/>
-  <anchor x="273" y="706" name="top"/>
+  <anchor x="214" y="703" name="top"/>
   <outline>
     <component base="iota"/>
-    <component base="dieresiscomb" xOffset="-2"/>
+    <component base="dieresiscomb" xOffset="-64"/>
   </outline>
   <lib>
     <dict>
@@ -37,7 +37,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

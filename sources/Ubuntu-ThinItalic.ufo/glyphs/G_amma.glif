@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Gamma" format="2">
-  <advance width="465"/>
+  <advance width="435"/>
   <unicode hex="0393"/>
-  <anchor x="355" y="0" name="bottomright"/>
-  <anchor x="417" y="669" name="top"/>
+  <anchor x="291" y="0" name="bottomright"/>
+  <anchor x="353" y="669" name="top"/>
   <outline>
     <component base="Ge-cy"/>
   </outline>
@@ -36,6 +36,8 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

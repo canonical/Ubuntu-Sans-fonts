@@ -2,11 +2,11 @@
 <glyph name="omicronoxia" format="2">
   <advance width="410"/>
   <unicode hex="1F79"/>
-  <anchor x="202" y="0" name="bottom"/>
-  <anchor x="264" y="258" name="center"/>
-  <anchor x="309" y="10" name="ogonek"/>
-  <anchor x="326" y="516" name="top"/>
-  <anchor x="451" y="516" name="topright"/>
+  <anchor x="140" y="0" name="bottom"/>
+  <anchor x="202" y="258" name="center"/>
+  <anchor x="247" y="10" name="ogonek"/>
+  <anchor x="264" y="516" name="top"/>
+  <anchor x="389" y="516" name="topright"/>
   <outline>
     <component base="omicron"/>
     <component base="oxia" xOffset="15"/>
@@ -41,7 +41,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

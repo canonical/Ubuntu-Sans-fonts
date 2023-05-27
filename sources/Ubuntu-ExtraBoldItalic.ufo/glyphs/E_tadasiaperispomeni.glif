@@ -2,10 +2,10 @@
 <glyph name="Etadasiaperispomeni" format="2">
   <advance width="1021"/>
   <unicode hex="1F2F"/>
-  <anchor x="655" y="0" name="bottom"/>
-  <anchor x="728" y="347" name="center"/>
-  <anchor x="802" y="685" name="top"/>
-  <anchor x="420" y="693" name="topleft"/>
+  <anchor x="595" y="0" name="bottom"/>
+  <anchor x="668" y="347" name="center"/>
+  <anchor x="742" y="685" name="top"/>
+  <anchor x="360" y="693" name="topleft"/>
   <outline>
     <component base="H" xOffset="297"/>
     <component base="dasiaperispomeni" xOffset="-49" yOffset="-117"/>
@@ -58,6 +58,10 @@
           <string>dasiaperispomeni</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Eta</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

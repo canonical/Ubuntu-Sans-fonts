@@ -2,7 +2,7 @@
 <glyph name="epsilontonos" format="2">
   <advance width="376"/>
   <unicode hex="03AD"/>
-  <anchor x="339" y="522" name="top"/>
+  <anchor x="276" y="522" name="top"/>
   <outline>
     <component base="epsilon"/>
     <component base="tonos" xOffset="78"/>
@@ -37,7 +37,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

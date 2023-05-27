@@ -2,15 +2,15 @@
 <glyph name="Omicronvaria" format="2">
   <advance width="702"/>
   <unicode hex="1FF8"/>
-  <anchor x="410" y="0" name="bottom"/>
-  <anchor x="494" y="347" name="center"/>
-  <anchor x="584" y="10" name="ogonek"/>
-  <anchor x="571" y="677" name="top"/>
-  <anchor x="242" y="693" name="topleft"/>
-  <anchor x="786" y="693" name="topright"/>
+  <anchor x="347" y="0" name="bottom"/>
+  <anchor x="431" y="347" name="center"/>
+  <anchor x="521" y="10" name="ogonek"/>
+  <anchor x="508" y="677" name="top"/>
+  <anchor x="179" y="693" name="topleft"/>
+  <anchor x="723" y="693" name="topright"/>
   <outline>
     <component base="O" xOffset="118"/>
-    <component base="grave" xOffset="-91" yOffset="-61"/>
+    <component base="grave" xOffset="-154" yOffset="-61"/>
   </outline>
   <lib>
     <dict>
@@ -60,6 +60,10 @@
           <string>grave</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Omicron</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

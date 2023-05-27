@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Rdblgrave" format="2">
-  <advance width="666"/>
+  <advance width="667"/>
   <unicode hex="0210"/>
-  <anchor x="361" y="0" name="bottom"/>
-  <anchor x="449" y="960" name="top"/>
+  <anchor x="302" y="0" name="bottom"/>
+  <anchor x="466" y="960" name="top"/>
   <outline>
     <component base="R"/>
-    <component base="dblgravecomb" xOffset="64" yOffset="161"/>
+    <component base="dblgravecomb" xOffset="5" yOffset="161"/>
   </outline>
   <lib>
     <dict>
@@ -38,7 +38,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

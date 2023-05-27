@@ -2,10 +2,10 @@
 <glyph name="schwadieresis-cy" format="2">
   <advance width="473"/>
   <unicode hex="04DB"/>
-  <anchor x="345" y="706" name="top"/>
+  <anchor x="286" y="703" name="top"/>
   <outline>
     <component base="schwa-cy"/>
-    <component base="dieresiscomb" xOffset="70"/>
+    <component base="dieresiscomb" xOffset="8"/>
   </outline>
   <lib>
     <dict>
@@ -37,7 +37,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

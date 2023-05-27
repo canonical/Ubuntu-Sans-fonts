@@ -2,11 +2,11 @@
 <glyph name="AEmacron" format="2">
   <advance width="911"/>
   <unicode hex="01E2"/>
-  <anchor x="394" y="0" name="bottom"/>
-  <anchor x="810" y="862" name="top"/>
+  <anchor x="331" y="0" name="bottom"/>
+  <anchor x="752" y="862" name="top"/>
   <outline>
     <component base="AE"/>
-    <component base="macroncomb" xOffset="487" yOffset="156"/>
+    <component base="macroncomb" xOffset="424" yOffset="156"/>
   </outline>
   <lib>
     <dict>
@@ -38,7 +38,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

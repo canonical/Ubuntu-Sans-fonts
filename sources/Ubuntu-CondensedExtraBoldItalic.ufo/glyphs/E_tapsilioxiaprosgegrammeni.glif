@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Etapsilioxiaprosgegrammeni" format="2">
-  <advance width="1138"/>
+  <advance width="1139"/>
   <unicode hex="1F9C"/>
-  <anchor x="574.0129999999999" y="0" name="bottom"/>
-  <anchor x="657.0129999999999" y="347" name="center"/>
-  <anchor x="1117" y="532" name="top_1"/>
-  <anchor x="738.0129999999999" y="681" name="top_2"/>
-  <anchor x="415.013" y="693" name="topleft"/>
+  <anchor x="511.013" y="0" name="bottom"/>
+  <anchor x="594.0129999999999" y="347" name="center"/>
+  <anchor x="1053" y="532" name="top_1"/>
+  <anchor x="675.0129999999999" y="681" name="top_2"/>
+  <anchor x="352.013" y="693" name="topleft"/>
   <outline>
     <component base="iota" xOffset="863"/>
     <component base="H" xOffset="292.013"/>
@@ -68,6 +68,10 @@
           <string>psilioxia</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>iota</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

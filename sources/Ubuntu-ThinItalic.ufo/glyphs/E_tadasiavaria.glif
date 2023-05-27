@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Etadasiavaria" format="2">
-  <advance width="822"/>
+  <advance width="876"/>
   <unicode hex="1F2B"/>
-  <anchor x="551" y="0" name="bottom"/>
-  <anchor x="632" y="347" name="center"/>
-  <anchor x="713" y="669" name="top"/>
-  <anchor x="360" y="693" name="topleft"/>
+  <anchor x="489" y="0" name="bottom"/>
+  <anchor x="570" y="347" name="center"/>
+  <anchor x="651" y="669" name="top"/>
+  <anchor x="298" y="693" name="topleft"/>
   <outline>
     <component base="H" xOffset="235"/>
     <component base="dasiavaria" xOffset="-36" yOffset="-74"/>
@@ -58,6 +58,10 @@
           <string>dasiavaria</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Eta</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

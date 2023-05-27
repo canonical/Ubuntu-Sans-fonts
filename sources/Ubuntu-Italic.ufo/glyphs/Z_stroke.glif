@@ -4,32 +4,32 @@
   <unicode hex="01B5"/>
   <outline>
     <contour>
-      <point x="46" y="0" type="line"/>
-      <point x="521" y="0" type="line"/>
-      <point x="536" y="67" type="line"/>
-      <point x="153" y="67" type="line"/>
-      <point x="213" y="147"/>
-      <point x="294" y="242"/>
-      <point x="377" y="333" type="curve"/>
-      <point x="572" y="333" type="line"/>
-      <point x="586" y="394" type="line"/>
-      <point x="433" y="394" type="line"/>
-      <point x="524" y="491"/>
-      <point x="610" y="576"/>
-      <point x="665" y="626" type="curve"/>
-      <point x="680" y="693" type="line"/>
-      <point x="228" y="693" type="line"/>
-      <point x="212" y="626" type="line"/>
-      <point x="569" y="626" type="line"/>
-      <point x="509" y="569"/>
-      <point x="426" y="484"/>
-      <point x="343" y="394" type="curve"/>
-      <point x="179" y="394" type="line"/>
-      <point x="164" y="333" type="line"/>
-      <point x="287" y="333" type="line"/>
-      <point x="198" y="232"/>
-      <point x="113" y="131"/>
-      <point x="58" y="56" type="curve"/>
+      <point x="-17" y="0" type="line"/>
+      <point x="458" y="0" type="line"/>
+      <point x="473" y="67" type="line"/>
+      <point x="90" y="67" type="line"/>
+      <point x="150" y="147"/>
+      <point x="231" y="242"/>
+      <point x="314" y="333" type="curve"/>
+      <point x="509" y="333" type="line"/>
+      <point x="523" y="394" type="line"/>
+      <point x="370" y="394" type="line"/>
+      <point x="461" y="491"/>
+      <point x="547" y="576"/>
+      <point x="602" y="626" type="curve"/>
+      <point x="617" y="693" type="line"/>
+      <point x="165" y="693" type="line"/>
+      <point x="149" y="626" type="line"/>
+      <point x="506" y="626" type="line"/>
+      <point x="446" y="569"/>
+      <point x="363" y="484"/>
+      <point x="280" y="394" type="curve"/>
+      <point x="116" y="394" type="line"/>
+      <point x="101" y="333" type="line"/>
+      <point x="224" y="333" type="line"/>
+      <point x="135" y="232"/>
+      <point x="50" y="131"/>
+      <point x="-5" y="56" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -61,6 +61,12 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Z</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Z</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="macroncomb" format="2">
   <unicode hex="0304"/>
-  <anchor x="309" y="526" name="_top"/>
-  <anchor x="357" y="725" name="top"/>
+  <anchor x="314" y="526" name="_top"/>
+  <anchor x="362" y="725" name="top"/>
   <outline>
     <component base="macron"/>
   </outline>
@@ -37,6 +37,8 @@
       </dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>386</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

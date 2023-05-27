@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="IJacute" format="2">
-  <advance width="691"/>
-  <anchor x="144" y="0" name="bottom_1"/>
-  <anchor x="453" y="0" name="bottom_2"/>
-  <anchor x="202" y="10" name="ogonek"/>
-  <anchor x="308" y="681" name="top_1"/>
-  <anchor x="716" y="681" name="top_2"/>
-  <anchor x="123" y="693" name="topleft"/>
+  <advance width="702"/>
+  <anchor x="81" y="0" name="bottom_1"/>
+  <anchor x="400" y="0" name="bottom_2"/>
+  <anchor x="139" y="10" name="ogonek"/>
+  <anchor x="245" y="681" name="top_1"/>
+  <anchor x="663" y="681" name="top_2"/>
+  <anchor x="60" y="693" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="J" xOffset="282"/>
-    <component base="acutecomb" xOffset="453" yOffset="150"/>
-    <component base="acutecomb" xOffset="44" yOffset="150"/>
+    <component base="J" xOffset="293"/>
+    <component base="acutecomb" xOffset="387" yOffset="149"/>
+    <component base="acutecomb" xOffset="-31" yOffset="148"/>
   </outline>
   <lib>
     <dict>

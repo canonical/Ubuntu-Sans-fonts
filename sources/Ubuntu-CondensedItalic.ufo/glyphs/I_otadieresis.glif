@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Iotadieresis" format="2">
-  <advance width="238"/>
+  <advance width="236"/>
   <unicode hex="03AA"/>
-  <anchor x="114" y="-16" name="bottom"/>
-  <anchor x="154" y="10" name="ogonek"/>
-  <anchor x="323" y="873" name="top"/>
-  <anchor x="124" y="693" name="topleft"/>
+  <anchor x="50" y="-16" name="bottom"/>
+  <anchor x="90" y="10" name="ogonek"/>
+  <anchor x="264" y="873" name="top"/>
+  <anchor x="60" y="693" name="topleft"/>
   <outline>
     <component base="Iota"/>
-    <component base="dieresiscomb" xOffset="-10" yOffset="155"/>
+    <component base="dieresiscomb" xOffset="-74" yOffset="155"/>
   </outline>
   <lib>
     <dict>
@@ -40,7 +40,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

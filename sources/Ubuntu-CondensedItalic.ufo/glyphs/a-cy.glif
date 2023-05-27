@@ -2,9 +2,9 @@
 <glyph name="a-cy" format="2">
   <advance width="450"/>
   <unicode hex="0430"/>
-  <anchor x="233" y="0" name="bottom"/>
-  <anchor x="345" y="10" name="ogonek"/>
-  <anchor x="359" y="522" name="top"/>
+  <anchor x="170" y="0" name="bottom"/>
+  <anchor x="282" y="10" name="ogonek"/>
+  <anchor x="296" y="522" name="top"/>
   <outline>
     <component base="a"/>
   </outline>
@@ -37,6 +37,8 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="divisionslash" format="2">
-  <advance width="146.8"/>
+  <advance width="420"/>
   <unicode hex="2215"/>
   <outline>
-    <component base="fraction"/>
+    <component base="fraction" xOffset="137"/>
   </outline>
   <lib>
     <dict>
@@ -45,6 +45,8 @@
           <string>fraction</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

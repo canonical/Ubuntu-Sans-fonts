@@ -2,10 +2,10 @@
 <glyph name="Palochka-cy" format="2">
   <advance width="205.3"/>
   <unicode hex="04C0"/>
-  <anchor x="99" y="-21" name="bottom"/>
-  <anchor x="125" y="10" name="ogonek"/>
-  <anchor x="265" y="672" name="top"/>
-  <anchor x="124" y="693" name="topleft"/>
+  <anchor x="36" y="-21" name="bottom"/>
+  <anchor x="62" y="10" name="ogonek"/>
+  <anchor x="202" y="672" name="top"/>
+  <anchor x="61" y="693" name="topleft"/>
   <outline>
     <component base="I"/>
   </outline>
@@ -49,6 +49,8 @@
           <string>I</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

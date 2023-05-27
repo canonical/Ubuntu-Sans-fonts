@@ -2,9 +2,9 @@
 <glyph name="Alphadasiaperispomeni" format="2">
   <advance width="655"/>
   <unicode hex="1F0F"/>
-  <anchor x="340" y="0" name="bottom"/>
-  <anchor x="531" y="10" name="ogonek"/>
-  <anchor x="498" y="674" name="top"/>
+  <anchor x="277" y="0" name="bottom"/>
+  <anchor x="468" y="10" name="ogonek"/>
+  <anchor x="435" y="674" name="top"/>
   <outline>
     <component base="A" xOffset="13"/>
     <component base="dasiaperispomeni" xOffset="-202" yOffset="-105"/>
@@ -57,6 +57,10 @@
           <string>dasiaperispomeni</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Alpha</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

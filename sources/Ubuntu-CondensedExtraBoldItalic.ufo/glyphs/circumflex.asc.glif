@@ -1,14 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflex.asc" format="2">
   <advance width="310"/>
+  <anchor x="342" y="776" name="_top"/>
   <outline>
     <contour>
-      <point x="270" y="820" type="line"/>
-      <point x="361" y="869" type="line"/>
-      <point x="432" y="820" type="line"/>
-      <point x="484" y="876" type="line"/>
-      <point x="378" y="972" type="line"/>
-      <point x="228" y="874" type="line"/>
+      <point x="270" y="814" type="line"/>
+      <point x="361" y="863" type="line"/>
+      <point x="432" y="814" type="line"/>
+      <point x="484" y="870" type="line"/>
+      <point x="378" y="966" type="line"/>
+      <point x="228" y="868" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -40,6 +41,8 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
     </dict>
   </lib>
 </glyph>

@@ -2,12 +2,12 @@
 <glyph name="Upsilonvrachy" format="2">
   <advance width="416"/>
   <unicode hex="1FE8"/>
-  <anchor x="212" y="0" name="bottom"/>
-  <anchor x="408" y="901" name="top"/>
-  <anchor x="124" y="693" name="topleft"/>
+  <anchor x="150" y="0" name="bottom"/>
+  <anchor x="352" y="901" name="top"/>
+  <anchor x="62" y="693" name="topleft"/>
   <outline>
     <component base="Y"/>
-    <component base="brevecomb" xOffset="93" yOffset="156"/>
+    <component base="brevecomb" xOffset="31" yOffset="156"/>
   </outline>
   <lib>
     <dict>
@@ -38,8 +38,10 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Upsilon</string>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

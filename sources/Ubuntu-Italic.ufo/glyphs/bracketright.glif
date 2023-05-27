@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bracketright" format="2">
-  <advance width="324"/>
+  <advance width="323"/>
   <unicode hex="005D"/>
   <outline>
     <contour>
-      <point x="-45" y="-185" type="line"/>
-      <point x="160" y="-185" type="line"/>
-      <point x="393" y="783" type="line"/>
-      <point x="188" y="783" type="line"/>
-      <point x="174" y="725" type="line"/>
-      <point x="310" y="725" type="line"/>
-      <point x="104" y="-127" type="line"/>
-      <point x="-31" y="-127" type="line"/>
+      <point x="-93" y="-185" type="line"/>
+      <point x="112" y="-185" type="line"/>
+      <point x="345" y="783" type="line"/>
+      <point x="140" y="783" type="line"/>
+      <point x="126" y="725" type="line"/>
+      <point x="262" y="725" type="line"/>
+      <point x="56" y="-127" type="line"/>
+      <point x="-79" y="-127" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -43,6 +43,12 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|bracketleft</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|bracketleft</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

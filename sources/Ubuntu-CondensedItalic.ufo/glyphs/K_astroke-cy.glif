@@ -4,33 +4,33 @@
   <unicode hex="049E"/>
   <outline>
     <contour>
-      <point x="82" y="0" type="line"/>
-      <point x="154" y="0" type="line"/>
-      <point x="233" y="330" type="line"/>
-      <point x="307" y="246"/>
-      <point x="358" y="115"/>
-      <point x="379" y="0" type="curve"/>
-      <point x="454" y="0" type="line"/>
-      <point x="433" y="118"/>
-      <point x="379" y="248"/>
-      <point x="303" y="354" type="curve"/>
-      <point x="419" y="470"/>
-      <point x="509" y="581"/>
-      <point x="601" y="693" type="curve"/>
-      <point x="526" y="693" type="line"/>
-      <point x="444" y="593"/>
-      <point x="352" y="482"/>
-      <point x="243" y="374" type="curve"/>
-      <point x="289" y="562" type="line"/>
-      <point x="358" y="562" type="line"/>
-      <point x="371" y="616" type="line"/>
-      <point x="302" y="616" type="line"/>
-      <point x="320" y="693" type="line"/>
-      <point x="248" y="693" type="line"/>
-      <point x="230" y="616" type="line"/>
-      <point x="165" y="616" type="line"/>
-      <point x="152" y="562" type="line"/>
-      <point x="217" y="562" type="line"/>
+      <point x="19" y="0" type="line"/>
+      <point x="91" y="0" type="line"/>
+      <point x="170" y="330" type="line"/>
+      <point x="244" y="246"/>
+      <point x="295" y="115"/>
+      <point x="316" y="0" type="curve"/>
+      <point x="391" y="0" type="line"/>
+      <point x="370" y="118"/>
+      <point x="316" y="248"/>
+      <point x="240" y="354" type="curve"/>
+      <point x="356" y="470"/>
+      <point x="446" y="581"/>
+      <point x="538" y="693" type="curve"/>
+      <point x="463" y="693" type="line"/>
+      <point x="381" y="593"/>
+      <point x="289" y="482"/>
+      <point x="180" y="374" type="curve"/>
+      <point x="226" y="562" type="line"/>
+      <point x="295" y="562" type="line"/>
+      <point x="308" y="616" type="line"/>
+      <point x="239" y="616" type="line"/>
+      <point x="257" y="693" type="line"/>
+      <point x="185" y="693" type="line"/>
+      <point x="167" y="616" type="line"/>
+      <point x="102" y="616" type="line"/>
+      <point x="89" y="562" type="line"/>
+      <point x="154" y="562" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -62,6 +62,10 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ka-cy</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

@@ -2,12 +2,12 @@
 <glyph name="i" format="2">
   <advance width="250"/>
   <unicode hex="0069"/>
-  <anchor x="125" y="0" name="bottom"/>
-  <anchor x="165" y="10" name="ogonek"/>
-  <anchor x="307" y="746" name="top"/>
+  <anchor x="62" y="0" name="bottom"/>
+  <anchor x="102" y="10" name="ogonek"/>
+  <anchor x="241" y="746" name="top"/>
   <outline>
     <component base="idotless"/>
-    <component base="dotaccentcomb.i" xOffset="190"/>
+    <component base="dotaccentcomb.i" xOffset="124"/>
   </outline>
   <lib>
     <dict>
@@ -38,6 +38,8 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

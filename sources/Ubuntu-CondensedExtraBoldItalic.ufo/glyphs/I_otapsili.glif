@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Iotapsili" format="2">
-  <advance width="396"/>
+  <advance width="397"/>
   <unicode hex="1F38"/>
-  <anchor x="248.149" y="0" name="bottom"/>
-  <anchor x="306.149" y="10" name="ogonek"/>
-  <anchor x="412.149" y="681" name="top"/>
-  <anchor x="227.149" y="693" name="topleft"/>
+  <anchor x="185.149" y="0" name="bottom"/>
+  <anchor x="243.149" y="10" name="ogonek"/>
+  <anchor x="349.149" y="681" name="top"/>
+  <anchor x="164.149" y="693" name="topleft"/>
   <outline>
     <component base="I" xOffset="104.149"/>
     <component base="psili" xOffset="-104" yOffset="-89"/>
@@ -58,6 +58,10 @@
           <string>psili</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Iota</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

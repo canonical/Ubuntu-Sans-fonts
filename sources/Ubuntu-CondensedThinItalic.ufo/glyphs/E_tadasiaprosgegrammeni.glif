@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Etadasiaprosgegrammeni" format="2">
-  <advance width="801.65"/>
+  <advance width="803"/>
   <unicode hex="1F99"/>
-  <anchor x="329" y="0" name="bottom"/>
-  <anchor x="412" y="347" name="center"/>
-  <anchor x="818" y="516" name="top_1"/>
-  <anchor x="487" y="672" name="top_2"/>
-  <anchor x="195" y="693" name="topleft"/>
+  <anchor x="267" y="0" name="bottom"/>
+  <anchor x="350" y="347" name="center"/>
+  <anchor x="756" y="516" name="top_1"/>
+  <anchor x="425" y="672" name="top_2"/>
+  <anchor x="133" y="693" name="topleft"/>
   <outline>
     <component base="iota" xOffset="598"/>
     <component base="H" xOffset="71"/>
@@ -68,6 +68,10 @@
           <string>dasia</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>iota</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

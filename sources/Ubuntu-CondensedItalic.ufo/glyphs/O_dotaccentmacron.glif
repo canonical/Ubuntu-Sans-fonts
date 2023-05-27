@@ -2,15 +2,15 @@
 <glyph name="Odotaccentmacron" format="2">
   <advance width="584"/>
   <unicode hex="0230"/>
-  <anchor x="292" y="0" name="bottom"/>
-  <anchor x="376" y="347" name="center"/>
-  <anchor x="466" y="10" name="ogonek"/>
-  <anchor x="453" y="677" name="top"/>
-  <anchor x="124" y="693" name="topleft"/>
-  <anchor x="668" y="693" name="topright"/>
+  <anchor x="229" y="0" name="bottom"/>
+  <anchor x="313" y="347" name="center"/>
+  <anchor x="403" y="10" name="ogonek"/>
+  <anchor x="457" y="955" name="top"/>
+  <anchor x="61" y="693" name="topleft"/>
+  <anchor x="605" y="693" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="dot_macron" xOffset="173" yOffset="155"/>
+    <component base="dot_macron" xOffset="110" yOffset="155"/>
   </outline>
   <lib>
     <dict>
@@ -42,7 +42,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

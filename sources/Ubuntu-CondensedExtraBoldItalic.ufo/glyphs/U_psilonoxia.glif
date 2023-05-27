@@ -2,12 +2,12 @@
 <glyph name="Upsilonoxia" format="2">
   <advance width="693"/>
   <unicode hex="1FEB"/>
-  <anchor x="441.892" y="0" name="bottom"/>
-  <anchor x="602.892" y="681" name="top"/>
-  <anchor x="309.892" y="693" name="topleft"/>
+  <anchor x="377.892" y="0" name="bottom"/>
+  <anchor x="538.892" y="681" name="top"/>
+  <anchor x="245.892" y="693" name="topleft"/>
   <outline>
     <component base="Y" xOffset="186.892"/>
-    <component base="acute" xOffset="-84" yOffset="-69"/>
+    <component base="acute" xOffset="-149" yOffset="-69"/>
   </outline>
   <lib>
     <dict>
@@ -57,6 +57,10 @@
           <string>acute</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Upsilon</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

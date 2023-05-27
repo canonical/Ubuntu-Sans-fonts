@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Iigrave-cy" format="2">
-  <advance width="648"/>
+  <advance width="647"/>
   <unicode hex="040D"/>
-  <guideline x="351" y="0" angle="103.5"/>
-  <anchor x="566" y="0" name="bottomright"/>
-  <anchor x="531" y="917" name="top"/>
+  <guideline x="350" y="0" angle="103.5"/>
+  <anchor x="504" y="0" name="bottomright"/>
+  <anchor x="479" y="917" name="top"/>
   <outline>
     <component base="Ii-cy"/>
-    <component base="gravecomb" xOffset="179" yOffset="156"/>
+    <component base="gravecomb" xOffset="117" yOffset="156"/>
   </outline>
   <lib>
     <dict>
@@ -38,8 +38,12 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>En-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>En-cy</string>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

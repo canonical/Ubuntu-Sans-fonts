@@ -2,13 +2,13 @@
 <glyph name="iigrave-cy" format="2">
   <advance width="501"/>
   <unicode hex="045D"/>
-  <anchor x="237" y="0" name="bottom"/>
-  <anchor x="390" y="10" name="ogonek"/>
-  <anchor x="394" y="785" name="top"/>
-  <anchor x="545" y="532" name="topright"/>
+  <anchor x="173" y="0" name="bottom"/>
+  <anchor x="326" y="10" name="ogonek"/>
+  <anchor x="360" y="785" name="top"/>
+  <anchor x="481" y="532" name="topright"/>
   <outline>
     <component base="ii-cy"/>
-    <component base="gravecomb" xOffset="78"/>
+    <component base="gravecomb" xOffset="14"/>
   </outline>
   <lib>
     <dict>
@@ -40,7 +40,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

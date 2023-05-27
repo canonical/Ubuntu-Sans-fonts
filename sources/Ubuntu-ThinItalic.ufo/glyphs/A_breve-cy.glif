@@ -2,9 +2,9 @@
 <glyph name="Abreve-cy" format="2">
   <advance width="594"/>
   <unicode hex="04D0"/>
-  <anchor x="307" y="0" name="bottom"/>
-  <anchor x="476" y="10" name="ogonek"/>
-  <anchor x="512" y="883" name="top"/>
+  <anchor x="245" y="0" name="bottom"/>
+  <anchor x="414" y="10" name="ogonek"/>
+  <anchor x="450" y="883" name="top"/>
   <outline>
     <component base="A"/>
     <component base="brevecomb.cyr" xOffset="167" yOffset="156"/>
@@ -39,7 +39,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

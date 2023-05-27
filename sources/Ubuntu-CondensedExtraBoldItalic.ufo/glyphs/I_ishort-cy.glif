@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Iishort-cy" format="2">
-  <advance width="593"/>
+  <advance width="594"/>
   <unicode hex="0419"/>
-  <anchor x="509" y="0" name="bottomright"/>
-  <anchor x="498" y="911" name="top"/>
+  <anchor x="446" y="0" name="bottomright"/>
+  <anchor x="435" y="911" name="top"/>
   <outline>
     <component base="Ii-cy"/>
-    <component base="brevecomb.cyr" xOffset="163" yOffset="149"/>
+    <component base="brevecomb.cyr" xOffset="100" yOffset="149"/>
   </outline>
   <lib>
     <dict>
@@ -37,8 +37,12 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>En-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>En-cy</string>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

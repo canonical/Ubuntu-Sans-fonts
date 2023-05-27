@@ -2,10 +2,10 @@
 <glyph name="Iotatonos" format="2">
   <advance width="252.45"/>
   <unicode hex="038A"/>
-  <anchor x="146" y="-21" name="bottom"/>
-  <anchor x="172" y="10" name="ogonek"/>
-  <anchor x="312" y="672" name="top"/>
-  <anchor x="171" y="693" name="topleft"/>
+  <anchor x="83" y="-21" name="bottom"/>
+  <anchor x="109" y="10" name="ogonek"/>
+  <anchor x="249" y="672" name="top"/>
+  <anchor x="108" y="693" name="topleft"/>
   <outline>
     <component base="I" xOffset="47"/>
     <component base="tonos.cap" xOffset="-89"/>
@@ -58,6 +58,8 @@
           <string>tonos.cap</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

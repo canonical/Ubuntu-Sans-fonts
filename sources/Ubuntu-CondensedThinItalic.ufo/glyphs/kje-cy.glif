@@ -3,10 +3,10 @@
   <advance width="376"/>
   <unicode hex="045C"/>
   <anchor x="357" y="0" name="bottomright"/>
-  <anchor x="410" y="774" name="top"/>
+  <anchor x="272" y="774" name="top"/>
   <outline>
     <component base="ka-cy"/>
-    <component base="acutecomb" xOffset="85"/>
+    <component base="acutecomb" xOffset="-39"/>
   </outline>
   <lib>
     <dict>
@@ -37,8 +37,21 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>acutecomb</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ka-cy</string>
       <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

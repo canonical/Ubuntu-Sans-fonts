@@ -2,12 +2,12 @@
 <glyph name="Ainvertedbreve" format="2">
   <advance width="453"/>
   <unicode hex="0202"/>
-  <anchor x="221" y="0" name="bottom"/>
-  <anchor x="347" y="10" name="ogonek"/>
-  <anchor x="425" y="932" name="top"/>
+  <anchor x="159" y="0" name="bottom"/>
+  <anchor x="285" y="10" name="ogonek"/>
+  <anchor x="373" y="932" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="breveinvertedcomb" xOffset="117" yOffset="156"/>
+    <component base="breveinvertedcomb" xOffset="55" yOffset="156"/>
   </outline>
   <lib>
     <dict>
@@ -41,7 +41,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
       <string>A</string>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

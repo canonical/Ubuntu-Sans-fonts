@@ -4,13 +4,13 @@
   <unicode hex="0139"/>
   <guideline x="14" y="736" angle="0"/>
   <guideline x="14" y="932" angle="0"/>
-  <anchor x="280" y="0" name="bottom"/>
-  <anchor x="245" y="347" name="center"/>
-  <anchor x="368" y="917" name="top"/>
-  <anchor x="305" y="693" name="topright"/>
+  <anchor x="218" y="0" name="bottom"/>
+  <anchor x="183" y="347" name="center"/>
+  <anchor x="276" y="929" name="top"/>
+  <anchor x="243" y="693" name="topright"/>
   <outline>
     <component base="L"/>
-    <component base="acutecomb" xOffset="20" yOffset="156"/>
+    <component base="acutecomb" xOffset="-42" yOffset="156"/>
   </outline>
   <lib>
     <dict>
@@ -42,7 +42,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

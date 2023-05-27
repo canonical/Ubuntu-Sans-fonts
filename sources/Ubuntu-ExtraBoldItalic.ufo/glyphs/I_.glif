@@ -2,16 +2,16 @@
 <glyph name="I" format="2">
   <advance width="322"/>
   <unicode hex="0049"/>
-  <anchor x="157" y="-6" name="bottom"/>
-  <anchor x="229" y="10" name="ogonek"/>
-  <anchor x="323" y="687" name="top"/>
-  <anchor x="123" y="693" name="topleft"/>
+  <anchor x="97" y="-6" name="bottom"/>
+  <anchor x="169" y="10" name="ogonek"/>
+  <anchor x="263" y="687" name="top"/>
+  <anchor x="63" y="693" name="topleft"/>
   <outline>
     <contour>
-      <point x="80" y="0" type="line"/>
-      <point x="235" y="0" type="line"/>
-      <point x="402" y="693" type="line"/>
-      <point x="246" y="693" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="175" y="0" type="line"/>
+      <point x="342" y="693" type="line"/>
+      <point x="186" y="693" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -43,8 +43,12 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
       <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

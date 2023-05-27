@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ngrave" format="2">
-  <advance width="561"/>
+  <advance width="560"/>
   <unicode hex="01F8"/>
-  <anchor x="298" y="0" name="bottom"/>
-  <anchor x="468" y="933" name="top"/>
+  <anchor x="235" y="0" name="bottom"/>
+  <anchor x="429" y="933" name="top"/>
   <outline>
     <component base="N"/>
-    <component base="gravecomb" xOffset="148" yOffset="155"/>
+    <component base="gravecomb" xOffset="85" yOffset="155"/>
   </outline>
   <lib>
     <dict>
@@ -38,7 +38,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

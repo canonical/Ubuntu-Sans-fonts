@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Beta" format="2">
-  <advance width="668"/>
+  <advance width="672"/>
   <unicode hex="0392"/>
   <outline>
     <component base="B"/>
@@ -34,6 +34,8 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

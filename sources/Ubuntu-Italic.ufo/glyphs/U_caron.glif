@@ -2,13 +2,13 @@
 <glyph name="Ucaron" format="2">
   <advance width="662"/>
   <unicode hex="01D3"/>
-  <anchor x="327" y="0" name="bottom"/>
-  <anchor x="536" y="10" name="ogonek"/>
-  <anchor x="551" y="922" name="top"/>
-  <anchor x="746" y="693" name="topright"/>
+  <anchor x="264" y="0" name="bottom"/>
+  <anchor x="473" y="10" name="ogonek"/>
+  <anchor x="493" y="922" name="top"/>
+  <anchor x="683" y="693" name="topright"/>
   <outline>
     <component base="U"/>
-    <component base="caroncomb" xOffset="205" yOffset="156"/>
+    <component base="caroncomb" xOffset="142" yOffset="156"/>
   </outline>
   <lib>
     <dict>
@@ -40,7 +40,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

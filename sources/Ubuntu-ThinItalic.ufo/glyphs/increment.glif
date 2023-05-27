@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="increment" format="2">
-  <advance width="623"/>
+  <advance width="594"/>
   <unicode hex="2206"/>
   <outline>
     <component base="Delta"/>
@@ -34,6 +34,8 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

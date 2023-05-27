@@ -2,10 +2,10 @@
 <glyph name="Edieresis-cy" format="2">
   <advance width="600"/>
   <unicode hex="04EC"/>
-  <anchor x="404" y="862" name="top"/>
+  <anchor x="345" y="859" name="top"/>
   <outline>
     <component base="Ereversed-cy"/>
-    <component base="dieresiscomb" xOffset="129" yOffset="156"/>
+    <component base="dieresiscomb" xOffset="67" yOffset="156"/>
   </outline>
   <lib>
     <dict>
@@ -37,7 +37,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

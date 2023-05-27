@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Etaprosgegrammeni.alt" format="2">
-  <advance width="636"/>
-  <anchor x="316" y="0" name="bottom"/>
-  <anchor x="397" y="347" name="center"/>
-  <anchor x="478" y="669" name="top"/>
-  <anchor x="125" y="693" name="topleft"/>
+  <advance width="641"/>
+  <anchor x="254" y="0" name="bottom"/>
+  <anchor x="335" y="347" name="center"/>
+  <anchor x="416" y="669" name="top"/>
+  <anchor x="63" y="693" name="topleft"/>
   <outline>
     <component base="H"/>
     <component base="prosgegrammeni" xOffset="216"/>
@@ -57,6 +57,10 @@
           <string>prosgegrammeni</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Eta</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

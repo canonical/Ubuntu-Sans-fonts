@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Dzhe-cy" format="2">
-  <advance width="548"/>
+  <advance width="547"/>
   <unicode hex="040F"/>
   <outline>
     <contour>
-      <point x="195" y="-185" type="line"/>
-      <point x="265" y="-185" type="line"/>
-      <point x="309" y="0" type="line"/>
-      <point x="465" y="0" type="line"/>
-      <point x="631" y="693" type="line"/>
-      <point x="559" y="693" type="line"/>
-      <point x="408" y="62" type="line"/>
-      <point x="169" y="62" type="line"/>
-      <point x="321" y="693" type="line"/>
-      <point x="249" y="693" type="line"/>
-      <point x="83" y="0" type="line"/>
-      <point x="239" y="0" type="line"/>
+      <point x="132" y="-185" type="line"/>
+      <point x="202" y="-185" type="line"/>
+      <point x="246" y="0" type="line"/>
+      <point x="402" y="0" type="line"/>
+      <point x="568" y="693" type="line"/>
+      <point x="496" y="693" type="line"/>
+      <point x="345" y="62" type="line"/>
+      <point x="106" y="62" type="line"/>
+      <point x="258" y="693" type="line"/>
+      <point x="186" y="693" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="176" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -47,6 +47,12 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>En-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>En-cy</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

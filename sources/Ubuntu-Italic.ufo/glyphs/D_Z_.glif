@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="DZ" format="2">
-  <advance width="1218"/>
+  <advance width="1221"/>
   <unicode hex="01F1"/>
-  <anchor x="285" y="0" name="bottom_1"/>
-  <anchor x="931" y="0" name="bottom_2"/>
-  <anchor x="368" y="347" name="center_1"/>
-  <anchor x="959" y="347" name="center_2"/>
-  <anchor x="453" y="674" name="top_1"/>
-  <anchor x="1082" y="674" name="top_2"/>
+  <anchor x="226" y="0" name="bottom_1"/>
+  <anchor x="868" y="0" name="bottom_2"/>
+  <anchor x="309" y="347" name="center_1"/>
+  <anchor x="896" y="347" name="center_2"/>
+  <anchor x="394" y="674" name="top_1"/>
+  <anchor x="1019" y="674" name="top_2"/>
   <outline>
     <component base="D"/>
     <component base="Z" xOffset="654"/>
@@ -60,6 +60,12 @@
           <string>Z</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>D</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Z</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

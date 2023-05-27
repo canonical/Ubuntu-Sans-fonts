@@ -2,11 +2,11 @@
 <glyph name="sacute" format="2">
   <advance width="304"/>
   <unicode hex="015B"/>
-  <anchor x="165" y="0" name="bottom"/>
-  <anchor x="347" y="774" name="top"/>
+  <anchor x="103" y="0" name="bottom"/>
+  <anchor x="271" y="774" name="top"/>
   <outline>
     <component base="s"/>
-    <component base="acutecomb" xOffset="22"/>
+    <component base="acutecomb" xOffset="-40"/>
   </outline>
   <lib>
     <dict>
@@ -38,7 +38,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

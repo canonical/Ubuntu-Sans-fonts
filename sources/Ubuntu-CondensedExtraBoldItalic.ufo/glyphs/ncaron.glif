@@ -2,11 +2,11 @@
 <glyph name="ncaron" format="2">
   <advance width="496"/>
   <unicode hex="0148"/>
-  <anchor x="252" y="0" name="bottom"/>
-  <anchor x="419" y="790" name="top"/>
+  <anchor x="188" y="0" name="bottom"/>
+  <anchor x="360" y="790" name="top"/>
   <outline>
     <component base="n"/>
-    <component base="caroncomb" xOffset="75"/>
+    <component base="caroncomb" xOffset="11"/>
   </outline>
   <lib>
     <dict>
@@ -38,7 +38,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

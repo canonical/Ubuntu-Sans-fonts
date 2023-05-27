@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Schwa-cy" format="2">
-  <advance width="511.05"/>
+  <advance width="510"/>
   <unicode hex="04D8"/>
-  <anchor x="235" y="0" name="bottom"/>
-  <anchor x="380" y="672" name="top"/>
+  <anchor x="173" y="0" name="bottom"/>
+  <anchor x="318" y="672" name="top"/>
   <outline>
     <component base="Schwa"/>
   </outline>
@@ -47,6 +47,10 @@
           <string>Schwa</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O-cy</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

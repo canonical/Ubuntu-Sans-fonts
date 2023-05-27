@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Alphaprosgegrammeni.alt" format="2">
   <advance width="477"/>
-  <anchor x="233" y="0" name="bottom"/>
-  <anchor x="369" y="10" name="ogonek"/>
-  <anchor x="391" y="677" name="top"/>
+  <anchor x="170" y="0" name="bottom"/>
+  <anchor x="306" y="10" name="ogonek"/>
+  <anchor x="328" y="677" name="top"/>
   <outline>
     <component base="A"/>
     <component base="prosgegrammeni" xOffset="197"/>
@@ -56,6 +56,12 @@
           <string>prosgegrammeni</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Alpha</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Alpha</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

@@ -2,8 +2,8 @@
 <glyph name="Dzeabkhasian-cy" format="2">
   <advance width="536"/>
   <unicode hex="04E0"/>
-  <anchor x="222" y="0" name="bottom"/>
-  <anchor x="412" y="674" name="top"/>
+  <anchor x="159" y="0" name="bottom"/>
+  <anchor x="349" y="674" name="top"/>
   <outline>
     <component base="Ezh"/>
   </outline>
@@ -36,6 +36,8 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

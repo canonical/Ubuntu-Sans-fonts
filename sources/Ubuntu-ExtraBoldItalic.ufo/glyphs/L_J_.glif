@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="LJ" format="2">
-  <advance width="1100"/>
+  <advance width="1120"/>
   <unicode hex="01C7"/>
-  <anchor x="354" y="0" name="bottom_1"/>
-  <anchor x="784" y="0" name="bottom_2"/>
-  <anchor x="307" y="347" name="center"/>
-  <anchor x="340" y="687" name="top_1"/>
-  <anchor x="1105" y="687" name="top_2"/>
-  <anchor x="420" y="693" name="topright"/>
+  <anchor x="294" y="0" name="bottom_1"/>
+  <anchor x="734" y="0" name="bottom_2"/>
+  <anchor x="247" y="347" name="center"/>
+  <anchor x="280" y="687" name="top_1"/>
+  <anchor x="1055" y="687" name="top_2"/>
+  <anchor x="360" y="693" name="topright"/>
   <outline>
     <component base="L"/>
-    <component base="J" xOffset="584"/>
+    <component base="J" xOffset="594"/>
   </outline>
   <lib>
     <dict>
@@ -41,6 +41,12 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>L</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>J</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

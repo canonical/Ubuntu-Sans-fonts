@@ -2,14 +2,14 @@
 <glyph name="ocaron" format="2">
   <advance width="584"/>
   <unicode hex="01D2"/>
-  <anchor x="289" y="0" name="bottom"/>
-  <anchor x="352" y="263" name="center"/>
-  <anchor x="465" y="10" name="ogonek"/>
-  <anchor x="474" y="793" name="top"/>
-  <anchor x="627" y="526" name="topright"/>
+  <anchor x="229" y="0" name="bottom"/>
+  <anchor x="292" y="263" name="center"/>
+  <anchor x="405" y="10" name="ogonek"/>
+  <anchor x="419" y="793" name="top"/>
+  <anchor x="567" y="526" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="caroncomb" xOffset="97"/>
+    <component base="caroncomb" xOffset="37"/>
   </outline>
   <lib>
     <dict>
@@ -41,7 +41,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

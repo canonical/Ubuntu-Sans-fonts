@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Iinvertedbreve" format="2">
-  <advance width="213"/>
+  <advance width="212"/>
   <unicode hex="020A"/>
-  <anchor x="100" y="-24" name="bottom"/>
-  <anchor x="133" y="10" name="ogonek"/>
-  <anchor x="332" y="930" name="top"/>
-  <anchor x="125" y="693" name="topleft"/>
+  <anchor x="38" y="-24" name="bottom"/>
+  <anchor x="71" y="10" name="ogonek"/>
+  <anchor x="267" y="930" name="top"/>
+  <anchor x="63" y="693" name="topleft"/>
   <outline>
     <component base="I"/>
     <component base="breveinvertedcomb" xOffset="-11" yOffset="156"/>
@@ -42,7 +42,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
       <string>I</string>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

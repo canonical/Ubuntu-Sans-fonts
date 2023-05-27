@@ -2,11 +2,11 @@
 <glyph name="udieresis-cy" format="2">
   <advance width="542"/>
   <unicode hex="04F1"/>
-  <anchor x="208" y="0" name="bottom"/>
-  <anchor x="434" y="754" name="top"/>
+  <anchor x="148" y="0" name="bottom"/>
+  <anchor x="379" y="754" name="top"/>
   <outline>
     <component base="u-cy"/>
-    <component base="dieresiscomb" xOffset="-1"/>
+    <component base="dieresiscomb" xOffset="-61"/>
   </outline>
   <lib>
     <dict>
@@ -38,7 +38,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

@@ -2,14 +2,14 @@
 <glyph name="odotaccent" format="2">
   <advance width="541"/>
   <unicode hex="022F"/>
-  <anchor x="274" y="0" name="bottom"/>
-  <anchor x="336" y="259" name="center"/>
-  <anchor x="427" y="10" name="ogonek"/>
-  <anchor x="444" y="729" name="top"/>
-  <anchor x="583" y="518" name="topright"/>
+  <anchor x="211" y="0" name="bottom"/>
+  <anchor x="273" y="259" name="center"/>
+  <anchor x="364" y="10" name="ogonek"/>
+  <anchor x="386" y="729" name="top"/>
+  <anchor x="520" y="518" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="dotaccentcomb" xOffset="100"/>
+    <component base="dotaccentcomb" xOffset="37"/>
   </outline>
   <lib>
     <dict>
@@ -41,7 +41,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

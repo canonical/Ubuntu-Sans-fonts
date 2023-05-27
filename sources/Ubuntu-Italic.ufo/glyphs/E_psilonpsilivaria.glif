@@ -2,10 +2,10 @@
 <glyph name="Epsilonpsilivaria" format="2">
   <advance width="809"/>
   <unicode hex="1F1A"/>
-  <anchor x="555" y="0" name="bottom"/>
-  <anchor x="695" y="10" name="ogonek"/>
-  <anchor x="715" y="674" name="top"/>
-  <anchor x="391" y="693" name="topleft"/>
+  <anchor x="492" y="0" name="bottom"/>
+  <anchor x="632" y="10" name="ogonek"/>
+  <anchor x="652" y="674" name="top"/>
+  <anchor x="328" y="693" name="topleft"/>
   <outline>
     <component base="E" xOffset="267"/>
     <component base="psilivaria" xOffset="-66" yOffset="-57"/>
@@ -58,6 +58,10 @@
           <string>psilivaria</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Epsilon</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

@@ -2,9 +2,9 @@
 <glyph name="Te-cy" format="2">
   <advance width="544"/>
   <unicode hex="0422"/>
-  <anchor x="267" y="0" name="bottom"/>
-  <anchor x="293" y="347" name="center"/>
-  <anchor x="424" y="674" name="top"/>
+  <anchor x="204" y="0" name="bottom"/>
+  <anchor x="230" y="347" name="center"/>
+  <anchor x="361" y="674" name="top"/>
   <outline>
     <component base="T"/>
   </outline>
@@ -37,6 +37,8 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

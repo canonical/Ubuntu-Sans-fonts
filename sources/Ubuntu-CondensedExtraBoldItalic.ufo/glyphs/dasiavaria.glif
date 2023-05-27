@@ -2,30 +2,31 @@
 <glyph name="dasiavaria" format="2">
   <advance width="310"/>
   <unicode hex="1FDD"/>
+  <anchor x="244" y="532" name="_top"/>
   <outline>
     <contour>
-      <point x="386" y="576" type="line"/>
-      <point x="462" y="595" type="line"/>
-      <point x="425" y="806" type="line"/>
-      <point x="325" y="775" type="line"/>
+      <point x="322" y="576" type="line"/>
+      <point x="398" y="595" type="line"/>
+      <point x="361" y="806" type="line"/>
+      <point x="261" y="775" type="line"/>
     </contour>
     <contour>
-      <point x="245" y="570" type="curve"/>
-      <point x="290" y="604" type="line"/>
-      <point x="270" y="625"/>
-      <point x="251" y="651"/>
-      <point x="240" y="682" type="curve"/>
-      <point x="283" y="695"/>
-      <point x="303" y="726"/>
-      <point x="303" y="755" type="curve" smooth="yes"/>
-      <point x="303" y="787"/>
-      <point x="280" y="807"/>
-      <point x="248" y="807" type="curve" smooth="yes"/>
-      <point x="205" y="807"/>
-      <point x="165" y="771"/>
-      <point x="165" y="711" type="curve" smooth="yes"/>
-      <point x="165" y="657"/>
-      <point x="202" y="610"/>
+      <point x="181" y="570" type="curve"/>
+      <point x="226" y="604" type="line"/>
+      <point x="206" y="625"/>
+      <point x="187" y="651"/>
+      <point x="176" y="682" type="curve"/>
+      <point x="219" y="695"/>
+      <point x="239" y="726"/>
+      <point x="239" y="755" type="curve" smooth="yes"/>
+      <point x="239" y="787"/>
+      <point x="216" y="807"/>
+      <point x="184" y="807" type="curve" smooth="yes"/>
+      <point x="141" y="807"/>
+      <point x="101" y="771"/>
+      <point x="101" y="711" type="curve" smooth="yes"/>
+      <point x="101" y="657"/>
+      <point x="138" y="610"/>
     </contour>
   </outline>
   <lib>
@@ -57,6 +58,8 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
     </dict>
   </lib>
 </glyph>

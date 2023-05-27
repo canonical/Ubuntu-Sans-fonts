@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dblgravecomb" format="2">
   <unicode hex="030F"/>
-  <anchor x="273" y="513" name="_top"/>
+  <anchor x="324" y="513" name="_top"/>
   <anchor x="335" y="761" name="top"/>
   <outline>
     <component base="double_grave"/>
@@ -36,7 +36,9 @@
         <integer>0</integer>
       </dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <integer>346</integer>
+      <integer>299</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

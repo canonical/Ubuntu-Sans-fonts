@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Rcaron" format="2">
-  <advance width="493"/>
+  <advance width="492"/>
   <unicode hex="0158"/>
-  <anchor x="274" y="0" name="bottom"/>
-  <anchor x="439" y="919" name="top"/>
+  <anchor x="210" y="0" name="bottom"/>
+  <anchor x="380" y="919" name="top"/>
   <outline>
     <component base="R"/>
-    <component base="caroncomb" xOffset="108" yOffset="155"/>
+    <component base="caroncomb" xOffset="44" yOffset="155"/>
   </outline>
   <lib>
     <dict>
@@ -38,7 +38,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

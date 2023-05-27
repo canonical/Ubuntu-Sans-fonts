@@ -2,12 +2,12 @@
 <glyph name="Omicrondasia" format="2">
   <advance width="949"/>
   <unicode hex="1F49"/>
-  <anchor x="524" y="0" name="bottom"/>
-  <anchor x="607" y="347" name="center"/>
-  <anchor x="811" y="10" name="ogonek"/>
-  <anchor x="686" y="687" name="top"/>
-  <anchor x="305" y="693" name="topleft"/>
-  <anchor x="1032" y="693" name="topright"/>
+  <anchor x="464" y="0" name="bottom"/>
+  <anchor x="547" y="347" name="center"/>
+  <anchor x="751" y="10" name="ogonek"/>
+  <anchor x="626" y="687" name="top"/>
+  <anchor x="245" y="693" name="topleft"/>
+  <anchor x="972" y="693" name="topright"/>
   <outline>
     <component base="O" xOffset="182"/>
     <component base="dasia" xOffset="-106" yOffset="-117"/>
@@ -60,6 +60,10 @@
           <string>dasia</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Omicron</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

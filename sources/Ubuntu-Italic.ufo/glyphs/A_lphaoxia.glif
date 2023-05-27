@@ -2,12 +2,12 @@
 <glyph name="Alphaoxia" format="2">
   <advance width="646"/>
   <unicode hex="1FBB"/>
-  <anchor x="331" y="0" name="bottom"/>
-  <anchor x="522" y="10" name="ogonek"/>
-  <anchor x="489" y="674" name="top"/>
+  <anchor x="268" y="0" name="bottom"/>
+  <anchor x="459" y="10" name="ogonek"/>
+  <anchor x="426" y="674" name="top"/>
   <outline>
     <component base="A" xOffset="4"/>
-    <component base="acute" xOffset="-68" yOffset="-67"/>
+    <component base="acute" xOffset="-131" yOffset="-67"/>
   </outline>
   <lib>
     <dict>
@@ -57,6 +57,10 @@
           <string>acute</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Alpha</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

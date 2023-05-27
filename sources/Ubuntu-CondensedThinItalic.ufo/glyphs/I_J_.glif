@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="IJ" format="2">
-  <advance width="546.75"/>
+  <advance width="540"/>
   <unicode hex="0132"/>
-  <anchor x="105" y="-21" name="bottom_1"/>
-  <anchor x="313" y="0" name="bottom_2"/>
-  <anchor x="131" y="10" name="ogonek"/>
-  <anchor x="271" y="672" name="top_1"/>
-  <anchor x="610" y="672" name="top_2"/>
-  <anchor x="130" y="693" name="topleft"/>
+  <anchor x="36" y="-21" name="bottom_1"/>
+  <anchor x="245" y="0" name="bottom_2"/>
+  <anchor x="62" y="10" name="ogonek"/>
+  <anchor x="202" y="672" name="top_1"/>
+  <anchor x="542" y="672" name="top_2"/>
+  <anchor x="61" y="693" name="topleft"/>
   <outline>
-    <component base="I" xOffset="6"/>
-    <component base="J" xOffset="205"/>
+    <component base="I"/>
+    <component base="J" xOffset="199"/>
   </outline>
   <lib>
     <dict>
@@ -60,6 +60,12 @@
           <string>J</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>I</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>J</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

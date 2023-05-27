@@ -2,7 +2,7 @@
 <glyph name="Omegapsiliprosgegrammeni" format="2">
   <advance width="960"/>
   <unicode hex="1FA8"/>
-  <anchor x="938" y="532" name="top"/>
+  <anchor x="874" y="532" name="top"/>
   <outline>
     <component base="Omega" xOffset="86.051"/>
     <component base="iota" xOffset="684"/>
@@ -64,6 +64,10 @@
           <string>psili</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>iota</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

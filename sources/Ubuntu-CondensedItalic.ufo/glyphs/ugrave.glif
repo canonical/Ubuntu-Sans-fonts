@@ -2,13 +2,13 @@
 <glyph name="ugrave" format="2">
   <advance width="463"/>
   <unicode hex="00F9"/>
-  <anchor x="216" y="0" name="bottom"/>
-  <anchor x="357" y="10" name="ogonek"/>
-  <anchor x="378" y="778" name="top"/>
-  <anchor x="506" y="522" name="topright"/>
+  <anchor x="153" y="0" name="bottom"/>
+  <anchor x="294" y="10" name="ogonek"/>
+  <anchor x="339" y="778" name="top"/>
+  <anchor x="443" y="522" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="gravecomb" xOffset="58"/>
+    <component base="gravecomb" xOffset="-5"/>
   </outline>
   <lib>
     <dict>
@@ -40,7 +40,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

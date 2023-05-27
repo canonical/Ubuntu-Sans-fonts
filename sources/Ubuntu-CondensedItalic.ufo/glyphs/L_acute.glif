@@ -2,13 +2,13 @@
 <glyph name="Lacute" format="2">
   <advance width="397"/>
   <unicode hex="0139"/>
-  <anchor x="248" y="0" name="bottom"/>
-  <anchor x="220" y="347" name="center"/>
-  <anchor x="354" y="933" name="top"/>
-  <anchor x="333" y="693" name="topright"/>
+  <anchor x="185" y="0" name="bottom"/>
+  <anchor x="157" y="347" name="center"/>
+  <anchor x="289" y="933" name="top"/>
+  <anchor x="270" y="693" name="topright"/>
   <outline>
     <component base="L"/>
-    <component base="acutecomb" xOffset="24" yOffset="155"/>
+    <component base="acutecomb" xOffset="-39" yOffset="155"/>
   </outline>
   <lib>
     <dict>
@@ -40,7 +40,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

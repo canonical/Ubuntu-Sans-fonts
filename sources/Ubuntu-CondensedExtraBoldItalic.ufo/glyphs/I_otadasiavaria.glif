@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Iotadasiavaria" format="2">
-  <advance width="554"/>
+  <advance width="555"/>
   <unicode hex="1F3B"/>
-  <anchor x="406" y="0" name="bottom"/>
-  <anchor x="464" y="10" name="ogonek"/>
-  <anchor x="570" y="681" name="top"/>
-  <anchor x="385" y="693" name="topleft"/>
+  <anchor x="343" y="0" name="bottom"/>
+  <anchor x="401" y="10" name="ogonek"/>
+  <anchor x="507" y="681" name="top"/>
+  <anchor x="322" y="693" name="topleft"/>
   <outline>
     <component base="I" xOffset="262"/>
     <component base="dasiavaria" xOffset="-24" yOffset="-89"/>
@@ -58,6 +58,10 @@
           <string>dasiavaria</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Iota</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

@@ -2,11 +2,11 @@
 <glyph name="Rcaron" format="2">
   <advance width="469"/>
   <unicode hex="0158"/>
-  <anchor x="253" y="0" name="bottom"/>
-  <anchor x="424" y="900" name="top"/>
+  <anchor x="191" y="0" name="bottom"/>
+  <anchor x="367" y="900" name="top"/>
   <outline>
     <component base="R"/>
-    <component base="caroncomb" xOffset="101" yOffset="151"/>
+    <component base="caroncomb" xOffset="39" yOffset="151"/>
   </outline>
   <lib>
     <dict>
@@ -38,7 +38,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

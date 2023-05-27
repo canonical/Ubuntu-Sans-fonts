@@ -2,13 +2,13 @@
 <glyph name="Etaoxia" format="2">
   <advance width="816"/>
   <unicode hex="1FCB"/>
-  <anchor x="473" y="0" name="bottom"/>
-  <anchor x="554" y="347" name="center"/>
-  <anchor x="636" y="674" name="top"/>
-  <anchor x="268" y="693" name="topleft"/>
+  <anchor x="410" y="0" name="bottom"/>
+  <anchor x="491" y="347" name="center"/>
+  <anchor x="573" y="674" name="top"/>
+  <anchor x="205" y="693" name="topleft"/>
   <outline>
     <component base="H" xOffset="144"/>
-    <component base="acute" xOffset="-91" yOffset="-67"/>
+    <component base="acute" xOffset="-154" yOffset="-67"/>
   </outline>
   <lib>
     <dict>
@@ -58,6 +58,10 @@
           <string>acute</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Eta</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

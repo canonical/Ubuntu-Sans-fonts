@@ -1326,6 +1326,8 @@
       <integer>6</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dollar</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dollar.osf</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dot_macron</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dotaccent</key>
@@ -1526,6 +1528,8 @@
       <integer>3</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.euro</key>
       <integer>5</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.euro.osf</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.exclam</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.exclamdown</key>
@@ -1691,6 +1695,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.horizontalbar</key>
       <integer>3</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.hryvnia</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.hryvnia.osf</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.hungarumlaut</key>
       <integer>3</integer>
@@ -1927,9 +1933,9 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.nine.numr</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.nine.osf</key>
-      <integer>5</integer>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.nine.tosf</key>
-      <integer>5</integer>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.nineinferior</key>
       <integer>3</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ninesuperior</key>
@@ -2142,6 +2148,8 @@
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.percent</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.percent.osf</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.period</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.periodcentered</key>
@@ -2236,7 +2244,11 @@
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ruble</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ruble.osf</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.rupeeIndian</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.rupeeIndian.osf</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.s</key>
       <integer>5</integer>
@@ -2326,6 +2338,8 @@
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.sterling</key>
       <integer>3</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.sterling.osf</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.summation</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.t</key>
@@ -2350,6 +2364,8 @@
       <integer>3</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.tenge</key>
       <integer>3</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.tenge.osf</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.tetse-cy</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.theta</key>
@@ -2410,6 +2426,8 @@
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.tugrik</key>
       <integer>3</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.tugrik.osf</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.two</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.two.dnom</key>
@@ -2570,6 +2588,8 @@
       <integer>3</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.yen</key>
       <integer>3</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.yen.osf</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.yeru-cy</key>
       <integer>3</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.yerudieresis-cy</key>

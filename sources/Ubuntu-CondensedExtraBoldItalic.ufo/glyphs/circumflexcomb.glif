@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexcomb" format="2">
   <unicode hex="0302"/>
-  <anchor x="284" y="532" name="_top"/>
-  <anchor x="345" y="790" name="top"/>
+  <anchor x="289" y="532" name="_top"/>
+  <anchor x="350" y="790" name="top"/>
   <outline>
     <component base="circumflex"/>
   </outline>
@@ -37,6 +37,8 @@
       </dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>323</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

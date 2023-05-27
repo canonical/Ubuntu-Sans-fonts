@@ -2,9 +2,9 @@
 <glyph name="Alphatonos" format="2">
   <advance width="583"/>
   <unicode hex="0386"/>
-  <anchor x="307" y="0" name="bottom"/>
-  <anchor x="476" y="10" name="ogonek"/>
-  <anchor x="460" y="669" name="top"/>
+  <anchor x="245" y="0" name="bottom"/>
+  <anchor x="414" y="10" name="ogonek"/>
+  <anchor x="398" y="669" name="top"/>
   <outline>
     <component base="A"/>
     <component base="tonos.cap" xOffset="-75"/>
@@ -57,6 +57,8 @@
           <string>tonos.cap</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

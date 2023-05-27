@@ -2,9 +2,9 @@
 <glyph name="Upsilon" format="2">
   <advance width="450"/>
   <unicode hex="03A5"/>
-  <anchor x="225" y="0" name="bottom"/>
-  <anchor x="378" y="677" name="top"/>
-  <anchor x="124" y="693" name="topleft"/>
+  <anchor x="162" y="0" name="bottom"/>
+  <anchor x="315" y="677" name="top"/>
+  <anchor x="61" y="693" name="topleft"/>
   <outline>
     <component base="Y"/>
   </outline>
@@ -37,6 +37,8 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

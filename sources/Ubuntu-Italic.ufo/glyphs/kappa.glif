@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kappa" format="2">
-  <advance width="522"/>
+  <advance width="521"/>
   <unicode hex="03BA"/>
   <outline>
     <contour>
-      <point x="87" y="0" type="line"/>
-      <point x="161" y="0" type="line"/>
-      <point x="226" y="266" type="line"/>
-      <point x="304" y="211"/>
-      <point x="386" y="118"/>
-      <point x="440" y="0" type="curve"/>
-      <point x="521" y="0" type="line"/>
-      <point x="488" y="90"/>
-      <point x="397" y="216"/>
-      <point x="309" y="284" type="curve"/>
-      <point x="378" y="328"/>
-      <point x="527" y="455"/>
-      <point x="578" y="518" type="curve"/>
-      <point x="487" y="518" type="line"/>
-      <point x="444" y="470"/>
-      <point x="326" y="366"/>
-      <point x="234" y="302" type="curve"/>
-      <point x="286" y="518" type="line"/>
-      <point x="212" y="518" type="line"/>
+      <point x="22" y="0" type="line"/>
+      <point x="96" y="0" type="line"/>
+      <point x="161" y="266" type="line"/>
+      <point x="239" y="211"/>
+      <point x="321" y="118"/>
+      <point x="375" y="0" type="curve"/>
+      <point x="456" y="0" type="line"/>
+      <point x="423" y="90"/>
+      <point x="332" y="216"/>
+      <point x="244" y="284" type="curve"/>
+      <point x="313" y="328"/>
+      <point x="462" y="455"/>
+      <point x="513" y="518" type="curve"/>
+      <point x="422" y="518" type="line"/>
+      <point x="379" y="470"/>
+      <point x="261" y="366"/>
+      <point x="169" y="302" type="curve"/>
+      <point x="221" y="518" type="line"/>
+      <point x="147" y="518" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -54,8 +54,12 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>k</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>k</string>
       <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

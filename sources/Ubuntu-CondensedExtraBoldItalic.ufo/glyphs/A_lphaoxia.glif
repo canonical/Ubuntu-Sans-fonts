@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Alphaoxia" format="2">
-  <advance width="526"/>
+  <advance width="568"/>
   <unicode hex="1FBB"/>
-  <anchor x="311" y="0" name="bottom"/>
-  <anchor x="455" y="10" name="ogonek"/>
-  <anchor x="461" y="681" name="top"/>
+  <anchor x="247" y="0" name="bottom"/>
+  <anchor x="391" y="10" name="ogonek"/>
+  <anchor x="397" y="681" name="top"/>
   <outline>
     <component base="A" xOffset="50"/>
-    <component base="acute" xOffset="-84.318" yOffset="-69"/>
+    <component base="acute" xOffset="-148" yOffset="-69"/>
   </outline>
   <lib>
     <dict>
@@ -57,6 +57,10 @@
           <string>acute</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Alpha</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

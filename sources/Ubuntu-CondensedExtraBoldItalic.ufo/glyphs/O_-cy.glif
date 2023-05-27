@@ -2,12 +2,12 @@
 <glyph name="O-cy" format="2">
   <advance width="607"/>
   <unicode hex="041E"/>
-  <anchor x="295" y="0" name="bottom"/>
-  <anchor x="378" y="347" name="center"/>
-  <anchor x="485" y="10" name="ogonek"/>
-  <anchor x="459" y="681" name="top"/>
-  <anchor x="123" y="693" name="topleft"/>
-  <anchor x="690" y="693" name="topright"/>
+  <anchor x="231" y="0" name="bottom"/>
+  <anchor x="314" y="347" name="center"/>
+  <anchor x="421" y="10" name="ogonek"/>
+  <anchor x="395" y="681" name="top"/>
+  <anchor x="59" y="693" name="topleft"/>
+  <anchor x="626" y="693" name="topright"/>
   <outline>
     <component base="O"/>
   </outline>
@@ -40,6 +40,8 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Alphavaria" format="2">
-  <advance width="499"/>
+  <advance width="626"/>
   <unicode hex="1FBA"/>
-  <anchor x="369" y="0" name="bottom"/>
-  <anchor x="513" y="10" name="ogonek"/>
-  <anchor x="519" y="681" name="top"/>
+  <anchor x="305" y="0" name="bottom"/>
+  <anchor x="449" y="10" name="ogonek"/>
+  <anchor x="455" y="681" name="top"/>
   <outline>
     <component base="A" xOffset="108"/>
-    <component base="grave" xOffset="-40.953" yOffset="-69"/>
+    <component base="grave" xOffset="-105" yOffset="-69"/>
   </outline>
   <lib>
     <dict>
@@ -57,6 +57,10 @@
           <string>grave</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Alpha</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

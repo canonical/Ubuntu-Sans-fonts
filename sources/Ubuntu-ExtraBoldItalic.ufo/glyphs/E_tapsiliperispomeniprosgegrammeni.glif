@@ -2,11 +2,11 @@
 <glyph name="Etapsiliperispomeniprosgegrammeni" format="2">
   <advance width="1323"/>
   <unicode hex="1F9E"/>
-  <anchor x="637" y="0" name="bottom"/>
-  <anchor x="710" y="347" name="center"/>
-  <anchor x="1268" y="526" name="top_1"/>
-  <anchor x="784" y="685" name="top_2"/>
-  <anchor x="402" y="693" name="topleft"/>
+  <anchor x="577" y="0" name="bottom"/>
+  <anchor x="650" y="347" name="center"/>
+  <anchor x="1208" y="526" name="top_1"/>
+  <anchor x="724" y="685" name="top_2"/>
+  <anchor x="342" y="693" name="topleft"/>
   <outline>
     <component base="iota" xOffset="984"/>
     <component base="H" xOffset="279"/>
@@ -68,6 +68,10 @@
           <string>psiliperispomeni</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>iota</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

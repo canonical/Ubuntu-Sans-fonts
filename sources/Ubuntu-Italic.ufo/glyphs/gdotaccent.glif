@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gdotaccent" format="2">
-  <advance width="539"/>
+  <advance width="542"/>
   <unicode hex="0121"/>
-  <anchor x="163" y="-185" name="bottom"/>
-  <anchor x="441" y="729" name="top"/>
+  <anchor x="100" y="-185" name="bottom"/>
+  <anchor x="383" y="729" name="top"/>
   <outline>
     <component base="g"/>
-    <component base="dotaccentcomb" xOffset="97"/>
+    <component base="dotaccentcomb" xOffset="34"/>
   </outline>
   <lib>
     <dict>
@@ -38,7 +38,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

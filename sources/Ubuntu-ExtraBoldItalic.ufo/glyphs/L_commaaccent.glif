@@ -2,13 +2,13 @@
 <glyph name="Lcommaaccent" format="2">
   <advance width="574"/>
   <unicode hex="013B"/>
-  <anchor x="263" y="-215" name="bottom"/>
-  <anchor x="307" y="347" name="center"/>
-  <anchor x="340" y="687" name="top"/>
-  <anchor x="420" y="693" name="topright"/>
+  <anchor x="203" y="-215" name="bottom"/>
+  <anchor x="247" y="347" name="center"/>
+  <anchor x="280" y="687" name="top"/>
+  <anchor x="360" y="693" name="topright"/>
   <outline>
     <component base="L"/>
-    <component base="commaaccentcomb" xOffset="230"/>
+    <component base="commaaccentcomb" xOffset="170"/>
   </outline>
   <lib>
     <dict>
@@ -40,7 +40,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

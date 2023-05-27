@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ijacute" format="2">
   <advance width="593"/>
-  <anchor x="148" y="0" name="bottom_1"/>
-  <anchor x="335" y="-185" name="bottom_2"/>
-  <anchor x="203" y="10" name="ogonek"/>
-  <anchor x="274" y="526" name="top_1"/>
-  <anchor x="570" y="526" name="top_2"/>
+  <anchor x="88" y="0" name="bottom_1"/>
+  <anchor x="275" y="-185" name="bottom_2"/>
+  <anchor x="143" y="10" name="ogonek"/>
+  <anchor x="214" y="526" name="top_1"/>
+  <anchor x="510" y="526" name="top_2"/>
   <outline>
     <component base="idotless"/>
     <component base="jdotless" xOffset="293"/>
-    <component base="acutecomb" xOffset="19"/>
-    <component base="acutecomb" xOffset="326"/>
+    <component base="acutecomb" xOffset="-43"/>
+    <component base="acutecomb" xOffset="260" yOffset="1"/>
   </outline>
   <lib>
     <dict>
@@ -48,6 +48,14 @@
           <integer>-1</integer>
           <key>index</key>
           <integer>2</integer>
+          <key>name</key>
+          <string>acutecomb</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>3</integer>
           <key>name</key>
           <string>acutecomb</string>
         </dict>

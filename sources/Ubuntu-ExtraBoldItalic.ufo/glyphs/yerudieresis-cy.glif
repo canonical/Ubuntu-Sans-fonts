@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="yerudieresis-cy" format="2">
-  <advance width="831"/>
+  <advance width="835"/>
   <unicode hex="04F9"/>
-  <anchor x="547" y="754" name="top"/>
+  <anchor x="496" y="754" name="top"/>
   <outline>
     <component base="yeru-cy"/>
-    <component base="dieresiscomb" xOffset="112"/>
+    <component base="dieresiscomb" xOffset="56"/>
   </outline>
   <lib>
     <dict>
@@ -37,7 +37,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Omegaoxia" format="2">
-  <advance width="756"/>
+  <advance width="782"/>
   <unicode hex="1FFB"/>
   <outline>
     <component base="Omega" xOffset="83" yOffset="1"/>
-    <component base="acute" xOffset="-120" yOffset="-75"/>
+    <component base="acute" xOffset="-182" yOffset="-75"/>
   </outline>
   <lib>
     <dict>
@@ -54,6 +54,10 @@
           <string>acute</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Omega</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

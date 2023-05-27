@@ -4,26 +4,26 @@
   <unicode hex="01C2"/>
   <outline>
     <contour>
-      <point x="136" y="-185" type="line"/>
-      <point x="201" y="-185" type="line"/>
-      <point x="291" y="186" type="line"/>
-      <point x="432" y="186" type="line"/>
-      <point x="445" y="240" type="line"/>
-      <point x="303" y="240" type="line"/>
-      <point x="334" y="364" type="line"/>
-      <point x="475" y="364" type="line"/>
-      <point x="487" y="417" type="line"/>
-      <point x="345" y="417" type="line"/>
-      <point x="433" y="783" type="line"/>
-      <point x="368" y="783" type="line"/>
-      <point x="280" y="417" type="line"/>
-      <point x="138" y="417" type="line"/>
-      <point x="126" y="364" type="line"/>
-      <point x="267" y="364" type="line"/>
-      <point x="237" y="240" type="line"/>
-      <point x="96" y="240" type="line"/>
-      <point x="84" y="186" type="line"/>
-      <point x="224" y="186" type="line"/>
+      <point x="73" y="-185" type="line"/>
+      <point x="138" y="-185" type="line"/>
+      <point x="228" y="186" type="line"/>
+      <point x="369" y="186" type="line"/>
+      <point x="382" y="240" type="line"/>
+      <point x="240" y="240" type="line"/>
+      <point x="271" y="364" type="line"/>
+      <point x="412" y="364" type="line"/>
+      <point x="424" y="417" type="line"/>
+      <point x="282" y="417" type="line"/>
+      <point x="370" y="783" type="line"/>
+      <point x="305" y="783" type="line"/>
+      <point x="217" y="417" type="line"/>
+      <point x="75" y="417" type="line"/>
+      <point x="63" y="364" type="line"/>
+      <point x="204" y="364" type="line"/>
+      <point x="174" y="240" type="line"/>
+      <point x="33" y="240" type="line"/>
+      <point x="21" y="186" type="line"/>
+      <point x="161" y="186" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -55,6 +55,8 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Alphapsilioxia" format="2">
-  <advance width="666"/>
+  <advance width="665"/>
   <unicode hex="1F0C"/>
-  <anchor x="350" y="0" name="bottom"/>
-  <anchor x="541" y="10" name="ogonek"/>
-  <anchor x="508" y="674" name="top"/>
+  <anchor x="287" y="0" name="bottom"/>
+  <anchor x="478" y="10" name="ogonek"/>
+  <anchor x="445" y="674" name="top"/>
   <outline>
     <component base="A" xOffset="23"/>
     <component base="psilioxia" xOffset="-134" yOffset="-58"/>
@@ -57,6 +57,10 @@
           <string>psilioxia</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Alpha</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

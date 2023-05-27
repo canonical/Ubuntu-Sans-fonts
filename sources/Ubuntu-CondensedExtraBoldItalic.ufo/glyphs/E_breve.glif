@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ebreve" format="2">
-  <advance width="486"/>
+  <advance width="487"/>
   <unicode hex="0114"/>
-  <anchor x="246" y="0" name="bottom"/>
-  <anchor x="376" y="10" name="ogonek"/>
-  <anchor x="447" y="907" name="top"/>
-  <anchor x="123" y="693" name="topleft"/>
+  <anchor x="183" y="0" name="bottom"/>
+  <anchor x="313" y="10" name="ogonek"/>
+  <anchor x="389" y="907" name="top"/>
+  <anchor x="60" y="693" name="topleft"/>
   <outline>
     <component base="E"/>
-    <component base="brevecomb" xOffset="112" yOffset="149"/>
+    <component base="brevecomb" xOffset="49" yOffset="149"/>
   </outline>
   <lib>
     <dict>
@@ -40,7 +40,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

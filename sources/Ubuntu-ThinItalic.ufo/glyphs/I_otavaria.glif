@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Iotavaria" format="2">
-  <advance width="356"/>
+  <advance width="382"/>
   <unicode hex="1FDA"/>
-  <anchor x="270" y="-24" name="bottom"/>
-  <anchor x="303" y="10" name="ogonek"/>
-  <anchor x="437" y="669" name="top"/>
-  <anchor x="295" y="693" name="topleft"/>
+  <anchor x="208" y="-24" name="bottom"/>
+  <anchor x="241" y="10" name="ogonek"/>
+  <anchor x="375" y="669" name="top"/>
+  <anchor x="233" y="693" name="topleft"/>
   <outline>
     <component base="I" xOffset="170"/>
-    <component base="grave" xOffset="-88" yOffset="-75"/>
+    <component base="grave" xOffset="-150" yOffset="-75"/>
   </outline>
   <lib>
     <dict>
@@ -58,6 +58,10 @@
           <string>grave</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Iota</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

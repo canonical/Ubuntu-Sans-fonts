@@ -2,12 +2,12 @@
 <glyph name="Ycircumflex" format="2">
   <advance width="523"/>
   <unicode hex="0176"/>
-  <anchor x="262" y="0" name="bottom"/>
-  <anchor x="456" y="911" name="top"/>
-  <anchor x="125" y="693" name="topleft"/>
+  <anchor x="200" y="0" name="bottom"/>
+  <anchor x="414" y="907" name="top"/>
+  <anchor x="63" y="693" name="topleft"/>
   <outline>
     <component base="Y"/>
-    <component base="circumflexcomb" xOffset="149" yOffset="156"/>
+    <component base="circumflexcomb" xOffset="87" yOffset="156"/>
   </outline>
   <lib>
     <dict>
@@ -39,7 +39,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

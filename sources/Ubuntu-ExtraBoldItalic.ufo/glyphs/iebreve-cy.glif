@@ -2,12 +2,12 @@
 <glyph name="iebreve-cy" format="2">
   <advance width="540"/>
   <unicode hex="04D7"/>
-  <anchor x="266" y="0" name="bottom"/>
-  <anchor x="425" y="10" name="ogonek"/>
-  <anchor x="450" y="767" name="top"/>
+  <anchor x="206" y="0" name="bottom"/>
+  <anchor x="365" y="10" name="ogonek"/>
+  <anchor x="390" y="767" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="brevecomb.cyr" xOffset="76"/>
+    <component base="brevecomb.cyr" xOffset="16"/>
   </outline>
   <lib>
     <dict>
@@ -39,7 +39,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

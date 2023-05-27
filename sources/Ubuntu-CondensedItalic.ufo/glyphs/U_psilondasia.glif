@@ -2,9 +2,9 @@
 <glyph name="Upsilondasia" format="2">
   <advance width="556"/>
   <unicode hex="1F59"/>
-  <anchor x="331" y="0" name="bottom"/>
-  <anchor x="484" y="677" name="top"/>
-  <anchor x="230" y="693" name="topleft"/>
+  <anchor x="268" y="0" name="bottom"/>
+  <anchor x="421" y="677" name="top"/>
+  <anchor x="167" y="693" name="topleft"/>
   <outline>
     <component base="Y" xOffset="106"/>
     <component base="dasia" xOffset="-85" yOffset="-80"/>
@@ -57,6 +57,10 @@
           <string>dasia</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Upsilon</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

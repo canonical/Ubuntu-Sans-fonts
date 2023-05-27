@@ -2,9 +2,9 @@
 <glyph name="Alphapsili" format="2">
   <advance width="739"/>
   <unicode hex="1F08"/>
-  <anchor x="377" y="0" name="bottom"/>
-  <anchor x="606" y="10" name="ogonek"/>
-  <anchor x="532" y="687" name="top"/>
+  <anchor x="317" y="0" name="bottom"/>
+  <anchor x="546" y="10" name="ogonek"/>
+  <anchor x="472" y="687" name="top"/>
   <outline>
     <component base="A" xOffset="15"/>
     <component base="psili" xOffset="-97" yOffset="-117"/>
@@ -57,6 +57,10 @@
           <string>psili</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Alpha</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

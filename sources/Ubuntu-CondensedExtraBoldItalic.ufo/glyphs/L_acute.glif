@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Lacute" format="2">
-  <advance width="447"/>
+  <advance width="448"/>
   <unicode hex="0139"/>
-  <anchor x="270" y="0" name="bottom"/>
-  <anchor x="243" y="347" name="center"/>
-  <anchor x="385" y="934" name="top"/>
-  <anchor x="413" y="693" name="topright"/>
+  <anchor x="207" y="0" name="bottom"/>
+  <anchor x="180" y="347" name="center"/>
+  <anchor x="320" y="934" name="top"/>
+  <anchor x="350" y="693" name="topright"/>
   <outline>
     <component base="L"/>
-    <component base="acutecomb" xOffset="47" yOffset="149"/>
+    <component base="acutecomb" xOffset="-16" yOffset="149"/>
   </outline>
   <lib>
     <dict>
@@ -40,7 +40,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

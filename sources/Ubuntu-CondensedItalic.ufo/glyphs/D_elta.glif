@@ -4,23 +4,23 @@
   <unicode hex="0394"/>
   <outline>
     <contour>
-      <point x="24" y="0" type="curve"/>
-      <point x="456" y="0" type="line"/>
-      <point x="467" y="235"/>
-      <point x="457" y="469"/>
-      <point x="437" y="693" type="curve"/>
-      <point x="361" y="693" type="line"/>
-      <point x="244" y="491"/>
-      <point x="114" y="234"/>
+      <point x="-39" y="0" type="curve"/>
+      <point x="393" y="0" type="line"/>
+      <point x="404" y="235"/>
+      <point x="394" y="469"/>
+      <point x="374" y="693" type="curve"/>
+      <point x="298" y="693" type="line"/>
+      <point x="181" y="491"/>
+      <point x="51" y="234"/>
     </contour>
     <contour>
-      <point x="118" y="60" type="line"/>
-      <point x="180" y="220"/>
-      <point x="279" y="425"/>
-      <point x="379" y="608" type="curve"/>
-      <point x="392" y="403"/>
-      <point x="393" y="218"/>
-      <point x="386" y="60" type="curve"/>
+      <point x="55" y="60" type="line"/>
+      <point x="117" y="220"/>
+      <point x="216" y="425"/>
+      <point x="316" y="608" type="curve"/>
+      <point x="329" y="403"/>
+      <point x="330" y="218"/>
+      <point x="323" y="60" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -52,6 +52,12 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Alpha</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Alpha</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

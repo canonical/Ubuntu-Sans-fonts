@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Gcaron" format="2">
-  <advance width="627"/>
+  <advance width="626"/>
   <unicode hex="01E6"/>
-  <anchor x="382" y="0" name="bottom"/>
-  <anchor x="576" y="907" name="top"/>
+  <anchor x="319" y="0" name="bottom"/>
+  <anchor x="515" y="907" name="top"/>
   <outline>
     <component base="G"/>
-    <component base="caroncomb" xOffset="249" yOffset="156"/>
+    <component base="caroncomb" xOffset="186" yOffset="156"/>
   </outline>
   <lib>
     <dict>
@@ -38,7 +38,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acutecomb" format="2">
   <unicode hex="0301"/>
-  <anchor x="290" y="513" name="_top"/>
-  <anchor x="348" y="761" name="top"/>
+  <anchor x="255" y="513" name="_top"/>
+  <anchor x="318" y="773" name="top"/>
   <outline>
     <component base="acute"/>
   </outline>
@@ -36,7 +36,9 @@
         <integer>0</integer>
       </dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <integer>346</integer>
+      <integer>363</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

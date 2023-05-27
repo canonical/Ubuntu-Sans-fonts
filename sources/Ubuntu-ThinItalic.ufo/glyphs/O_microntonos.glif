@@ -3,12 +3,12 @@
   <advance width="737"/>
   <unicode hex="038C"/>
   <guideline x="116" y="0" angle="0"/>
-  <anchor x="398" y="0" name="bottom"/>
-  <anchor x="422" y="347" name="center"/>
-  <anchor x="639" y="10" name="ogonek"/>
-  <anchor x="558" y="669" name="top"/>
-  <anchor x="151" y="693" name="topleft"/>
-  <anchor x="858" y="693" name="topright"/>
+  <anchor x="336" y="0" name="bottom"/>
+  <anchor x="360" y="347" name="center"/>
+  <anchor x="577" y="10" name="ogonek"/>
+  <anchor x="496" y="669" name="top"/>
+  <anchor x="89" y="693" name="topleft"/>
+  <anchor x="796" y="693" name="topright"/>
   <outline>
     <component base="O" xOffset="26"/>
     <component base="tonos.cap" xOffset="-156"/>
@@ -61,6 +61,8 @@
           <string>tonos.cap</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Omegapsilivaria" format="2">
-  <advance width="816"/>
+  <advance width="818"/>
   <unicode hex="1F6A"/>
   <outline>
     <component base="Omega" xOffset="231"/>
@@ -54,6 +54,10 @@
           <string>psilivaria</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Omega</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

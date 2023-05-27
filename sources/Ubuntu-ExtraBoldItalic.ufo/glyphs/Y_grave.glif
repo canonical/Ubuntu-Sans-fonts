@@ -2,12 +2,12 @@
 <glyph name="Ygrave" format="2">
   <advance width="662"/>
   <unicode hex="1EF2"/>
-  <anchor x="325" y="0" name="bottom"/>
-  <anchor x="493" y="960" name="top"/>
-  <anchor x="123" y="693" name="topleft"/>
+  <anchor x="265" y="0" name="bottom"/>
+  <anchor x="469" y="960" name="top"/>
+  <anchor x="63" y="693" name="topleft"/>
   <outline>
     <component base="Y"/>
-    <component base="gravecomb" xOffset="196" yOffset="161"/>
+    <component base="gravecomb" xOffset="136" yOffset="161"/>
   </outline>
   <lib>
     <dict>
@@ -39,7 +39,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

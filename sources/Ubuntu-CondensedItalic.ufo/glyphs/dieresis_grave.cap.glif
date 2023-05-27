@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresis_grave.cap" format="2">
   <advance width="290"/>
+  <anchor x="299" y="677" name="_top"/>
   <outline>
     <contour>
       <point x="350" y="808" type="line"/>
@@ -66,6 +67,8 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
     </dict>
   </lib>
 </glyph>

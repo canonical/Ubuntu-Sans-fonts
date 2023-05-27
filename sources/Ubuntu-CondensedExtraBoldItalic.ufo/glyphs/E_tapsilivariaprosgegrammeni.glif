@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Etapsilivariaprosgegrammeni" format="2">
-  <advance width="1121"/>
+  <advance width="1122"/>
   <unicode hex="1F9A"/>
-  <anchor x="557.27" y="0" name="bottom"/>
-  <anchor x="640.27" y="347" name="center"/>
-  <anchor x="1100" y="532" name="top_1"/>
-  <anchor x="721.27" y="681" name="top_2"/>
-  <anchor x="398.27" y="693" name="topleft"/>
+  <anchor x="494.27" y="0" name="bottom"/>
+  <anchor x="577.27" y="347" name="center"/>
+  <anchor x="1036" y="532" name="top_1"/>
+  <anchor x="658.27" y="681" name="top_2"/>
+  <anchor x="335.27" y="693" name="topleft"/>
   <outline>
     <component base="iota" xOffset="846"/>
     <component base="H" xOffset="275.27"/>
@@ -68,6 +68,10 @@
           <string>psilivaria</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>iota</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

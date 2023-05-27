@@ -2,13 +2,13 @@
 <glyph name="Uring" format="2">
   <advance width="638"/>
   <unicode hex="016E"/>
-  <anchor x="329" y="0" name="bottom"/>
-  <anchor x="515" y="10" name="ogonek"/>
-  <anchor x="516" y="909" name="top"/>
-  <anchor x="723" y="693" name="topright"/>
+  <anchor x="267" y="0" name="bottom"/>
+  <anchor x="453" y="10" name="ogonek"/>
+  <anchor x="460" y="917" name="top"/>
+  <anchor x="661" y="693" name="topright"/>
   <outline>
     <component base="U"/>
-    <component base="ringcomb" xOffset="185" yOffset="156"/>
+    <component base="ringcomb" xOffset="123" yOffset="156"/>
   </outline>
   <lib>
     <dict>
@@ -40,7 +40,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

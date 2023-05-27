@@ -4,8 +4,8 @@
   <unicode hex="1FA0"/>
   <guideline x="366" y="0" angle="103.5"/>
   <guideline x="457" y="0" angle="103.5"/>
-  <anchor x="392" y="0" name="bottom"/>
-  <anchor x="487" y="513" name="top"/>
+  <anchor x="330" y="0" name="bottom"/>
+  <anchor x="425" y="513" name="top"/>
   <outline>
     <component base="omega"/>
     <component base="prosgegrammeni" xOffset="281"/>
@@ -41,7 +41,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

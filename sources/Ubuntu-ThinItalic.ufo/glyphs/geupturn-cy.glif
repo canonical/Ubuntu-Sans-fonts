@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="geupturn-cy" format="2">
-  <advance width="366"/>
+  <advance width="364"/>
   <unicode hex="0491"/>
   <outline>
     <contour>
-      <point x="91" y="0" type="line"/>
-      <point x="125" y="0" type="line"/>
-      <point x="241" y="483" type="line"/>
-      <point x="469" y="483" type="line"/>
-      <point x="509" y="650" type="line"/>
-      <point x="475" y="650" type="line"/>
-      <point x="442" y="513" type="line"/>
-      <point x="214" y="513" type="line"/>
+      <point x="27" y="0" type="line"/>
+      <point x="61" y="0" type="line"/>
+      <point x="177" y="483" type="line"/>
+      <point x="405" y="483" type="line"/>
+      <point x="445" y="650" type="line"/>
+      <point x="411" y="650" type="line"/>
+      <point x="378" y="513" type="line"/>
+      <point x="150" y="513" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -43,6 +43,10 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>en-cy</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hungarumlautcomb" format="2">
   <unicode hex="030B"/>
-  <anchor x="272" y="513" name="_top"/>
-  <anchor x="330" y="761" name="top"/>
+  <anchor x="243" y="513" name="_top"/>
+  <anchor x="301" y="761" name="top"/>
   <outline>
     <component base="hungarumlaut"/>
   </outline>
@@ -36,7 +36,9 @@
         <integer>0</integer>
       </dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <integer>346</integer>
+      <integer>305</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

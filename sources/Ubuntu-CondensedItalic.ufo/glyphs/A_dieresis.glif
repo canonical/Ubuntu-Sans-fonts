@@ -2,12 +2,12 @@
 <glyph name="Adieresis" format="2">
   <advance width="477"/>
   <unicode hex="00C4"/>
-  <anchor x="233" y="0" name="bottom"/>
-  <anchor x="369" y="10" name="ogonek"/>
-  <anchor x="433" y="873" name="top"/>
+  <anchor x="170" y="0" name="bottom"/>
+  <anchor x="306" y="10" name="ogonek"/>
+  <anchor x="375" y="873" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="dieresiscomb" xOffset="100" yOffset="155"/>
+    <component base="dieresiscomb" xOffset="37" yOffset="155"/>
   </outline>
   <lib>
     <dict>
@@ -39,7 +39,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

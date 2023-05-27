@@ -2,12 +2,12 @@
 <glyph name="Alphamacron" format="2">
   <advance width="642"/>
   <unicode hex="1FB9"/>
-  <anchor x="327" y="0" name="bottom"/>
-  <anchor x="518" y="10" name="ogonek"/>
-  <anchor x="525" y="862" name="top"/>
+  <anchor x="264" y="0" name="bottom"/>
+  <anchor x="455" y="10" name="ogonek"/>
+  <anchor x="467" y="862" name="top"/>
   <outline>
     <component base="Alpha"/>
-    <component base="macroncomb" xOffset="202" yOffset="156"/>
+    <component base="macroncomb" xOffset="139" yOffset="156"/>
   </outline>
   <lib>
     <dict>
@@ -38,8 +38,10 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Alpha</string>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

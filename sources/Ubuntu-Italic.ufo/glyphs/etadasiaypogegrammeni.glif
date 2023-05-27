@@ -2,8 +2,8 @@
 <glyph name="etadasiaypogegrammeni" format="2">
   <advance width="549"/>
   <unicode hex="1F91"/>
-  <anchor x="128" y="0" name="bottom"/>
-  <anchor x="395" y="518" name="top"/>
+  <anchor x="65" y="0" name="bottom"/>
+  <anchor x="332" y="518" name="top"/>
   <outline>
     <component base="eta"/>
     <component base="prosgegrammeni" xOffset="-1"/>
@@ -39,7 +39,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

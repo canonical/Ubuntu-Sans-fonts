@@ -2,8 +2,8 @@
 <glyph name="nlegrightlong" format="2">
   <advance width="544"/>
   <unicode hex="019E"/>
-  <anchor x="110" y="0" name="bottom"/>
-  <anchor x="396" y="513" name="top"/>
+  <anchor x="48" y="0" name="bottom"/>
+  <anchor x="334" y="513" name="top"/>
   <outline>
     <component base="eta"/>
   </outline>
@@ -36,6 +36,12 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>n</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

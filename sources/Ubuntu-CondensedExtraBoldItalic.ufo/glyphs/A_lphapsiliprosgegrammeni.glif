@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Alphapsiliprosgegrammeni" format="2">
-  <advance width="784"/>
+  <advance width="785"/>
   <unicode hex="1F88"/>
-  <anchor x="279.514" y="0" name="bottom"/>
-  <anchor x="423.514" y="10" name="ogonek"/>
-  <anchor x="429.514" y="681" name="top_1"/>
-  <anchor x="763" y="532" name="top_2"/>
+  <anchor x="215.514" y="0" name="bottom"/>
+  <anchor x="359.514" y="10" name="ogonek"/>
+  <anchor x="365.514" y="681" name="top_1"/>
+  <anchor x="699" y="532" name="top_2"/>
   <outline>
     <component base="A" xOffset="18.514"/>
     <component base="iota" xOffset="509"/>
@@ -67,6 +67,10 @@
           <string>psili</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>iota</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

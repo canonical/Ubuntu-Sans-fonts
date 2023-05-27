@@ -2,9 +2,9 @@
 <glyph name="Alphapsiliperispomeni" format="2">
   <advance width="834"/>
   <unicode hex="1F0E"/>
-  <anchor x="472" y="0" name="bottom"/>
-  <anchor x="701" y="10" name="ogonek"/>
-  <anchor x="627" y="687" name="top"/>
+  <anchor x="412" y="0" name="bottom"/>
+  <anchor x="641" y="10" name="ogonek"/>
+  <anchor x="567" y="687" name="top"/>
   <outline>
     <component base="A" xOffset="110"/>
     <component base="psiliperispomeni" xOffset="-51" yOffset="-117"/>
@@ -57,6 +57,10 @@
           <string>psiliperispomeni</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Alpha</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

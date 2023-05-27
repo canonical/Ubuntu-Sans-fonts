@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ge-cy" format="2">
-  <advance width="437"/>
+  <advance width="435"/>
   <unicode hex="0413"/>
-  <anchor x="355" y="0" name="bottomright"/>
-  <anchor x="417" y="669" name="top"/>
+  <anchor x="291" y="0" name="bottomright"/>
+  <anchor x="353" y="669" name="top"/>
   <outline>
     <contour>
-      <point x="90" y="0" type="line"/>
-      <point x="127" y="0" type="line"/>
-      <point x="285" y="659" type="line"/>
-      <point x="583" y="659" type="line"/>
-      <point x="591" y="693" type="line"/>
-      <point x="256" y="693" type="line"/>
+      <point x="26" y="0" type="line"/>
+      <point x="63" y="0" type="line"/>
+      <point x="221" y="659" type="line"/>
+      <point x="519" y="659" type="line"/>
+      <point x="527" y="693" type="line"/>
+      <point x="192" y="693" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -43,8 +43,10 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>En-cy</string>
       <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

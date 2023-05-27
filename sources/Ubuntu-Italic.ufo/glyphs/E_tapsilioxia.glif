@@ -2,10 +2,10 @@
 <glyph name="Etapsilioxia" format="2">
   <advance width="919"/>
   <unicode hex="1F2C"/>
-  <anchor x="576" y="0" name="bottom"/>
-  <anchor x="657" y="347" name="center"/>
-  <anchor x="739" y="674" name="top"/>
-  <anchor x="371" y="693" name="topleft"/>
+  <anchor x="513" y="0" name="bottom"/>
+  <anchor x="594" y="347" name="center"/>
+  <anchor x="676" y="674" name="top"/>
+  <anchor x="308" y="693" name="topleft"/>
   <outline>
     <component base="H" xOffset="247"/>
     <component base="psilioxia" xOffset="-66" yOffset="-58"/>
@@ -58,6 +58,10 @@
           <string>psilioxia</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Eta</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

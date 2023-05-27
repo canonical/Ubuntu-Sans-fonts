@@ -2,13 +2,13 @@
 <glyph name="tcommaaccent" format="2">
   <advance width="391"/>
   <unicode hex="021B"/>
-  <anchor x="156" y="-189" name="bottom"/>
-  <anchor x="196" y="259" name="center"/>
-  <anchor x="258" y="518" name="top"/>
-  <anchor x="495" y="776" name="topright"/>
+  <anchor x="93" y="-189" name="bottom"/>
+  <anchor x="133" y="259" name="center"/>
+  <anchor x="195" y="518" name="top"/>
+  <anchor x="432" y="776" name="topright"/>
   <outline>
     <component base="t"/>
-    <component base="commaaccentcomb" xOffset="66"/>
+    <component base="commaaccentcomb" xOffset="3"/>
   </outline>
   <lib>
     <dict>
@@ -40,7 +40,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1327,17 +1327,17 @@
     <key>public.kern1.LAT_D_UC_FIRST</key>
     <array>
       <string>D</string>
+      <string>Eth</string>
       <string>Dcaron</string>
       <string>Dcroat</string>
       <string>Dhook</string>
       <string>Dtail</string>
-      <string>Eth</string>
     </array>
     <key>public.kern1.LAT_D_UC_FIRST.c2sc</key>
     <array>
       <string>d.sc</string>
-      <string>dcroat.sc</string>
       <string>eth.sc</string>
+      <string>dcroat.sc</string>
     </array>
     <key>public.kern1.LAT_E_UC_FIRST</key>
     <array>
@@ -2143,7 +2143,7 @@
     </array>
     <key>public.kern1.PUNCT_Euro.001</key>
     <array>
-      <string>euro.c2sc</string>
+      <string>euro.osf</string>
     </array>
     <key>public.kern1.PUNCT_Guilsinglleft</key>
     <array>
@@ -2254,7 +2254,7 @@
     </array>
     <key>public.kern1.PUNCT_percent.001</key>
     <array>
-      <string>percent.c2sc</string>
+      <string>percent.osf</string>
     </array>
     <key>public.kern1.PUNCT_period</key>
     <array>
@@ -2302,7 +2302,7 @@
     </array>
     <key>public.kern1.PUNCT_sterling.001</key>
     <array>
-      <string>sterling.c2sc</string>
+      <string>sterling.osf</string>
     </array>
     <key>public.kern1.PUNCT_yen</key>
     <array>
@@ -2310,7 +2310,7 @@
     </array>
     <key>public.kern1.PUNCT_yen.001</key>
     <array>
-      <string>yen.c2sc</string>
+      <string>yen.osf</string>
     </array>
     <key>public.kern1.cyr_afii10017_uc.sc</key>
     <array>
@@ -3632,10 +3632,10 @@
       <string>D</string>
       <string>DZ</string>
       <string>DZcaron</string>
+      <string>Eth</string>
       <string>Dcaron</string>
       <string>Dz</string>
       <string>Dzcaron</string>
-      <string>Eth</string>
       <string>H</string>
       <string>Hbar</string>
       <string>Hcaron</string>
@@ -3664,9 +3664,9 @@
     <array>
       <string>btopbar.sc</string>
       <string>d.sc</string>
+      <string>eth.sc</string>
       <string>dz.sc</string>
       <string>dzcaron.sc</string>
-      <string>eth.sc</string>
       <string>h.sc</string>
       <string>hbar.sc</string>
       <string>i.sc</string>
@@ -4094,10 +4094,10 @@
       <string>idieresis</string>
       <string>igrave</string>
       <string>iinvertedbreve</string>
+      <string>ij</string>
       <string>imacron</string>
       <string>iogonek</string>
       <string>itilde</string>
-      <string>ij</string>
       <string>i.locl</string>
     </array>
     <key>public.kern2.LAT_j_LC_SECOND</key>
@@ -4472,7 +4472,7 @@
     </array>
     <key>public.kern2.PUNCT_Euro.001</key>
     <array>
-      <string>euro.c2sc</string>
+      <string>euro.osf</string>
     </array>
     <key>public.kern2.PUNCT_Guilsinglleft</key>
     <array>
@@ -4583,7 +4583,7 @@
     </array>
     <key>public.kern2.PUNCT_percent.001</key>
     <array>
-      <string>percent.c2sc</string>
+      <string>percent.osf</string>
     </array>
     <key>public.kern2.PUNCT_period</key>
     <array>
@@ -4631,7 +4631,7 @@
     </array>
     <key>public.kern2.PUNCT_sterling.001</key>
     <array>
-      <string>sterling.c2sc</string>
+      <string>sterling.osf</string>
     </array>
     <key>public.kern2.PUNCT_yen</key>
     <array>
@@ -4639,7 +4639,7 @@
     </array>
     <key>public.kern2.PUNCT_yen.001</key>
     <array>
-      <string>yen.c2sc</string>
+      <string>yen.osf</string>
     </array>
     <key>public.kern2.cyr_afii10017_uc.sc</key>
     <array>

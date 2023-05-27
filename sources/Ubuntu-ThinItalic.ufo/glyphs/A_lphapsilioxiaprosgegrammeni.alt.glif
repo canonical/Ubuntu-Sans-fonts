@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Alphapsilioxiaprosgegrammeni.alt" format="2">
   <advance width="674"/>
-  <anchor x="387" y="0" name="bottom"/>
-  <anchor x="556" y="10" name="ogonek"/>
-  <anchor x="540" y="669" name="top"/>
+  <anchor x="325" y="0" name="bottom"/>
+  <anchor x="494" y="10" name="ogonek"/>
+  <anchor x="478" y="669" name="top"/>
   <outline>
     <component base="A" xOffset="80"/>
     <component base="psilioxia" xOffset="-27" yOffset="-74"/>
@@ -65,6 +65,10 @@
           <string>prosgegrammeni</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Alpha</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

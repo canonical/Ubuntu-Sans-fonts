@@ -2,12 +2,12 @@
 <glyph name="Alphavrachy" format="2">
   <advance width="518"/>
   <unicode hex="1FB8"/>
-  <anchor x="261" y="0" name="bottom"/>
-  <anchor x="405" y="10" name="ogonek"/>
-  <anchor x="461" y="907" name="top"/>
+  <anchor x="197" y="0" name="bottom"/>
+  <anchor x="341" y="10" name="ogonek"/>
+  <anchor x="402" y="907" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="brevecomb" xOffset="126" yOffset="149"/>
+    <component base="brevecomb" xOffset="62" yOffset="149"/>
   </outline>
   <lib>
     <dict>
@@ -38,8 +38,10 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Alpha</string>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

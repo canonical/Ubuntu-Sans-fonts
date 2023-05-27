@@ -2,15 +2,15 @@
 <glyph name="Oacute" format="2">
   <advance width="767"/>
   <unicode hex="00D3"/>
-  <anchor x="342" y="0" name="bottom"/>
-  <anchor x="425" y="347" name="center"/>
-  <anchor x="629" y="10" name="ogonek"/>
-  <anchor x="570" y="960" name="top"/>
-  <anchor x="123" y="693" name="topleft"/>
-  <anchor x="850" y="693" name="topright"/>
+  <anchor x="282" y="0" name="bottom"/>
+  <anchor x="365" y="347" name="center"/>
+  <anchor x="569" y="10" name="ogonek"/>
+  <anchor x="509" y="960" name="top"/>
+  <anchor x="63" y="693" name="topleft"/>
+  <anchor x="790" y="693" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="acutecomb" xOffset="245" yOffset="161"/>
+    <component base="acutecomb" xOffset="185" yOffset="161"/>
   </outline>
   <lib>
     <dict>
@@ -42,7 +42,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

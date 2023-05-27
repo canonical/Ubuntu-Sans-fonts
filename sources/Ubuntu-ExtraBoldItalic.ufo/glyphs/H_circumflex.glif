@@ -2,13 +2,13 @@
 <glyph name="Hcircumflex" format="2">
   <advance width="724"/>
   <unicode hex="0124"/>
-  <anchor x="358" y="0" name="bottom"/>
-  <anchor x="431" y="347" name="center"/>
-  <anchor x="562" y="943" name="top"/>
-  <anchor x="123" y="693" name="topleft"/>
+  <anchor x="298" y="0" name="bottom"/>
+  <anchor x="371" y="347" name="center"/>
+  <anchor x="507" y="943" name="top"/>
+  <anchor x="63" y="693" name="topleft"/>
   <outline>
     <component base="H"/>
-    <component base="circumflexcomb" xOffset="178" yOffset="159"/>
+    <component base="circumflexcomb" xOffset="118" yOffset="159"/>
   </outline>
   <lib>
     <dict>
@@ -40,7 +40,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

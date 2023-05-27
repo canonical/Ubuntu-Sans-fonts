@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guillemetright.case" format="2">
-  <advance width="503"/>
+  <advance width="504"/>
   <outline>
     <component base="guilsinglright" xOffset="15" yOffset="62"/>
     <component base="guilsinglright" xOffset="202" yOffset="62"/>
@@ -53,6 +53,12 @@
           <string>guilsinglright</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>guillemetright</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>guillemetright</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

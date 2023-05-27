@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Iotadasiaperispomeni" format="2">
-  <advance width="339.75"/>
+  <advance width="337"/>
   <unicode hex="1F3F"/>
-  <anchor x="231" y="-21" name="bottom"/>
-  <anchor x="257" y="10" name="ogonek"/>
-  <anchor x="397" y="672" name="top"/>
-  <anchor x="256" y="693" name="topleft"/>
+  <anchor x="168" y="-21" name="bottom"/>
+  <anchor x="194" y="10" name="ogonek"/>
+  <anchor x="334" y="672" name="top"/>
+  <anchor x="193" y="693" name="topleft"/>
   <outline>
     <component base="I" xOffset="132"/>
     <component base="dasiaperispomeni" xOffset="-95" yOffset="-97"/>
@@ -58,6 +58,10 @@
           <string>dasiaperispomeni</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Iota</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

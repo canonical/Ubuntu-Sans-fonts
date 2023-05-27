@@ -3,8 +3,8 @@
   <advance width="544"/>
   <unicode hex="043F"/>
   <guideline x="455" y="0" angle="0"/>
-  <anchor x="266" y="0" name="bottom"/>
-  <anchor x="376" y="513" name="top"/>
+  <anchor x="204" y="0" name="bottom"/>
+  <anchor x="314" y="513" name="top"/>
   <outline>
     <component base="n"/>
   </outline>
@@ -37,6 +37,8 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

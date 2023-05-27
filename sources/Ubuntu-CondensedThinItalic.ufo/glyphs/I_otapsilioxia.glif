@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Iotapsilioxia" format="2">
-  <advance width="376.55"/>
+  <advance width="376"/>
   <unicode hex="1F3C"/>
-  <anchor x="270" y="-21" name="bottom"/>
-  <anchor x="296" y="10" name="ogonek"/>
-  <anchor x="436" y="672" name="top"/>
-  <anchor x="295" y="693" name="topleft"/>
+  <anchor x="207" y="-21" name="bottom"/>
+  <anchor x="233" y="10" name="ogonek"/>
+  <anchor x="373" y="672" name="top"/>
+  <anchor x="232" y="693" name="topleft"/>
   <outline>
     <component base="I" xOffset="171"/>
     <component base="psilioxia" xOffset="-84" yOffset="-75"/>
@@ -58,6 +58,10 @@
           <string>psilioxia</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Iota</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

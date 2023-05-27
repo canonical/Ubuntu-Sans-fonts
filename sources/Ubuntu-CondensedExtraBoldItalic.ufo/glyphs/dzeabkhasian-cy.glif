@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dzeabkhasian-cy" format="2">
-  <advance width="366"/>
+  <advance width="376"/>
   <unicode hex="04E1"/>
-  <anchor x="124" y="0" name="bottom"/>
-  <anchor x="301" y="532" name="top"/>
+  <anchor x="60" y="0" name="bottom"/>
+  <anchor x="237" y="532" name="top"/>
   <outline>
     <component base="ezh"/>
   </outline>
@@ -36,6 +36,8 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

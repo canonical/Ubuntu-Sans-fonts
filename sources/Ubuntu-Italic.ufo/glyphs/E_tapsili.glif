@@ -2,10 +2,10 @@
 <glyph name="Etapsili" format="2">
   <advance width="752"/>
   <unicode hex="1F28"/>
-  <anchor x="409" y="0" name="bottom"/>
-  <anchor x="490" y="347" name="center"/>
-  <anchor x="572" y="674" name="top"/>
-  <anchor x="204" y="693" name="topleft"/>
+  <anchor x="346" y="0" name="bottom"/>
+  <anchor x="427" y="347" name="center"/>
+  <anchor x="509" y="674" name="top"/>
+  <anchor x="141" y="693" name="topleft"/>
   <outline>
     <component base="H" xOffset="80"/>
     <component base="psili" xOffset="-236" yOffset="-57"/>
@@ -58,6 +58,10 @@
           <string>psili</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Eta</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

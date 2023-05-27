@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quotedblbase" format="2">
-  <advance width="346"/>
+  <advance width="345"/>
   <unicode hex="201E"/>
   <outline>
-    <component base="quotesinglbase" xOffset="-13" yOffset="-1"/>
-    <component base="quotesinglbase" xOffset="125" yOffset="-1"/>
+    <component base="quotesinglbase" yOffset="-1"/>
+    <component base="quotesinglbase" xOffset="138" yOffset="-1"/>
   </outline>
   <lib>
     <dict>
@@ -54,6 +54,12 @@
           <string>quotesinglbase</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>quoteright</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>quoteright</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Racute" format="2">
-  <advance width="666"/>
+  <advance width="667"/>
   <unicode hex="0154"/>
-  <anchor x="361" y="0" name="bottom"/>
-  <anchor x="526" y="960" name="top"/>
+  <anchor x="302" y="0" name="bottom"/>
+  <anchor x="466" y="960" name="top"/>
   <outline>
     <component base="R"/>
-    <component base="acutecomb" xOffset="201" yOffset="161"/>
+    <component base="acutecomb" xOffset="142" yOffset="161"/>
   </outline>
   <lib>
     <dict>
@@ -38,7 +38,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

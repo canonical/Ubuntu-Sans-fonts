@@ -2,13 +2,13 @@
 <glyph name="dzcaron" format="2">
   <advance width="915"/>
   <unicode hex="01C6"/>
-  <anchor x="201" y="0" name="bottom_1"/>
-  <anchor x="704" y="0" name="bottom_2"/>
-  <anchor x="263" y="257" name="center_1"/>
-  <anchor x="766" y="257" name="center_2"/>
-  <anchor x="388" y="776" name="top_1"/>
-  <anchor x="883" y="751" name="top_2"/>
-  <anchor x="612" y="774" name="topright"/>
+  <anchor x="136" y="0" name="bottom_1"/>
+  <anchor x="642" y="0" name="bottom_2"/>
+  <anchor x="198" y="257" name="center_1"/>
+  <anchor x="704" y="257" name="center_2"/>
+  <anchor x="323" y="776" name="top_1"/>
+  <anchor x="823" y="751" name="top_2"/>
+  <anchor x="547" y="774" name="topright"/>
   <outline>
     <component base="d"/>
     <component base="zcaron" xOffset="518"/>
@@ -66,7 +66,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>zcaron</string>
       <key>public.markColor</key>
-      <string>0.65,0.48,0.2,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

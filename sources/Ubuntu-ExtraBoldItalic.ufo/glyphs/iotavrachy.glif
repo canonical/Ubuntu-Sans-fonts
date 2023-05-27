@@ -2,10 +2,10 @@
 <glyph name="iotavrachy" format="2">
   <advance width="339"/>
   <unicode hex="1FD0"/>
-  <anchor x="336" y="764" name="top"/>
+  <anchor x="281" y="764" name="top"/>
   <outline>
     <component base="iota"/>
-    <component base="brevecomb" xOffset="-32"/>
+    <component base="brevecomb" xOffset="-92"/>
   </outline>
   <lib>
     <dict>
@@ -37,7 +37,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

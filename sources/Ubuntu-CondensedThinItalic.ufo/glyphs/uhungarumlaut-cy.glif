@@ -2,11 +2,11 @@
 <glyph name="uhungarumlaut-cy" format="2">
   <advance width="353"/>
   <unicode hex="04F3"/>
-  <anchor x="113" y="0" name="bottom"/>
-  <anchor x="371" y="769" name="top"/>
+  <anchor x="51" y="0" name="bottom"/>
+  <anchor x="269" y="769" name="top"/>
   <outline>
     <component base="u-cy"/>
-    <component base="hungarumlautcomb" xOffset="57"/>
+    <component base="hungarumlautcomb" xOffset="-5"/>
   </outline>
   <lib>
     <dict>
@@ -38,7 +38,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

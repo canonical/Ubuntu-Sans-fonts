@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Hcaron" format="2">
-  <advance width="553"/>
+  <advance width="552"/>
   <unicode hex="021E"/>
-  <anchor x="268" y="0" name="bottom"/>
-  <anchor x="352" y="347" name="center"/>
-  <anchor x="480" y="919" name="top"/>
-  <anchor x="124" y="693" name="topleft"/>
+  <anchor x="205" y="0" name="bottom"/>
+  <anchor x="289" y="347" name="center"/>
+  <anchor x="422" y="919" name="top"/>
+  <anchor x="61" y="693" name="topleft"/>
   <outline>
     <component base="H"/>
-    <component base="caroncomb" xOffset="149" yOffset="155"/>
+    <component base="caroncomb" xOffset="86" yOffset="155"/>
   </outline>
   <lib>
     <dict>
@@ -40,7 +40,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

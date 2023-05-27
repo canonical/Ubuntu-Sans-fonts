@@ -2,11 +2,11 @@
 <glyph name="alphamacron" format="2">
   <advance width="508"/>
   <unicode hex="1FB1"/>
-  <anchor x="281" y="0" name="bottom"/>
-  <anchor x="438" y="696" name="top"/>
+  <anchor x="219" y="0" name="bottom"/>
+  <anchor x="379" y="694" name="top"/>
   <outline>
     <component base="alpha"/>
-    <component base="macroncomb" xOffset="134"/>
+    <component base="macroncomb" xOffset="72"/>
   </outline>
   <lib>
     <dict>
@@ -38,7 +38,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

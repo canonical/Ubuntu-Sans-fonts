@@ -1,43 +1,34 @@
-@c2sc_sorts = [ at.c2sc
-ampersand.c2sc
-paragraph.c2sc
+@c2sc_sorts = [ paragraph.c2sc
 section.c2sc
-copyright.c2sc
-registered.c2sc
-dollar.c2sc
-euro.c2sc
-hryvnia.c2sc
-ruble.c2sc
-rupeeIndian.c2sc
-sterling.c2sc
-tenge.c2sc
-tugrik.c2sc
-yen.c2sc
-percent.c2sc
+numbersign.c2sc
 
 ];
 
-@c2sc_sorts_off = [ at
-ampersand
-paragraph
+@c2sc_sorts_off = [ paragraph
 section
-copyright
-registered
-dollar
-euro
-hryvnia
-ruble
-rupeeIndian
-sterling
-tenge
-tugrik
-yen
-percent
+numbersign
 
+];
+
+@AlphaSub = [ Alphaprosgegrammeni Alphapsiliprosgegrammeni Alphadasiaprosgegrammeni Alphapsilivariaprosgegrammeni Alphadasiavariaprosgegrammeni Alphapsilioxiaprosgegrammeni Alphadasiaoxiaprosgegrammeni Alphapsiliperispomeniprosgegrammeni Alphadasiaperispomeniprosgegrammeni
+];
+
+@AlphaSub.alt = [ Alphaprosgegrammeni.alt Alphapsiliprosgegrammeni.alt Alphadasiaprosgegrammeni.alt Alphapsilivariaprosgegrammeni.alt Alphadasiavariaprosgegrammeni.alt Alphapsilioxiaprosgegrammeni.alt Alphadasiaoxiaprosgegrammeni.alt Alphapsiliperispomeniprosgegrammeni.alt Alphadasiaperispomeniprosgegrammeni.alt
+];
+
+@EtaSub = [ Etaprosgegrammeni Etapsiliprosgegrammeni Etadasiaprosgegrammeni Etapsilivariaprosgegrammeni Etadasiavariaprosgegrammeni Etapsilioxiaprosgegrammeni Etadasiaoxiaprosgegrammeni Etapsiliperispomeniprosgegrammeni Etadasiaperispomeniprosgegrammeni
+];
+
+@EtaSub.alt = [ Etaprosgegrammeni.alt Etapsiliprosgegrammeni.alt Etadasiaprosgegrammeni.alt Etapsilivariaprosgegrammeni.alt Etadasiavariaprosgegrammeni.alt Etapsilioxiaprosgegrammeni.alt Etadasiaoxiaprosgegrammeni.alt Etapsiliperispomeniprosgegrammeni.alt Etadasiaperispomeniprosgegrammeni.alt
+];
+
+@OmegaSub = [ Omegaprosgegrammeni Omegapsiliprosgegrammeni Omegadasiaprosgegrammeni Omegapsilivariaprosgegrammeni Omegadasiavariaprosgegrammeni Omegapsilioxiaprosgegrammeni Omegadasiaoxiaprosgegrammeni Omegapsiliperispomeniprosgegrammeni Omegadasiaperispomeniprosgegrammeni
+];
+
+@OmegaSub.alt = [ Omegaprosgegrammeni.alt Omegapsiliprosgegrammeni.alt Omegadasiaprosgegrammeni.alt Omegapsilivariaprosgegrammeni.alt Omegadasiavariaprosgegrammeni.alt Omegapsilioxiaprosgegrammeni.alt Omegadasiaoxiaprosgegrammeni.alt Omegapsiliperispomeniprosgegrammeni.alt Omegadasiaperispomeniprosgegrammeni.alt
 ];
 
 # Prefix: External features
-##include(../features/Ubuntu.fea);
 
 
 # Prefix: Languagesystems
@@ -45,9 +36,17 @@ percent
 languagesystem DFLT dflt;
 
 languagesystem latn dflt;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn TRK;
 languagesystem latn ROM;
 languagesystem latn MOL;
 languagesystem latn CAT;
+
+languagesystem cyrl dflt;
+languagesystem cyrl BGR;
+languagesystem cyrl MKD;
+languagesystem cyrl SRB;
 
 
 feature aalt {
@@ -67,19 +66,14 @@ feature onum;
 feature c2sc;
 feature smcp;
 feature case;
+feature ss01;
+feature salt;
 
 } aalt;
 
 feature ccmp {
 # automatic
-lookup ccmp_Other_1 {
-	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb caroncomb circumflexcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
-	@CombiningNonTopAccents = [cedillacomb dotbelowcomb macronbelowcomb ogonekcomb verticallinebelowcomb];
-	sub [i j]' @CombiningTopAccents by [idotless jdotless];
-	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
-} ccmp_Other_1;
-
-lookup ccmp_Other_2 {
+lookup ccmp_DFLT_1 {
 	lookupflag 0;
 	sub dieresis acute by dieresis_acute;
 	sub dieresis breve by dieresis_breve;
@@ -87,7 +81,14 @@ lookup ccmp_Other_2 {
 	sub dieresis macron by dieresis_macron;
 	sub ring acute by ring_acute;
 	sub tilde macron by tilde_macron;
-} ccmp_Other_2;
+} ccmp_DFLT_1;
+
+lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb caroncomb circumflexcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+	@CombiningNonTopAccents = [cedillacomb dotbelowcomb macronbelowcomb ogonekcomb verticallinebelowcomb];
+	sub [i j]' @CombiningTopAccents by [idotless jdotless];
+	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
+} ccmp_Other_1;
 
 lookup ccmp_latn_1 {
 	sub fi by f i;
@@ -109,28 +110,67 @@ lookup ccmp_latn_1;
 } ccmp;
 
 feature locl {
-# automatic
-lookup locl_latn_0 {
-	script latn;
-	language ROM;
-	sub Scedilla by Scommaaccent;
-	sub scedilla by scommaaccent;
-	sub Tcedilla by Tcommaaccent;
-	sub tcedilla by tcommaaccent;
-	language MOL;
-	sub Scedilla by Scommaaccent;
-	sub scedilla by scommaaccent;
-	sub Tcedilla by Tcommaaccent;
-	sub tcedilla by tcommaaccent;
-} locl_latn_0;
+	script cyrl;
+	language BGR;
+	lookup locl_cyrl_BGR_1 {
+		sub be-cy by be-cy.locl;
+	} locl_cyrl_BGR_1;
 
-lookup locl_latn_1 {
-	script latn;
-	language CAT;
-	sub  l' periodcentered' l by ldot;
-	sub  L' periodcentered' L by Ldot;
-} locl_latn_1;
+	language MKD;
+	lookup locl_cyrl_MKD_1 {
+		sub be-cy by be-cy.locl;
+	} locl_cyrl_MKD_1;
 
+	language SRB;
+	lookup locl_cyrl_SRB_1 {
+		sub be-cy by be-cy.locl;
+	} locl_cyrl_SRB_1;
+
+	script latn;
+	language AZE;
+	lookup locl_latn_AZE_1 {
+		sub i by i.locl;
+	} locl_latn_AZE_1;
+
+	language CRT;
+	lookup locl_latn_CRT_1 {
+		sub i by i.locl;
+	} locl_latn_CRT_1;
+
+	language TRK;
+	lookup locl_latn_TRK_1 {
+		sub i by i.locl;
+	} locl_latn_TRK_1;
+	
+    lookup locl_latn_ROM {
+        script latn;
+        language ROM;
+        sub Scedilla by Scommaaccent;
+        sub scedilla by scommaaccent;
+        sub Tcedilla by Tcommaaccent;
+        sub tcedilla by tcommaaccent;
+        sub scedilla.sc by scommaaccent.sc;
+        sub tcedilla.sc by tcommaaccent.sc;
+
+        language MOL;
+        sub Scedilla by Scommaaccent;
+        sub scedilla by scommaaccent;
+        sub Tcedilla by Tcommaaccent;
+        sub tcedilla by tcommaaccent;
+        sub scedilla.sc by scommaaccent.sc;
+        sub tcedilla.sc by tcommaaccent.sc;
+
+    } locl_latn_ROM;
+
+
+    lookup locl_latn_CAT {
+        script latn;
+        language CAT;
+        sub  l' periodcentered' l by ldot;
+        sub  L' periodcentered' L by Ldot;
+        sub  l.sc' periodcentered' l by ldot.sc;
+    } locl_latn_CAT;	
+    
 } locl;
 
 feature subs {
@@ -209,17 +249,82 @@ sub nine by nine.dnom;
 } dnom;
 
 feature frac {
-# automatic
-lookup FRAC {
-	sub slash by fraction;
-} FRAC;
-lookup UP {
-	sub [zero one two three four five six seven eight nine] by [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
-} UP;
-lookup DOWN {
-	sub fraction [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
-	sub [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom] [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
-} DOWN;
+# https://opentypecookbook.com/common-techniques/
+@figures = [zero one two three four five six seven eight nine];
+@figuresNumerator = [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
+@figuresDenominator = [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+
+    lookup FractionBar {
+        ignore sub slash @figures @figures @figures @figures @figures @figures @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures @figures @figures @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures @figures @figures @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures @figures @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures @figures @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures slash;
+        ignore sub slash @figures @figures slash';
+        ignore sub slash' @figures @figures slash;
+        ignore sub slash @figures slash';
+        ignore sub slash' @figures slash;
+        ignore sub slash slash';
+        ignore sub slash' slash;
+        sub @figures slash' @figures by fraction;
+    } FractionBar;
+
+    lookup Numerator1 {
+        sub @figures' fraction by @figuresNumerator;
+    } Numerator1;
+
+    lookup Numerator2 {
+        sub @figures' @figuresNumerator fraction by @figuresNumerator;
+    } Numerator2;
+
+    lookup Numerator3 {
+        sub @figures' @figuresNumerator @figuresNumerator fraction by @figuresNumerator;
+    } Numerator3;
+
+    lookup Numerator4 {
+        sub @figures' @figuresNumerator @figuresNumerator @figuresNumerator fraction by @figuresNumerator;
+    } Numerator4;
+
+    lookup Numerator5 {
+        sub @figures' @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator fraction by @figuresNumerator;
+    } Numerator5;
+
+    lookup Numerator6 {
+        sub @figures' @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator fraction by @figuresNumerator;
+    } Numerator6;
+
+    lookup Numerator7 {
+        sub @figures' @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator fraction by @figuresNumerator;
+    } Numerator7;
+
+    lookup Numerator8 {
+        sub @figures' @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator fraction by @figuresNumerator;
+    } Numerator8;
+
+    lookup Numerator9 {
+        sub @figures' @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator fraction by @figuresNumerator;
+    } Numerator9;
+
+    lookup Numerator10 {
+        sub @figures' @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator fraction by @figuresNumerator;
+    } Numerator10;
+
+    lookup Denominator {
+        sub [fraction @figuresDenominator] @figures' by @figuresDenominator;
+    } Denominator;
+
+    sub @figures space' @figuresNumerator by thinspace;
 
 } frac;
 
@@ -317,8 +422,16 @@ sub six.lf by six.osf;
 sub seven.lf by seven.osf;
 sub eight.lf by eight.osf;
 sub nine.lf by nine.osf;
-
-sub @c2sc_sorts_off by @c2sc_sorts;
+sub dollar by dollar.osf;
+sub euro by euro.osf;
+sub hryvnia by hryvnia.osf;
+sub ruble by ruble.osf;
+sub rupeeIndian by rupeeIndian.osf;
+sub sterling by sterling.osf;
+sub tenge by tenge.osf;
+sub tugrik by tugrik.osf;
+sub yen by yen.osf;
+sub percent by percent.osf;
 
 } onum;
 
@@ -358,12 +471,12 @@ sub Cstroke by cstroke.sc;
 sub D by d.sc;
 sub DZ by dz.sc;
 sub DZcaron by dzcaron.sc;
+sub Eth by eth.sc;
 sub Dcaron by dcaron.sc;
 sub Dcroat by dcroat.sc;
 sub Dtopbar by dtopbar.sc;
 sub Dz by dz.sc;
 sub Dzcaron by dzcaron.sc;
-sub Eth by eth.sc;
 sub E by e.sc;
 sub Eacute by eacute.sc;
 sub Ebreve by ebreve.sc;
@@ -395,7 +508,6 @@ sub H by h.sc;
 sub Hbar by hbar.sc;
 sub Hcaron by hcaron.sc;
 sub Hcircumflex by hcircumflex.sc;
-sub Hwair by hv.sc;
 sub I by i.sc;
 sub IJ by ij.sc;
 sub Iacute by iacute.sc;
@@ -433,7 +545,6 @@ sub Ncaron by ncaron.sc;
 sub Ncommaaccent by ncommaaccent.sc;
 sub Ngrave by ngrave.sc;
 sub Nj by nj.sc;
-sub Nlongrightleg by nlegrightlong.sc;
 sub Ntilde by ntilde.sc;
 sub Eng by eng.sc;
 sub O by o.sc;
@@ -797,16 +908,6 @@ sub paragraph by paragraph.c2sc;
 sub section by section.c2sc;
 sub copyright by copyright.c2sc;
 sub registered by registered.c2sc;
-sub dollar by dollar.c2sc;
-sub euro by euro.c2sc;
-sub hryvnia by hryvnia.c2sc;
-sub ruble by ruble.c2sc;
-sub rupeeIndian by rupeeIndian.c2sc;
-sub sterling by sterling.c2sc;
-sub tenge by tenge.c2sc;
-sub tugrik by tugrik.c2sc;
-sub yen by yen.c2sc;
-sub percent by percent.c2sc;
 sub tonos by tonos.sc;
 sub psili by psili.sc;
 sub dasia by dasia.sc;
@@ -876,12 +977,12 @@ sub cdotaccent by cdotaccent.sc;
 sub chook by chook.sc;
 sub cstroke by cstroke.sc;
 sub d by d.sc;
+sub eth by eth.sc;
 sub dcaron by dcaron.sc;
 sub dcroat by dcroat.sc;
 sub dtopbar by dtopbar.sc;
 sub dz by dz.sc;
 sub dzcaron by dzcaron.sc;
-sub eth by eth.sc;
 sub e by e.sc;
 sub eacute by eacute.sc;
 sub ebreve by ebreve.sc;
@@ -927,10 +1028,10 @@ sub idblgrave by idblgrave.sc;
 sub idieresis by idieresis.sc;
 sub igrave by igrave.sc;
 sub iinvertedbreve by iinvertedbreve.sc;
+sub ij by ij.sc;
 sub imacron by imacron.sc;
 sub iogonek by iogonek.sc;
 sub itilde by itilde.sc;
-sub ij by ij.sc;
 sub j by j.sc;
 sub jdotless by jdotless.sc;
 sub jcircumflex by jcircumflex.sc;
@@ -1369,6 +1470,16 @@ sub six.osf by six.lf;
 sub seven.osf by seven.lf;
 sub eight.osf by eight.lf;
 sub nine.osf by nine.lf;
+sub dollar.osf by dollar;
+sub euro.osf by euro;
+sub hryvnia.osf by hryvnia;
+sub ruble.osf by ruble;
+sub rupeeIndian.osf by rupeeIndian;
+sub sterling.osf by sterling;
+sub tenge.osf by tenge;
+sub tugrik.osf by tugrik;
+sub yen.osf by yen;
+sub percent.osf by percent;
 sub zero.tosf by zero;
 sub one.tosf by one;
 sub two.tosf by two;
@@ -1392,3 +1503,18 @@ sub f i by f_i;
 sub f l by f_l;
 
 } liga;
+
+feature ss01 {
+featureNames {
+  name "Greek iota subscript";
+};
+sub @AlphaSub by @AlphaSub.alt;
+sub @EtaSub by @EtaSub.alt;
+sub @OmegaSub by @OmegaSub.alt;
+} ss01;
+
+feature salt {
+sub @AlphaSub by @AlphaSub.alt;
+sub @EtaSub by @EtaSub.alt;
+sub @OmegaSub by @OmegaSub.alt;
+} salt;

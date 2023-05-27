@@ -2,11 +2,11 @@
 <glyph name="zhebreve-cy" format="2">
   <advance width="608"/>
   <unicode hex="04C2"/>
-  <anchor x="526" y="0" name="bottomright"/>
-  <anchor x="476" y="724" name="top"/>
+  <anchor x="464" y="0" name="bottomright"/>
+  <anchor x="414" y="724" name="top"/>
   <outline>
     <component base="zhe-cy"/>
-    <component base="brevecomb.cyr" xOffset="178"/>
+    <component base="brevecomb.cyr" xOffset="116"/>
   </outline>
   <lib>
     <dict>
@@ -38,7 +38,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

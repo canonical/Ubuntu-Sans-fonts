@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kgreenlandic.case" format="2">
   <advance width="836"/>
-  <anchor x="374" y="0" name="bottom"/>
-  <anchor x="485" y="687" name="top"/>
+  <anchor x="314" y="0" name="bottom"/>
+  <anchor x="425" y="687" name="top"/>
   <outline>
     <component base="K"/>
     <component base="quoteleft" xOffset="650"/>
@@ -58,7 +58,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>H</string>
       <key>public.markColor</key>
-      <string>0.65,0.48,0.2,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

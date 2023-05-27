@@ -2,10 +2,10 @@
 <glyph name="Ushort-cy" format="2">
   <advance width="418"/>
   <unicode hex="040E"/>
-  <anchor x="410" y="893" name="top"/>
+  <anchor x="347" y="893" name="top"/>
   <outline>
     <component base="U-cy"/>
-    <component base="brevecomb.cyr" xOffset="98" yOffset="155"/>
+    <component base="brevecomb.cyr" xOffset="35" yOffset="155"/>
   </outline>
   <lib>
     <dict>
@@ -37,7 +37,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

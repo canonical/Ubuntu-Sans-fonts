@@ -2,11 +2,11 @@
 <glyph name="Ezhcaron" format="2">
   <advance width="615"/>
   <unicode hex="01EE"/>
-  <anchor x="245" y="0" name="bottom"/>
-  <anchor x="505" y="954" name="top"/>
+  <anchor x="185" y="0" name="bottom"/>
+  <anchor x="450" y="954" name="top"/>
   <outline>
     <component base="Ezh"/>
-    <component base="caroncomb" xOffset="128" yOffset="161"/>
+    <component base="caroncomb" xOffset="68" yOffset="161"/>
   </outline>
   <lib>
     <dict>
@@ -38,7 +38,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

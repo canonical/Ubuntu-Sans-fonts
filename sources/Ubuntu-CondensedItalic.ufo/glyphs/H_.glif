@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="H" format="2">
-  <advance width="553"/>
+  <advance width="552"/>
   <unicode hex="0048"/>
-  <anchor x="268" y="0" name="bottom"/>
-  <anchor x="352" y="347" name="center"/>
-  <anchor x="427" y="677" name="top"/>
-  <anchor x="124" y="693" name="topleft"/>
+  <anchor x="205" y="0" name="bottom"/>
+  <anchor x="289" y="347" name="center"/>
+  <anchor x="364" y="677" name="top"/>
+  <anchor x="61" y="693" name="topleft"/>
   <outline>
     <contour>
-      <point x="83" y="0" type="line"/>
-      <point x="155" y="0" type="line"/>
-      <point x="234" y="330" type="line"/>
-      <point x="477" y="330" type="line"/>
-      <point x="398" y="0" type="line"/>
-      <point x="470" y="0" type="line"/>
-      <point x="636" y="693" type="line"/>
-      <point x="564" y="693" type="line"/>
-      <point x="493" y="393" type="line"/>
-      <point x="249" y="393" type="line"/>
-      <point x="321" y="693" type="line"/>
-      <point x="249" y="693" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="92" y="0" type="line"/>
+      <point x="171" y="330" type="line"/>
+      <point x="414" y="330" type="line"/>
+      <point x="335" y="0" type="line"/>
+      <point x="407" y="0" type="line"/>
+      <point x="573" y="693" type="line"/>
+      <point x="501" y="693" type="line"/>
+      <point x="430" y="393" type="line"/>
+      <point x="186" y="393" type="line"/>
+      <point x="258" y="693" type="line"/>
+      <point x="186" y="693" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -52,7 +52,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

@@ -2,11 +2,11 @@
 <glyph name="ngrave" format="2">
   <advance width="465"/>
   <unicode hex="01F9"/>
-  <anchor x="239" y="0" name="bottom"/>
-  <anchor x="380" y="778" name="top"/>
+  <anchor x="176" y="0" name="bottom"/>
+  <anchor x="341" y="778" name="top"/>
   <outline>
     <component base="n"/>
-    <component base="gravecomb" xOffset="60"/>
+    <component base="gravecomb" xOffset="-3"/>
   </outline>
   <lib>
     <dict>
@@ -38,7 +38,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

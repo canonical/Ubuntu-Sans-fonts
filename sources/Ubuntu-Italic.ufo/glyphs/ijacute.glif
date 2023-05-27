@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ijacute" format="2">
-  <advance width="473"/>
-  <anchor x="125" y="0" name="bottom_1"/>
-  <anchor x="241" y="-185" name="bottom_2"/>
-  <anchor x="165" y="10" name="ogonek"/>
-  <anchor x="249" y="518" name="top_1"/>
-  <anchor x="474" y="518" name="top_2"/>
+  <advance width="501"/>
+  <anchor x="62" y="0" name="bottom_1"/>
+  <anchor x="206" y="-185" name="bottom_2"/>
+  <anchor x="102" y="10" name="ogonek"/>
+  <anchor x="186" y="518" name="top_1"/>
+  <anchor x="439" y="518" name="top_2"/>
   <outline>
     <component base="idotless"/>
-    <component base="jdotless" xOffset="222"/>
-    <component base="acutecomb" xOffset="205" yOffset="1"/>
-    <component base="acutecomb" xOffset="-27"/>
+    <component base="jdotless" xOffset="250"/>
+    <component base="acutecomb" xOffset="-84"/>
+    <component base="acutecomb" xOffset="183"/>
   </outline>
   <lib>
     <dict>
@@ -43,6 +43,14 @@
       </dict>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>acutecomb</string>
+        </dict>
         <dict>
           <key>alignment</key>
           <integer>-1</integer>

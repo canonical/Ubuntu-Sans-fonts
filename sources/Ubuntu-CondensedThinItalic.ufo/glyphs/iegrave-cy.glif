@@ -2,12 +2,12 @@
 <glyph name="iegrave-cy" format="2">
   <advance width="376"/>
   <unicode hex="0450"/>
-  <anchor x="198" y="0" name="bottom"/>
-  <anchor x="278" y="10" name="ogonek"/>
-  <anchor x="353" y="774" name="top"/>
+  <anchor x="137" y="0" name="bottom"/>
+  <anchor x="217" y="10" name="ogonek"/>
+  <anchor x="322" y="774" name="top"/>
   <outline>
     <component base="ie-cy"/>
-    <component base="gravecomb" xOffset="30"/>
+    <component base="gravecomb" xOffset="-31"/>
   </outline>
   <lib>
     <dict>
@@ -39,7 +39,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

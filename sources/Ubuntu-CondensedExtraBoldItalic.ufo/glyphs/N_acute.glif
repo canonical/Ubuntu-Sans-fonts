@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Nacute" format="2">
-  <advance width="593"/>
+  <advance width="594"/>
   <unicode hex="0143"/>
-  <anchor x="323" y="0" name="bottom"/>
-  <anchor x="512" y="934" name="top"/>
+  <anchor x="260" y="0" name="bottom"/>
+  <anchor x="447" y="934" name="top"/>
   <outline>
     <component base="N"/>
-    <component base="acutecomb" xOffset="174" yOffset="149"/>
+    <component base="acutecomb" xOffset="111" yOffset="149"/>
   </outline>
   <lib>
     <dict>
@@ -38,7 +38,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

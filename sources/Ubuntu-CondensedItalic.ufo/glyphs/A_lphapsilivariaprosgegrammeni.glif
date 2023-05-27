@@ -2,10 +2,10 @@
 <glyph name="Alphapsilivariaprosgegrammeni" format="2">
   <advance width="863"/>
   <unicode hex="1F8A"/>
-  <anchor x="397" y="0" name="bottom"/>
-  <anchor x="533" y="10" name="ogonek"/>
-  <anchor x="555" y="677" name="top_1"/>
-  <anchor x="865" y="522" name="top_2"/>
+  <anchor x="334" y="0" name="bottom"/>
+  <anchor x="470" y="10" name="ogonek"/>
+  <anchor x="492" y="677" name="top_1"/>
+  <anchor x="802" y="522" name="top_2"/>
   <outline>
     <component base="A" xOffset="164"/>
     <component base="iota" xOffset="631"/>
@@ -67,6 +67,10 @@
           <string>psilivaria</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>iota</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

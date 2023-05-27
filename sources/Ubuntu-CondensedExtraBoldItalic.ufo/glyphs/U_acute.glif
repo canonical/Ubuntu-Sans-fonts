@@ -3,13 +3,13 @@
   <advance width="560"/>
   <unicode hex="00DA"/>
   <guideline x="429" y="728" angle="0"/>
-  <anchor x="287" y="0" name="bottom"/>
-  <anchor x="443" y="10" name="ogonek"/>
-  <anchor x="503" y="934" name="top"/>
-  <anchor x="643" y="693" name="topright"/>
+  <anchor x="223" y="0" name="bottom"/>
+  <anchor x="379" y="10" name="ogonek"/>
+  <anchor x="437" y="934" name="top"/>
+  <anchor x="579" y="693" name="topright"/>
   <outline>
     <component base="U"/>
-    <component base="acutecomb" xOffset="165" yOffset="149"/>
+    <component base="acutecomb" xOffset="101" yOffset="149"/>
   </outline>
   <lib>
     <dict>
@@ -41,7 +41,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

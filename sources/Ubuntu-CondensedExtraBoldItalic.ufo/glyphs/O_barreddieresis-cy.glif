@@ -2,10 +2,10 @@
 <glyph name="Obarreddieresis-cy" format="2">
   <advance width="607"/>
   <unicode hex="04EA"/>
-  <anchor x="507" y="900" name="top"/>
+  <anchor x="448" y="900" name="top"/>
   <outline>
     <component base="Obarred-cy"/>
-    <component base="dieresiscomb" xOffset="133" yOffset="149"/>
+    <component base="dieresiscomb" xOffset="69" yOffset="149"/>
   </outline>
   <lib>
     <dict>
@@ -37,7 +37,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

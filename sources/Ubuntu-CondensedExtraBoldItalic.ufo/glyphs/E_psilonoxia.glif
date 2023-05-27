@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Epsilonoxia" format="2">
-  <advance width="623"/>
+  <advance width="624"/>
   <unicode hex="1FC9"/>
-  <anchor x="382.76599999999996" y="0" name="bottom"/>
-  <anchor x="512.766" y="10" name="ogonek"/>
-  <anchor x="533.766" y="681" name="top"/>
-  <anchor x="259.76599999999996" y="693" name="topleft"/>
+  <anchor x="319.76599999999996" y="0" name="bottom"/>
+  <anchor x="449.76599999999996" y="10" name="ogonek"/>
+  <anchor x="470.76599999999996" y="681" name="top"/>
+  <anchor x="196.766" y="693" name="topleft"/>
   <outline>
     <component base="E" xOffset="136.766"/>
-    <component base="acute" xOffset="-84" yOffset="-69"/>
+    <component base="acute" xOffset="-148" yOffset="-69"/>
   </outline>
   <lib>
     <dict>
@@ -58,6 +58,10 @@
           <string>acute</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Epsilon</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

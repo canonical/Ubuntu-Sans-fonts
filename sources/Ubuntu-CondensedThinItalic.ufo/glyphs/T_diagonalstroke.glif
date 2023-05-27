@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Tdiagonalstroke" format="2">
-  <advance width="430.15"/>
+  <advance width="430"/>
   <unicode hex="023E"/>
   <unicode hex="2C66"/>
   <outline>
     <contour>
-      <point x="58" y="-44" type="line"/>
-      <point x="234" y="219" type="line"/>
-      <point x="182" y="0" type="line"/>
-      <point x="211" y="0" type="line"/>
-      <point x="281" y="289" type="line"/>
-      <point x="580" y="737" type="line"/>
-      <point x="556" y="746" type="line"/>
-      <point x="520" y="693" type="line"/>
-      <point x="189" y="693" type="line"/>
-      <point x="183" y="665" type="line"/>
-      <point x="342" y="665" type="line"/>
-      <point x="251" y="292" type="line"/>
-      <point x="33" y="-35" type="line"/>
+      <point x="-4" y="-44" type="line"/>
+      <point x="172" y="219" type="line"/>
+      <point x="120" y="0" type="line"/>
+      <point x="149" y="0" type="line"/>
+      <point x="219" y="289" type="line"/>
+      <point x="518" y="737" type="line"/>
+      <point x="494" y="746" type="line"/>
+      <point x="458" y="693" type="line"/>
+      <point x="127" y="693" type="line"/>
+      <point x="121" y="665" type="line"/>
+      <point x="280" y="665" type="line"/>
+      <point x="189" y="292" type="line"/>
+      <point x="-29" y="-35" type="line"/>
     </contour>
     <contour>
-      <point x="298" y="362" type="line"/>
-      <point x="371" y="665" type="line"/>
-      <point x="502" y="665" type="line"/>
+      <point x="236" y="362" type="line"/>
+      <point x="309" y="665" type="line"/>
+      <point x="440" y="665" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -54,6 +54,10 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>T</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

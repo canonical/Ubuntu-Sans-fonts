@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Idblgrave" format="2">
-  <advance width="238"/>
+  <advance width="236"/>
   <unicode hex="0208"/>
-  <anchor x="114" y="-16" name="bottom"/>
-  <anchor x="154" y="10" name="ogonek"/>
-  <anchor x="270" y="938" name="top"/>
-  <anchor x="124" y="693" name="topleft"/>
+  <anchor x="50" y="-16" name="bottom"/>
+  <anchor x="90" y="10" name="ogonek"/>
+  <anchor x="280" y="938" name="top"/>
+  <anchor x="60" y="693" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="dblgravecomb" xOffset="-57" yOffset="155"/>
+    <component base="dblgravecomb" xOffset="-121" yOffset="155"/>
   </outline>
   <lib>
     <dict>
@@ -40,7 +40,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Kcommaaccent" format="2">
-  <advance width="580"/>
+  <advance width="578"/>
   <unicode hex="0136"/>
-  <anchor x="256" y="-182" name="bottom"/>
-  <anchor x="433" y="669" name="top"/>
+  <anchor x="192" y="-182" name="bottom"/>
+  <anchor x="369" y="669" name="top"/>
   <outline>
     <component base="K"/>
-    <component base="commaaccentcomb" xOffset="163"/>
+    <component base="commaaccentcomb" xOffset="161"/>
   </outline>
   <lib>
     <dict>
@@ -38,7 +38,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

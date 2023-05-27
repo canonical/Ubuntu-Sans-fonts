@@ -2,12 +2,13 @@
 <glyph name="varia" format="2">
   <advance width="319"/>
   <unicode hex="1FEF"/>
+  <anchor x="264" y="522" name="_top"/>
   <outline>
     <contour>
-      <point x="385" y="594" type="line"/>
-      <point x="416" y="625" type="line"/>
-      <point x="304" y="766" type="line"/>
-      <point x="258" y="718" type="line"/>
+      <point x="322" y="594" type="line"/>
+      <point x="353" y="625" type="line"/>
+      <point x="241" y="766" type="line"/>
+      <point x="195" y="718" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -39,6 +40,8 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
     </dict>
   </lib>
 </glyph>

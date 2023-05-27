@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="idotless" format="2">
-  <advance width="195.3"/>
+  <advance width="195"/>
   <unicode hex="0131"/>
-  <anchor x="98" y="0" name="bottom"/>
-  <anchor x="116" y="10" name="ogonek"/>
-  <anchor x="222" y="516" name="top"/>
+  <anchor x="36" y="0" name="bottom"/>
+  <anchor x="54" y="10" name="ogonek"/>
+  <anchor x="160" y="516" name="top"/>
   <outline>
     <contour>
-      <point x="84" y="0" type="line"/>
-      <point x="112" y="0" type="line"/>
-      <point x="236" y="516" type="line"/>
-      <point x="208" y="516" type="line"/>
+      <point x="22" y="0" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="174" y="516" type="line"/>
+      <point x="146" y="516" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -43,7 +43,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.65,0.48,0.2,1</string>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

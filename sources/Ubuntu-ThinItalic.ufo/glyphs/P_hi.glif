@@ -1,45 +1,45 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Phi" format="2">
-  <advance width="813"/>
+  <advance width="862"/>
   <unicode hex="03A6"/>
   <outline>
     <contour>
+      <point x="351" y="0" type="line"/>
       <point x="388" y="0" type="line"/>
-      <point x="425" y="0" type="line"/>
-      <point x="446" y="88" type="line"/>
-      <point x="663" y="93"/>
-      <point x="855" y="200"/>
-      <point x="855" y="418" type="curve" smooth="yes"/>
-      <point x="855" y="568"/>
-      <point x="727" y="642"/>
-      <point x="580" y="652" type="curve"/>
-      <point x="600" y="737" type="line"/>
+      <point x="409" y="88" type="line"/>
+      <point x="626" y="93"/>
+      <point x="818" y="200"/>
+      <point x="818" y="418" type="curve" smooth="yes"/>
+      <point x="818" y="568"/>
+      <point x="690" y="642"/>
+      <point x="543" y="652" type="curve"/>
       <point x="563" y="737" type="line"/>
-      <point x="543" y="653" type="line"/>
-      <point x="326" y="647"/>
-      <point x="136" y="540"/>
-      <point x="136" y="323" type="curve" smooth="yes"/>
-      <point x="136" y="174"/>
-      <point x="263" y="100"/>
-      <point x="409" y="89" type="curve"/>
+      <point x="526" y="737" type="line"/>
+      <point x="506" y="653" type="line"/>
+      <point x="289" y="647"/>
+      <point x="99" y="540"/>
+      <point x="99" y="323" type="curve" smooth="yes"/>
+      <point x="99" y="174"/>
+      <point x="226" y="100"/>
+      <point x="372" y="89" type="curve"/>
     </contour>
     <contour>
-      <point x="417" y="123" type="line"/>
-      <point x="286" y="131"/>
-      <point x="174" y="194"/>
-      <point x="174" y="327" type="curve" smooth="yes"/>
-      <point x="174" y="519"/>
-      <point x="344" y="613"/>
-      <point x="535" y="620" type="curve"/>
+      <point x="380" y="123" type="line"/>
+      <point x="249" y="131"/>
+      <point x="137" y="194"/>
+      <point x="137" y="327" type="curve" smooth="yes"/>
+      <point x="137" y="519"/>
+      <point x="307" y="613"/>
+      <point x="498" y="620" type="curve"/>
     </contour>
     <contour>
-      <point x="454" y="121" type="curve"/>
-      <point x="572" y="619" type="line"/>
-      <point x="704" y="610"/>
-      <point x="817" y="547"/>
-      <point x="817" y="414" type="curve" smooth="yes"/>
-      <point x="817" y="221"/>
-      <point x="646" y="127"/>
+      <point x="417" y="121" type="curve"/>
+      <point x="535" y="619" type="line"/>
+      <point x="667" y="610"/>
+      <point x="780" y="547"/>
+      <point x="780" y="414" type="curve" smooth="yes"/>
+      <point x="780" y="221"/>
+      <point x="609" y="127"/>
     </contour>
   </outline>
   <lib>
@@ -71,6 +71,12 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Omicron</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Omicron</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Iotaoxia" format="2">
-  <advance width="395"/>
+  <advance width="396"/>
   <unicode hex="1FDB"/>
-  <anchor x="265" y="-19" name="bottom"/>
-  <anchor x="309" y="10" name="ogonek"/>
-  <anchor x="431" y="674" name="top"/>
-  <anchor x="269" y="693" name="topleft"/>
+  <anchor x="202" y="-19" name="bottom"/>
+  <anchor x="246" y="10" name="ogonek"/>
+  <anchor x="368" y="674" name="top"/>
+  <anchor x="206" y="693" name="topleft"/>
   <outline>
     <component base="I" xOffset="145"/>
-    <component base="acute" xOffset="-91" yOffset="-67"/>
+    <component base="acute" xOffset="-154" yOffset="-67"/>
   </outline>
   <lib>
     <dict>
@@ -58,6 +58,10 @@
           <string>acute</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Iota</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

@@ -2,10 +2,10 @@
 <glyph name="Epsilontonos" format="2">
   <advance width="754"/>
   <unicode hex="0388"/>
-  <anchor x="459" y="0" name="bottom"/>
-  <anchor x="633" y="10" name="ogonek"/>
-  <anchor x="613" y="687" name="top"/>
-  <anchor x="273" y="693" name="topleft"/>
+  <anchor x="399" y="0" name="bottom"/>
+  <anchor x="573" y="10" name="ogonek"/>
+  <anchor x="553" y="687" name="top"/>
+  <anchor x="213" y="693" name="topleft"/>
   <outline>
     <component base="E" xOffset="150"/>
     <component base="tonos.cap" xOffset="-109"/>
@@ -58,6 +58,8 @@
           <string>tonos.cap</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

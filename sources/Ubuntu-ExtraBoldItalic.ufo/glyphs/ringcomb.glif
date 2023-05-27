@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ringcomb" format="2">
   <unicode hex="030A"/>
-  <anchor x="279" y="526" name="_top"/>
-  <anchor x="349" y="814" name="top"/>
+  <anchor x="299" y="526" name="_top"/>
+  <anchor x="354" y="814" name="top"/>
   <outline>
     <component base="ring"/>
   </outline>
@@ -37,6 +37,8 @@
       </dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>334</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

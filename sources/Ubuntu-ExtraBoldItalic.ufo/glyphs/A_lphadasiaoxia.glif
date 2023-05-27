@@ -2,9 +2,9 @@
 <glyph name="Alphadasiaoxia" format="2">
   <advance width="939"/>
   <unicode hex="1F0D"/>
-  <anchor x="577" y="0" name="bottom"/>
-  <anchor x="806" y="10" name="ogonek"/>
-  <anchor x="732" y="687" name="top"/>
+  <anchor x="517" y="0" name="bottom"/>
+  <anchor x="746" y="10" name="ogonek"/>
+  <anchor x="672" y="687" name="top"/>
   <outline>
     <component base="A" xOffset="215"/>
     <component base="dasiaoxia" xOffset="-228" yOffset="-116"/>
@@ -57,6 +57,10 @@
           <string>dasiaoxia</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Alpha</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

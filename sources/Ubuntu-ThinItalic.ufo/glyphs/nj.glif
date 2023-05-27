@@ -2,10 +2,10 @@
 <glyph name="nj" format="2">
   <advance width="768"/>
   <unicode hex="01CC"/>
-  <anchor x="266" y="0" name="bottom_1"/>
-  <anchor x="551" y="-185" name="bottom_2"/>
-  <anchor x="376" y="513" name="top_1"/>
-  <anchor x="837" y="723" name="top_2"/>
+  <anchor x="204" y="0" name="bottom_1"/>
+  <anchor x="489" y="-185" name="bottom_2"/>
+  <anchor x="314" y="513" name="top_1"/>
+  <anchor x="775" y="723" name="top_2"/>
   <outline>
     <component base="n"/>
     <component base="j" xOffset="545"/>
@@ -58,6 +58,12 @@
           <string>j</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>j</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

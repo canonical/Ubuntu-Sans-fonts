@@ -2,13 +2,13 @@
 <glyph name="Epsilonvaria" format="2">
   <advance width="548"/>
   <unicode hex="1FC8"/>
-  <anchor x="339" y="0" name="bottom"/>
-  <anchor x="445" y="10" name="ogonek"/>
-  <anchor x="500" y="677" name="top"/>
-  <anchor x="238" y="693" name="topleft"/>
+  <anchor x="276" y="0" name="bottom"/>
+  <anchor x="382" y="10" name="ogonek"/>
+  <anchor x="437" y="677" name="top"/>
+  <anchor x="175" y="693" name="topleft"/>
   <outline>
     <component base="E" xOffset="114"/>
-    <component base="grave" xOffset="-91" yOffset="-68"/>
+    <component base="grave" xOffset="-154" yOffset="-68"/>
   </outline>
   <lib>
     <dict>
@@ -58,6 +58,10 @@
           <string>grave</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Epsilon</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

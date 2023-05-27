@@ -2,12 +2,13 @@
 <glyph name="oxia" format="2">
   <advance width="310"/>
   <unicode hex="1FFD"/>
+  <anchor x="212" y="532" name="_top"/>
   <outline>
     <contour>
-      <point x="245" y="573" type="line"/>
-      <point x="435" y="694" type="line"/>
-      <point x="375" y="785" type="line"/>
-      <point x="196" y="641" type="line"/>
+      <point x="181" y="573" type="line"/>
+      <point x="371" y="694" type="line"/>
+      <point x="311" y="785" type="line"/>
+      <point x="132" y="641" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -39,6 +40,8 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
     </dict>
   </lib>
 </glyph>

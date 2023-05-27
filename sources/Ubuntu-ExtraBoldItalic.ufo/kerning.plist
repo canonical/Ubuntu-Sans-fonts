@@ -2,11 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>four.osf</key>
-    <dict>
-      <key>four.osf</key>
-      <integer>8</integer>
-    </dict>
     <key>iotadialytikaoxia</key>
     <dict>
       <key>public.kern2.GRK_beta_LC</key>
@@ -39,11 +34,6 @@
       <integer>10</integer>
       <key>public.kern2.GRK_zeta_LC</key>
       <integer>41</integer>
-    </dict>
-    <key>nine.osf</key>
-    <dict>
-      <key>nine.osf</key>
-      <integer>-8</integer>
     </dict>
     <key>public.kern1.CYR_afii10017_UC</key>
     <dict>
@@ -157,8 +147,6 @@
       <integer>20</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>30</integer>
-      <key>trademark</key>
-      <integer>-75</integer>
     </dict>
     <key>public.kern1.CYR_afii10018_UC_FIRST</key>
     <dict>
@@ -7367,8 +7355,6 @@
       <integer>20</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>30</integer>
-      <key>trademark</key>
-      <integer>-75</integer>
     </dict>
     <key>public.kern1.LAT_B_UC_FIRST</key>
     <dict>
@@ -8012,10 +7998,6 @@
       <integer>43</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>30</integer>
-      <key>registered</key>
-      <integer>-37</integer>
-      <key>trademark</key>
-      <integer>-44</integer>
     </dict>
     <key>public.kern1.LAT_M_UC</key>
     <dict>
@@ -8781,8 +8763,6 @@
       <integer>-50</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-40</integer>
-      <key>trademark</key>
-      <integer>13</integer>
     </dict>
     <key>public.kern1.LAT_W_UC</key>
     <dict>
@@ -8904,8 +8884,6 @@
       <integer>-22</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-22</integer>
-      <key>trademark</key>
-      <integer>10</integer>
     </dict>
     <key>public.kern1.LAT_X_UC</key>
     <dict>
@@ -9234,8 +9212,6 @@
     </dict>
     <key>public.kern1.LAT_a_LC_FIRST</key>
     <dict>
-      <key>public.kern2.LAT_j_LC_SECOND</key>
-      <integer>44</integer>
       <key>public.kern2.LAT_x_LC</key>
       <integer>10</integer>
       <key>public.kern2.LAT_y_LC_SECOND</key>
@@ -9618,8 +9594,6 @@
       <integer>32</integer>
       <key>itilde</key>
       <integer>47</integer>
-      <key>trademark</key>
-      <integer>32</integer>
     </dict>
     <key>public.kern1.LAT_g_LC_FIRST</key>
     <dict>
@@ -9687,8 +9661,6 @@
     <dict>
       <key>idieresis</key>
       <integer>18</integer>
-      <key>public.kern2.LAT_j_LC_SECOND</key>
-      <integer>12</integer>
       <key>public.kern2.MIS_uni01AA</key>
       <integer>27</integer>
       <key>public.kern2.PUNCT_backslash</key>
@@ -10234,7 +10206,7 @@
       <key>public.kern2.LAT_g_LC_SECOND</key>
       <integer>-10</integer>
       <key>public.kern2.LAT_j_LC_SECOND</key>
-      <integer>44</integer>
+      <integer>-10</integer>
       <key>public.kern2.LAT_q_LC_SECOND</key>
       <integer>-10</integer>
       <key>public.kern2.LAT_x_LC</key>
@@ -15192,8 +15164,6 @@
       <integer>-21</integer>
       <key>public.kern2.LAT_Y_UC_SECOND</key>
       <integer>-40</integer>
-      <key>public.kern2.LAT_j_LC_SECOND</key>
-      <integer>12</integer>
       <key>public.kern2.MIS_uni0186_SECOND</key>
       <integer>-9</integer>
       <key>public.kern2.MIS_uni021C</key>
@@ -16499,8 +16469,6 @@
       <integer>-57</integer>
       <key>public.kern2.LAT_Z_UC_SECOND</key>
       <integer>-23</integer>
-      <key>public.kern2.LAT_j_LC_SECOND</key>
-      <integer>75</integer>
       <key>public.kern2.MIS_uni0181_SECOND</key>
       <integer>-14</integer>
       <key>public.kern2.MIS_uni018B_SECOND</key>
@@ -16740,10 +16708,6 @@
       <integer>-9</integer>
       <key>public.kern2.MIS_uni024D</key>
       <integer>-25</integer>
-      <key>public.kern2.PUNCT_Questiondown</key>
-      <integer>-58</integer>
-      <key>public.kern2.PUNCT_questiondown</key>
-      <integer>-82</integer>
     </dict>
     <key>public.kern1.PUNCT_quoteright</key>
     <dict>
@@ -17561,23 +17525,6 @@
       <integer>40</integer>
       <key>public.kern2.FIG_threeALT</key>
       <integer>20</integer>
-    </dict>
-    <key>public.kern1.t</key>
-    <dict>
-      <key>eight.osf</key>
-      <integer>-10</integer>
-    </dict>
-    <key>seven.osf</key>
-    <dict>
-      <key>seven.osf</key>
-      <integer>5</integer>
-    </dict>
-    <key>three.osf</key>
-    <dict>
-      <key>eight.osf</key>
-      <integer>-15</integer>
-      <key>six.osf</key>
-      <integer>-7</integer>
     </dict>
   </dict>
 </plist>

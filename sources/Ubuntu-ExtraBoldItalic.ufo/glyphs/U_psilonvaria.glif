@@ -2,12 +2,12 @@
 <glyph name="Upsilonvaria" format="2">
   <advance width="895"/>
   <unicode hex="1FEA"/>
-  <anchor x="558" y="0" name="bottom"/>
-  <anchor x="696" y="687" name="top"/>
-  <anchor x="356" y="693" name="topleft"/>
+  <anchor x="498" y="0" name="bottom"/>
+  <anchor x="636" y="687" name="top"/>
+  <anchor x="296" y="693" name="topleft"/>
   <outline>
     <component base="Y" xOffset="233"/>
-    <component base="grave" xOffset="-25" yOffset="-85"/>
+    <component base="grave" xOffset="-85" yOffset="-85"/>
   </outline>
   <lib>
     <dict>
@@ -57,6 +57,10 @@
           <string>grave</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Upsilon</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

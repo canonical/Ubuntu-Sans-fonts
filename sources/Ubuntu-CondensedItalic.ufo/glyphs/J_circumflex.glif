@@ -2,11 +2,11 @@
 <glyph name="Jcircumflex" format="2">
   <advance width="366"/>
   <unicode hex="0134"/>
-  <anchor x="120" y="0" name="bottom"/>
-  <anchor x="472" y="919" name="top"/>
+  <anchor x="57" y="0" name="bottom"/>
+  <anchor x="413" y="919" name="top"/>
   <outline>
     <component base="J"/>
-    <component base="circumflexcomb" xOffset="141" yOffset="155"/>
+    <component base="circumflexcomb" xOffset="78" yOffset="155"/>
   </outline>
   <lib>
     <dict>
@@ -38,7 +38,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

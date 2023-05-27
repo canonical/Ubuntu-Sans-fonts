@@ -2,13 +2,13 @@
 <glyph name="Umacron" format="2">
   <advance width="560"/>
   <unicode hex="016A"/>
-  <anchor x="287" y="0" name="bottom"/>
-  <anchor x="443" y="10" name="ogonek"/>
-  <anchor x="483" y="877" name="top"/>
-  <anchor x="643" y="693" name="topright"/>
+  <anchor x="223" y="0" name="bottom"/>
+  <anchor x="379" y="10" name="ogonek"/>
+  <anchor x="424" y="877" name="top"/>
+  <anchor x="579" y="693" name="topright"/>
   <outline>
     <component base="U"/>
-    <component base="macroncomb" xOffset="155" yOffset="149"/>
+    <component base="macroncomb" xOffset="91" yOffset="149"/>
   </outline>
   <lib>
     <dict>
@@ -40,7 +40,7 @@
         <integer>0</integer>
       </dict>
       <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

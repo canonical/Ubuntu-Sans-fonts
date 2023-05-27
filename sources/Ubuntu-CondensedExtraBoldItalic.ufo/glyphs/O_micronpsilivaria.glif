@@ -2,12 +2,12 @@
 <glyph name="Omicronpsilivaria" format="2">
   <advance width="901"/>
   <unicode hex="1F4A"/>
-  <anchor x="589.1669999999999" y="0" name="bottom"/>
-  <anchor x="672.1669999999999" y="347" name="center"/>
-  <anchor x="779.1669999999999" y="10" name="ogonek"/>
-  <anchor x="753.1669999999999" y="681" name="top"/>
-  <anchor x="417.167" y="693" name="topleft"/>
-  <anchor x="984.1669999999999" y="693" name="topright"/>
+  <anchor x="525.1669999999999" y="0" name="bottom"/>
+  <anchor x="608.1669999999999" y="347" name="center"/>
+  <anchor x="715.1669999999999" y="10" name="ogonek"/>
+  <anchor x="689.1669999999999" y="681" name="top"/>
+  <anchor x="353.167" y="693" name="topleft"/>
+  <anchor x="920.1669999999999" y="693" name="topright"/>
   <outline>
     <component base="O" xOffset="294.167"/>
     <component base="psilivaria" xOffset="-61" yOffset="-89"/>
@@ -60,6 +60,10 @@
           <string>psilivaria</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Omicron</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Alphadasiaoxiaprosgegrammeni" format="2">
-  <advance width="991"/>
+  <advance width="992"/>
   <unicode hex="1F8D"/>
-  <anchor x="467.63" y="0" name="bottom"/>
-  <anchor x="611.63" y="10" name="ogonek"/>
-  <anchor x="617.63" y="681" name="top_1"/>
-  <anchor x="970" y="532" name="top_2"/>
+  <anchor x="403.63" y="0" name="bottom"/>
+  <anchor x="547.63" y="10" name="ogonek"/>
+  <anchor x="553.63" y="681" name="top_1"/>
+  <anchor x="906" y="532" name="top_2"/>
   <outline>
     <component base="A" xOffset="206.63"/>
     <component base="iota" xOffset="716"/>
@@ -67,6 +67,10 @@
           <string>dasiaoxia</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>iota</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

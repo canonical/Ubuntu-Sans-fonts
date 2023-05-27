@@ -2,9 +2,9 @@
 <glyph name="Upsilontonos" format="2">
   <advance width="661"/>
   <unicode hex="038E"/>
-  <anchor x="357" y="0" name="bottom"/>
-  <anchor x="514" y="669" name="top"/>
-  <anchor x="220" y="693" name="topleft"/>
+  <anchor x="295" y="0" name="bottom"/>
+  <anchor x="452" y="669" name="top"/>
+  <anchor x="158" y="693" name="topleft"/>
   <outline>
     <component base="Y" xOffset="95"/>
     <component base="tonos.cap" xOffset="-154"/>
@@ -57,6 +57,8 @@
           <string>tonos.cap</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

@@ -2,11 +2,11 @@
 <glyph name="Etaprosgegrammeni" format="2">
   <advance width="847"/>
   <unicode hex="1FCC"/>
-  <anchor x="282" y="0" name="bottom"/>
-  <anchor x="365" y="347" name="center"/>
-  <anchor x="446" y="681" name="top_1"/>
-  <anchor x="825" y="532" name="top_2"/>
-  <anchor x="123" y="693" name="topleft"/>
+  <anchor x="219" y="0" name="bottom"/>
+  <anchor x="302" y="347" name="center"/>
+  <anchor x="383" y="681" name="top_1"/>
+  <anchor x="761" y="532" name="top_2"/>
+  <anchor x="60" y="693" name="topleft"/>
   <outline>
     <component base="H"/>
     <component base="iota" xOffset="571"/>
@@ -59,6 +59,10 @@
           <string>iota</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>iota</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

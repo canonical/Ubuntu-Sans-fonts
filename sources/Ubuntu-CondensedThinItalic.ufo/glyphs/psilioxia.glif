@@ -1,31 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="psilioxia" format="2">
-  <advance width="324.25"/>
+  <advance width="324"/>
   <unicode hex="1FCE"/>
+  <anchor x="221" y="516" name="_top"/>
   <outline>
     <contour>
-      <point x="335" y="602" type="line"/>
-      <point x="450" y="763" type="line"/>
-      <point x="426" y="779" type="line"/>
-      <point x="321" y="610" type="line"/>
+      <point x="273" y="602" type="line"/>
+      <point x="388" y="763" type="line"/>
+      <point x="364" y="779" type="line"/>
+      <point x="259" y="610" type="line"/>
     </contour>
     <contour>
-      <point x="216" y="614" type="line"/>
-      <point x="278" y="652"/>
-      <point x="323" y="713"/>
-      <point x="323" y="757" type="curve" smooth="yes"/>
-      <point x="323" y="772"/>
-      <point x="316" y="780"/>
-      <point x="303" y="780" type="curve" smooth="yes"/>
-      <point x="285" y="780"/>
-      <point x="270" y="765"/>
-      <point x="270" y="746" type="curve" smooth="yes"/>
-      <point x="270" y="737"/>
-      <point x="276" y="727"/>
-      <point x="289" y="724" type="curve"/>
-      <point x="273" y="681"/>
-      <point x="234" y="650"/>
-      <point x="205" y="628" type="curve"/>
+      <point x="154" y="614" type="line"/>
+      <point x="216" y="652"/>
+      <point x="261" y="713"/>
+      <point x="261" y="757" type="curve" smooth="yes"/>
+      <point x="261" y="772"/>
+      <point x="254" y="780"/>
+      <point x="241" y="780" type="curve" smooth="yes"/>
+      <point x="223" y="780"/>
+      <point x="208" y="765"/>
+      <point x="208" y="746" type="curve" smooth="yes"/>
+      <point x="208" y="737"/>
+      <point x="214" y="727"/>
+      <point x="227" y="724" type="curve"/>
+      <point x="211" y="681"/>
+      <point x="172" y="650"/>
+      <point x="143" y="628" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -57,6 +58,8 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
     </dict>
   </lib>
 </glyph>
