@@ -73,7 +73,14 @@ feature salt;
 
 feature ccmp {
 # automatic
-lookup ccmp_DFLT_1 {
+lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb caroncomb circumflexcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+	@CombiningNonTopAccents = [cedillacomb dotbelowcomb macronbelowcomb ogonekcomb verticallinebelowcomb];
+	sub [i j]' @CombiningTopAccents by [idotless jdotless];
+	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
+} ccmp_Other_1;
+
+lookup ccmp_Other_2 {
 	lookupflag 0;
 	sub dieresis acute by dieresis_acute;
 	sub dieresis breve by dieresis_breve;
@@ -81,14 +88,7 @@ lookup ccmp_DFLT_1 {
 	sub dieresis macron by dieresis_macron;
 	sub ring acute by ring_acute;
 	sub tilde macron by tilde_macron;
-} ccmp_DFLT_1;
-
-lookup ccmp_Other_1 {
-	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb caroncomb circumflexcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
-	@CombiningNonTopAccents = [cedillacomb dotbelowcomb macronbelowcomb ogonekcomb verticallinebelowcomb];
-	sub [i j]' @CombiningTopAccents by [idotless jdotless];
-	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
-} ccmp_Other_1;
+} ccmp_Other_2;
 
 lookup ccmp_latn_1 {
 	sub fi by f i;
@@ -508,6 +508,7 @@ sub H by h.sc;
 sub Hbar by hbar.sc;
 sub Hcaron by hcaron.sc;
 sub Hcircumflex by hcircumflex.sc;
+sub Hwair by hv.sc;
 sub I by i.sc;
 sub IJ by ij.sc;
 sub Iacute by iacute.sc;
@@ -545,6 +546,7 @@ sub Ncaron by ncaron.sc;
 sub Ncommaaccent by ncommaaccent.sc;
 sub Ngrave by ngrave.sc;
 sub Nj by nj.sc;
+sub Nlongrightleg by nlegrightlong.sc;
 sub Ntilde by ntilde.sc;
 sub Eng by eng.sc;
 sub O by o.sc;
@@ -1416,7 +1418,6 @@ sub dotaccentcomb by dotaccentcomb.sc;
 sub gravecomb by gravecomb.sc;
 sub acutecomb by acutecomb.sc;
 sub hungarumlautcomb by hungarumlautcomb.sc;
-sub caroncomb.alt by caroncomb.alt.sc;
 sub circumflexcomb by circumflexcomb.sc;
 sub caroncomb by caroncomb.sc;
 sub brevecomb by brevecomb.sc;
@@ -1424,6 +1425,7 @@ sub ringcomb by ringcomb.sc;
 sub tildecomb by tildecomb.sc;
 sub macroncomb by macroncomb.sc;
 sub brevecomb.cyr by brevecomb.cyr.sc;
+sub caroncomb.alt by caroncomb.alt.sc;
 sub breveinvertedcomb by breveinvertedcomb.sc;
 sub commaaccentcomb by commaaccentcomb.sc;
 sub dieresis_grave by dieresis_grave.sc;

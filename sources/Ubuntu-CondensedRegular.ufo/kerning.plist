@@ -181,47 +181,48 @@
       <integer>-50</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>15</integer>
+      <key>public.kern2.cyr_afii10017_uc.sc</key>
+      <integer>24</integer>
+      <key>public.kern2.cyr_afii10021_uc.sc</key>
+      <integer>20</integer>
+      <key>public.kern2.cyr_afii10024_uc.sc</key>
+      <integer>15</integer>
+      <key>public.kern2.cyr_afii10025_uc.sc</key>
+      <integer>10</integer>
+      <key>public.kern2.cyr_afii10029_uc_second.sc</key>
+      <integer>15</integer>
+      <key>public.kern2.cyr_afii10032_uc_second.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.cyr_afii10035_uc.sc</key>
+      <integer>-5</integer>
+      <key>public.kern2.cyr_afii10036_uc_second.sc</key>
+      <integer>-39</integer>
+      <key>public.kern2.cyr_afii10037_uc_second.sc</key>
+      <integer>-44</integer>
+      <key>public.kern2.cyr_afii10038_uc.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.cyr_afii10039_uc.sc</key>
+      <integer>20</integer>
+      <key>public.kern2.cyr_afii10041_uc_second.sc</key>
+      <integer>-29</integer>
+      <key>public.kern2.cyr_afii10047_uc.sc</key>
+      <integer>15</integer>
+      <key>public.kern2.cyr_afii10049_uc.sc</key>
+      <integer>10</integer>
+      <key>public.kern2.cyr_afii10054_uc.sc</key>
+      <integer>10</integer>
+      <key>public.kern2.cyr_afii10057_uc_second.sc</key>
+      <integer>20</integer>
+      <key>public.kern2.cyr_uni04a8_uc.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.cyr_uni04ae_uc.sc</key>
+      <integer>-49</integer>
+      <key>public.kern2.cyr_uni04bc_uc.sc</key>
+      <integer>-20</integer>
+      <key>public.kern2.cyr_uni04e0_uc.sc</key>
+      <integer>15</integer>
       <key>trademark</key>
       <integer>-33</integer>
-    </dict>
-    <key>public.kern1.CYR_afii10017_UC.c2sc</key>
-    <dict>
-      <key>public.kern2.CYR_afii10017_UC.c2sc</key>
-      <integer>25</integer>
-      <key>public.kern2.CYR_afii10021_UC.c2sc</key>
-      <integer>20</integer>
-      <key>public.kern2.CYR_afii10024_UC.c2sc</key>
-      <integer>15</integer>
-      <key>public.kern2.CYR_afii10025_UC.c2sc</key>
-      <integer>10</integer>
-      <key>public.kern2.CYR_afii10029_UC_SECOND.c2sc</key>
-      <integer>15</integer>
-      <key>public.kern2.CYR_afii10032_UC_SECOND.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.CYR_afii10035_UC.c2sc</key>
-      <integer>-5</integer>
-      <key>public.kern2.CYR_afii10036_UC_SECOND.c2sc</key>
-      <integer>-40</integer>
-      <key>public.kern2.CYR_afii10037_UC_SECOND.c2sc</key>
-      <integer>-45</integer>
-      <key>public.kern2.CYR_afii10038_UC.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.CYR_afii10039_UC.c2sc</key>
-      <integer>20</integer>
-      <key>public.kern2.CYR_afii10041_UC_SECOND.c2sc</key>
-      <integer>-30</integer>
-      <key>public.kern2.CYR_afii10047_UC.c2sc</key>
-      <integer>15</integer>
-      <key>public.kern2.CYR_afii10049_UC.c2sc</key>
-      <integer>10</integer>
-      <key>public.kern2.CYR_uni04A8_UC.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.CYR_uni04AE_UC.c2sc</key>
-      <integer>-50</integer>
-      <key>public.kern2.CYR_uni04BC_UC.c2sc</key>
-      <integer>-20</integer>
-      <key>public.kern2.CYR_uni04E0_UC.c2sc</key>
-      <integer>15</integer>
     </dict>
     <key>public.kern1.CYR_afii10018_UC_FIRST</key>
     <dict>
@@ -283,20 +284,17 @@
       <integer>-10</integer>
       <key>public.kern2.PUNCT_quotesingle</key>
       <integer>-20</integer>
-    </dict>
-    <key>public.kern1.CYR_afii10018_UC_FIRST.c2sc</key>
-    <dict>
-      <key>public.kern2.CYR_afii10024_UC.c2sc</key>
-      <integer>-4</integer>
-      <key>public.kern2.CYR_afii10037_UC_SECOND.c2sc</key>
-      <integer>-4</integer>
-      <key>public.kern2.CYR_afii10039_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10024_uc.sc</key>
+      <integer>-5</integer>
+      <key>public.kern2.cyr_afii10037_uc_second.sc</key>
+      <integer>-5</integer>
+      <key>public.kern2.cyr_afii10039_uc.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.CYR_afii10041_UC_SECOND.c2sc</key>
-      <integer>-8</integer>
-      <key>public.kern2.CYR_afii10049_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10041_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.CYR_uni04BC_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10049_uc.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.cyr_uni04bc_uc.sc</key>
       <integer>-5</integer>
     </dict>
     <key>public.kern1.CYR_afii10019_UC</key>
@@ -346,6 +344,16 @@
       <key>public.kern2.PUNCT_quotesingle</key>
       <integer>-5</integer>
       <key>public.kern2.PUNCT_slash</key>
+      <integer>-10</integer>
+      <key>public.kern2.cyr_afii10024_uc.sc</key>
+      <integer>-5</integer>
+      <key>public.kern2.cyr_afii10037_uc_second.sc</key>
+      <integer>-15</integer>
+      <key>public.kern2.cyr_afii10039_uc.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.cyr_afii10041_uc_second.sc</key>
+      <integer>-5</integer>
+      <key>public.kern2.cyr_uni04ae_uc.sc</key>
       <integer>-10</integer>
     </dict>
     <key>public.kern1.CYR_afii10020_UC</key>
@@ -504,32 +512,31 @@
       <integer>-35</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-60</integer>
-    </dict>
-    <key>public.kern1.CYR_afii10020_UC.c2sc</key>
-    <dict>
-      <key>public.kern2.CYR_afii10017_UC.c2sc</key>
-      <integer>-40</integer>
-      <key>public.kern2.CYR_afii10021_UC.c2sc</key>
-      <integer>-31</integer>
-      <key>public.kern2.CYR_afii10029_UC_SECOND.c2sc</key>
-      <integer>-31</integer>
-      <key>public.kern2.CYR_afii10032_UC_SECOND.c2sc</key>
-      <integer>-12</integer>
-      <key>public.kern2.CYR_afii10035_UC.c2sc</key>
-      <integer>-8</integer>
-      <key>public.kern2.CYR_afii10036_UC_SECOND.c2sc</key>
-      <integer>16</integer>
-      <key>public.kern2.CYR_afii10037_UC_SECOND.c2sc</key>
-      <integer>12</integer>
-      <key>public.kern2.CYR_afii10038_UC.c2sc</key>
-      <integer>-12</integer>
-      <key>public.kern2.CYR_afii10039_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10017_uc.sc</key>
+      <integer>-39</integer>
+      <key>public.kern2.cyr_afii10021_uc.sc</key>
+      <integer>-39</integer>
+      <key>public.kern2.cyr_afii10029_uc_second.sc</key>
+      <integer>-39</integer>
+      <key>public.kern2.cyr_afii10032_uc_second.sc</key>
+      <integer>-15</integer>
+      <key>public.kern2.cyr_afii10035_uc.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.cyr_afii10036_uc_second.sc</key>
+      <integer>20</integer>
+      <key>public.kern2.cyr_afii10037_uc_second.sc</key>
+      <integer>15</integer>
+      <key>public.kern2.cyr_afii10038_uc.sc</key>
+      <integer>-15</integer>
+      <key>public.kern2.cyr_afii10039_uc.sc</key>
       <integer>10</integer>
-      <key>public.kern2.CYR_afii10047_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10047_uc.sc</key>
       <integer>10</integer>
-      <key>public.kern2.CYR_uni04A8_UC.c2sc</key>
-      <integer>-8</integer>
-      <key>public.kern2.CYR_uni04AE_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10057_uc_second.sc</key>
+      <integer>-69</integer>
+      <key>public.kern2.cyr_uni04a8_uc.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.cyr_uni04ae_uc.sc</key>
       <integer>20</integer>
     </dict>
     <key>public.kern1.CYR_afii10021_UC</key>
@@ -604,34 +611,33 @@
       <integer>20</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>30</integer>
-    </dict>
-    <key>public.kern1.CYR_afii10021_UC.c2sc</key>
-    <dict>
-      <key>public.kern2.CYR_afii10017_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10017_uc.sc</key>
       <integer>20</integer>
-      <key>public.kern2.CYR_afii10021_UC.c2sc</key>
-      <integer>12</integer>
-      <key>public.kern2.CYR_afii10024_UC.c2sc</key>
-      <integer>12</integer>
-      <key>public.kern2.CYR_afii10025_UC.c2sc</key>
-      <integer>8</integer>
-      <key>public.kern2.CYR_afii10029_UC_SECOND.c2sc</key>
-      <integer>12</integer>
-      <key>public.kern2.CYR_afii10032_UC_SECOND.c2sc</key>
-      <integer>-4</integer>
-      <key>public.kern2.CYR_afii10035_UC.c2sc</key>
-      <integer>-4</integer>
-      <key>public.kern2.CYR_afii10038_UC.c2sc</key>
-      <integer>-12</integer>
-      <key>public.kern2.CYR_afii10039_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10021_uc.sc</key>
       <integer>15</integer>
-      <key>public.kern2.CYR_afii10041_UC_SECOND.c2sc</key>
-      <integer>-12</integer>
-      <key>public.kern2.CYR_afii10047_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10024_uc.sc</key>
+      <integer>15</integer>
+      <key>public.kern2.cyr_afii10025_uc.sc</key>
       <integer>10</integer>
-      <key>public.kern2.CYR_uni04A8_UC.c2sc</key>
-      <integer>-8</integer>
-      <key>public.kern2.CYR_uni04E0_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10029_uc_second.sc</key>
+      <integer>15</integer>
+      <key>public.kern2.cyr_afii10032_uc_second.sc</key>
+      <integer>-5</integer>
+      <key>public.kern2.cyr_afii10035_uc.sc</key>
+      <integer>-5</integer>
+      <key>public.kern2.cyr_afii10038_uc.sc</key>
+      <integer>-15</integer>
+      <key>public.kern2.cyr_afii10039_uc.sc</key>
+      <integer>15</integer>
+      <key>public.kern2.cyr_afii10041_uc_second.sc</key>
+      <integer>-15</integer>
+      <key>public.kern2.cyr_afii10047_uc.sc</key>
+      <integer>10</integer>
+      <key>public.kern2.cyr_afii10057_uc_second.sc</key>
+      <integer>20</integer>
+      <key>public.kern2.cyr_uni04a8_uc.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.cyr_uni04e0_uc.sc</key>
       <integer>10</integer>
     </dict>
     <key>public.kern1.CYR_afii10022_UC</key>
@@ -702,22 +708,21 @@
       <integer>10</integer>
       <key>public.kern2.PUNCT_quoteleft</key>
       <integer>-10</integer>
-    </dict>
-    <key>public.kern1.CYR_afii10022_UC.c2sc</key>
-    <dict>
-      <key>public.kern2.CYR_afii10017_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10017_uc.sc</key>
       <integer>10</integer>
-      <key>public.kern2.CYR_afii10032_UC_SECOND.c2sc</key>
+      <key>public.kern2.cyr_afii10032_uc_second.sc</key>
       <integer>-15</integer>
-      <key>public.kern2.CYR_afii10035_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10035_uc.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.CYR_afii10037_UC_SECOND.c2sc</key>
+      <key>public.kern2.cyr_afii10037_uc_second.sc</key>
       <integer>10</integer>
-      <key>public.kern2.CYR_afii10038_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10038_uc.sc</key>
       <integer>-15</integer>
-      <key>public.kern2.CYR_uni04A8_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10057_uc_second.sc</key>
+      <integer>15</integer>
+      <key>public.kern2.cyr_uni04a8_uc.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.CYR_uni04D8_UC.c2sc</key>
+      <key>public.kern2.cyr_uni04d8_uc.sc</key>
       <integer>-5</integer>
     </dict>
     <key>public.kern1.CYR_afii10024_UC</key>
@@ -842,36 +847,35 @@
       <integer>10</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>15</integer>
-    </dict>
-    <key>public.kern1.CYR_afii10024_UC.c2sc</key>
-    <dict>
-      <key>public.kern2.CYR_afii10017_UC.c2sc</key>
-      <integer>25</integer>
-      <key>public.kern2.CYR_afii10021_UC.c2sc</key>
-      <integer>12</integer>
-      <key>public.kern2.CYR_afii10024_UC.c2sc</key>
-      <integer>8</integer>
-      <key>public.kern2.CYR_afii10029_UC_SECOND.c2sc</key>
-      <integer>12</integer>
-      <key>public.kern2.CYR_afii10032_UC_SECOND.c2sc</key>
-      <integer>-16</integer>
-      <key>public.kern2.CYR_afii10035_UC.c2sc</key>
-      <integer>-16</integer>
-      <key>public.kern2.CYR_afii10036_UC_SECOND.c2sc</key>
-      <integer>12</integer>
-      <key>public.kern2.CYR_afii10037_UC_SECOND.c2sc</key>
-      <integer>16</integer>
-      <key>public.kern2.CYR_afii10038_UC.c2sc</key>
-      <integer>-16</integer>
-      <key>public.kern2.CYR_afii10039_UC.c2sc</key>
-      <integer>20</integer>
-      <key>public.kern2.CYR_uni04A8_UC.c2sc</key>
-      <integer>-23</integer>
-      <key>public.kern2.CYR_uni04AE_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10017_uc.sc</key>
+      <integer>24</integer>
+      <key>public.kern2.cyr_afii10021_uc.sc</key>
       <integer>15</integer>
-      <key>public.kern2.CYR_uni04BC_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10024_uc.sc</key>
+      <integer>10</integer>
+      <key>public.kern2.cyr_afii10029_uc_second.sc</key>
+      <integer>15</integer>
+      <key>public.kern2.cyr_afii10032_uc_second.sc</key>
       <integer>-20</integer>
-      <key>public.kern2.CYR_uni04D8_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10035_uc.sc</key>
+      <integer>-20</integer>
+      <key>public.kern2.cyr_afii10036_uc_second.sc</key>
+      <integer>15</integer>
+      <key>public.kern2.cyr_afii10037_uc_second.sc</key>
+      <integer>20</integer>
+      <key>public.kern2.cyr_afii10038_uc.sc</key>
+      <integer>-20</integer>
+      <key>public.kern2.cyr_afii10039_uc.sc</key>
+      <integer>20</integer>
+      <key>public.kern2.cyr_afii10057_uc_second.sc</key>
+      <integer>15</integer>
+      <key>public.kern2.cyr_uni04a8_uc.sc</key>
+      <integer>-29</integer>
+      <key>public.kern2.cyr_uni04ae_uc.sc</key>
+      <integer>15</integer>
+      <key>public.kern2.cyr_uni04bc_uc.sc</key>
+      <integer>-20</integer>
+      <key>public.kern2.cyr_uni04d8_uc.sc</key>
       <integer>-10</integer>
     </dict>
     <key>public.kern1.CYR_afii10025_UC</key>
@@ -916,14 +920,11 @@
       <integer>-5</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-10</integer>
-    </dict>
-    <key>public.kern1.CYR_afii10025_UC.c2sc</key>
-    <dict>
-      <key>public.kern2.CYR_afii10037_UC_SECOND.c2sc</key>
-      <integer>-8</integer>
-      <key>public.kern2.CYR_afii10039_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10037_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.CYR_uni04AE_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10039_uc.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.cyr_uni04ae_uc.sc</key>
       <integer>-10</integer>
     </dict>
     <key>public.kern1.CYR_afii10028_UC</key>
@@ -1058,44 +1059,43 @@
       <integer>10</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>15</integer>
-    </dict>
-    <key>public.kern1.CYR_afii10028_UC.c2sc</key>
-    <dict>
-      <key>public.kern2.CYR_afii10017_UC.c2sc</key>
-      <integer>25</integer>
-      <key>public.kern2.CYR_afii10021_UC.c2sc</key>
-      <integer>16</integer>
-      <key>public.kern2.CYR_afii10024_UC.c2sc</key>
-      <integer>12</integer>
-      <key>public.kern2.CYR_afii10025_UC.c2sc</key>
-      <integer>8</integer>
-      <key>public.kern2.CYR_afii10029_UC_SECOND.c2sc</key>
-      <integer>16</integer>
-      <key>public.kern2.CYR_afii10032_UC_SECOND.c2sc</key>
-      <integer>-16</integer>
-      <key>public.kern2.CYR_afii10035_UC.c2sc</key>
-      <integer>-16</integer>
-      <key>public.kern2.CYR_afii10036_UC_SECOND.c2sc</key>
-      <integer>12</integer>
-      <key>public.kern2.CYR_afii10037_UC_SECOND.c2sc</key>
-      <integer>16</integer>
-      <key>public.kern2.CYR_afii10038_UC.c2sc</key>
-      <integer>-16</integer>
-      <key>public.kern2.CYR_afii10039_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10017_uc.sc</key>
+      <integer>24</integer>
+      <key>public.kern2.cyr_afii10021_uc.sc</key>
       <integer>20</integer>
-      <key>public.kern2.CYR_afii10047_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10024_uc.sc</key>
       <integer>15</integer>
-      <key>public.kern2.CYR_afii10049_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10025_uc.sc</key>
       <integer>10</integer>
-      <key>public.kern2.CYR_uni04A8_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10029_uc_second.sc</key>
+      <integer>20</integer>
+      <key>public.kern2.cyr_afii10032_uc_second.sc</key>
       <integer>-20</integer>
-      <key>public.kern2.CYR_uni04AE_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10035_uc.sc</key>
+      <integer>-20</integer>
+      <key>public.kern2.cyr_afii10036_uc_second.sc</key>
       <integer>15</integer>
-      <key>public.kern2.CYR_uni04BC_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10037_uc_second.sc</key>
+      <integer>20</integer>
+      <key>public.kern2.cyr_afii10038_uc.sc</key>
       <integer>-20</integer>
-      <key>public.kern2.CYR_uni04D8_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10039_uc.sc</key>
+      <integer>20</integer>
+      <key>public.kern2.cyr_afii10047_uc.sc</key>
+      <integer>15</integer>
+      <key>public.kern2.cyr_afii10049_uc.sc</key>
+      <integer>10</integer>
+      <key>public.kern2.cyr_afii10057_uc_second.sc</key>
+      <integer>20</integer>
+      <key>public.kern2.cyr_uni04a8_uc.sc</key>
+      <integer>-24</integer>
+      <key>public.kern2.cyr_uni04ae_uc.sc</key>
+      <integer>15</integer>
+      <key>public.kern2.cyr_uni04bc_uc.sc</key>
+      <integer>-20</integer>
+      <key>public.kern2.cyr_uni04d8_uc.sc</key>
       <integer>-5</integer>
-      <key>public.kern2.CYR_uni04E0_UC.c2sc</key>
+      <key>public.kern2.cyr_uni04e0_uc.sc</key>
       <integer>10</integer>
     </dict>
     <key>public.kern1.CYR_afii10029_UC_FIRST</key>
@@ -1143,6 +1143,8 @@
       <integer>-10</integer>
       <key>public.kern2.PUNCT_quotesinglbase</key>
       <integer>10</integer>
+      <key>public.kern2.cyr_afii10037_uc_second.sc</key>
+      <integer>-10</integer>
     </dict>
     <key>public.kern1.CYR_afii10032_UC_FIRST</key>
     <dict>
@@ -1212,30 +1214,29 @@
       <integer>-10</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-25</integer>
-    </dict>
-    <key>public.kern1.CYR_afii10032_UC_FIRST.c2sc</key>
-    <dict>
-      <key>public.kern2.CYR_afii10017_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10017_uc.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.CYR_afii10021_UC.c2sc</key>
-      <integer>-4</integer>
-      <key>public.kern2.CYR_afii10024_UC.c2sc</key>
-      <integer>-20</integer>
-      <key>public.kern2.CYR_afii10025_UC.c2sc</key>
-      <integer>-12</integer>
-      <key>public.kern2.CYR_afii10029_UC_SECOND.c2sc</key>
-      <integer>-8</integer>
-      <key>public.kern2.CYR_afii10036_UC_SECOND.c2sc</key>
-      <integer>-12</integer>
-      <key>public.kern2.CYR_afii10037_UC_SECOND.c2sc</key>
-      <integer>-16</integer>
-      <key>public.kern2.CYR_afii10039_UC.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.CYR_afii10047_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10021_uc.sc</key>
+      <integer>-5</integer>
+      <key>public.kern2.cyr_afii10024_uc.sc</key>
+      <integer>-24</integer>
+      <key>public.kern2.cyr_afii10025_uc.sc</key>
       <integer>-15</integer>
-      <key>public.kern2.CYR_uni04AE_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10029_uc_second.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.cyr_afii10036_uc_second.sc</key>
+      <integer>-15</integer>
+      <key>public.kern2.cyr_afii10037_uc_second.sc</key>
       <integer>-20</integer>
-      <key>public.kern2.CYR_uni04E0_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10039_uc.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.cyr_afii10047_uc.sc</key>
+      <integer>-15</integer>
+      <key>public.kern2.cyr_afii10057_uc_second.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.cyr_uni04ae_uc.sc</key>
+      <integer>-20</integer>
+      <key>public.kern2.cyr_uni04e0_uc.sc</key>
       <integer>-15</integer>
     </dict>
     <key>public.kern1.CYR_afii10034_UC_FIRST</key>
@@ -1312,6 +1313,20 @@
       <integer>-70</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-40</integer>
+      <key>public.kern2.cyr_afii10017_uc.sc</key>
+      <integer>-29</integer>
+      <key>public.kern2.cyr_afii10021_uc.sc</key>
+      <integer>-44</integer>
+      <key>public.kern2.cyr_afii10024_uc.sc</key>
+      <integer>-15</integer>
+      <key>public.kern2.cyr_afii10029_uc_second.sc</key>
+      <integer>-44</integer>
+      <key>public.kern2.cyr_afii10039_uc.sc</key>
+      <integer>-5</integer>
+      <key>public.kern2.cyr_afii10057_uc_second.sc</key>
+      <integer>-59</integer>
+      <key>public.kern2.cyr_uni04bc_uc.sc</key>
+      <integer>10</integer>
     </dict>
     <key>public.kern1.CYR_afii10035_UC</key>
     <dict>
@@ -1401,30 +1416,31 @@
       <integer>10</integer>
       <key>public.kern2.PUNCT_quotesinglbase</key>
       <integer>10</integer>
-    </dict>
-    <key>public.kern1.CYR_afii10035_UC.c2sc</key>
-    <dict>
-      <key>public.kern2.CYR_afii10017_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10017_uc.sc</key>
       <integer>15</integer>
-      <key>public.kern2.CYR_afii10021_UC.c2sc</key>
-      <integer>12</integer>
-      <key>public.kern2.CYR_afii10029_UC_SECOND.c2sc</key>
-      <integer>12</integer>
-      <key>public.kern2.CYR_afii10032_UC_SECOND.c2sc</key>
-      <integer>-8</integer>
-      <key>public.kern2.CYR_afii10035_UC.c2sc</key>
-      <integer>-8</integer>
-      <key>public.kern2.CYR_afii10036_UC_SECOND.c2sc</key>
-      <integer>12</integer>
-      <key>public.kern2.CYR_afii10037_UC_SECOND.c2sc</key>
-      <integer>16</integer>
-      <key>public.kern2.CYR_afii10038_UC.c2sc</key>
-      <integer>-8</integer>
-      <key>public.kern2.CYR_afii10039_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10021_uc.sc</key>
+      <integer>15</integer>
+      <key>public.kern2.cyr_afii10029_uc_second.sc</key>
+      <integer>15</integer>
+      <key>public.kern2.cyr_afii10032_uc_second.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.cyr_afii10035_uc.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.cyr_afii10036_uc_second.sc</key>
+      <integer>15</integer>
+      <key>public.kern2.cyr_afii10037_uc_second.sc</key>
+      <integer>20</integer>
+      <key>public.kern2.cyr_afii10038_uc.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.cyr_afii10039_uc.sc</key>
       <integer>10</integer>
-      <key>public.kern2.CYR_uni04A8_UC.c2sc</key>
-      <integer>-12</integer>
-      <key>public.kern2.CYR_uni04AE_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10054_uc.sc</key>
+      <integer>10</integer>
+      <key>public.kern2.cyr_afii10057_uc_second.sc</key>
+      <integer>15</integer>
+      <key>public.kern2.cyr_uni04a8_uc.sc</key>
+      <integer>-15</integer>
+      <key>public.kern2.cyr_uni04ae_uc.sc</key>
       <integer>10</integer>
     </dict>
     <key>public.kern1.CYR_afii10036_UC_FIRST</key>
@@ -1581,32 +1597,31 @@
       <integer>-35</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-60</integer>
-    </dict>
-    <key>public.kern1.CYR_afii10036_UC_FIRST.c2sc</key>
-    <dict>
-      <key>public.kern2.CYR_afii10017_UC.c2sc</key>
-      <integer>-40</integer>
-      <key>public.kern2.CYR_afii10021_UC.c2sc</key>
-      <integer>-40</integer>
-      <key>public.kern2.CYR_afii10029_UC_SECOND.c2sc</key>
-      <integer>-40</integer>
-      <key>public.kern2.CYR_afii10032_UC_SECOND.c2sc</key>
+      <key>public.kern2.cyr_afii10017_uc.sc</key>
+      <integer>-39</integer>
+      <key>public.kern2.cyr_afii10021_uc.sc</key>
+      <integer>-39</integer>
+      <key>public.kern2.cyr_afii10029_uc_second.sc</key>
+      <integer>-39</integer>
+      <key>public.kern2.cyr_afii10032_uc_second.sc</key>
       <integer>-15</integer>
-      <key>public.kern2.CYR_afii10035_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10035_uc.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.CYR_afii10036_UC_SECOND.c2sc</key>
+      <key>public.kern2.cyr_afii10036_uc_second.sc</key>
       <integer>20</integer>
-      <key>public.kern2.CYR_afii10037_UC_SECOND.c2sc</key>
+      <key>public.kern2.cyr_afii10037_uc_second.sc</key>
       <integer>15</integer>
-      <key>public.kern2.CYR_afii10038_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10038_uc.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.CYR_afii10039_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10039_uc.sc</key>
       <integer>10</integer>
-      <key>public.kern2.CYR_afii10047_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10047_uc.sc</key>
       <integer>10</integer>
-      <key>public.kern2.CYR_uni04A8_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10057_uc_second.sc</key>
+      <integer>-39</integer>
+      <key>public.kern2.cyr_uni04a8_uc.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.CYR_uni04AE_UC.c2sc</key>
+      <key>public.kern2.cyr_uni04ae_uc.sc</key>
       <integer>20</integer>
     </dict>
     <key>public.kern1.CYR_afii10037_UC_FIRST</key>
@@ -1743,35 +1758,34 @@
       <integer>10</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-45</integer>
-    </dict>
-    <key>public.kern1.CYR_afii10037_UC_FIRST.c2sc</key>
-    <dict>
-      <key>public.kern2.CYR_afii10017_UC.c2sc</key>
-      <integer>-40</integer>
-      <key>public.kern2.CYR_afii10021_UC.c2sc</key>
-      <integer>-31</integer>
-      <key>public.kern2.CYR_afii10024_UC.c2sc</key>
-      <integer>8</integer>
-      <key>public.kern2.CYR_afii10029_UC_SECOND.c2sc</key>
-      <integer>-31</integer>
-      <key>public.kern2.CYR_afii10032_UC_SECOND.c2sc</key>
-      <integer>-8</integer>
-      <key>public.kern2.CYR_afii10035_UC.c2sc</key>
-      <integer>-8</integer>
-      <key>public.kern2.CYR_afii10036_UC_SECOND.c2sc</key>
-      <integer>16</integer>
-      <key>public.kern2.CYR_afii10037_UC_SECOND.c2sc</key>
-      <integer>12</integer>
-      <key>public.kern2.CYR_afii10038_UC.c2sc</key>
-      <integer>-8</integer>
-      <key>public.kern2.CYR_afii10039_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10017_uc.sc</key>
+      <integer>-39</integer>
+      <key>public.kern2.cyr_afii10021_uc.sc</key>
+      <integer>-39</integer>
+      <key>public.kern2.cyr_afii10024_uc.sc</key>
+      <integer>10</integer>
+      <key>public.kern2.cyr_afii10029_uc_second.sc</key>
+      <integer>-39</integer>
+      <key>public.kern2.cyr_afii10032_uc_second.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.cyr_afii10035_uc.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.cyr_afii10036_uc_second.sc</key>
+      <integer>20</integer>
+      <key>public.kern2.cyr_afii10037_uc_second.sc</key>
       <integer>15</integer>
-      <key>public.kern2.CYR_afii10047_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10038_uc.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.cyr_afii10039_uc.sc</key>
       <integer>15</integer>
-      <key>public.kern2.CYR_uni04A8_UC.c2sc</key>
-      <integer>-8</integer>
-      <key>public.kern2.CYR_uni04AE_UC.c2sc</key>
-      <integer>25</integer>
+      <key>public.kern2.cyr_afii10047_uc.sc</key>
+      <integer>15</integer>
+      <key>public.kern2.cyr_afii10057_uc_second.sc</key>
+      <integer>-54</integer>
+      <key>public.kern2.cyr_uni04a8_uc.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.cyr_uni04ae_uc.sc</key>
+      <integer>24</integer>
     </dict>
     <key>public.kern1.CYR_afii10038_UC</key>
     <dict>
@@ -1847,31 +1861,30 @@
       <integer>-10</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-25</integer>
-    </dict>
-    <key>public.kern1.CYR_afii10038_UC.c2sc</key>
-    <dict>
-      <key>public.kern2.CYR_afii10017_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10017_uc.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.CYR_afii10021_UC.c2sc</key>
-      <integer>-23</integer>
-      <key>public.kern2.CYR_afii10024_UC.c2sc</key>
-      <integer>-27</integer>
-      <key>public.kern2.CYR_afii10025_UC.c2sc</key>
-      <integer>-20</integer>
-      <key>public.kern2.CYR_afii10029_UC_SECOND.c2sc</key>
-      <integer>-27</integer>
-      <key>public.kern2.CYR_afii10036_UC_SECOND.c2sc</key>
-      <integer>-8</integer>
-      <key>public.kern2.CYR_afii10037_UC_SECOND.c2sc</key>
-      <integer>-16</integer>
-      <key>public.kern2.CYR_afii10039_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10021_uc.sc</key>
+      <integer>-29</integer>
+      <key>public.kern2.cyr_afii10024_uc.sc</key>
+      <integer>-34</integer>
+      <key>public.kern2.cyr_afii10025_uc.sc</key>
+      <integer>-24</integer>
+      <key>public.kern2.cyr_afii10029_uc_second.sc</key>
+      <integer>-34</integer>
+      <key>public.kern2.cyr_afii10036_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.CYR_afii10047_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10037_uc_second.sc</key>
       <integer>-20</integer>
-      <key>public.kern2.CYR_uni04AE_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10039_uc.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.cyr_afii10047_uc.sc</key>
+      <integer>-20</integer>
+      <key>public.kern2.cyr_afii10057_uc_second.sc</key>
+      <integer>-29</integer>
+      <key>public.kern2.cyr_uni04ae_uc.sc</key>
       <integer>-5</integer>
-      <key>public.kern2.CYR_uni04E0_UC.c2sc</key>
-      <integer>-35</integer>
+      <key>public.kern2.cyr_uni04e0_uc.sc</key>
+      <integer>-34</integer>
     </dict>
     <key>public.kern1.CYR_afii10039_UC</key>
     <dict>
@@ -1977,26 +1990,25 @@
       <integer>5</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>10</integer>
-    </dict>
-    <key>public.kern1.CYR_afii10039_UC.c2sc</key>
-    <dict>
-      <key>public.kern2.CYR_afii10017_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10017_uc.sc</key>
       <integer>20</integer>
-      <key>public.kern2.CYR_afii10032_UC_SECOND.c2sc</key>
+      <key>public.kern2.cyr_afii10032_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.CYR_afii10035_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10035_uc.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.CYR_afii10036_UC_SECOND.c2sc</key>
+      <key>public.kern2.cyr_afii10036_uc_second.sc</key>
       <integer>10</integer>
-      <key>public.kern2.CYR_afii10037_UC_SECOND.c2sc</key>
+      <key>public.kern2.cyr_afii10037_uc_second.sc</key>
       <integer>20</integer>
-      <key>public.kern2.CYR_afii10038_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10038_uc.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.CYR_afii10039_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10039_uc.sc</key>
       <integer>15</integer>
-      <key>public.kern2.CYR_uni04A8_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10057_uc_second.sc</key>
+      <integer>15</integer>
+      <key>public.kern2.cyr_uni04a8_uc.sc</key>
       <integer>-5</integer>
-      <key>public.kern2.CYR_uni04AE_UC.c2sc</key>
+      <key>public.kern2.cyr_uni04ae_uc.sc</key>
       <integer>15</integer>
     </dict>
     <key>public.kern1.CYR_afii10040_UC_FIRST</key>
@@ -2071,34 +2083,33 @@
       <integer>20</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>30</integer>
-    </dict>
-    <key>public.kern1.CYR_afii10040_UC_FIRST.c2sc</key>
-    <dict>
-      <key>public.kern2.CYR_afii10017_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10017_uc.sc</key>
       <integer>20</integer>
-      <key>public.kern2.CYR_afii10021_UC.c2sc</key>
-      <integer>12</integer>
-      <key>public.kern2.CYR_afii10024_UC.c2sc</key>
-      <integer>12</integer>
-      <key>public.kern2.CYR_afii10025_UC.c2sc</key>
-      <integer>8</integer>
-      <key>public.kern2.CYR_afii10029_UC_SECOND.c2sc</key>
-      <integer>12</integer>
-      <key>public.kern2.CYR_afii10032_UC_SECOND.c2sc</key>
-      <integer>-4</integer>
-      <key>public.kern2.CYR_afii10035_UC.c2sc</key>
-      <integer>-4</integer>
-      <key>public.kern2.CYR_afii10038_UC.c2sc</key>
-      <integer>-12</integer>
-      <key>public.kern2.CYR_afii10039_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10021_uc.sc</key>
       <integer>15</integer>
-      <key>public.kern2.CYR_afii10041_UC_SECOND.c2sc</key>
-      <integer>-12</integer>
-      <key>public.kern2.CYR_afii10047_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10024_uc.sc</key>
+      <integer>15</integer>
+      <key>public.kern2.cyr_afii10025_uc.sc</key>
       <integer>10</integer>
-      <key>public.kern2.CYR_uni04A8_UC.c2sc</key>
-      <integer>-8</integer>
-      <key>public.kern2.CYR_uni04E0_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10029_uc_second.sc</key>
+      <integer>15</integer>
+      <key>public.kern2.cyr_afii10032_uc_second.sc</key>
+      <integer>-5</integer>
+      <key>public.kern2.cyr_afii10035_uc.sc</key>
+      <integer>-5</integer>
+      <key>public.kern2.cyr_afii10038_uc.sc</key>
+      <integer>-15</integer>
+      <key>public.kern2.cyr_afii10039_uc.sc</key>
+      <integer>15</integer>
+      <key>public.kern2.cyr_afii10041_uc_second.sc</key>
+      <integer>-15</integer>
+      <key>public.kern2.cyr_afii10047_uc.sc</key>
+      <integer>10</integer>
+      <key>public.kern2.cyr_afii10057_uc_second.sc</key>
+      <integer>20</integer>
+      <key>public.kern2.cyr_uni04a8_uc.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.cyr_uni04e0_uc.sc</key>
       <integer>10</integer>
     </dict>
     <key>public.kern1.CYR_afii10041_UC_FIRST</key>
@@ -2168,18 +2179,15 @@
       <integer>-55</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-5</integer>
-    </dict>
-    <key>public.kern1.CYR_afii10046_UC_FIRST.c2sc</key>
-    <dict>
-      <key>public.kern2.CYR_afii10036_UC_SECOND.c2sc</key>
-      <integer>-39</integer>
-      <key>public.kern2.CYR_afii10037_UC_SECOND.c2sc</key>
-      <integer>-27</integer>
-      <key>public.kern2.CYR_afii10041_UC_SECOND.c2sc</key>
-      <integer>-4</integer>
-      <key>public.kern2.CYR_uni04AE_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10036_uc_second.sc</key>
+      <integer>-49</integer>
+      <key>public.kern2.cyr_afii10037_uc_second.sc</key>
+      <integer>-34</integer>
+      <key>public.kern2.cyr_afii10041_uc_second.sc</key>
       <integer>-5</integer>
-      <key>public.kern2.CYR_uni04BC_UC.c2sc</key>
+      <key>public.kern2.cyr_uni04ae_uc.sc</key>
+      <integer>-5</integer>
+      <key>public.kern2.cyr_uni04bc_uc.sc</key>
       <integer>-5</integer>
     </dict>
     <key>public.kern1.CYR_afii10047_UC</key>
@@ -2250,30 +2258,29 @@
       <integer>-10</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-25</integer>
-    </dict>
-    <key>public.kern1.CYR_afii10047_UC.c2sc</key>
-    <dict>
-      <key>public.kern2.CYR_afii10017_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10017_uc.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.CYR_afii10021_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10021_uc.sc</key>
       <integer>-5</integer>
-      <key>public.kern2.CYR_afii10024_UC.c2sc</key>
-      <integer>-25</integer>
-      <key>public.kern2.CYR_afii10025_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10024_uc.sc</key>
+      <integer>-24</integer>
+      <key>public.kern2.cyr_afii10025_uc.sc</key>
       <integer>-15</integer>
-      <key>public.kern2.CYR_afii10029_UC_SECOND.c2sc</key>
+      <key>public.kern2.cyr_afii10029_uc_second.sc</key>
       <integer>-5</integer>
-      <key>public.kern2.CYR_afii10036_UC_SECOND.c2sc</key>
+      <key>public.kern2.cyr_afii10036_uc_second.sc</key>
       <integer>-15</integer>
-      <key>public.kern2.CYR_afii10037_UC_SECOND.c2sc</key>
+      <key>public.kern2.cyr_afii10037_uc_second.sc</key>
       <integer>-15</integer>
-      <key>public.kern2.CYR_afii10039_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10039_uc.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.CYR_afii10047_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10047_uc.sc</key>
       <integer>-15</integer>
-      <key>public.kern2.CYR_uni04AE_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10057_uc_second.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.cyr_uni04ae_uc.sc</key>
       <integer>-20</integer>
-      <key>public.kern2.CYR_uni04E0_UC.c2sc</key>
+      <key>public.kern2.cyr_uni04e0_uc.sc</key>
       <integer>-15</integer>
     </dict>
     <key>public.kern1.CYR_afii10049_UC</key>
@@ -2409,16 +2416,13 @@
       <integer>-45</integer>
       <key>public.kern2.PUNCT_quotesingle</key>
       <integer>-45</integer>
-    </dict>
-    <key>public.kern1.CYR_afii10060_UC_FIRST.c2sc</key>
-    <dict>
-      <key>public.kern2.CYR_afii10036_UC_SECOND.c2sc</key>
-      <integer>-23</integer>
-      <key>public.kern2.CYR_afii10041_UC_SECOND.c2sc</key>
-      <integer>-12</integer>
-      <key>public.kern2.CYR_uni04AE_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10036_uc_second.sc</key>
+      <integer>-29</integer>
+      <key>public.kern2.cyr_afii10041_uc_second.sc</key>
+      <integer>-15</integer>
+      <key>public.kern2.cyr_uni04ae_uc.sc</key>
       <integer>-5</integer>
-      <key>public.kern2.CYR_uni04BC_UC.c2sc</key>
+      <key>public.kern2.cyr_uni04bc_uc.sc</key>
       <integer>-5</integer>
     </dict>
     <key>public.kern1.CYR_afii10065_LC</key>
@@ -3313,40 +3317,39 @@
       <integer>-85</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-45</integer>
-    </dict>
-    <key>public.kern1.CYR_uni0474_UC_FIRST.c2sc</key>
-    <dict>
-      <key>public.kern2.CYR_afii10017_UC.c2sc</key>
-      <integer>-45</integer>
-      <key>public.kern2.CYR_afii10021_UC.c2sc</key>
-      <integer>-30</integer>
-      <key>public.kern2.CYR_afii10024_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10017_uc.sc</key>
+      <integer>-44</integer>
+      <key>public.kern2.cyr_afii10021_uc.sc</key>
+      <integer>-29</integer>
+      <key>public.kern2.cyr_afii10024_uc.sc</key>
       <integer>15</integer>
-      <key>public.kern2.CYR_afii10025_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10025_uc.sc</key>
       <integer>15</integer>
-      <key>public.kern2.CYR_afii10029_UC_SECOND.c2sc</key>
-      <integer>-30</integer>
-      <key>public.kern2.CYR_afii10032_UC_SECOND.c2sc</key>
+      <key>public.kern2.cyr_afii10029_uc_second.sc</key>
+      <integer>-29</integer>
+      <key>public.kern2.cyr_afii10032_uc_second.sc</key>
       <integer>-5</integer>
-      <key>public.kern2.CYR_afii10035_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10035_uc.sc</key>
       <integer>-5</integer>
-      <key>public.kern2.CYR_afii10036_UC_SECOND.c2sc</key>
-      <integer>30</integer>
-      <key>public.kern2.CYR_afii10037_UC_SECOND.c2sc</key>
-      <integer>25</integer>
-      <key>public.kern2.CYR_afii10038_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10036_uc_second.sc</key>
+      <integer>29</integer>
+      <key>public.kern2.cyr_afii10037_uc_second.sc</key>
+      <integer>24</integer>
+      <key>public.kern2.cyr_afii10038_uc.sc</key>
       <integer>-15</integer>
-      <key>public.kern2.CYR_afii10039_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10039_uc.sc</key>
       <integer>20</integer>
-      <key>public.kern2.CYR_afii10041_UC_SECOND.c2sc</key>
+      <key>public.kern2.cyr_afii10041_uc_second.sc</key>
       <integer>15</integer>
-      <key>public.kern2.CYR_afii10047_UC.c2sc</key>
-      <integer>25</integer>
-      <key>public.kern2.CYR_uni04A8_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10047_uc.sc</key>
+      <integer>24</integer>
+      <key>public.kern2.cyr_afii10057_uc_second.sc</key>
+      <integer>-5</integer>
+      <key>public.kern2.cyr_uni04a8_uc.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.CYR_uni04AE_UC.c2sc</key>
+      <key>public.kern2.cyr_uni04ae_uc.sc</key>
       <integer>5</integer>
-      <key>public.kern2.CYR_uni04E0_UC.c2sc</key>
+      <key>public.kern2.cyr_uni04e0_uc.sc</key>
       <integer>15</integer>
     </dict>
     <key>public.kern1.CYR_uni0475_LC_FIRST</key>
@@ -3496,28 +3499,27 @@
       <integer>-25</integer>
       <key>public.kern2.PUNCT_quotesingle</key>
       <integer>-35</integer>
-    </dict>
-    <key>public.kern1.CYR_uni04A8_UC.c2sc</key>
-    <dict>
-      <key>public.kern2.CYR_afii10024_UC.c2sc</key>
-      <integer>-16</integer>
-      <key>public.kern2.CYR_afii10025_UC.c2sc</key>
-      <integer>-8</integer>
-      <key>public.kern2.CYR_afii10029_UC_SECOND.c2sc</key>
-      <integer>-4</integer>
-      <key>public.kern2.CYR_afii10036_UC_SECOND.c2sc</key>
-      <integer>-27</integer>
-      <key>public.kern2.CYR_afii10037_UC_SECOND.c2sc</key>
-      <integer>-12</integer>
-      <key>public.kern2.CYR_afii10039_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10024_uc.sc</key>
       <integer>-20</integer>
-      <key>public.kern2.CYR_afii10047_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10025_uc.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.CYR_afii10049_UC.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.CYR_uni04AE_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10029_uc_second.sc</key>
       <integer>-5</integer>
-      <key>public.kern2.CYR_uni04E0_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10036_uc_second.sc</key>
+      <integer>-34</integer>
+      <key>public.kern2.cyr_afii10037_uc_second.sc</key>
+      <integer>-15</integer>
+      <key>public.kern2.cyr_afii10039_uc.sc</key>
+      <integer>-20</integer>
+      <key>public.kern2.cyr_afii10047_uc.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.cyr_afii10049_uc.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.cyr_afii10054_uc.sc</key>
+      <integer>-5</integer>
+      <key>public.kern2.cyr_uni04ae_uc.sc</key>
+      <integer>-5</integer>
+      <key>public.kern2.cyr_uni04e0_uc.sc</key>
       <integer>-5</integer>
     </dict>
     <key>public.kern1.CYR_uni04A9_LC</key>
@@ -3677,31 +3679,30 @@
       <integer>-45</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-50</integer>
-    </dict>
-    <key>public.kern1.CYR_uni04AE_UC.c2sc</key>
-    <dict>
-      <key>public.kern2.CYR_afii10017_UC.c2sc</key>
-      <integer>-50</integer>
-      <key>public.kern2.CYR_afii10021_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10017_uc.sc</key>
+      <integer>-49</integer>
+      <key>public.kern2.cyr_afii10021_uc.sc</key>
       <integer>-5</integer>
-      <key>public.kern2.CYR_afii10029_UC_SECOND.c2sc</key>
+      <key>public.kern2.cyr_afii10029_uc_second.sc</key>
       <integer>-5</integer>
-      <key>public.kern2.CYR_afii10032_UC_SECOND.c2sc</key>
+      <key>public.kern2.cyr_afii10032_uc_second.sc</key>
       <integer>-20</integer>
-      <key>public.kern2.CYR_afii10035_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10035_uc.sc</key>
       <integer>-20</integer>
-      <key>public.kern2.CYR_afii10036_UC_SECOND.c2sc</key>
+      <key>public.kern2.cyr_afii10036_uc_second.sc</key>
       <integer>20</integer>
-      <key>public.kern2.CYR_afii10037_UC_SECOND.c2sc</key>
-      <integer>30</integer>
-      <key>public.kern2.CYR_afii10038_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10037_uc_second.sc</key>
+      <integer>29</integer>
+      <key>public.kern2.cyr_afii10038_uc.sc</key>
       <integer>-5</integer>
-      <key>public.kern2.CYR_afii10039_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10039_uc.sc</key>
       <integer>15</integer>
-      <key>public.kern2.CYR_uni04A8_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10057_uc_second.sc</key>
+      <integer>-74</integer>
+      <key>public.kern2.cyr_uni04a8_uc.sc</key>
       <integer>-5</integer>
-      <key>public.kern2.CYR_uni04AE_UC.c2sc</key>
-      <integer>25</integer>
+      <key>public.kern2.cyr_uni04ae_uc.sc</key>
+      <integer>24</integer>
     </dict>
     <key>public.kern1.CYR_uni04AF_LC</key>
     <dict>
@@ -3784,18 +3785,15 @@
       <integer>-50</integer>
       <key>public.kern2.PUNCT_quotesingle</key>
       <integer>-55</integer>
-    </dict>
-    <key>public.kern1.CYR_uni04BA_UC.c2sc</key>
-    <dict>
-      <key>public.kern2.CYR_afii10036_UC_SECOND.c2sc</key>
+      <key>public.kern2.cyr_afii10036_uc_second.sc</key>
+      <integer>-49</integer>
+      <key>public.kern2.cyr_afii10037_uc_second.sc</key>
       <integer>-39</integer>
-      <key>public.kern2.CYR_afii10037_UC_SECOND.c2sc</key>
-      <integer>-31</integer>
-      <key>public.kern2.CYR_afii10041_UC_SECOND.c2sc</key>
-      <integer>-8</integer>
-      <key>public.kern2.CYR_uni04AE_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10041_uc_second.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.cyr_uni04ae_uc.sc</key>
       <integer>-5</integer>
-      <key>public.kern2.CYR_uni04BC_UC.c2sc</key>
+      <key>public.kern2.cyr_uni04bc_uc.sc</key>
       <integer>-5</integer>
     </dict>
     <key>public.kern1.CYR_uni04BB_LC</key>
@@ -3867,10 +3865,7 @@
       <integer>-5</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-10</integer>
-    </dict>
-    <key>public.kern1.CYR_uni04BC_UC.c2sc</key>
-    <dict>
-      <key>public.kern2.CYR_afii10037_UC_SECOND.c2sc</key>
+      <key>public.kern2.cyr_afii10037_uc_second.sc</key>
       <integer>-10</integer>
     </dict>
     <key>public.kern1.CYR_uni04BD_LC</key>
@@ -3948,19 +3943,16 @@
       <integer>10</integer>
       <key>public.kern2.PUNCT_quotesinglbase</key>
       <integer>10</integer>
-    </dict>
-    <key>public.kern1.CYR_uni04C3_UC.c2sc</key>
-    <dict>
-      <key>public.kern2.CYR_afii10032_UC_SECOND.c2sc</key>
-      <integer>-4</integer>
-      <key>public.kern2.CYR_afii10037_UC_SECOND.c2sc</key>
-      <integer>16</integer>
-      <key>public.kern2.CYR_afii10038_UC.c2sc</key>
-      <integer>-8</integer>
-      <key>public.kern2.CYR_uni04A8_UC.c2sc</key>
-      <integer>-4</integer>
-      <key>public.kern2.CYR_uni04BC_UC.c2sc</key>
-      <integer>-25</integer>
+      <key>public.kern2.cyr_afii10032_uc_second.sc</key>
+      <integer>-5</integer>
+      <key>public.kern2.cyr_afii10037_uc_second.sc</key>
+      <integer>20</integer>
+      <key>public.kern2.cyr_afii10038_uc.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.cyr_uni04a8_uc.sc</key>
+      <integer>-5</integer>
+      <key>public.kern2.cyr_uni04bc_uc.sc</key>
+      <integer>-24</integer>
     </dict>
     <key>public.kern1.CYR_uni04C4_LC_FIRST</key>
     <dict>
@@ -4063,20 +4055,19 @@
       <integer>-10</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-25</integer>
-    </dict>
-    <key>public.kern1.CYR_uni04D8_UC.c2sc</key>
-    <dict>
-      <key>public.kern2.CYR_afii10017_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10017_uc.sc</key>
       <integer>-5</integer>
-      <key>public.kern2.CYR_afii10024_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10024_uc.sc</key>
       <integer>-5</integer>
-      <key>public.kern2.CYR_afii10036_UC_SECOND.c2sc</key>
+      <key>public.kern2.cyr_afii10036_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.CYR_afii10037_UC_SECOND.c2sc</key>
+      <key>public.kern2.cyr_afii10037_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.CYR_afii10039_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10039_uc.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.CYR_uni04AE_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10057_uc_second.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.cyr_uni04ae_uc.sc</key>
       <integer>-20</integer>
     </dict>
     <key>public.kern1.CYR_uni04D9_LC</key>
@@ -4162,16 +4153,13 @@
       <integer>-5</integer>
       <key>public.kern2.PUNCT_period</key>
       <integer>-5</integer>
-    </dict>
-    <key>public.kern1.CYR_uni04E0_UC.c2sc</key>
-    <dict>
-      <key>public.kern2.CYR_afii10037_UC_SECOND.c2sc</key>
+      <key>public.kern2.cyr_afii10037_uc_second.sc</key>
       <integer>10</integer>
-      <key>public.kern2.CYR_afii10038_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10038_uc.sc</key>
       <integer>-5</integer>
-      <key>public.kern2.CYR_afii10049_UC.c2sc</key>
+      <key>public.kern2.cyr_afii10049_uc.sc</key>
       <integer>-5</integer>
-      <key>public.kern2.CYR_uni04BC_UC.c2sc</key>
+      <key>public.kern2.cyr_uni04bc_uc.sc</key>
       <integer>-10</integer>
     </dict>
     <key>public.kern1.CYR_uni04E1_LC</key>
@@ -4364,25 +4352,30 @@
       <integer>-50</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>15</integer>
-    </dict>
-    <key>public.kern1.GRK_Alpha_UC_FIRST.c2sc</key>
-    <dict>
-      <key>public.kern2.GRK_Alpha_UC_SECOND.c2sc</key>
-      <integer>25</integer>
-      <key>public.kern2.GRK_Delta_UC.c2sc</key>
-      <integer>25</integer>
-      <key>public.kern2.GRK_Lambda_UC.c2sc</key>
-      <integer>25</integer>
-      <key>public.kern2.GRK_Phi_UC.c2sc</key>
+      <key>public.kern2.grk_alpha_uc_second.sc</key>
+      <integer>24</integer>
+      <key>public.kern2.grk_chi_uc.sc</key>
+      <integer>20</integer>
+      <key>public.kern2.grk_delta_uc.sc</key>
+      <integer>24</integer>
+      <key>public.kern2.grk_lambda_uc.sc</key>
+      <integer>24</integer>
+      <key>public.kern2.grk_omicron_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.GRK_Psi_UC.c2sc</key>
-      <integer>-30</integer>
-      <key>public.kern2.GRK_Sigma_UC.c2sc</key>
+      <key>public.kern2.grk_phi_uc.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.grk_psi_uc.sc</key>
+      <integer>-29</integer>
+      <key>public.kern2.grk_sigma_uc.sc</key>
       <integer>15</integer>
-      <key>public.kern2.GRK_Upsilon_UC_SECOND.c2sc</key>
-      <integer>-55</integer>
-      <key>public.kern2.GRK_Xi_UC.c2sc</key>
+      <key>public.kern2.grk_tau_uc.sc</key>
+      <integer>-39</integer>
+      <key>public.kern2.grk_upsilon_uc_second.sc</key>
+      <integer>-54</integer>
+      <key>public.kern2.grk_xi_uc.sc</key>
       <integer>10</integer>
+      <key>public.kern2.grk_zeta_uc.sc</key>
+      <integer>15</integer>
     </dict>
     <key>public.kern1.GRK_Beta_UC</key>
     <dict>
@@ -4427,6 +4420,12 @@
       <key>public.kern2.PUNCT_quotesingle</key>
       <integer>-5</integer>
       <key>public.kern2.PUNCT_slash</key>
+      <integer>-10</integer>
+      <key>public.kern2.grk_chi_uc.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.grk_psi_uc.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.grk_upsilon_uc_second.sc</key>
       <integer>-10</integer>
     </dict>
     <key>public.kern1.GRK_Chi_UC</key>
@@ -4527,6 +4526,24 @@
       <integer>5</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>10</integer>
+      <key>public.kern2.grk_alpha_uc_second.sc</key>
+      <integer>20</integer>
+      <key>public.kern2.grk_chi_uc.sc</key>
+      <integer>15</integer>
+      <key>public.kern2.grk_delta_uc.sc</key>
+      <integer>20</integer>
+      <key>public.kern2.grk_lambda_uc.sc</key>
+      <integer>20</integer>
+      <key>public.kern2.grk_omicron_uc_second.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.grk_phi_uc.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.grk_tau_uc.sc</key>
+      <integer>10</integer>
+      <key>public.kern2.grk_upsilon_uc_second.sc</key>
+      <integer>15</integer>
+      <key>public.kern2.grk_zeta_uc.sc</key>
+      <integer>10</integer>
     </dict>
     <key>public.kern1.GRK_Delta_UC</key>
     <dict>
@@ -4610,25 +4627,30 @@
       <integer>-50</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>15</integer>
-    </dict>
-    <key>public.kern1.GRK_Delta_UC.c2sc</key>
-    <dict>
-      <key>public.kern2.GRK_Alpha_UC_SECOND.c2sc</key>
-      <integer>25</integer>
-      <key>public.kern2.GRK_Delta_UC.c2sc</key>
-      <integer>25</integer>
-      <key>public.kern2.GRK_Lambda_UC.c2sc</key>
-      <integer>25</integer>
-      <key>public.kern2.GRK_Phi_UC.c2sc</key>
+      <key>public.kern2.grk_alpha_uc_second.sc</key>
+      <integer>24</integer>
+      <key>public.kern2.grk_chi_uc.sc</key>
+      <integer>20</integer>
+      <key>public.kern2.grk_delta_uc.sc</key>
+      <integer>24</integer>
+      <key>public.kern2.grk_lambda_uc.sc</key>
+      <integer>24</integer>
+      <key>public.kern2.grk_omicron_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.GRK_Psi_UC.c2sc</key>
-      <integer>-25</integer>
-      <key>public.kern2.GRK_Sigma_UC.c2sc</key>
+      <key>public.kern2.grk_phi_uc.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.grk_psi_uc.sc</key>
+      <integer>-24</integer>
+      <key>public.kern2.grk_sigma_uc.sc</key>
       <integer>15</integer>
-      <key>public.kern2.GRK_Upsilon_UC_SECOND.c2sc</key>
-      <integer>-55</integer>
-      <key>public.kern2.GRK_Xi_UC.c2sc</key>
+      <key>public.kern2.grk_tau_uc.sc</key>
+      <integer>-39</integer>
+      <key>public.kern2.grk_upsilon_uc_second.sc</key>
+      <integer>-54</integer>
+      <key>public.kern2.grk_xi_uc.sc</key>
       <integer>10</integer>
+      <key>public.kern2.grk_zeta_uc.sc</key>
+      <integer>15</integer>
     </dict>
     <key>public.kern1.GRK_Epsilon_UC_FIRST</key>
     <dict>
@@ -4706,16 +4728,15 @@
       <integer>10</integer>
       <key>public.kern2.PUNCT_quoteleft</key>
       <integer>-5</integer>
-    </dict>
-    <key>public.kern1.GRK_Epsilon_UC_FIRST.c2sc</key>
-    <dict>
-      <key>public.kern2.GRK_Alpha_UC_SECOND.c2sc</key>
+      <key>public.kern2.grk_alpha_uc_second.sc</key>
       <integer>15</integer>
-      <key>public.kern2.GRK_Delta_UC.c2sc</key>
+      <key>public.kern2.grk_delta_uc.sc</key>
       <integer>15</integer>
-      <key>public.kern2.GRK_Lambda_UC.c2sc</key>
+      <key>public.kern2.grk_lambda_uc.sc</key>
       <integer>15</integer>
-      <key>public.kern2.GRK_Phi_UC.c2sc</key>
+      <key>public.kern2.grk_omicron_uc_second.sc</key>
+      <integer>-15</integer>
+      <key>public.kern2.grk_phi_uc.sc</key>
       <integer>-15</integer>
     </dict>
     <key>public.kern1.GRK_Eta_UC_FIRST</key>
@@ -4841,18 +4862,21 @@
       <integer>-35</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-60</integer>
-    </dict>
-    <key>public.kern1.GRK_Gamma_UC.c2sc</key>
-    <dict>
-      <key>public.kern2.GRK_Alpha_UC_SECOND.c2sc</key>
-      <integer>-40</integer>
-      <key>public.kern2.GRK_Delta_UC.c2sc</key>
-      <integer>-40</integer>
-      <key>public.kern2.GRK_Lambda_UC.c2sc</key>
-      <integer>-40</integer>
-      <key>public.kern2.GRK_Phi_UC.c2sc</key>
+      <key>public.kern2.grk_alpha_uc_second.sc</key>
+      <integer>-39</integer>
+      <key>public.kern2.grk_chi_uc.sc</key>
+      <integer>15</integer>
+      <key>public.kern2.grk_delta_uc.sc</key>
+      <integer>-39</integer>
+      <key>public.kern2.grk_lambda_uc.sc</key>
+      <integer>-39</integer>
+      <key>public.kern2.grk_omicron_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.GRK_Upsilon_UC_SECOND.c2sc</key>
+      <key>public.kern2.grk_phi_uc.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.grk_tau_uc.sc</key>
+      <integer>20</integer>
+      <key>public.kern2.grk_upsilon_uc_second.sc</key>
       <integer>20</integer>
     </dict>
     <key>public.kern1.GRK_Kappa_UC</key>
@@ -4957,6 +4981,28 @@
       <integer>10</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>15</integer>
+      <key>public.kern2.grk_alpha_uc_second.sc</key>
+      <integer>24</integer>
+      <key>public.kern2.grk_chi_uc.sc</key>
+      <integer>20</integer>
+      <key>public.kern2.grk_delta_uc.sc</key>
+      <integer>24</integer>
+      <key>public.kern2.grk_lambda_uc.sc</key>
+      <integer>24</integer>
+      <key>public.kern2.grk_omicron_uc_second.sc</key>
+      <integer>-20</integer>
+      <key>public.kern2.grk_phi_uc.sc</key>
+      <integer>-20</integer>
+      <key>public.kern2.grk_sigma_uc.sc</key>
+      <integer>15</integer>
+      <key>public.kern2.grk_tau_uc.sc</key>
+      <integer>15</integer>
+      <key>public.kern2.grk_upsilon_uc_second.sc</key>
+      <integer>15</integer>
+      <key>public.kern2.grk_xi_uc.sc</key>
+      <integer>10</integer>
+      <key>public.kern2.grk_zeta_uc.sc</key>
+      <integer>15</integer>
     </dict>
     <key>public.kern1.GRK_Lambda_UC</key>
     <dict>
@@ -5030,19 +5076,24 @@
       <integer>-50</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>15</integer>
-    </dict>
-    <key>public.kern1.GRK_Lambda_UC.c2sc</key>
-    <dict>
-      <key>public.kern2.GRK_Alpha_UC_SECOND.c2sc</key>
-      <integer>25</integer>
-      <key>public.kern2.GRK_Delta_UC.c2sc</key>
-      <integer>25</integer>
-      <key>public.kern2.GRK_Lambda_UC.c2sc</key>
-      <integer>25</integer>
-      <key>public.kern2.GRK_Psi_UC.c2sc</key>
+      <key>public.kern2.grk_alpha_uc_second.sc</key>
+      <integer>24</integer>
+      <key>public.kern2.grk_chi_uc.sc</key>
+      <integer>20</integer>
+      <key>public.kern2.grk_delta_uc.sc</key>
+      <integer>24</integer>
+      <key>public.kern2.grk_lambda_uc.sc</key>
+      <integer>24</integer>
+      <key>public.kern2.grk_omicron_uc_second.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.grk_psi_uc.sc</key>
       <integer>-5</integer>
-      <key>public.kern2.GRK_Upsilon_UC_SECOND.c2sc</key>
-      <integer>-55</integer>
+      <key>public.kern2.grk_tau_uc.sc</key>
+      <integer>-39</integer>
+      <key>public.kern2.grk_upsilon_uc_second.sc</key>
+      <integer>-54</integer>
+      <key>public.kern2.grk_zeta_uc.sc</key>
+      <integer>10</integer>
     </dict>
     <key>public.kern1.GRK_Mu_UC</key>
     <dict>
@@ -5078,6 +5129,10 @@
       <integer>-10</integer>
       <key>public.kern2.PUNCT_quotesinglbase</key>
       <integer>10</integer>
+      <key>public.kern2.grk_phi_uc.sc</key>
+      <integer>-5</integer>
+      <key>public.kern2.grk_psi_uc.sc</key>
+      <integer>-10</integer>
     </dict>
     <key>public.kern1.GRK_Omega_UC_FIRST</key>
     <dict>
@@ -5113,10 +5168,9 @@
       <integer>-5</integer>
       <key>public.kern2.PUNCT_quotesingle</key>
       <integer>-10</integer>
-    </dict>
-    <key>public.kern1.GRK_Omega_UC_FIRST.c2sc</key>
-    <dict>
-      <key>public.kern2.GRK_Upsilon_UC_SECOND.c2sc</key>
+      <key>public.kern2.grk_tau_uc.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.grk_upsilon_uc_second.sc</key>
       <integer>-20</integer>
     </dict>
     <key>public.kern1.GRK_Omicron_UC_FIRST</key>
@@ -5175,20 +5229,21 @@
       <integer>-10</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-25</integer>
-    </dict>
-    <key>public.kern1.GRK_Omicron_UC_FIRST.c2sc</key>
-    <dict>
-      <key>public.kern2.GRK_Alpha_UC_SECOND.c2sc</key>
+      <key>public.kern2.grk_alpha_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.GRK_Delta_UC.c2sc</key>
+      <key>public.kern2.grk_chi_uc.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.GRK_Lambda_UC.c2sc</key>
+      <key>public.kern2.grk_delta_uc.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.GRK_Sigma_UC.c2sc</key>
+      <key>public.kern2.grk_lambda_uc.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.grk_sigma_uc.sc</key>
       <integer>-15</integer>
-      <key>public.kern2.GRK_Upsilon_UC_SECOND.c2sc</key>
-      <integer>-25</integer>
-      <key>public.kern2.GRK_Xi_UC.c2sc</key>
+      <key>public.kern2.grk_tau_uc.sc</key>
+      <integer>-15</integer>
+      <key>public.kern2.grk_upsilon_uc_second.sc</key>
+      <integer>-24</integer>
+      <key>public.kern2.grk_xi_uc.sc</key>
       <integer>-15</integer>
     </dict>
     <key>public.kern1.GRK_Phi_UC</key>
@@ -5257,20 +5312,23 @@
       <integer>-10</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-25</integer>
-    </dict>
-    <key>public.kern1.GRK_Phi_UC.c2sc</key>
-    <dict>
-      <key>public.kern2.GRK_Alpha_UC_SECOND.c2sc</key>
+      <key>public.kern2.grk_alpha_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.GRK_Delta_UC.c2sc</key>
+      <key>public.kern2.grk_chi_uc.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.GRK_Lambda_UC.c2sc</key>
+      <key>public.kern2.grk_delta_uc.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.GRK_Sigma_UC.c2sc</key>
-      <integer>-25</integer>
-      <key>public.kern2.GRK_Upsilon_UC_SECOND.c2sc</key>
-      <integer>-25</integer>
-      <key>public.kern2.GRK_Xi_UC.c2sc</key>
+      <key>public.kern2.grk_lambda_uc.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.grk_mu_uc.sc</key>
+      <integer>-5</integer>
+      <key>public.kern2.grk_sigma_uc.sc</key>
+      <integer>-24</integer>
+      <key>public.kern2.grk_tau_uc.sc</key>
+      <integer>-15</integer>
+      <key>public.kern2.grk_upsilon_uc_second.sc</key>
+      <integer>-24</integer>
+      <key>public.kern2.grk_xi_uc.sc</key>
       <integer>-5</integer>
     </dict>
     <key>public.kern1.GRK_Pi_UC_FIRST</key>
@@ -5342,17 +5400,16 @@
       <integer>-60</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-40</integer>
-    </dict>
-    <key>public.kern1.GRK_Psi_UC.c2sc</key>
-    <dict>
-      <key>public.kern2.GRK_Alpha_UC_SECOND.c2sc</key>
-      <integer>-30</integer>
-      <key>public.kern2.GRK_Delta_UC.c2sc</key>
-      <integer>-25</integer>
-      <key>public.kern2.GRK_Lambda_UC.c2sc</key>
-      <integer>-30</integer>
-      <key>public.kern2.GRK_Psi_UC.c2sc</key>
-      <integer>-4</integer>
+      <key>public.kern2.grk_alpha_uc_second.sc</key>
+      <integer>-29</integer>
+      <key>public.kern2.grk_delta_uc.sc</key>
+      <integer>-24</integer>
+      <key>public.kern2.grk_lambda_uc.sc</key>
+      <integer>-29</integer>
+      <key>public.kern2.grk_mu_uc.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.grk_psi_uc.sc</key>
+      <integer>-5</integer>
     </dict>
     <key>public.kern1.GRK_Rho_UC</key>
     <dict>
@@ -5416,15 +5473,14 @@
       <integer>-70</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-40</integer>
-    </dict>
-    <key>public.kern1.GRK_Rho_UC.c2sc</key>
-    <dict>
-      <key>public.kern2.GRK_Alpha_UC_SECOND.c2sc</key>
-      <integer>-30</integer>
-      <key>public.kern2.GRK_Delta_UC.c2sc</key>
-      <integer>-30</integer>
-      <key>public.kern2.GRK_Lambda_UC.c2sc</key>
-      <integer>-30</integer>
+      <key>public.kern2.grk_alpha_uc_second.sc</key>
+      <integer>-29</integer>
+      <key>public.kern2.grk_chi_uc.sc</key>
+      <integer>-5</integer>
+      <key>public.kern2.grk_delta_uc.sc</key>
+      <integer>-29</integer>
+      <key>public.kern2.grk_lambda_uc.sc</key>
+      <integer>-29</integer>
     </dict>
     <key>public.kern1.GRK_Sigma_UC</key>
     <dict>
@@ -5480,11 +5536,10 @@
       <integer>-5</integer>
       <key>public.kern2.PUNCT_question</key>
       <integer>15</integer>
-    </dict>
-    <key>public.kern1.GRK_Sigma_UC.c2sc</key>
-    <dict>
-      <key>public.kern2.GRK_Phi_UC.c2sc</key>
-      <integer>-25</integer>
+      <key>public.kern2.grk_omicron_uc_second.sc</key>
+      <integer>-15</integer>
+      <key>public.kern2.grk_phi_uc.sc</key>
+      <integer>-24</integer>
     </dict>
     <key>public.kern1.GRK_Tau_UC</key>
     <dict>
@@ -5592,6 +5647,22 @@
       <integer>-35</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-60</integer>
+      <key>public.kern2.grk_alpha_uc_second.sc</key>
+      <integer>-39</integer>
+      <key>public.kern2.grk_chi_uc.sc</key>
+      <integer>10</integer>
+      <key>public.kern2.grk_delta_uc.sc</key>
+      <integer>-39</integer>
+      <key>public.kern2.grk_lambda_uc.sc</key>
+      <integer>-39</integer>
+      <key>public.kern2.grk_omicron_uc_second.sc</key>
+      <integer>-15</integer>
+      <key>public.kern2.grk_phi_uc.sc</key>
+      <integer>-15</integer>
+      <key>public.kern2.grk_tau_uc.sc</key>
+      <integer>20</integer>
+      <key>public.kern2.grk_upsilon_uc_second.sc</key>
+      <integer>20</integer>
     </dict>
     <key>public.kern1.GRK_Upsilon_UC_FIRST</key>
     <dict>
@@ -5697,19 +5768,24 @@
       <integer>-45</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-55</integer>
-    </dict>
-    <key>public.kern1.GRK_Upsilon_UC_FIRST.c2sc</key>
-    <dict>
-      <key>public.kern2.GRK_Alpha_UC_SECOND.c2sc</key>
-      <integer>-55</integer>
-      <key>public.kern2.GRK_Delta_UC.c2sc</key>
-      <integer>-55</integer>
-      <key>public.kern2.GRK_Lambda_UC.c2sc</key>
-      <integer>-55</integer>
-      <key>public.kern2.GRK_Phi_UC.c2sc</key>
-      <integer>-25</integer>
-      <key>public.kern2.GRK_Upsilon_UC_SECOND.c2sc</key>
-      <integer>25</integer>
+      <key>public.kern2.grk_alpha_uc_second.sc</key>
+      <integer>-54</integer>
+      <key>public.kern2.grk_chi_uc.sc</key>
+      <integer>15</integer>
+      <key>public.kern2.grk_delta_uc.sc</key>
+      <integer>-54</integer>
+      <key>public.kern2.grk_lambda_uc.sc</key>
+      <integer>-54</integer>
+      <key>public.kern2.grk_omicron_uc_second.sc</key>
+      <integer>-24</integer>
+      <key>public.kern2.grk_phi_uc.sc</key>
+      <integer>-24</integer>
+      <key>public.kern2.grk_tau_uc.sc</key>
+      <integer>20</integer>
+      <key>public.kern2.grk_upsilon_uc_second.sc</key>
+      <integer>24</integer>
+      <key>public.kern2.grk_zeta_uc.sc</key>
+      <integer>10</integer>
     </dict>
     <key>public.kern1.GRK_Xi_UC</key>
     <dict>
@@ -5789,18 +5865,19 @@
       <integer>15</integer>
       <key>public.kern2.PUNCT_quoteleft</key>
       <integer>-5</integer>
-    </dict>
-    <key>public.kern1.GRK_Xi_UC.c2sc</key>
-    <dict>
-      <key>public.kern2.GRK_Alpha_UC_SECOND.c2sc</key>
+      <key>public.kern2.grk_alpha_uc_second.sc</key>
       <integer>15</integer>
-      <key>public.kern2.GRK_Delta_UC.c2sc</key>
+      <key>public.kern2.grk_chi_uc.sc</key>
+      <integer>10</integer>
+      <key>public.kern2.grk_delta_uc.sc</key>
       <integer>15</integer>
-      <key>public.kern2.GRK_Lambda_UC.c2sc</key>
+      <key>public.kern2.grk_lambda_uc.sc</key>
       <integer>15</integer>
-      <key>public.kern2.GRK_Phi_UC.c2sc</key>
+      <key>public.kern2.grk_omicron_uc_second.sc</key>
       <integer>-15</integer>
-      <key>public.kern2.GRK_Upsilon_UC_SECOND.c2sc</key>
+      <key>public.kern2.grk_phi_uc.sc</key>
+      <integer>-15</integer>
+      <key>public.kern2.grk_upsilon_uc_second.sc</key>
       <integer>15</integer>
     </dict>
     <key>public.kern1.GRK_Zeta_UC</key>
@@ -5881,6 +5958,18 @@
       <integer>10</integer>
       <key>public.kern2.PUNCT_quoteright</key>
       <integer>15</integer>
+      <key>public.kern2.grk_alpha_uc_second.sc</key>
+      <integer>15</integer>
+      <key>public.kern2.grk_delta_uc.sc</key>
+      <integer>15</integer>
+      <key>public.kern2.grk_lambda_uc.sc</key>
+      <integer>15</integer>
+      <key>public.kern2.grk_omicron_uc_second.sc</key>
+      <integer>-20</integer>
+      <key>public.kern2.grk_phi_uc.sc</key>
+      <integer>-20</integer>
+      <key>public.kern2.grk_upsilon_uc_second.sc</key>
+      <integer>10</integer>
     </dict>
     <key>public.kern1.GRK_alpha_LC</key>
     <dict>
@@ -6657,80 +6746,38 @@
       <integer>-50</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>15</integer>
+      <key>public.kern2.lat_a_uc_second.sc</key>
+      <integer>24</integer>
+      <key>public.kern2.lat_c_uc_second.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.lat_g_uc_second.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.lat_j_uc_second.sc</key>
+      <integer>20</integer>
+      <key>public.kern2.lat_o_uc_second.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.lat_q_uc.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.lat_s_uc.sc</key>
+      <integer>10</integer>
+      <key>public.kern2.lat_t_uc_second.sc</key>
+      <integer>-39</integer>
+      <key>public.kern2.lat_v_uc.sc</key>
+      <integer>-39</integer>
+      <key>public.kern2.lat_w_uc.sc</key>
+      <integer>-10</integer>
+      <key>public.kern2.lat_x_uc.sc</key>
+      <integer>20</integer>
+      <key>public.kern2.lat_y_uc_second.sc</key>
+      <integer>-54</integer>
+      <key>public.kern2.lat_z_uc_second.sc</key>
+      <integer>10</integer>
+      <key>public.kern2.mis_uni021c.sc</key>
+      <integer>-29</integer>
       <key>registered</key>
       <integer>-10</integer>
       <key>trademark</key>
       <integer>-33</integer>
-    </dict>
-    <key>public.kern1.LAT_A_UC_FIRST.c2sc</key>
-    <dict>
-      <key>public.kern2.LAT_AE_UC_SECOND.c2sc</key>
-      <integer>25</integer>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc</key>
-      <integer>25</integer>
-      <key>public.kern2.LAT_C_UC_SECOND.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.LAT_G_UC_SECOND.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc</key>
-      <integer>20</integer>
-      <key>public.kern2.LAT_O_UC_SECOND.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.LAT_Q_UC.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.LAT_S_UC.c2sc</key>
-      <integer>10</integer>
-      <key>public.kern2.LAT_T_UC_SECOND.c2sc</key>
-      <integer>-40</integer>
-      <key>public.kern2.LAT_V_UC.c2sc</key>
-      <integer>-40</integer>
-      <key>public.kern2.LAT_W_UC.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.LAT_X_UC.c2sc</key>
-      <integer>20</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc</key>
-      <integer>-55</integer>
-      <key>public.kern2.LAT_Z_UC_SECOND.c2sc</key>
-      <integer>10</integer>
-      <key>public.kern2.MIS_uni019C.c2sc</key>
-      <integer>-5</integer>
-      <key>public.kern2.MIS_uni01B1.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.MIS_uni01B2.c2sc</key>
-      <integer>-5</integer>
-      <key>public.kern2.MIS_uni021C.c2sc</key>
-      <integer>-30</integer>
-      <key>public.kern2.MIS_uni0244.c2sc</key>
-      <integer>-5</integer>
-    </dict>
-    <key>public.kern1.LAT_A_UC_FIRST.c2sc.001</key>
-    <dict>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc.001</key>
-      <integer>20</integer>
-      <key>public.kern2.LAT_C_UC_SECOND.c2sc.001</key>
-      <integer>-8</integer>
-      <key>public.kern2.LAT_G_UC_SECOND.c2sc.001</key>
-      <integer>-8</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc.001</key>
-      <integer>16</integer>
-      <key>public.kern2.LAT_O_UC_SECOND.c2sc.001</key>
-      <integer>-8</integer>
-      <key>public.kern2.LAT_Q_UC.c2sc.001</key>
-      <integer>-8</integer>
-      <key>public.kern2.LAT_S_UC.c2sc.001</key>
-      <integer>8</integer>
-      <key>public.kern2.LAT_T_UC_SECOND.c2sc.001</key>
-      <integer>-31</integer>
-      <key>public.kern2.LAT_V_UC.c2sc.001</key>
-      <integer>-31</integer>
-      <key>public.kern2.LAT_W_UC.c2sc.001</key>
-      <integer>-8</integer>
-      <key>public.kern2.LAT_X_UC.c2sc.001</key>
-      <integer>16</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc.001</key>
-      <integer>-43</integer>
-      <key>public.kern2.LAT_Z_UC_SECOND.c2sc.001</key>
-      <integer>8</integer>
     </dict>
     <key>public.kern1.LAT_B_UC_FIRST</key>
     <dict>
@@ -6766,24 +6813,12 @@
       <integer>-5</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-10</integer>
-    </dict>
-    <key>public.kern1.LAT_B_UC_FIRST.c2sc</key>
-    <dict>
-      <key>public.kern2.LAT_V_UC.c2sc</key>
+      <key>public.kern2.lat_v_uc.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_X_UC.c2sc</key>
+      <key>public.kern2.lat_x_uc.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_y_uc_second.sc</key>
       <integer>-10</integer>
-    </dict>
-    <key>public.kern1.LAT_B_UC_FIRST.c2sc.001</key>
-    <dict>
-      <key>public.kern2.LAT_V_UC.c2sc.001</key>
-      <integer>-8</integer>
-      <key>public.kern2.LAT_X_UC.c2sc.001</key>
-      <integer>-8</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc.001</key>
-      <integer>-8</integer>
     </dict>
     <key>public.kern1.LAT_C_UC_FIRST</key>
     <dict>
@@ -6857,62 +6892,30 @@
       <integer>10</integer>
       <key>public.kern2.PUNCT_quotesinglbase</key>
       <integer>15</integer>
-    </dict>
-    <key>public.kern1.LAT_C_UC_FIRST.c2sc</key>
-    <dict>
-      <key>public.kern2.LAT_AE_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_a_uc_second.sc</key>
       <integer>15</integer>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc</key>
-      <integer>15</integer>
-      <key>public.kern2.LAT_C_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_c_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_G_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_g_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_j_uc_second.sc</key>
       <integer>20</integer>
-      <key>public.kern2.LAT_O_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_o_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_Q_UC.c2sc</key>
+      <key>public.kern2.lat_q_uc.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_S_UC.c2sc</key>
+      <key>public.kern2.lat_s_uc.sc</key>
       <integer>10</integer>
-      <key>public.kern2.LAT_T_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_t_uc_second.sc</key>
       <integer>15</integer>
-      <key>public.kern2.LAT_V_UC.c2sc</key>
+      <key>public.kern2.lat_v_uc.sc</key>
       <integer>15</integer>
-      <key>public.kern2.LAT_X_UC.c2sc</key>
+      <key>public.kern2.lat_x_uc.sc</key>
       <integer>10</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_y_uc_second.sc</key>
       <integer>15</integer>
-      <key>public.kern2.LAT_Z_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_z_uc_second.sc</key>
       <integer>10</integer>
-    </dict>
-    <key>public.kern1.LAT_C_UC_FIRST.c2sc.001</key>
-    <dict>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc.001</key>
-      <integer>12</integer>
-      <key>public.kern2.LAT_C_UC_SECOND.c2sc.001</key>
-      <integer>-8</integer>
-      <key>public.kern2.LAT_G_UC_SECOND.c2sc.001</key>
-      <integer>-8</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc.001</key>
-      <integer>16</integer>
-      <key>public.kern2.LAT_O_UC_SECOND.c2sc.001</key>
-      <integer>-8</integer>
-      <key>public.kern2.LAT_Q_UC.c2sc.001</key>
-      <integer>-8</integer>
-      <key>public.kern2.LAT_S_UC.c2sc.001</key>
-      <integer>8</integer>
-      <key>public.kern2.LAT_T_UC_SECOND.c2sc.001</key>
-      <integer>12</integer>
-      <key>public.kern2.LAT_V_UC.c2sc.001</key>
-      <integer>12</integer>
-      <key>public.kern2.LAT_X_UC.c2sc.001</key>
-      <integer>8</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc.001</key>
-      <integer>12</integer>
-      <key>public.kern2.LAT_Z_UC_SECOND.c2sc.001</key>
-      <integer>8</integer>
     </dict>
     <key>public.kern1.LAT_D_UC_FIRST</key>
     <dict>
@@ -6976,54 +6979,24 @@
       <integer>-10</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-25</integer>
-    </dict>
-    <key>public.kern1.LAT_D_UC_FIRST.c2sc</key>
-    <dict>
-      <key>public.kern2.LAT_AE_UC_SECOND.c2sc</key>
-      <integer>-25</integer>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_a_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_j_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_T_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_t_uc_second.sc</key>
       <integer>-15</integer>
-      <key>public.kern2.LAT_V_UC.c2sc</key>
+      <key>public.kern2.lat_v_uc.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_W_UC.c2sc</key>
+      <key>public.kern2.lat_w_uc.sc</key>
       <integer>-5</integer>
-      <key>public.kern2.LAT_X_UC.c2sc</key>
+      <key>public.kern2.lat_x_uc.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc</key>
-      <integer>-25</integer>
-      <key>public.kern2.MIS_uni0186_SECOND.c2sc</key>
+      <key>public.kern2.lat_y_uc_second.sc</key>
+      <integer>-24</integer>
+      <key>public.kern2.mis_uni01b7.sc</key>
       <integer>-15</integer>
-      <key>public.kern2.MIS_uni018E_SECOND.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.MIS_uni01A9.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.MIS_uni01B7.c2sc</key>
+      <key>public.kern2.mis_uni021c.sc</key>
       <integer>-15</integer>
-      <key>public.kern2.MIS_uni021C.c2sc</key>
-      <integer>-15</integer>
-      <key>public.kern2.MIS_uni023E.c2sc</key>
-      <integer>-10</integer>
-    </dict>
-    <key>public.kern1.LAT_D_UC_FIRST.c2sc.001</key>
-    <dict>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc.001</key>
-      <integer>-8</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc.001</key>
-      <integer>-8</integer>
-      <key>public.kern2.LAT_T_UC_SECOND.c2sc.001</key>
-      <integer>-12</integer>
-      <key>public.kern2.LAT_V_UC.c2sc.001</key>
-      <integer>-8</integer>
-      <key>public.kern2.LAT_W_UC.c2sc.001</key>
-      <integer>-4</integer>
-      <key>public.kern2.LAT_X_UC.c2sc.001</key>
-      <integer>-8</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc.001</key>
-      <integer>-20</integer>
     </dict>
     <key>public.kern1.LAT_E_UC_FIRST</key>
     <dict>
@@ -7101,48 +7074,20 @@
       <integer>-5</integer>
       <key>public.kern2.PUNCT_quotesinglbase</key>
       <integer>5</integer>
-    </dict>
-    <key>public.kern1.LAT_E_UC_FIRST.c2sc</key>
-    <dict>
-      <key>public.kern2.LAT_AE_UC_SECOND.c2sc</key>
-      <integer>12</integer>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_a_uc_second.sc</key>
       <integer>10</integer>
-      <key>public.kern2.LAT_C_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_c_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_G_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_g_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_j_uc_second.sc</key>
       <integer>15</integer>
-      <key>public.kern2.LAT_O_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_o_uc_second.sc</key>
       <integer>-15</integer>
-      <key>public.kern2.LAT_Q_UC.c2sc</key>
+      <key>public.kern2.lat_q_uc.sc</key>
       <integer>-15</integer>
-      <key>public.kern2.LAT_U_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_u_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.MIS_uni018F_SECOND.c2sc</key>
-      <integer>-5</integer>
-      <key>public.kern2.MIS_uni019C.c2sc</key>
-      <integer>-5</integer>
-      <key>public.kern2.MIS_uni01B2.c2sc</key>
-      <integer>-5</integer>
-    </dict>
-    <key>public.kern1.LAT_E_UC_FIRST.c2sc.001</key>
-    <dict>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc.001</key>
-      <integer>8</integer>
-      <key>public.kern2.LAT_C_UC_SECOND.c2sc.001</key>
-      <integer>-8</integer>
-      <key>public.kern2.LAT_G_UC_SECOND.c2sc.001</key>
-      <integer>-8</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc.001</key>
-      <integer>12</integer>
-      <key>public.kern2.LAT_O_UC_SECOND.c2sc.001</key>
-      <integer>-12</integer>
-      <key>public.kern2.LAT_Q_UC.c2sc.001</key>
-      <integer>-12</integer>
-      <key>public.kern2.LAT_U_UC_SECOND.c2sc.001</key>
-      <integer>-8</integer>
     </dict>
     <key>public.kern1.LAT_Eng_UC</key>
     <dict>
@@ -7221,34 +7166,16 @@
       <integer>-65</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-40</integer>
-    </dict>
-    <key>public.kern1.LAT_F_UC_FIRST.c2sc</key>
-    <dict>
-      <key>public.kern2.LAT_AE_UC_SECOND.c2sc</key>
-      <integer>-50</integer>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc</key>
-      <integer>-25</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc</key>
-      <integer>-50</integer>
-      <key>public.kern2.LAT_T_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_a_uc_second.sc</key>
+      <integer>-24</integer>
+      <key>public.kern2.lat_j_uc_second.sc</key>
+      <integer>-49</integer>
+      <key>public.kern2.lat_t_uc_second.sc</key>
       <integer>10</integer>
-      <key>public.kern2.LAT_V_UC.c2sc</key>
+      <key>public.kern2.lat_v_uc.sc</key>
       <integer>15</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_y_uc_second.sc</key>
       <integer>15</integer>
-    </dict>
-    <key>public.kern1.LAT_F_UC_FIRST.c2sc.001</key>
-    <dict>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc.001</key>
-      <integer>-20</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc.001</key>
-      <integer>-39</integer>
-      <key>public.kern2.LAT_T_UC_SECOND.c2sc.001</key>
-      <integer>8</integer>
-      <key>public.kern2.LAT_V_UC.c2sc.001</key>
-      <integer>12</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc.001</key>
-      <integer>12</integer>
     </dict>
     <key>public.kern1.LAT_G_UC_FIRST</key>
     <dict>
@@ -7303,18 +7230,8 @@
       <integer>-5</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-20</integer>
-    </dict>
-    <key>public.kern1.LAT_J_UC_FIRST.c2sc</key>
-    <dict>
-      <key>public.kern2.LAT_AE_UC_SECOND.c2sc</key>
-      <integer>-15</integer>
-      <key>public.kern2.LAT_Z_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_z_uc_second.sc</key>
       <integer>-5</integer>
-    </dict>
-    <key>public.kern1.LAT_J_UC_FIRST.c2sc.001</key>
-    <dict>
-      <key>public.kern2.LAT_Z_UC_SECOND.c2sc.001</key>
-      <integer>-4</integer>
     </dict>
     <key>public.kern1.LAT_K_UC</key>
     <dict>
@@ -7420,64 +7337,30 @@
       <integer>15</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>15</integer>
-    </dict>
-    <key>public.kern1.LAT_K_UC.c2sc</key>
-    <dict>
-      <key>public.kern2.LAT_AE_UC_SECOND.c2sc</key>
-      <integer>25</integer>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc</key>
-      <integer>25</integer>
-      <key>public.kern2.LAT_C_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_a_uc_second.sc</key>
+      <integer>24</integer>
+      <key>public.kern2.lat_c_uc_second.sc</key>
       <integer>-20</integer>
-      <key>public.kern2.LAT_G_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_g_uc_second.sc</key>
       <integer>-20</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_j_uc_second.sc</key>
       <integer>20</integer>
-      <key>public.kern2.LAT_O_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_o_uc_second.sc</key>
       <integer>-20</integer>
-      <key>public.kern2.LAT_Q_UC.c2sc</key>
+      <key>public.kern2.lat_q_uc.sc</key>
       <integer>-20</integer>
-      <key>public.kern2.LAT_T_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_t_uc_second.sc</key>
       <integer>15</integer>
-      <key>public.kern2.LAT_V_UC.c2sc</key>
+      <key>public.kern2.lat_v_uc.sc</key>
       <integer>15</integer>
-      <key>public.kern2.LAT_W_UC.c2sc</key>
+      <key>public.kern2.lat_w_uc.sc</key>
       <integer>10</integer>
-      <key>public.kern2.LAT_X_UC.c2sc</key>
+      <key>public.kern2.lat_x_uc.sc</key>
       <integer>20</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_y_uc_second.sc</key>
       <integer>15</integer>
-      <key>public.kern2.LAT_Z_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_z_uc_second.sc</key>
       <integer>15</integer>
-      <key>public.kern2.MIS_uni018F_SECOND.c2sc</key>
-      <integer>-5</integer>
-    </dict>
-    <key>public.kern1.LAT_K_UC.c2sc.001</key>
-    <dict>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc.001</key>
-      <integer>20</integer>
-      <key>public.kern2.LAT_C_UC_SECOND.c2sc.001</key>
-      <integer>-16</integer>
-      <key>public.kern2.LAT_G_UC_SECOND.c2sc.001</key>
-      <integer>-16</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc.001</key>
-      <integer>16</integer>
-      <key>public.kern2.LAT_O_UC_SECOND.c2sc.001</key>
-      <integer>-16</integer>
-      <key>public.kern2.LAT_Q_UC.c2sc.001</key>
-      <integer>-16</integer>
-      <key>public.kern2.LAT_T_UC_SECOND.c2sc.001</key>
-      <integer>12</integer>
-      <key>public.kern2.LAT_V_UC.c2sc.001</key>
-      <integer>12</integer>
-      <key>public.kern2.LAT_W_UC.c2sc.001</key>
-      <integer>8</integer>
-      <key>public.kern2.LAT_X_UC.c2sc.001</key>
-      <integer>16</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc.001</key>
-      <integer>12</integer>
-      <key>public.kern2.LAT_Z_UC_SECOND.c2sc.001</key>
-      <integer>12</integer>
     </dict>
     <key>public.kern1.LAT_L_UC_FIRST</key>
     <dict>
@@ -7573,80 +7456,40 @@
       <integer>-85</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>10</integer>
+      <key>public.kern2.lat_a_uc_second.sc</key>
+      <integer>20</integer>
+      <key>public.kern2.lat_c_uc_second.sc</key>
+      <integer>-24</integer>
+      <key>public.kern2.lat_g_uc_second.sc</key>
+      <integer>-24</integer>
+      <key>public.kern2.lat_j_uc_second.sc</key>
+      <integer>20</integer>
+      <key>public.kern2.lat_o_uc_second.sc</key>
+      <integer>-24</integer>
+      <key>public.kern2.lat_q_uc.sc</key>
+      <integer>-24</integer>
+      <key>public.kern2.lat_s_uc.sc</key>
+      <integer>10</integer>
+      <key>public.kern2.lat_t_uc_second.sc</key>
+      <integer>-74</integer>
+      <key>public.kern2.lat_u_uc_second.sc</key>
+      <integer>-5</integer>
+      <key>public.kern2.lat_v_uc.sc</key>
+      <integer>-64</integer>
+      <key>public.kern2.lat_w_uc.sc</key>
+      <integer>-24</integer>
+      <key>public.kern2.lat_x_uc.sc</key>
+      <integer>15</integer>
+      <key>public.kern2.lat_y_uc_second.sc</key>
+      <integer>-74</integer>
+      <key>public.kern2.lat_z_uc_second.sc</key>
+      <integer>10</integer>
+      <key>public.kern2.mis_uni021c.sc</key>
+      <integer>-49</integer>
       <key>registered</key>
       <integer>-63</integer>
       <key>trademark</key>
       <integer>-55</integer>
-    </dict>
-    <key>public.kern1.LAT_L_UC_FIRST.c2sc</key>
-    <dict>
-      <key>public.kern2.LAT_AE_UC_SECOND.c2sc</key>
-      <integer>20</integer>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc</key>
-      <integer>20</integer>
-      <key>public.kern2.LAT_C_UC_SECOND.c2sc</key>
-      <integer>-25</integer>
-      <key>public.kern2.LAT_G_UC_SECOND.c2sc</key>
-      <integer>-25</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc</key>
-      <integer>20</integer>
-      <key>public.kern2.LAT_O_UC_SECOND.c2sc</key>
-      <integer>-25</integer>
-      <key>public.kern2.LAT_Q_UC.c2sc</key>
-      <integer>-25</integer>
-      <key>public.kern2.LAT_S_UC.c2sc</key>
-      <integer>10</integer>
-      <key>public.kern2.LAT_T_UC_SECOND.c2sc</key>
-      <integer>-75</integer>
-      <key>public.kern2.LAT_U_UC_SECOND.c2sc</key>
-      <integer>-5</integer>
-      <key>public.kern2.LAT_V_UC.c2sc</key>
-      <integer>-65</integer>
-      <key>public.kern2.LAT_W_UC.c2sc</key>
-      <integer>-25</integer>
-      <key>public.kern2.LAT_X_UC.c2sc</key>
-      <integer>15</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc</key>
-      <integer>-75</integer>
-      <key>public.kern2.LAT_Z_UC_SECOND.c2sc</key>
-      <integer>10</integer>
-      <key>public.kern2.MIS_uni01B1.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.MIS_uni021C.c2sc</key>
-      <integer>-50</integer>
-      <key>public.kern2.MIS_uni0244.c2sc</key>
-      <integer>-5</integer>
-    </dict>
-    <key>public.kern1.LAT_L_UC_FIRST.c2sc.001</key>
-    <dict>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc.001</key>
-      <integer>16</integer>
-      <key>public.kern2.LAT_C_UC_SECOND.c2sc.001</key>
-      <integer>-20</integer>
-      <key>public.kern2.LAT_G_UC_SECOND.c2sc.001</key>
-      <integer>-20</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc.001</key>
-      <integer>16</integer>
-      <key>public.kern2.LAT_O_UC_SECOND.c2sc.001</key>
-      <integer>-20</integer>
-      <key>public.kern2.LAT_Q_UC.c2sc.001</key>
-      <integer>-20</integer>
-      <key>public.kern2.LAT_S_UC.c2sc.001</key>
-      <integer>8</integer>
-      <key>public.kern2.LAT_T_UC_SECOND.c2sc.001</key>
-      <integer>-59</integer>
-      <key>public.kern2.LAT_U_UC_SECOND.c2sc.001</key>
-      <integer>-4</integer>
-      <key>public.kern2.LAT_V_UC.c2sc.001</key>
-      <integer>-51</integer>
-      <key>public.kern2.LAT_W_UC.c2sc.001</key>
-      <integer>-20</integer>
-      <key>public.kern2.LAT_X_UC.c2sc.001</key>
-      <integer>12</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc.001</key>
-      <integer>-59</integer>
-      <key>public.kern2.LAT_Z_UC_SECOND.c2sc.001</key>
-      <integer>8</integer>
     </dict>
     <key>public.kern1.LAT_O_UC_FIRST</key>
     <dict>
@@ -7706,50 +7549,22 @@
       <integer>-10</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-25</integer>
-    </dict>
-    <key>public.kern1.LAT_O_UC_FIRST.c2sc</key>
-    <dict>
-      <key>public.kern2.LAT_AE_UC_SECOND.c2sc</key>
-      <integer>-25</integer>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_a_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_j_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_T_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_t_uc_second.sc</key>
       <integer>-15</integer>
-      <key>public.kern2.LAT_V_UC.c2sc</key>
+      <key>public.kern2.lat_v_uc.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_X_UC.c2sc</key>
+      <key>public.kern2.lat_x_uc.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc</key>
-      <integer>-25</integer>
-      <key>public.kern2.MIS_uni0186_SECOND.c2sc</key>
+      <key>public.kern2.lat_y_uc_second.sc</key>
+      <integer>-24</integer>
+      <key>public.kern2.mis_uni01b7.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.MIS_uni018E_SECOND.c2sc</key>
+      <key>public.kern2.mis_uni021c.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.MIS_uni01A9.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.MIS_uni01B7.c2sc</key>
-      <integer>-8</integer>
-      <key>public.kern2.MIS_uni021C.c2sc</key>
-      <integer>-8</integer>
-      <key>public.kern2.MIS_uni023E.c2sc</key>
-      <integer>-5</integer>
-    </dict>
-    <key>public.kern1.LAT_O_UC_FIRST.c2sc.001</key>
-    <dict>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc.001</key>
-      <integer>-8</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc.001</key>
-      <integer>-8</integer>
-      <key>public.kern2.LAT_T_UC_SECOND.c2sc.001</key>
-      <integer>-12</integer>
-      <key>public.kern2.LAT_V_UC.c2sc.001</key>
-      <integer>-8</integer>
-      <key>public.kern2.LAT_X_UC.c2sc.001</key>
-      <integer>-8</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc.001</key>
-      <integer>-20</integer>
     </dict>
     <key>public.kern1.LAT_P_UC_FIRST</key>
     <dict>
@@ -7821,32 +7636,18 @@
       <integer>-75</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-40</integer>
-    </dict>
-    <key>public.kern1.LAT_P_UC_FIRST.c2sc</key>
-    <dict>
-      <key>public.kern2.LAT_AE_UC_SECOND.c2sc</key>
-      <integer>-60</integer>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc</key>
-      <integer>-30</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc</key>
-      <integer>-65</integer>
-      <key>public.kern2.LAT_X_UC.c2sc</key>
+      <key>public.kern2.lat_a_uc_second.sc</key>
+      <integer>-29</integer>
+      <key>public.kern2.lat_j_uc_second.sc</key>
+      <integer>-64</integer>
+      <key>public.kern2.lat_x_uc.sc</key>
       <integer>-5</integer>
-      <key>public.kern2.MIS_uni018B_SECOND.c2sc</key>
+      <key>public.kern2.mis_uni018b_second.sc</key>
       <integer>-5</integer>
-      <key>public.kern2.MIS_uni01A7.c2sc</key>
+      <key>public.kern2.mis_uni01a7.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.MIS_uni01B8.c2sc</key>
+      <key>public.kern2.mis_uni01b8.sc</key>
       <integer>-5</integer>
-    </dict>
-    <key>public.kern1.LAT_P_UC_FIRST.c2sc.001</key>
-    <dict>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc.001</key>
-      <integer>-23</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc.001</key>
-      <integer>-51</integer>
-      <key>public.kern2.LAT_X_UC.c2sc.001</key>
-      <integer>-4</integer>
     </dict>
     <key>public.kern1.LAT_Q_UC</key>
     <dict>
@@ -7894,48 +7695,20 @@
       <integer>-10</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-5</integer>
-    </dict>
-    <key>public.kern1.LAT_Q_UC.c2sc</key>
-    <dict>
-      <key>public.kern2.LAT_AE_UC_SECOND.c2sc</key>
-      <integer>-25</integer>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_a_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_j_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_T_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_t_uc_second.sc</key>
       <integer>-15</integer>
-      <key>public.kern2.LAT_V_UC.c2sc</key>
+      <key>public.kern2.lat_v_uc.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_X_UC.c2sc</key>
+      <key>public.kern2.lat_x_uc.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc</key>
-      <integer>-25</integer>
-      <key>public.kern2.MIS_uni0186_SECOND.c2sc</key>
+      <key>public.kern2.lat_y_uc_second.sc</key>
+      <integer>-24</integer>
+      <key>public.kern2.mis_uni01b7.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.MIS_uni018E_SECOND.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.MIS_uni01A9.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.MIS_uni01B7.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.MIS_uni023E.c2sc</key>
-      <integer>-5</integer>
-    </dict>
-    <key>public.kern1.LAT_Q_UC.c2sc.001</key>
-    <dict>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc.001</key>
-      <integer>-8</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc.001</key>
-      <integer>-8</integer>
-      <key>public.kern2.LAT_T_UC_SECOND.c2sc.001</key>
-      <integer>-12</integer>
-      <key>public.kern2.LAT_V_UC.c2sc.001</key>
-      <integer>-8</integer>
-      <key>public.kern2.LAT_X_UC.c2sc.001</key>
-      <integer>-8</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc.001</key>
-      <integer>-20</integer>
     </dict>
     <key>public.kern1.LAT_R_UC_FIRST</key>
     <dict>
@@ -7981,46 +7754,22 @@
       <integer>10</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>10</integer>
-    </dict>
-    <key>public.kern1.LAT_R_UC_FIRST.c2sc</key>
-    <dict>
-      <key>public.kern2.LAT_AE_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_a_uc_second.sc</key>
       <integer>20</integer>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc</key>
-      <integer>20</integer>
-      <key>public.kern2.LAT_C_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_c_uc_second.sc</key>
       <integer>-5</integer>
-      <key>public.kern2.LAT_G_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_g_uc_second.sc</key>
       <integer>-5</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_j_uc_second.sc</key>
       <integer>15</integer>
-      <key>public.kern2.LAT_Q_UC.c2sc</key>
+      <key>public.kern2.lat_q_uc.sc</key>
       <integer>-5</integer>
-      <key>public.kern2.LAT_X_UC.c2sc</key>
+      <key>public.kern2.lat_x_uc.sc</key>
       <integer>15</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_y_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_Z_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_z_uc_second.sc</key>
       <integer>10</integer>
-    </dict>
-    <key>public.kern1.LAT_R_UC_FIRST.c2sc.001</key>
-    <dict>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc.001</key>
-      <integer>16</integer>
-      <key>public.kern2.LAT_C_UC_SECOND.c2sc.001</key>
-      <integer>-4</integer>
-      <key>public.kern2.LAT_G_UC_SECOND.c2sc.001</key>
-      <integer>-4</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc.001</key>
-      <integer>12</integer>
-      <key>public.kern2.LAT_Q_UC.c2sc.001</key>
-      <integer>-4</integer>
-      <key>public.kern2.LAT_X_UC.c2sc.001</key>
-      <integer>12</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc.001</key>
-      <integer>-8</integer>
-      <key>public.kern2.LAT_Z_UC_SECOND.c2sc.001</key>
-      <integer>8</integer>
     </dict>
     <key>public.kern1.LAT_S_UC</key>
     <dict>
@@ -8167,58 +7916,28 @@
       <integer>-40</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-60</integer>
-    </dict>
-    <key>public.kern1.LAT_T_UC_FIRST.c2sc</key>
-    <dict>
-      <key>public.kern2.LAT_AE_UC_SECOND.c2sc</key>
-      <integer>-50</integer>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc</key>
-      <integer>-40</integer>
-      <key>public.kern2.LAT_C_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_a_uc_second.sc</key>
+      <integer>-39</integer>
+      <key>public.kern2.lat_c_uc_second.sc</key>
       <integer>-15</integer>
-      <key>public.kern2.LAT_G_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_g_uc_second.sc</key>
       <integer>-15</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc</key>
-      <integer>-60</integer>
-      <key>public.kern2.LAT_O_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_j_uc_second.sc</key>
+      <integer>-59</integer>
+      <key>public.kern2.lat_o_uc_second.sc</key>
       <integer>-15</integer>
-      <key>public.kern2.LAT_Q_UC.c2sc</key>
+      <key>public.kern2.lat_q_uc.sc</key>
       <integer>-15</integer>
-      <key>public.kern2.LAT_T_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_t_uc_second.sc</key>
       <integer>20</integer>
-      <key>public.kern2.LAT_V_UC.c2sc</key>
+      <key>public.kern2.lat_v_uc.sc</key>
       <integer>20</integer>
-      <key>public.kern2.LAT_W_UC.c2sc</key>
+      <key>public.kern2.lat_w_uc.sc</key>
       <integer>15</integer>
-      <key>public.kern2.LAT_X_UC.c2sc</key>
+      <key>public.kern2.lat_x_uc.sc</key>
       <integer>10</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_y_uc_second.sc</key>
       <integer>20</integer>
-    </dict>
-    <key>public.kern1.LAT_T_UC_FIRST.c2sc.001</key>
-    <dict>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc.001</key>
-      <integer>-31</integer>
-      <key>public.kern2.LAT_C_UC_SECOND.c2sc.001</key>
-      <integer>-12</integer>
-      <key>public.kern2.LAT_G_UC_SECOND.c2sc.001</key>
-      <integer>-12</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc.001</key>
-      <integer>-47</integer>
-      <key>public.kern2.LAT_O_UC_SECOND.c2sc.001</key>
-      <integer>-12</integer>
-      <key>public.kern2.LAT_Q_UC.c2sc.001</key>
-      <integer>-12</integer>
-      <key>public.kern2.LAT_T_UC_SECOND.c2sc.001</key>
-      <integer>16</integer>
-      <key>public.kern2.LAT_V_UC.c2sc.001</key>
-      <integer>16</integer>
-      <key>public.kern2.LAT_W_UC.c2sc.001</key>
-      <integer>12</integer>
-      <key>public.kern2.LAT_X_UC.c2sc.001</key>
-      <integer>8</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc.001</key>
-      <integer>16</integer>
     </dict>
     <key>public.kern1.LAT_Thorn_UC</key>
     <dict>
@@ -8282,35 +8001,24 @@
       <integer>-15</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-25</integer>
-    </dict>
-    <key>public.kern1.LAT_Thorn_UC.c2sc</key>
-    <dict>
-      <key>public.kern2.LAT_AE_UC_SECOND.c2sc</key>
-      <integer>-30</integer>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_a_uc_second.sc</key>
       <integer>-15</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc</key>
-      <integer>-35</integer>
-      <key>public.kern2.LAT_T_UC_SECOND.c2sc</key>
-      <integer>-25</integer>
-      <key>public.kern2.LAT_V_UC.c2sc</key>
+      <key>public.kern2.lat_j_uc_second.sc</key>
+      <integer>-34</integer>
+      <key>public.kern2.lat_t_uc_second.sc</key>
+      <integer>-24</integer>
+      <key>public.kern2.lat_v_uc.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_X_UC.c2sc</key>
-      <integer>-25</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc</key>
-      <integer>-25</integer>
-      <key>public.kern2.LAT_Z_UC_SECOND.c2sc</key>
-      <integer>-25</integer>
-      <key>public.kern2.MIS_uni0186_SECOND.c2sc</key>
+      <key>public.kern2.lat_x_uc.sc</key>
+      <integer>-24</integer>
+      <key>public.kern2.lat_y_uc_second.sc</key>
+      <integer>-24</integer>
+      <key>public.kern2.lat_z_uc_second.sc</key>
+      <integer>-24</integer>
+      <key>public.kern2.mis_uni01b7.sc</key>
       <integer>-20</integer>
-      <key>public.kern2.MIS_uni01A9.c2sc</key>
-      <integer>-15</integer>
-      <key>public.kern2.MIS_uni01B7.c2sc</key>
-      <integer>-20</integer>
-      <key>public.kern2.MIS_uni021C.c2sc</key>
+      <key>public.kern2.mis_uni021c.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.MIS_uni023E.c2sc</key>
-      <integer>-15</integer>
     </dict>
     <key>public.kern1.LAT_U_UC_FIRST</key>
     <dict>
@@ -8342,13 +8050,6 @@
       <integer>-5</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-25</integer>
-    </dict>
-    <key>public.kern1.LAT_U_UC_FIRST.c2sc</key>
-    <dict>
-      <key>public.kern2.LAT_AE_UC_SECOND.c2sc</key>
-      <integer>-20</integer>
-      <key>public.kern2.MIS_uni018E_SECOND.c2sc</key>
-      <integer>-5</integer>
     </dict>
     <key>public.kern1.LAT_V_UC</key>
     <dict>
@@ -8456,58 +8157,28 @@
       <integer>10</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-45</integer>
-    </dict>
-    <key>public.kern1.LAT_V_UC.c2sc</key>
-    <dict>
-      <key>public.kern2.LAT_AE_UC_SECOND.c2sc</key>
-      <integer>-60</integer>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc</key>
-      <integer>-40</integer>
-      <key>public.kern2.LAT_C_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_a_uc_second.sc</key>
+      <integer>-39</integer>
+      <key>public.kern2.lat_c_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_G_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_g_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc</key>
-      <integer>-60</integer>
-      <key>public.kern2.LAT_O_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_j_uc_second.sc</key>
+      <integer>-59</integer>
+      <key>public.kern2.lat_o_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_Q_UC.c2sc</key>
+      <key>public.kern2.lat_q_uc.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_T_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_t_uc_second.sc</key>
       <integer>20</integer>
-      <key>public.kern2.LAT_V_UC.c2sc</key>
-      <integer>25</integer>
-      <key>public.kern2.LAT_W_UC.c2sc</key>
+      <key>public.kern2.lat_v_uc.sc</key>
+      <integer>24</integer>
+      <key>public.kern2.lat_w_uc.sc</key>
       <integer>15</integer>
-      <key>public.kern2.LAT_X_UC.c2sc</key>
+      <key>public.kern2.lat_x_uc.sc</key>
       <integer>15</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc</key>
-      <integer>25</integer>
-    </dict>
-    <key>public.kern1.LAT_V_UC.c2sc.001</key>
-    <dict>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc.001</key>
-      <integer>-31</integer>
-      <key>public.kern2.LAT_C_UC_SECOND.c2sc.001</key>
-      <integer>-8</integer>
-      <key>public.kern2.LAT_G_UC_SECOND.c2sc.001</key>
-      <integer>-8</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc.001</key>
-      <integer>-47</integer>
-      <key>public.kern2.LAT_O_UC_SECOND.c2sc.001</key>
-      <integer>-8</integer>
-      <key>public.kern2.LAT_Q_UC.c2sc.001</key>
-      <integer>-8</integer>
-      <key>public.kern2.LAT_T_UC_SECOND.c2sc.001</key>
-      <integer>16</integer>
-      <key>public.kern2.LAT_V_UC.c2sc.001</key>
-      <integer>20</integer>
-      <key>public.kern2.LAT_W_UC.c2sc.001</key>
-      <integer>12</integer>
-      <key>public.kern2.LAT_X_UC.c2sc.001</key>
-      <integer>12</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc.001</key>
-      <integer>20</integer>
+      <key>public.kern2.lat_y_uc_second.sc</key>
+      <integer>24</integer>
     </dict>
     <key>public.kern1.LAT_W_UC</key>
     <dict>
@@ -8593,42 +8264,20 @@
       <integer>10</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-30</integer>
-    </dict>
-    <key>public.kern1.LAT_W_UC.c2sc</key>
-    <dict>
-      <key>public.kern2.LAT_AE_UC_SECOND.c2sc</key>
-      <integer>-30</integer>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_a_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc</key>
-      <integer>-35</integer>
-      <key>public.kern2.LAT_T_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_j_uc_second.sc</key>
+      <integer>-34</integer>
+      <key>public.kern2.lat_t_uc_second.sc</key>
       <integer>15</integer>
-      <key>public.kern2.LAT_V_UC.c2sc</key>
+      <key>public.kern2.lat_v_uc.sc</key>
       <integer>15</integer>
-      <key>public.kern2.LAT_W_UC.c2sc</key>
+      <key>public.kern2.lat_w_uc.sc</key>
       <integer>10</integer>
-      <key>public.kern2.LAT_X_UC.c2sc</key>
+      <key>public.kern2.lat_x_uc.sc</key>
       <integer>10</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_y_uc_second.sc</key>
       <integer>20</integer>
-    </dict>
-    <key>public.kern1.LAT_W_UC.c2sc.001</key>
-    <dict>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc.001</key>
-      <integer>-8</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc.001</key>
-      <integer>-27</integer>
-      <key>public.kern2.LAT_T_UC_SECOND.c2sc.001</key>
-      <integer>12</integer>
-      <key>public.kern2.LAT_V_UC.c2sc.001</key>
-      <integer>12</integer>
-      <key>public.kern2.LAT_W_UC.c2sc.001</key>
-      <integer>8</integer>
-      <key>public.kern2.LAT_X_UC.c2sc.001</key>
-      <integer>8</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc.001</key>
-      <integer>16</integer>
     </dict>
     <key>public.kern1.LAT_X_UC</key>
     <dict>
@@ -8722,60 +8371,28 @@
       <integer>10</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>10</integer>
-    </dict>
-    <key>public.kern1.LAT_X_UC.c2sc</key>
-    <dict>
-      <key>public.kern2.LAT_AE_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_a_uc_second.sc</key>
       <integer>20</integer>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc</key>
-      <integer>20</integer>
-      <key>public.kern2.LAT_C_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_c_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_G_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_g_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_j_uc_second.sc</key>
       <integer>15</integer>
-      <key>public.kern2.LAT_O_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_o_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_Q_UC.c2sc</key>
+      <key>public.kern2.lat_q_uc.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_T_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_t_uc_second.sc</key>
       <integer>10</integer>
-      <key>public.kern2.LAT_V_UC.c2sc</key>
+      <key>public.kern2.lat_v_uc.sc</key>
       <integer>15</integer>
-      <key>public.kern2.LAT_X_UC.c2sc</key>
+      <key>public.kern2.lat_x_uc.sc</key>
       <integer>15</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_y_uc_second.sc</key>
       <integer>15</integer>
-      <key>public.kern2.LAT_Z_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_z_uc_second.sc</key>
       <integer>10</integer>
-      <key>public.kern2.MIS_uni018F_SECOND.c2sc</key>
-      <integer>-5</integer>
-    </dict>
-    <key>public.kern1.LAT_X_UC.c2sc.001</key>
-    <dict>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc.001</key>
-      <integer>16</integer>
-      <key>public.kern2.LAT_C_UC_SECOND.c2sc.001</key>
-      <integer>-8</integer>
-      <key>public.kern2.LAT_G_UC_SECOND.c2sc.001</key>
-      <integer>-8</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc.001</key>
-      <integer>12</integer>
-      <key>public.kern2.LAT_O_UC_SECOND.c2sc.001</key>
-      <integer>-8</integer>
-      <key>public.kern2.LAT_Q_UC.c2sc.001</key>
-      <integer>-8</integer>
-      <key>public.kern2.LAT_T_UC_SECOND.c2sc.001</key>
-      <integer>8</integer>
-      <key>public.kern2.LAT_V_UC.c2sc.001</key>
-      <integer>12</integer>
-      <key>public.kern2.LAT_X_UC.c2sc.001</key>
-      <integer>12</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc.001</key>
-      <integer>12</integer>
-      <key>public.kern2.LAT_Z_UC_SECOND.c2sc.001</key>
-      <integer>8</integer>
     </dict>
     <key>public.kern1.LAT_Y_UC_FIRST</key>
     <dict>
@@ -8889,64 +8506,30 @@
       <integer>-50</integer>
       <key>public.kern2.PUNCT_slash</key>
       <integer>-55</integer>
-    </dict>
-    <key>public.kern1.LAT_Y_UC_FIRST.c2sc</key>
-    <dict>
-      <key>public.kern2.LAT_AE_UC_SECOND.c2sc</key>
-      <integer>-60</integer>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc</key>
-      <integer>-55</integer>
-      <key>public.kern2.LAT_C_UC_SECOND.c2sc</key>
-      <integer>-25</integer>
-      <key>public.kern2.LAT_G_UC_SECOND.c2sc</key>
-      <integer>-25</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc</key>
-      <integer>-75</integer>
-      <key>public.kern2.LAT_O_UC_SECOND.c2sc</key>
-      <integer>-25</integer>
-      <key>public.kern2.LAT_Q_UC.c2sc</key>
-      <integer>-25</integer>
-      <key>public.kern2.LAT_T_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_a_uc_second.sc</key>
+      <integer>-54</integer>
+      <key>public.kern2.lat_c_uc_second.sc</key>
+      <integer>-24</integer>
+      <key>public.kern2.lat_g_uc_second.sc</key>
+      <integer>-24</integer>
+      <key>public.kern2.lat_j_uc_second.sc</key>
+      <integer>-74</integer>
+      <key>public.kern2.lat_o_uc_second.sc</key>
+      <integer>-24</integer>
+      <key>public.kern2.lat_q_uc.sc</key>
+      <integer>-24</integer>
+      <key>public.kern2.lat_t_uc_second.sc</key>
       <integer>20</integer>
-      <key>public.kern2.LAT_V_UC.c2sc</key>
-      <integer>25</integer>
-      <key>public.kern2.LAT_W_UC.c2sc</key>
+      <key>public.kern2.lat_v_uc.sc</key>
+      <integer>24</integer>
+      <key>public.kern2.lat_w_uc.sc</key>
       <integer>20</integer>
-      <key>public.kern2.LAT_X_UC.c2sc</key>
+      <key>public.kern2.lat_x_uc.sc</key>
       <integer>15</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc</key>
-      <integer>25</integer>
-      <key>public.kern2.LAT_Z_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_y_uc_second.sc</key>
+      <integer>24</integer>
+      <key>public.kern2.lat_z_uc_second.sc</key>
       <integer>10</integer>
-      <key>public.kern2.MIS_uni0190.c2sc</key>
-      <integer>-10</integer>
-    </dict>
-    <key>public.kern1.LAT_Y_UC_FIRST.c2sc.001</key>
-    <dict>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc.001</key>
-      <integer>-43</integer>
-      <key>public.kern2.LAT_C_UC_SECOND.c2sc.001</key>
-      <integer>-20</integer>
-      <key>public.kern2.LAT_G_UC_SECOND.c2sc.001</key>
-      <integer>-20</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc.001</key>
-      <integer>-59</integer>
-      <key>public.kern2.LAT_O_UC_SECOND.c2sc.001</key>
-      <integer>-20</integer>
-      <key>public.kern2.LAT_Q_UC.c2sc.001</key>
-      <integer>-20</integer>
-      <key>public.kern2.LAT_T_UC_SECOND.c2sc.001</key>
-      <integer>16</integer>
-      <key>public.kern2.LAT_V_UC.c2sc.001</key>
-      <integer>20</integer>
-      <key>public.kern2.LAT_W_UC.c2sc.001</key>
-      <integer>16</integer>
-      <key>public.kern2.LAT_X_UC.c2sc.001</key>
-      <integer>12</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc.001</key>
-      <integer>20</integer>
-      <key>public.kern2.LAT_Z_UC_SECOND.c2sc.001</key>
-      <integer>8</integer>
     </dict>
     <key>public.kern1.LAT_Z_UC_FIRST</key>
     <dict>
@@ -9026,48 +8609,22 @@
       <integer>15</integer>
       <key>public.kern2.PUNCT_quotesinglbase</key>
       <integer>5</integer>
-    </dict>
-    <key>public.kern1.LAT_Z_UC_FIRST.c2sc</key>
-    <dict>
-      <key>public.kern2.LAT_AE_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_a_uc_second.sc</key>
       <integer>15</integer>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc</key>
-      <integer>15</integer>
-      <key>public.kern2.LAT_C_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_c_uc_second.sc</key>
       <integer>-20</integer>
-      <key>public.kern2.LAT_G_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_g_uc_second.sc</key>
       <integer>-20</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_j_uc_second.sc</key>
       <integer>15</integer>
-      <key>public.kern2.LAT_O_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_o_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_Q_UC.c2sc</key>
+      <key>public.kern2.lat_q_uc.sc</key>
       <integer>-20</integer>
-      <key>public.kern2.LAT_V_UC.c2sc</key>
+      <key>public.kern2.lat_v_uc.sc</key>
       <integer>10</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_y_uc_second.sc</key>
       <integer>10</integer>
-      <key>public.kern2.MIS_uni018F_SECOND.c2sc</key>
-      <integer>-5</integer>
-    </dict>
-    <key>public.kern1.LAT_Z_UC_FIRST.c2sc.001</key>
-    <dict>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc.001</key>
-      <integer>12</integer>
-      <key>public.kern2.LAT_C_UC_SECOND.c2sc.001</key>
-      <integer>-16</integer>
-      <key>public.kern2.LAT_G_UC_SECOND.c2sc.001</key>
-      <integer>-16</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc.001</key>
-      <integer>12</integer>
-      <key>public.kern2.LAT_O_UC_SECOND.c2sc.001</key>
-      <integer>-8</integer>
-      <key>public.kern2.LAT_Q_UC.c2sc.001</key>
-      <integer>-16</integer>
-      <key>public.kern2.LAT_V_UC.c2sc.001</key>
-      <integer>8</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc.001</key>
-      <integer>8</integer>
     </dict>
     <key>public.kern1.LAT_a_LC_FIRST</key>
     <dict>
@@ -9728,14 +9285,9 @@
       <integer>-10</integer>
       <key>public.kern2.LAT_J_UC_SECOND</key>
       <integer>-10</integer>
-    </dict>
-    <key>public.kern1.MIS_Ohorn_FIRST.c2sc</key>
-    <dict>
-      <key>public.kern2.LAT_AE_UC_SECOND.c2sc</key>
-      <integer>-20</integer>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_a_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_j_uc_second.sc</key>
       <integer>-10</integer>
     </dict>
     <key>public.kern1.MIS_uni0183_FIRST</key>
@@ -9786,19 +9338,6 @@
       <integer>-10</integer>
       <key>public.kern2.lat_q_uc.sc</key>
       <integer>-10</integer>
-    </dict>
-    <key>public.kern1.MIS_uni0190.c2sc</key>
-    <dict>
-      <key>public.kern2.LAT_C_UC_SECOND.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.LAT_G_UC_SECOND.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.LAT_O_UC_SECOND.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.LAT_Q_UC.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.MIS_uni0244.c2sc</key>
-      <integer>-5</integer>
     </dict>
     <key>public.kern1.MIS_uni0195_FIRST</key>
     <dict>
@@ -9866,46 +9405,17 @@
       <key>public.kern2.lat_q_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.lat_t_uc_second.sc</key>
-      <integer>-30</integer>
+      <integer>-29</integer>
       <key>public.kern2.lat_u_uc_second.sc</key>
       <integer>-5</integer>
       <key>public.kern2.lat_v_uc.sc</key>
-      <integer>-25</integer>
+      <integer>-24</integer>
       <key>public.kern2.lat_w_uc.sc</key>
       <integer>-20</integer>
       <key>public.kern2.lat_y_uc_second.sc</key>
-      <integer>-25</integer>
+      <integer>-24</integer>
       <key>public.kern2.mis_uni021c.sc</key>
-      <integer>-30</integer>
-    </dict>
-    <key>public.kern1.MIS_uni0196.c2sc</key>
-    <dict>
-      <key>public.kern2.LAT_C_UC_SECOND.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.LAT_G_UC_SECOND.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.LAT_O_UC_SECOND.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.LAT_Q_UC.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.LAT_T_UC_SECOND.c2sc</key>
-      <integer>-30</integer>
-      <key>public.kern2.LAT_U_UC_SECOND.c2sc</key>
-      <integer>-5</integer>
-      <key>public.kern2.LAT_V_UC.c2sc</key>
-      <integer>-25</integer>
-      <key>public.kern2.LAT_W_UC.c2sc</key>
-      <integer>-20</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc</key>
-      <integer>-25</integer>
-      <key>public.kern2.MIS_uni01B1.c2sc</key>
-      <integer>-15</integer>
-      <key>public.kern2.MIS_uni01B2.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.MIS_uni021C.c2sc</key>
-      <integer>-30</integer>
-      <key>public.kern2.MIS_uni0244.c2sc</key>
-      <integer>-10</integer>
+      <integer>-29</integer>
     </dict>
     <key>public.kern1.MIS_uni019B</key>
     <dict>
@@ -9922,12 +9432,9 @@
       <integer>-10</integer>
       <key>public.kern2.LAT_Y_UC_SECOND</key>
       <integer>-10</integer>
-    </dict>
-    <key>public.kern1.MIS_uni01A2_FIRST.c2sc</key>
-    <dict>
-      <key>public.kern2.LAT_V_UC.c2sc</key>
+      <key>public.kern2.lat_v_uc.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_y_uc_second.sc</key>
       <integer>-10</integer>
     </dict>
     <key>public.kern1.MIS_uni01A7</key>
@@ -9968,17 +9475,6 @@
       <key>public.kern2.lat_q_uc.sc</key>
       <integer>-15</integer>
     </dict>
-    <key>public.kern1.MIS_uni01A9.c2sc</key>
-    <dict>
-      <key>public.kern2.LAT_C_UC_SECOND.c2sc</key>
-      <integer>-15</integer>
-      <key>public.kern2.LAT_G_UC_SECOND.c2sc</key>
-      <integer>-15</integer>
-      <key>public.kern2.LAT_O_UC_SECOND.c2sc</key>
-      <integer>-15</integer>
-      <key>public.kern2.LAT_Q_UC.c2sc</key>
-      <integer>-15</integer>
-    </dict>
     <key>public.kern1.MIS_uni01B1</key>
     <dict>
       <key>public.kern2.LAT_AE_UC_SECOND</key>
@@ -9996,15 +9492,6 @@
       <key>public.kern2.lat_ae_uc_second.sc</key>
       <integer>-20</integer>
       <key>public.kern2.lat_j_uc_second.sc</key>
-      <integer>-15</integer>
-    </dict>
-    <key>public.kern1.MIS_uni01B1.c2sc</key>
-    <dict>
-      <key>public.kern2.LAT_AE_UC_SECOND.c2sc</key>
-      <integer>-20</integer>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc</key>
       <integer>-15</integer>
     </dict>
     <key>public.kern1.MIS_uni01B2</key>
@@ -10052,29 +9539,6 @@
       <key>public.kern2.mis_uni021c.sc</key>
       <integer>-5</integer>
     </dict>
-    <key>public.kern1.MIS_uni01B2.c2sc</key>
-    <dict>
-      <key>public.kern2.LAT_AE_UC_SECOND.c2sc</key>
-      <integer>-15</integer>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.LAT_V_UC.c2sc</key>
-      <integer>-5</integer>
-      <key>public.kern2.LAT_X_UC.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.LAT_Z_UC_SECOND.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.MIS_uni01A9.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.MIS_uni01B7.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.MIS_uni021C.c2sc</key>
-      <integer>-5</integer>
-    </dict>
     <key>public.kern1.MIS_uni01B7</key>
     <dict>
       <key>public.kern2.LAT_v_LC</key>
@@ -10116,21 +9580,14 @@
       <integer>-20</integer>
       <key>public.kern2.MIS_uni0244</key>
       <integer>-5</integer>
-    </dict>
-    <key>public.kern1.MIS_uni01B8.c2sc</key>
-    <dict>
-      <key>public.kern2.LAT_C_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_c_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_G_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_g_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_O_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_o_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.LAT_Q_UC.c2sc</key>
+      <key>public.kern2.lat_q_uc.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.MIS_uni019C.c2sc</key>
-      <integer>-5</integer>
-      <key>public.kern2.MIS_uni0244.c2sc</key>
-      <integer>-5</integer>
     </dict>
     <key>public.kern1.MIS_uni01B9</key>
     <dict>
@@ -10184,22 +9641,15 @@
       <integer>-5</integer>
       <key>public.kern2.MIS_uni0234_SECOND</key>
       <integer>-5</integer>
-    </dict>
-    <key>public.kern1.MIS_uni01F7.c2sc</key>
-    <dict>
-      <key>public.kern2.LAT_AE_UC_SECOND.c2sc</key>
-      <integer>-35</integer>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_a_uc_second.sc</key>
       <integer>-20</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc</key>
-      <integer>-40</integer>
-      <key>public.kern2.LAT_X_UC.c2sc</key>
+      <key>public.kern2.lat_j_uc_second.sc</key>
+      <integer>-39</integer>
+      <key>public.kern2.lat_x_uc.sc</key>
       <integer>-15</integer>
-      <key>public.kern2.MIS_uni01A9.c2sc</key>
+      <key>public.kern2.mis_uni01b7.sc</key>
       <integer>-5</integer>
-      <key>public.kern2.MIS_uni01B7.c2sc</key>
-      <integer>-4</integer>
-      <key>public.kern2.MIS_uni01B8.c2sc</key>
+      <key>public.kern2.mis_uni01b8.sc</key>
       <integer>-5</integer>
     </dict>
     <key>public.kern1.MIS_uni021C</key>
@@ -10208,13 +9658,8 @@
       <integer>-10</integer>
       <key>public.kern2.MIS_uni01B1</key>
       <integer>-5</integer>
-    </dict>
-    <key>public.kern1.MIS_uni021C.c2sc</key>
-    <dict>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_y_uc_second.sc</key>
       <integer>-10</integer>
-      <key>public.kern2.MIS_uni01B1.c2sc</key>
-      <integer>-5</integer>
     </dict>
     <key>public.kern1.MIS_uni0220</key>
     <dict>
@@ -10225,13 +9670,6 @@
       <key>public.kern2.lat_v_uc.sc</key>
       <integer>-5</integer>
       <key>public.kern2.lat_y_uc_second.sc</key>
-      <integer>-10</integer>
-    </dict>
-    <key>public.kern1.MIS_uni0220.c2sc</key>
-    <dict>
-      <key>public.kern2.LAT_V_UC.c2sc</key>
-      <integer>-5</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc</key>
       <integer>-10</integer>
     </dict>
     <key>public.kern1.MIS_uni0234_FIRST</key>
@@ -10340,31 +9778,24 @@
       <integer>-20</integer>
       <key>public.kern2.MIS_uni0244</key>
       <integer>-5</integer>
-    </dict>
-    <key>public.kern1.MIS_uni023D.c2sc</key>
-    <dict>
-      <key>public.kern2.LAT_C_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_c_uc_second.sc</key>
       <integer>-5</integer>
-      <key>public.kern2.LAT_G_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_g_uc_second.sc</key>
       <integer>-5</integer>
-      <key>public.kern2.LAT_O_UC_SECOND.c2sc</key>
+      <key>public.kern2.lat_o_uc_second.sc</key>
       <integer>-5</integer>
-      <key>public.kern2.LAT_Q_UC.c2sc</key>
+      <key>public.kern2.lat_q_uc.sc</key>
       <integer>-5</integer>
-      <key>public.kern2.LAT_T_UC_SECOND.c2sc</key>
-      <integer>-40</integer>
-      <key>public.kern2.LAT_V_UC.c2sc</key>
-      <integer>-45</integer>
-      <key>public.kern2.LAT_W_UC.c2sc</key>
+      <key>public.kern2.lat_t_uc_second.sc</key>
+      <integer>-39</integer>
+      <key>public.kern2.lat_v_uc.sc</key>
+      <integer>-44</integer>
+      <key>public.kern2.lat_w_uc.sc</key>
       <integer>-20</integer>
-      <key>public.kern2.LAT_Y_UC_SECOND.c2sc</key>
-      <integer>-50</integer>
-      <key>public.kern2.MIS_uni01B1.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.MIS_uni021C.c2sc</key>
-      <integer>-50</integer>
-      <key>public.kern2.MIS_uni0244.c2sc</key>
-      <integer>-5</integer>
+      <key>public.kern2.lat_y_uc_second.sc</key>
+      <integer>-49</integer>
+      <key>public.kern2.mis_uni021c.sc</key>
+      <integer>-49</integer>
     </dict>
     <key>public.kern1.MIS_uni023E</key>
     <dict>
@@ -10437,38 +9868,19 @@
       <key>public.kern2.MIS_uni01BF</key>
       <integer>-30</integer>
       <key>public.kern2.lat_a_uc_second.sc</key>
-      <integer>-45</integer>
+      <integer>-44</integer>
       <key>public.kern2.lat_ae_uc_second.sc</key>
-      <integer>-55</integer>
+      <integer>-54</integer>
       <key>public.kern2.lat_c_uc_second.sc</key>
       <integer>-20</integer>
       <key>public.kern2.lat_g_uc_second.sc</key>
       <integer>-20</integer>
       <key>public.kern2.lat_j_uc_second.sc</key>
-      <integer>-55</integer>
+      <integer>-54</integer>
       <key>public.kern2.lat_o_uc_second.sc</key>
       <integer>-20</integer>
       <key>public.kern2.lat_q_uc.sc</key>
       <integer>-20</integer>
-    </dict>
-    <key>public.kern1.MIS_uni023E.c2sc</key>
-    <dict>
-      <key>public.kern2.LAT_AE_UC_SECOND.c2sc</key>
-      <integer>-55</integer>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc</key>
-      <integer>-45</integer>
-      <key>public.kern2.LAT_C_UC_SECOND.c2sc</key>
-      <integer>-20</integer>
-      <key>public.kern2.LAT_G_UC_SECOND.c2sc</key>
-      <integer>-20</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc</key>
-      <integer>-55</integer>
-      <key>public.kern2.LAT_O_UC_SECOND.c2sc</key>
-      <integer>-20</integer>
-      <key>public.kern2.LAT_Q_UC.c2sc</key>
-      <integer>-20</integer>
-      <key>public.kern2.MIS_uni0190.c2sc</key>
-      <integer>-10</integer>
     </dict>
     <key>public.kern1.MIS_uni0240_FIRST</key>
     <dict>
@@ -10508,19 +9920,6 @@
       <key>public.kern2.lat_z_uc_second.sc</key>
       <integer>-5</integer>
       <key>public.kern2.mis_uni01b7.sc</key>
-      <integer>-5</integer>
-    </dict>
-    <key>public.kern1.MIS_uni0244.c2sc</key>
-    <dict>
-      <key>public.kern2.LAT_AE_UC_SECOND.c2sc</key>
-      <integer>-20</integer>
-      <key>public.kern2.LAT_A_UC_SECOND.c2sc</key>
-      <integer>-5</integer>
-      <key>public.kern2.LAT_J_UC_SECOND.c2sc</key>
-      <integer>-10</integer>
-      <key>public.kern2.LAT_Z_UC_SECOND.c2sc</key>
-      <integer>-5</integer>
-      <key>public.kern2.MIS_uni01B7.c2sc</key>
       <integer>-5</integer>
     </dict>
     <key>public.kern1.PUNCT_At</key>
@@ -12900,16 +12299,6 @@
       <key>public.kern2.lat_z_uc_second.sc</key>
       <integer>-5</integer>
     </dict>
-    <key>public.kern1.PUNCT_braceleft.001</key>
-    <dict>
-      <key>public.kern2.PUNCT_braceright.001</key>
-      <integer>31</integer>
-    </dict>
-    <key>public.kern1.PUNCT_braceleft.c2sc</key>
-    <dict>
-      <key>public.kern2.PUNCT_braceright.c2sc</key>
-      <integer>35</integer>
-    </dict>
     <key>public.kern1.PUNCT_braceright</key>
     <dict>
       <key>public.kern2.CYR_afii10017_UC</key>
@@ -13279,16 +12668,6 @@
       <integer>-10</integer>
       <key>public.kern2.lat_z_uc_second.sc</key>
       <integer>-20</integer>
-    </dict>
-    <key>public.kern1.PUNCT_bracketleft.001</key>
-    <dict>
-      <key>public.kern2.PUNCT_bracketright.001</key>
-      <integer>53</integer>
-    </dict>
-    <key>public.kern1.PUNCT_bracketleft.c2sc</key>
-    <dict>
-      <key>public.kern2.PUNCT_bracketright.c2sc</key>
-      <integer>60</integer>
     </dict>
     <key>public.kern1.PUNCT_bracketright</key>
     <dict>
@@ -13882,16 +13261,6 @@
       <integer>15</integer>
       <key>public.kern2.lat_y_uc_second.sc</key>
       <integer>15</integer>
-    </dict>
-    <key>public.kern1.PUNCT_parenleft.001</key>
-    <dict>
-      <key>public.kern2.PUNCT_parenright.001</key>
-      <integer>31</integer>
-    </dict>
-    <key>public.kern1.PUNCT_parenleft.c2sc</key>
-    <dict>
-      <key>public.kern2.PUNCT_parenright.c2sc</key>
-      <integer>35</integer>
     </dict>
     <key>public.kern1.PUNCT_parenright</key>
     <dict>
@@ -15437,45 +14806,45 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>15</integer>
       <key>public.kern2.cyr_afii10017_uc.sc</key>
-      <integer>25</integer>
+      <integer>24</integer>
       <key>public.kern2.cyr_afii10021_uc.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.cyr_afii10024_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_afii10025_uc.sc</key>
       <integer>10</integer>
       <key>public.kern2.cyr_afii10029_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_afii10032_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.cyr_afii10035_uc.sc</key>
       <integer>-5</integer>
       <key>public.kern2.cyr_afii10036_uc_second.sc</key>
-      <integer>-40</integer>
+      <integer>-38</integer>
       <key>public.kern2.cyr_afii10037_uc_second.sc</key>
-      <integer>-45</integer>
+      <integer>-43</integer>
       <key>public.kern2.cyr_afii10038_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.cyr_afii10039_uc.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.cyr_afii10041_uc_second.sc</key>
-      <integer>-30</integer>
+      <integer>-29</integer>
       <key>public.kern2.cyr_afii10047_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_afii10049_uc.sc</key>
       <integer>10</integer>
       <key>public.kern2.cyr_afii10054_uc.sc</key>
       <integer>10</integer>
       <key>public.kern2.cyr_afii10057_uc_second.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.cyr_uni04a8_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.cyr_uni04ae_uc.sc</key>
-      <integer>-50</integer>
+      <integer>-48</integer>
       <key>public.kern2.cyr_uni04bc_uc.sc</key>
-      <integer>-20</integer>
+      <integer>-19</integer>
       <key>public.kern2.cyr_uni04e0_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>trademark</key>
       <integer>-33</integer>
     </dict>
@@ -15581,7 +14950,7 @@
       <key>public.kern2.cyr_afii10024_uc.sc</key>
       <integer>-5</integer>
       <key>public.kern2.cyr_afii10037_uc_second.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.cyr_afii10039_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.cyr_afii10041_uc_second.sc</key>
@@ -15720,31 +15089,31 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>-60</integer>
       <key>public.kern2.cyr_afii10017_uc.sc</key>
-      <integer>-40</integer>
+      <integer>-38</integer>
       <key>public.kern2.cyr_afii10021_uc.sc</key>
-      <integer>-40</integer>
+      <integer>-38</integer>
       <key>public.kern2.cyr_afii10029_uc_second.sc</key>
-      <integer>-40</integer>
+      <integer>-38</integer>
       <key>public.kern2.cyr_afii10032_uc_second.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.cyr_afii10035_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.cyr_afii10036_uc_second.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.cyr_afii10037_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_afii10038_uc.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.cyr_afii10039_uc.sc</key>
       <integer>10</integer>
       <key>public.kern2.cyr_afii10047_uc.sc</key>
       <integer>10</integer>
       <key>public.kern2.cyr_afii10057_uc_second.sc</key>
-      <integer>-70</integer>
+      <integer>-66</integer>
       <key>public.kern2.cyr_uni04a8_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.cyr_uni04ae_uc.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
     </dict>
     <key>public.kern1.cyr_afii10021_uc.sc</key>
     <dict>
@@ -15791,29 +15160,29 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>30</integer>
       <key>public.kern2.cyr_afii10017_uc.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.cyr_afii10021_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_afii10024_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_afii10025_uc.sc</key>
       <integer>10</integer>
       <key>public.kern2.cyr_afii10029_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_afii10032_uc_second.sc</key>
       <integer>-5</integer>
       <key>public.kern2.cyr_afii10035_uc.sc</key>
       <integer>-5</integer>
       <key>public.kern2.cyr_afii10038_uc.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.cyr_afii10039_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_afii10041_uc_second.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.cyr_afii10047_uc.sc</key>
       <integer>10</integer>
       <key>public.kern2.cyr_afii10057_uc_second.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.cyr_uni04a8_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.cyr_uni04e0_uc.sc</key>
@@ -15874,15 +15243,15 @@
       <key>public.kern2.cyr_afii10017_uc.sc</key>
       <integer>10</integer>
       <key>public.kern2.cyr_afii10032_uc_second.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.cyr_afii10035_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.cyr_afii10037_uc_second.sc</key>
       <integer>10</integer>
       <key>public.kern2.cyr_afii10038_uc.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.cyr_afii10057_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_uni04a8_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.cyr_uni04d8_uc.sc</key>
@@ -15981,33 +15350,33 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>15</integer>
       <key>public.kern2.cyr_afii10017_uc.sc</key>
-      <integer>25</integer>
+      <integer>24</integer>
       <key>public.kern2.cyr_afii10021_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_afii10024_uc.sc</key>
       <integer>10</integer>
       <key>public.kern2.cyr_afii10029_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_afii10032_uc_second.sc</key>
-      <integer>-20</integer>
+      <integer>-19</integer>
       <key>public.kern2.cyr_afii10035_uc.sc</key>
-      <integer>-20</integer>
+      <integer>-19</integer>
       <key>public.kern2.cyr_afii10036_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_afii10037_uc_second.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.cyr_afii10038_uc.sc</key>
-      <integer>-20</integer>
+      <integer>-19</integer>
       <key>public.kern2.cyr_afii10039_uc.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.cyr_afii10057_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_uni04a8_uc.sc</key>
-      <integer>-30</integer>
+      <integer>-29</integer>
       <key>public.kern2.cyr_uni04ae_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_uni04bc_uc.sc</key>
-      <integer>-20</integer>
+      <integer>-19</integer>
       <key>public.kern2.cyr_uni04d8_uc.sc</key>
       <integer>-10</integer>
     </dict>
@@ -16149,39 +15518,39 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>15</integer>
       <key>public.kern2.cyr_afii10017_uc.sc</key>
-      <integer>25</integer>
+      <integer>24</integer>
       <key>public.kern2.cyr_afii10021_uc.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.cyr_afii10024_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_afii10025_uc.sc</key>
       <integer>10</integer>
       <key>public.kern2.cyr_afii10029_uc_second.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.cyr_afii10032_uc_second.sc</key>
-      <integer>-20</integer>
+      <integer>-19</integer>
       <key>public.kern2.cyr_afii10035_uc.sc</key>
-      <integer>-20</integer>
+      <integer>-19</integer>
       <key>public.kern2.cyr_afii10036_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_afii10037_uc_second.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.cyr_afii10038_uc.sc</key>
-      <integer>-20</integer>
+      <integer>-19</integer>
       <key>public.kern2.cyr_afii10039_uc.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.cyr_afii10047_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_afii10049_uc.sc</key>
       <integer>10</integer>
       <key>public.kern2.cyr_afii10057_uc_second.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.cyr_uni04a8_uc.sc</key>
-      <integer>-25</integer>
+      <integer>-24</integer>
       <key>public.kern2.cyr_uni04ae_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_uni04bc_uc.sc</key>
-      <integer>-20</integer>
+      <integer>-19</integer>
       <key>public.kern2.cyr_uni04d8_uc.sc</key>
       <integer>-5</integer>
       <key>public.kern2.cyr_uni04e0_uc.sc</key>
@@ -16282,25 +15651,25 @@
       <key>public.kern2.cyr_afii10021_uc.sc</key>
       <integer>-5</integer>
       <key>public.kern2.cyr_afii10024_uc.sc</key>
-      <integer>-25</integer>
+      <integer>-24</integer>
       <key>public.kern2.cyr_afii10025_uc.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.cyr_afii10029_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.cyr_afii10036_uc_second.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.cyr_afii10037_uc_second.sc</key>
-      <integer>-20</integer>
+      <integer>-19</integer>
       <key>public.kern2.cyr_afii10039_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.cyr_afii10047_uc.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.cyr_afii10057_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.cyr_uni04ae_uc.sc</key>
-      <integer>-20</integer>
+      <integer>-19</integer>
       <key>public.kern2.cyr_uni04e0_uc.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
     </dict>
     <key>public.kern1.cyr_afii10034_uc_first.sc</key>
     <dict>
@@ -16363,17 +15732,17 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>-40</integer>
       <key>public.kern2.cyr_afii10017_uc.sc</key>
-      <integer>-30</integer>
+      <integer>-29</integer>
       <key>public.kern2.cyr_afii10021_uc.sc</key>
-      <integer>-45</integer>
+      <integer>-43</integer>
       <key>public.kern2.cyr_afii10024_uc.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.cyr_afii10029_uc_second.sc</key>
-      <integer>-45</integer>
+      <integer>-43</integer>
       <key>public.kern2.cyr_afii10039_uc.sc</key>
       <integer>-5</integer>
       <key>public.kern2.cyr_afii10057_uc_second.sc</key>
-      <integer>-60</integer>
+      <integer>-57</integer>
       <key>public.kern2.cyr_uni04bc_uc.sc</key>
       <integer>10</integer>
     </dict>
@@ -16440,19 +15809,19 @@
       <key>public.kern2.PUNCT_quotesinglbase</key>
       <integer>10</integer>
       <key>public.kern2.cyr_afii10017_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_afii10021_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_afii10029_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_afii10032_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.cyr_afii10035_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.cyr_afii10036_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_afii10037_uc_second.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.cyr_afii10038_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.cyr_afii10039_uc.sc</key>
@@ -16460,9 +15829,9 @@
       <key>public.kern2.cyr_afii10054_uc.sc</key>
       <integer>10</integer>
       <key>public.kern2.cyr_afii10057_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_uni04a8_uc.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.cyr_uni04ae_uc.sc</key>
       <integer>10</integer>
     </dict>
@@ -16595,19 +15964,19 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>-60</integer>
       <key>public.kern2.cyr_afii10017_uc.sc</key>
-      <integer>-40</integer>
+      <integer>-38</integer>
       <key>public.kern2.cyr_afii10021_uc.sc</key>
-      <integer>-40</integer>
+      <integer>-38</integer>
       <key>public.kern2.cyr_afii10029_uc_second.sc</key>
-      <integer>-40</integer>
+      <integer>-38</integer>
       <key>public.kern2.cyr_afii10032_uc_second.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.cyr_afii10035_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.cyr_afii10036_uc_second.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.cyr_afii10037_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_afii10038_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.cyr_afii10039_uc.sc</key>
@@ -16615,11 +15984,11 @@
       <key>public.kern2.cyr_afii10047_uc.sc</key>
       <integer>10</integer>
       <key>public.kern2.cyr_afii10057_uc_second.sc</key>
-      <integer>-40</integer>
+      <integer>-38</integer>
       <key>public.kern2.cyr_uni04a8_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.cyr_uni04ae_uc.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
     </dict>
     <key>public.kern1.cyr_afii10037_uc_first.sc</key>
     <dict>
@@ -16728,33 +16097,33 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>-45</integer>
       <key>public.kern2.cyr_afii10017_uc.sc</key>
-      <integer>-40</integer>
+      <integer>-38</integer>
       <key>public.kern2.cyr_afii10021_uc.sc</key>
-      <integer>-40</integer>
+      <integer>-38</integer>
       <key>public.kern2.cyr_afii10024_uc.sc</key>
       <integer>10</integer>
       <key>public.kern2.cyr_afii10029_uc_second.sc</key>
-      <integer>-40</integer>
+      <integer>-38</integer>
       <key>public.kern2.cyr_afii10032_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.cyr_afii10035_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.cyr_afii10036_uc_second.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.cyr_afii10037_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_afii10038_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.cyr_afii10039_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_afii10047_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_afii10057_uc_second.sc</key>
-      <integer>-55</integer>
+      <integer>-52</integer>
       <key>public.kern2.cyr_uni04a8_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.cyr_uni04ae_uc.sc</key>
-      <integer>25</integer>
+      <integer>24</integer>
     </dict>
     <key>public.kern1.cyr_afii10038_uc.sc</key>
     <dict>
@@ -16809,27 +16178,27 @@
       <key>public.kern2.cyr_afii10017_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.cyr_afii10021_uc.sc</key>
-      <integer>-30</integer>
+      <integer>-29</integer>
       <key>public.kern2.cyr_afii10024_uc.sc</key>
-      <integer>-35</integer>
+      <integer>-33</integer>
       <key>public.kern2.cyr_afii10025_uc.sc</key>
-      <integer>-25</integer>
+      <integer>-24</integer>
       <key>public.kern2.cyr_afii10029_uc_second.sc</key>
-      <integer>-35</integer>
+      <integer>-33</integer>
       <key>public.kern2.cyr_afii10036_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.cyr_afii10037_uc_second.sc</key>
-      <integer>-20</integer>
+      <integer>-19</integer>
       <key>public.kern2.cyr_afii10039_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.cyr_afii10047_uc.sc</key>
-      <integer>-20</integer>
+      <integer>-19</integer>
       <key>public.kern2.cyr_afii10057_uc_second.sc</key>
-      <integer>-30</integer>
+      <integer>-29</integer>
       <key>public.kern2.cyr_uni04ae_uc.sc</key>
       <integer>-5</integer>
       <key>public.kern2.cyr_uni04e0_uc.sc</key>
-      <integer>-35</integer>
+      <integer>-33</integer>
     </dict>
     <key>public.kern1.cyr_afii10039_uc.sc</key>
     <dict>
@@ -16916,7 +16285,7 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>10</integer>
       <key>public.kern2.cyr_afii10017_uc.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.cyr_afii10032_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.cyr_afii10035_uc.sc</key>
@@ -16924,17 +16293,17 @@
       <key>public.kern2.cyr_afii10036_uc_second.sc</key>
       <integer>10</integer>
       <key>public.kern2.cyr_afii10037_uc_second.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.cyr_afii10038_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.cyr_afii10039_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_afii10057_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_uni04a8_uc.sc</key>
       <integer>-5</integer>
       <key>public.kern2.cyr_uni04ae_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
     </dict>
     <key>public.kern1.cyr_afii10040_uc_first.sc</key>
     <dict>
@@ -16981,29 +16350,29 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>30</integer>
       <key>public.kern2.cyr_afii10017_uc.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.cyr_afii10021_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_afii10024_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_afii10025_uc.sc</key>
       <integer>10</integer>
       <key>public.kern2.cyr_afii10029_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_afii10032_uc_second.sc</key>
       <integer>-5</integer>
       <key>public.kern2.cyr_afii10035_uc.sc</key>
       <integer>-5</integer>
       <key>public.kern2.cyr_afii10038_uc.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.cyr_afii10039_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_afii10041_uc_second.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.cyr_afii10047_uc.sc</key>
       <integer>10</integer>
       <key>public.kern2.cyr_afii10057_uc_second.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.cyr_uni04a8_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.cyr_uni04e0_uc.sc</key>
@@ -17067,9 +16436,9 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>-5</integer>
       <key>public.kern2.cyr_afii10036_uc_second.sc</key>
-      <integer>-50</integer>
+      <integer>-48</integer>
       <key>public.kern2.cyr_afii10037_uc_second.sc</key>
-      <integer>-35</integer>
+      <integer>-33</integer>
       <key>public.kern2.cyr_afii10041_uc_second.sc</key>
       <integer>-5</integer>
       <key>public.kern2.cyr_uni04ae_uc.sc</key>
@@ -17126,25 +16495,25 @@
       <key>public.kern2.cyr_afii10021_uc.sc</key>
       <integer>-5</integer>
       <key>public.kern2.cyr_afii10024_uc.sc</key>
-      <integer>-25</integer>
+      <integer>-24</integer>
       <key>public.kern2.cyr_afii10025_uc.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.cyr_afii10029_uc_second.sc</key>
       <integer>-5</integer>
       <key>public.kern2.cyr_afii10036_uc_second.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.cyr_afii10037_uc_second.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.cyr_afii10039_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.cyr_afii10047_uc.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.cyr_afii10057_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.cyr_uni04ae_uc.sc</key>
-      <integer>-20</integer>
+      <integer>-19</integer>
       <key>public.kern2.cyr_uni04e0_uc.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
     </dict>
     <key>public.kern1.cyr_afii10049_uc.sc</key>
     <dict>
@@ -17272,9 +16641,9 @@
       <key>public.kern2.PUNCT_quotesingle</key>
       <integer>-45</integer>
       <key>public.kern2.cyr_afii10036_uc_second.sc</key>
-      <integer>-30</integer>
+      <integer>-29</integer>
       <key>public.kern2.cyr_afii10041_uc_second.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.cyr_uni04ae_uc.sc</key>
       <integer>-5</integer>
       <key>public.kern2.cyr_uni04bc_uc.sc</key>
@@ -17401,31 +16770,31 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>-45</integer>
       <key>public.kern2.cyr_afii10017_uc.sc</key>
-      <integer>-45</integer>
+      <integer>-43</integer>
       <key>public.kern2.cyr_afii10021_uc.sc</key>
-      <integer>-30</integer>
+      <integer>-29</integer>
       <key>public.kern2.cyr_afii10024_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_afii10025_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_afii10029_uc_second.sc</key>
-      <integer>-30</integer>
+      <integer>-29</integer>
       <key>public.kern2.cyr_afii10032_uc_second.sc</key>
       <integer>-5</integer>
       <key>public.kern2.cyr_afii10035_uc.sc</key>
       <integer>-5</integer>
       <key>public.kern2.cyr_afii10036_uc_second.sc</key>
-      <integer>30</integer>
+      <integer>29</integer>
       <key>public.kern2.cyr_afii10037_uc_second.sc</key>
-      <integer>25</integer>
+      <integer>24</integer>
       <key>public.kern2.cyr_afii10038_uc.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.cyr_afii10039_uc.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.cyr_afii10041_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_afii10047_uc.sc</key>
-      <integer>25</integer>
+      <integer>24</integer>
       <key>public.kern2.cyr_afii10057_uc_second.sc</key>
       <integer>-5</integer>
       <key>public.kern2.cyr_uni04a8_uc.sc</key>
@@ -17433,7 +16802,7 @@
       <key>public.kern2.cyr_uni04ae_uc.sc</key>
       <integer>5</integer>
       <key>public.kern2.cyr_uni04e0_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
     </dict>
     <key>public.kern1.cyr_uni04a8_uc.sc</key>
     <dict>
@@ -17482,17 +16851,17 @@
       <key>public.kern2.PUNCT_quotesingle</key>
       <integer>-35</integer>
       <key>public.kern2.cyr_afii10024_uc.sc</key>
-      <integer>-20</integer>
+      <integer>-19</integer>
       <key>public.kern2.cyr_afii10025_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.cyr_afii10029_uc_second.sc</key>
       <integer>-5</integer>
       <key>public.kern2.cyr_afii10036_uc_second.sc</key>
-      <integer>-35</integer>
+      <integer>-33</integer>
       <key>public.kern2.cyr_afii10037_uc_second.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.cyr_afii10039_uc.sc</key>
-      <integer>-20</integer>
+      <integer>-19</integer>
       <key>public.kern2.cyr_afii10047_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.cyr_afii10049_uc.sc</key>
@@ -17619,29 +16988,29 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>-50</integer>
       <key>public.kern2.cyr_afii10017_uc.sc</key>
-      <integer>-50</integer>
+      <integer>-48</integer>
       <key>public.kern2.cyr_afii10021_uc.sc</key>
       <integer>-5</integer>
       <key>public.kern2.cyr_afii10029_uc_second.sc</key>
       <integer>-5</integer>
       <key>public.kern2.cyr_afii10032_uc_second.sc</key>
-      <integer>-20</integer>
+      <integer>-19</integer>
       <key>public.kern2.cyr_afii10035_uc.sc</key>
-      <integer>-20</integer>
+      <integer>-19</integer>
       <key>public.kern2.cyr_afii10036_uc_second.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.cyr_afii10037_uc_second.sc</key>
-      <integer>30</integer>
+      <integer>29</integer>
       <key>public.kern2.cyr_afii10038_uc.sc</key>
       <integer>-5</integer>
       <key>public.kern2.cyr_afii10039_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.cyr_afii10057_uc_second.sc</key>
-      <integer>-75</integer>
+      <integer>-71</integer>
       <key>public.kern2.cyr_uni04a8_uc.sc</key>
       <integer>-5</integer>
       <key>public.kern2.cyr_uni04ae_uc.sc</key>
-      <integer>25</integer>
+      <integer>24</integer>
     </dict>
     <key>public.kern1.cyr_uni04ba_uc.sc</key>
     <dict>
@@ -17678,9 +17047,9 @@
       <key>public.kern2.PUNCT_quotesingle</key>
       <integer>-55</integer>
       <key>public.kern2.cyr_afii10036_uc_second.sc</key>
-      <integer>-50</integer>
+      <integer>-48</integer>
       <key>public.kern2.cyr_afii10037_uc_second.sc</key>
-      <integer>-40</integer>
+      <integer>-38</integer>
       <key>public.kern2.cyr_afii10041_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.cyr_uni04ae_uc.sc</key>
@@ -17776,13 +17145,13 @@
       <key>public.kern2.cyr_afii10032_uc_second.sc</key>
       <integer>-5</integer>
       <key>public.kern2.cyr_afii10037_uc_second.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.cyr_afii10038_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.cyr_uni04a8_uc.sc</key>
       <integer>-5</integer>
       <key>public.kern2.cyr_uni04bc_uc.sc</key>
-      <integer>-25</integer>
+      <integer>-24</integer>
     </dict>
     <key>public.kern1.cyr_uni04d8_uc.sc</key>
     <dict>
@@ -17841,7 +17210,7 @@
       <key>public.kern2.cyr_afii10057_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.cyr_uni04ae_uc.sc</key>
-      <integer>-20</integer>
+      <integer>-19</integer>
     </dict>
     <key>public.kern1.cyr_uni04e0_uc.sc</key>
     <dict>
@@ -17959,29 +17328,29 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>15</integer>
       <key>public.kern2.grk_alpha_uc_second.sc</key>
-      <integer>25</integer>
+      <integer>24</integer>
       <key>public.kern2.grk_chi_uc.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.grk_delta_uc.sc</key>
-      <integer>25</integer>
+      <integer>24</integer>
       <key>public.kern2.grk_lambda_uc.sc</key>
-      <integer>25</integer>
+      <integer>24</integer>
       <key>public.kern2.grk_omicron_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.grk_phi_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.grk_psi_uc.sc</key>
-      <integer>-30</integer>
+      <integer>-29</integer>
       <key>public.kern2.grk_sigma_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.grk_tau_uc.sc</key>
-      <integer>-40</integer>
+      <integer>-38</integer>
       <key>public.kern2.grk_upsilon_uc_second.sc</key>
-      <integer>-55</integer>
+      <integer>-52</integer>
       <key>public.kern2.grk_xi_uc.sc</key>
       <integer>10</integer>
       <key>public.kern2.grk_zeta_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
     </dict>
     <key>public.kern1.grk_beta_uc.sc</key>
     <dict>
@@ -18109,13 +17478,13 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>10</integer>
       <key>public.kern2.grk_alpha_uc_second.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.grk_chi_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.grk_delta_uc.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.grk_lambda_uc.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.grk_omicron_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.grk_phi_uc.sc</key>
@@ -18123,7 +17492,7 @@
       <key>public.kern2.grk_tau_uc.sc</key>
       <integer>10</integer>
       <key>public.kern2.grk_upsilon_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.grk_zeta_uc.sc</key>
       <integer>10</integer>
     </dict>
@@ -18186,29 +17555,29 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>15</integer>
       <key>public.kern2.grk_alpha_uc_second.sc</key>
-      <integer>25</integer>
+      <integer>24</integer>
       <key>public.kern2.grk_chi_uc.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.grk_delta_uc.sc</key>
-      <integer>25</integer>
+      <integer>24</integer>
       <key>public.kern2.grk_lambda_uc.sc</key>
-      <integer>25</integer>
+      <integer>24</integer>
       <key>public.kern2.grk_omicron_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.grk_phi_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.grk_psi_uc.sc</key>
-      <integer>-25</integer>
+      <integer>-24</integer>
       <key>public.kern2.grk_sigma_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.grk_tau_uc.sc</key>
-      <integer>-40</integer>
+      <integer>-38</integer>
       <key>public.kern2.grk_upsilon_uc_second.sc</key>
-      <integer>-55</integer>
+      <integer>-52</integer>
       <key>public.kern2.grk_xi_uc.sc</key>
       <integer>10</integer>
       <key>public.kern2.grk_zeta_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
     </dict>
     <key>public.kern1.grk_epsilon_uc_first.sc</key>
     <dict>
@@ -18277,15 +17646,15 @@
       <key>public.kern2.PUNCT_quoteleft</key>
       <integer>-5</integer>
       <key>public.kern2.grk_alpha_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.grk_delta_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.grk_lambda_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.grk_omicron_uc_second.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.grk_phi_uc.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
     </dict>
     <key>public.kern1.grk_eta_uc_first.sc</key>
     <dict>
@@ -18395,21 +17764,21 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>-60</integer>
       <key>public.kern2.grk_alpha_uc_second.sc</key>
-      <integer>-40</integer>
+      <integer>-38</integer>
       <key>public.kern2.grk_chi_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.grk_delta_uc.sc</key>
-      <integer>-40</integer>
+      <integer>-38</integer>
       <key>public.kern2.grk_lambda_uc.sc</key>
-      <integer>-40</integer>
+      <integer>-38</integer>
       <key>public.kern2.grk_omicron_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.grk_phi_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.grk_tau_uc.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.grk_upsilon_uc_second.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
     </dict>
     <key>public.kern1.grk_kappa_uc.sc</key>
     <dict>
@@ -18492,27 +17861,27 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>15</integer>
       <key>public.kern2.grk_alpha_uc_second.sc</key>
-      <integer>25</integer>
+      <integer>24</integer>
       <key>public.kern2.grk_chi_uc.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.grk_delta_uc.sc</key>
-      <integer>25</integer>
+      <integer>24</integer>
       <key>public.kern2.grk_lambda_uc.sc</key>
-      <integer>25</integer>
+      <integer>24</integer>
       <key>public.kern2.grk_omicron_uc_second.sc</key>
-      <integer>-20</integer>
+      <integer>-19</integer>
       <key>public.kern2.grk_phi_uc.sc</key>
-      <integer>-20</integer>
+      <integer>-19</integer>
       <key>public.kern2.grk_sigma_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.grk_tau_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.grk_upsilon_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.grk_xi_uc.sc</key>
       <integer>10</integer>
       <key>public.kern2.grk_zeta_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
     </dict>
     <key>public.kern1.grk_lambda_uc.sc</key>
     <dict>
@@ -18569,21 +17938,21 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>15</integer>
       <key>public.kern2.grk_alpha_uc_second.sc</key>
-      <integer>25</integer>
+      <integer>24</integer>
       <key>public.kern2.grk_chi_uc.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.grk_delta_uc.sc</key>
-      <integer>25</integer>
+      <integer>24</integer>
       <key>public.kern2.grk_lambda_uc.sc</key>
-      <integer>25</integer>
+      <integer>24</integer>
       <key>public.kern2.grk_omicron_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.grk_psi_uc.sc</key>
       <integer>-5</integer>
       <key>public.kern2.grk_tau_uc.sc</key>
-      <integer>-40</integer>
+      <integer>-38</integer>
       <key>public.kern2.grk_upsilon_uc_second.sc</key>
-      <integer>-55</integer>
+      <integer>-52</integer>
       <key>public.kern2.grk_zeta_uc.sc</key>
       <integer>10</integer>
     </dict>
@@ -18655,7 +18024,7 @@
       <key>public.kern2.grk_tau_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.grk_upsilon_uc_second.sc</key>
-      <integer>-20</integer>
+      <integer>-19</integer>
     </dict>
     <key>public.kern1.grk_omicron_uc_first.sc</key>
     <dict>
@@ -18706,13 +18075,13 @@
       <key>public.kern2.grk_lambda_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.grk_sigma_uc.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.grk_tau_uc.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.grk_upsilon_uc_second.sc</key>
-      <integer>-25</integer>
+      <integer>-24</integer>
       <key>public.kern2.grk_xi_uc.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
     </dict>
     <key>public.kern1.grk_phi_uc.sc</key>
     <dict>
@@ -18773,11 +18142,11 @@
       <key>public.kern2.grk_mu_uc.sc</key>
       <integer>-5</integer>
       <key>public.kern2.grk_sigma_uc.sc</key>
-      <integer>-25</integer>
+      <integer>-24</integer>
       <key>public.kern2.grk_tau_uc.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.grk_upsilon_uc_second.sc</key>
-      <integer>-25</integer>
+      <integer>-24</integer>
       <key>public.kern2.grk_xi_uc.sc</key>
       <integer>-5</integer>
     </dict>
@@ -18841,11 +18210,11 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>-40</integer>
       <key>public.kern2.grk_alpha_uc_second.sc</key>
-      <integer>-30</integer>
+      <integer>-29</integer>
       <key>public.kern2.grk_delta_uc.sc</key>
-      <integer>-25</integer>
+      <integer>-24</integer>
       <key>public.kern2.grk_lambda_uc.sc</key>
-      <integer>-30</integer>
+      <integer>-29</integer>
       <key>public.kern2.grk_mu_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.grk_psi_uc.sc</key>
@@ -18906,13 +18275,13 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>-40</integer>
       <key>public.kern2.grk_alpha_uc_second.sc</key>
-      <integer>-30</integer>
+      <integer>-29</integer>
       <key>public.kern2.grk_chi_uc.sc</key>
       <integer>-5</integer>
       <key>public.kern2.grk_delta_uc.sc</key>
-      <integer>-30</integer>
+      <integer>-29</integer>
       <key>public.kern2.grk_lambda_uc.sc</key>
-      <integer>-30</integer>
+      <integer>-29</integer>
     </dict>
     <key>public.kern1.grk_sigma_uc.sc</key>
     <dict>
@@ -18965,9 +18334,9 @@
       <key>public.kern2.PUNCT_question</key>
       <integer>15</integer>
       <key>public.kern2.grk_omicron_uc_second.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.grk_phi_uc.sc</key>
-      <integer>-25</integer>
+      <integer>-24</integer>
     </dict>
     <key>public.kern1.grk_tau_uc.sc</key>
     <dict>
@@ -19060,21 +18429,21 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>-60</integer>
       <key>public.kern2.grk_alpha_uc_second.sc</key>
-      <integer>-40</integer>
+      <integer>-38</integer>
       <key>public.kern2.grk_chi_uc.sc</key>
       <integer>10</integer>
       <key>public.kern2.grk_delta_uc.sc</key>
-      <integer>-40</integer>
+      <integer>-38</integer>
       <key>public.kern2.grk_lambda_uc.sc</key>
-      <integer>-40</integer>
+      <integer>-38</integer>
       <key>public.kern2.grk_omicron_uc_second.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.grk_phi_uc.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.grk_tau_uc.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.grk_upsilon_uc_second.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
     </dict>
     <key>public.kern1.grk_upsilon_uc_first.sc</key>
     <dict>
@@ -19163,21 +18532,21 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>-55</integer>
       <key>public.kern2.grk_alpha_uc_second.sc</key>
-      <integer>-55</integer>
+      <integer>-52</integer>
       <key>public.kern2.grk_chi_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.grk_delta_uc.sc</key>
-      <integer>-55</integer>
+      <integer>-52</integer>
       <key>public.kern2.grk_lambda_uc.sc</key>
-      <integer>-55</integer>
+      <integer>-52</integer>
       <key>public.kern2.grk_omicron_uc_second.sc</key>
-      <integer>-25</integer>
+      <integer>-24</integer>
       <key>public.kern2.grk_phi_uc.sc</key>
-      <integer>-25</integer>
+      <integer>-24</integer>
       <key>public.kern2.grk_tau_uc.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.grk_upsilon_uc_second.sc</key>
-      <integer>25</integer>
+      <integer>24</integer>
       <key>public.kern2.grk_zeta_uc.sc</key>
       <integer>10</integer>
     </dict>
@@ -19246,19 +18615,19 @@
       <key>public.kern2.PUNCT_quoteleft</key>
       <integer>-5</integer>
       <key>public.kern2.grk_alpha_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.grk_chi_uc.sc</key>
       <integer>10</integer>
       <key>public.kern2.grk_delta_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.grk_lambda_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.grk_omicron_uc_second.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.grk_phi_uc.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.grk_upsilon_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
     </dict>
     <key>public.kern1.grk_zeta_uc.sc</key>
     <dict>
@@ -19327,15 +18696,15 @@
       <key>public.kern2.PUNCT_quoteright</key>
       <integer>15</integer>
       <key>public.kern2.grk_alpha_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.grk_delta_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.grk_lambda_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.grk_omicron_uc_second.sc</key>
-      <integer>-20</integer>
+      <integer>-19</integer>
       <key>public.kern2.grk_phi_uc.sc</key>
-      <integer>-20</integer>
+      <integer>-19</integer>
       <key>public.kern2.grk_upsilon_uc_second.sc</key>
       <integer>10</integer>
     </dict>
@@ -19406,15 +18775,15 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>15</integer>
       <key>public.kern2.lat_a_uc_second.sc</key>
-      <integer>25</integer>
+      <integer>24</integer>
       <key>public.kern2.lat_ae_uc_second.sc</key>
-      <integer>25</integer>
+      <integer>24</integer>
       <key>public.kern2.lat_c_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.lat_g_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.lat_j_uc_second.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.lat_o_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.lat_q_uc.sc</key>
@@ -19422,19 +18791,19 @@
       <key>public.kern2.lat_s_uc.sc</key>
       <integer>10</integer>
       <key>public.kern2.lat_t_uc_second.sc</key>
-      <integer>-40</integer>
+      <integer>-38</integer>
       <key>public.kern2.lat_v_uc.sc</key>
-      <integer>-40</integer>
+      <integer>-38</integer>
       <key>public.kern2.lat_w_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.lat_x_uc.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.lat_y_uc_second.sc</key>
-      <integer>-55</integer>
+      <integer>-52</integer>
       <key>public.kern2.lat_z_uc_second.sc</key>
       <integer>10</integer>
       <key>public.kern2.mis_uni021c.sc</key>
-      <integer>-30</integer>
+      <integer>-29</integer>
       <key>registered</key>
       <integer>-10</integer>
       <key>trademark</key>
@@ -19522,15 +18891,15 @@
       <key>public.kern2.PUNCT_quotesinglbase</key>
       <integer>15</integer>
       <key>public.kern2.lat_a_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.lat_ae_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.lat_c_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.lat_g_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.lat_j_uc_second.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.lat_o_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.lat_q_uc.sc</key>
@@ -19538,13 +18907,13 @@
       <key>public.kern2.lat_s_uc.sc</key>
       <integer>10</integer>
       <key>public.kern2.lat_t_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.lat_v_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.lat_x_uc.sc</key>
       <integer>10</integer>
       <key>public.kern2.lat_y_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.lat_z_uc_second.sc</key>
       <integer>10</integer>
     </dict>
@@ -19593,11 +18962,11 @@
       <key>public.kern2.lat_a_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.lat_ae_uc_second.sc</key>
-      <integer>-25</integer>
+      <integer>-24</integer>
       <key>public.kern2.lat_j_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.lat_t_uc_second.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.lat_v_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.lat_w_uc.sc</key>
@@ -19605,11 +18974,11 @@
       <key>public.kern2.lat_x_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.lat_y_uc_second.sc</key>
-      <integer>-25</integer>
+      <integer>-24</integer>
       <key>public.kern2.mis_uni01b7.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.mis_uni021c.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
     </dict>
     <key>public.kern1.lat_e_uc_first.sc</key>
     <dict>
@@ -19674,17 +19043,17 @@
       <key>public.kern2.lat_a_uc_second.sc</key>
       <integer>10</integer>
       <key>public.kern2.lat_ae_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.lat_c_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.lat_g_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.lat_j_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.lat_o_uc_second.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.lat_q_uc.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.lat_u_uc_second.sc</key>
       <integer>-10</integer>
     </dict>
@@ -19754,17 +19123,17 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>-40</integer>
       <key>public.kern2.lat_a_uc_second.sc</key>
-      <integer>-25</integer>
+      <integer>-24</integer>
       <key>public.kern2.lat_ae_uc_second.sc</key>
-      <integer>-50</integer>
+      <integer>-48</integer>
       <key>public.kern2.lat_j_uc_second.sc</key>
-      <integer>-50</integer>
+      <integer>-48</integer>
       <key>public.kern2.lat_t_uc_second.sc</key>
       <integer>10</integer>
       <key>public.kern2.lat_v_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.lat_y_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
     </dict>
     <key>public.kern1.lat_g_uc_first.sc</key>
     <dict>
@@ -19791,13 +19160,6 @@
       <key>public.kern2.PUNCT_quotesinglbase</key>
       <integer>10</integer>
     </dict>
-    <key>public.kern1.lat_j_lc_first.sc</key>
-    <dict>
-      <key>public.kern2.LAT_j_LC_SECOND</key>
-      <integer>10</integer>
-      <key>public.kern2.PUNCT_question</key>
-      <integer>-5</integer>
-    </dict>
     <key>public.kern1.lat_j_uc_first.sc</key>
     <dict>
       <key>public.kern2.LAT_z_LC_SECOND</key>
@@ -19823,7 +19185,7 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>-20</integer>
       <key>public.kern2.lat_ae_uc_second.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.lat_z_uc_second.sc</key>
       <integer>-5</integer>
     </dict>
@@ -19906,31 +19268,31 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>15</integer>
       <key>public.kern2.lat_a_uc_second.sc</key>
-      <integer>25</integer>
+      <integer>24</integer>
       <key>public.kern2.lat_ae_uc_second.sc</key>
-      <integer>25</integer>
+      <integer>24</integer>
       <key>public.kern2.lat_c_uc_second.sc</key>
-      <integer>-20</integer>
+      <integer>-19</integer>
       <key>public.kern2.lat_g_uc_second.sc</key>
-      <integer>-20</integer>
+      <integer>-19</integer>
       <key>public.kern2.lat_j_uc_second.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.lat_o_uc_second.sc</key>
-      <integer>-20</integer>
+      <integer>-19</integer>
       <key>public.kern2.lat_q_uc.sc</key>
-      <integer>-20</integer>
+      <integer>-19</integer>
       <key>public.kern2.lat_t_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.lat_v_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.lat_w_uc.sc</key>
       <integer>10</integer>
       <key>public.kern2.lat_x_uc.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.lat_y_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.lat_z_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
     </dict>
     <key>public.kern1.lat_l_uc_first.sc</key>
     <dict>
@@ -19995,37 +19357,37 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>10</integer>
       <key>public.kern2.lat_a_uc_second.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.lat_ae_uc_second.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.lat_c_uc_second.sc</key>
-      <integer>-25</integer>
+      <integer>-24</integer>
       <key>public.kern2.lat_g_uc_second.sc</key>
-      <integer>-25</integer>
+      <integer>-24</integer>
       <key>public.kern2.lat_j_uc_second.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.lat_o_uc_second.sc</key>
-      <integer>-25</integer>
+      <integer>-24</integer>
       <key>public.kern2.lat_q_uc.sc</key>
-      <integer>-25</integer>
+      <integer>-24</integer>
       <key>public.kern2.lat_s_uc.sc</key>
       <integer>10</integer>
       <key>public.kern2.lat_t_uc_second.sc</key>
-      <integer>-75</integer>
+      <integer>-71</integer>
       <key>public.kern2.lat_u_uc_second.sc</key>
       <integer>-5</integer>
       <key>public.kern2.lat_v_uc.sc</key>
-      <integer>-65</integer>
+      <integer>-62</integer>
       <key>public.kern2.lat_w_uc.sc</key>
-      <integer>-25</integer>
+      <integer>-24</integer>
       <key>public.kern2.lat_x_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.lat_y_uc_second.sc</key>
-      <integer>-75</integer>
+      <integer>-71</integer>
       <key>public.kern2.lat_z_uc_second.sc</key>
       <integer>10</integer>
       <key>public.kern2.mis_uni021c.sc</key>
-      <integer>-50</integer>
+      <integer>-48</integer>
       <key>registered</key>
       <integer>-63</integer>
       <key>trademark</key>
@@ -20074,17 +19436,17 @@
       <key>public.kern2.lat_a_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.lat_ae_uc_second.sc</key>
-      <integer>-25</integer>
+      <integer>-24</integer>
       <key>public.kern2.lat_j_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.lat_t_uc_second.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.lat_v_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.lat_x_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.lat_y_uc_second.sc</key>
-      <integer>-25</integer>
+      <integer>-24</integer>
       <key>public.kern2.mis_uni01b7.sc</key>
       <integer>-10</integer>
       <key>public.kern2.mis_uni021c.sc</key>
@@ -20147,11 +19509,11 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>-40</integer>
       <key>public.kern2.lat_a_uc_second.sc</key>
-      <integer>-30</integer>
+      <integer>-29</integer>
       <key>public.kern2.lat_ae_uc_second.sc</key>
-      <integer>-60</integer>
+      <integer>-57</integer>
       <key>public.kern2.lat_j_uc_second.sc</key>
-      <integer>-65</integer>
+      <integer>-62</integer>
       <key>public.kern2.lat_x_uc.sc</key>
       <integer>-5</integer>
       <key>public.kern2.mis_uni018b_second.sc</key>
@@ -20194,17 +19556,17 @@
       <key>public.kern2.lat_a_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.lat_ae_uc_second.sc</key>
-      <integer>-25</integer>
+      <integer>-24</integer>
       <key>public.kern2.lat_j_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.lat_t_uc_second.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.lat_v_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.lat_x_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.lat_y_uc_second.sc</key>
-      <integer>-25</integer>
+      <integer>-24</integer>
       <key>public.kern2.mis_uni01b7.sc</key>
       <integer>-10</integer>
     </dict>
@@ -20235,19 +19597,19 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>10</integer>
       <key>public.kern2.lat_a_uc_second.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.lat_ae_uc_second.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.lat_c_uc_second.sc</key>
       <integer>-5</integer>
       <key>public.kern2.lat_g_uc_second.sc</key>
       <integer>-5</integer>
       <key>public.kern2.lat_j_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.lat_q_uc.sc</key>
       <integer>-5</integer>
       <key>public.kern2.lat_x_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.lat_y_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.lat_z_uc_second.sc</key>
@@ -20375,29 +19737,29 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>-60</integer>
       <key>public.kern2.lat_a_uc_second.sc</key>
-      <integer>-40</integer>
+      <integer>-38</integer>
       <key>public.kern2.lat_ae_uc_second.sc</key>
-      <integer>-50</integer>
+      <integer>-48</integer>
       <key>public.kern2.lat_c_uc_second.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.lat_g_uc_second.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.lat_j_uc_second.sc</key>
-      <integer>-60</integer>
+      <integer>-57</integer>
       <key>public.kern2.lat_o_uc_second.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.lat_q_uc.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.lat_t_uc_second.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.lat_v_uc.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.lat_w_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.lat_x_uc.sc</key>
       <integer>10</integer>
       <key>public.kern2.lat_y_uc_second.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
     </dict>
     <key>public.kern1.lat_thorn_uc.sc</key>
     <dict>
@@ -20442,23 +19804,23 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>-25</integer>
       <key>public.kern2.lat_a_uc_second.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.lat_ae_uc_second.sc</key>
-      <integer>-30</integer>
+      <integer>-29</integer>
       <key>public.kern2.lat_j_uc_second.sc</key>
-      <integer>-35</integer>
+      <integer>-33</integer>
       <key>public.kern2.lat_t_uc_second.sc</key>
-      <integer>-25</integer>
+      <integer>-24</integer>
       <key>public.kern2.lat_v_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.lat_x_uc.sc</key>
-      <integer>-25</integer>
+      <integer>-24</integer>
       <key>public.kern2.lat_y_uc_second.sc</key>
-      <integer>-25</integer>
+      <integer>-24</integer>
       <key>public.kern2.lat_z_uc_second.sc</key>
-      <integer>-25</integer>
+      <integer>-24</integer>
       <key>public.kern2.mis_uni01b7.sc</key>
-      <integer>-20</integer>
+      <integer>-19</integer>
       <key>public.kern2.mis_uni021c.sc</key>
       <integer>-10</integer>
     </dict>
@@ -20491,7 +19853,7 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>-25</integer>
       <key>public.kern2.lat_ae_uc_second.sc</key>
-      <integer>-20</integer>
+      <integer>-19</integer>
     </dict>
     <key>public.kern1.lat_v_uc.sc</key>
     <dict>
@@ -20576,29 +19938,29 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>-45</integer>
       <key>public.kern2.lat_a_uc_second.sc</key>
-      <integer>-40</integer>
+      <integer>-38</integer>
       <key>public.kern2.lat_ae_uc_second.sc</key>
-      <integer>-60</integer>
+      <integer>-57</integer>
       <key>public.kern2.lat_c_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.lat_g_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.lat_j_uc_second.sc</key>
-      <integer>-60</integer>
+      <integer>-57</integer>
       <key>public.kern2.lat_o_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.lat_q_uc.sc</key>
       <integer>-10</integer>
       <key>public.kern2.lat_t_uc_second.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.lat_v_uc.sc</key>
-      <integer>25</integer>
+      <integer>24</integer>
       <key>public.kern2.lat_w_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.lat_x_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.lat_y_uc_second.sc</key>
-      <integer>25</integer>
+      <integer>24</integer>
     </dict>
     <key>public.kern1.lat_w_uc.sc</key>
     <dict>
@@ -20671,19 +20033,19 @@
       <key>public.kern2.lat_a_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.lat_ae_uc_second.sc</key>
-      <integer>-30</integer>
+      <integer>-29</integer>
       <key>public.kern2.lat_j_uc_second.sc</key>
-      <integer>-35</integer>
+      <integer>-33</integer>
       <key>public.kern2.lat_t_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.lat_v_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.lat_w_uc.sc</key>
       <integer>10</integer>
       <key>public.kern2.lat_x_uc.sc</key>
       <integer>10</integer>
       <key>public.kern2.lat_y_uc_second.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
     </dict>
     <key>public.kern1.lat_x_uc.sc</key>
     <dict>
@@ -20754,15 +20116,15 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>10</integer>
       <key>public.kern2.lat_a_uc_second.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.lat_ae_uc_second.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.lat_c_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.lat_g_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.lat_j_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.lat_o_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.lat_q_uc.sc</key>
@@ -20770,11 +20132,11 @@
       <key>public.kern2.lat_t_uc_second.sc</key>
       <integer>10</integer>
       <key>public.kern2.lat_v_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.lat_x_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.lat_y_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.lat_z_uc_second.sc</key>
       <integer>10</integer>
     </dict>
@@ -20865,60 +20227,31 @@
       <key>public.kern2.PUNCT_slash</key>
       <integer>-55</integer>
       <key>public.kern2.lat_a_uc_second.sc</key>
-      <integer>-55</integer>
+      <integer>-52</integer>
       <key>public.kern2.lat_ae_uc_second.sc</key>
-      <integer>-60</integer>
+      <integer>-57</integer>
       <key>public.kern2.lat_c_uc_second.sc</key>
-      <integer>-25</integer>
+      <integer>-24</integer>
       <key>public.kern2.lat_g_uc_second.sc</key>
-      <integer>-25</integer>
+      <integer>-24</integer>
       <key>public.kern2.lat_j_uc_second.sc</key>
-      <integer>-75</integer>
+      <integer>-71</integer>
       <key>public.kern2.lat_o_uc_second.sc</key>
-      <integer>-25</integer>
+      <integer>-24</integer>
       <key>public.kern2.lat_q_uc.sc</key>
-      <integer>-25</integer>
+      <integer>-24</integer>
       <key>public.kern2.lat_t_uc_second.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.lat_v_uc.sc</key>
-      <integer>25</integer>
+      <integer>24</integer>
       <key>public.kern2.lat_w_uc.sc</key>
-      <integer>20</integer>
+      <integer>19</integer>
       <key>public.kern2.lat_x_uc.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.lat_y_uc_second.sc</key>
-      <integer>25</integer>
+      <integer>24</integer>
       <key>public.kern2.lat_z_uc_second.sc</key>
       <integer>10</integer>
-    </dict>
-    <key>public.kern1.lat_z_lc_first.sc</key>
-    <dict>
-      <key>public.kern2.LAT_c_LC_SECOND</key>
-      <integer>-5</integer>
-      <key>public.kern2.LAT_d_LC_SECOND</key>
-      <integer>-10</integer>
-      <key>public.kern2.LAT_e_LC_SECOND</key>
-      <integer>-5</integer>
-      <key>public.kern2.LAT_eth_LC</key>
-      <integer>-5</integer>
-      <key>public.kern2.LAT_g_LC_SECOND</key>
-      <integer>-10</integer>
-      <key>public.kern2.LAT_o_LC_SECOND</key>
-      <integer>-10</integer>
-      <key>public.kern2.LAT_q_LC_SECOND</key>
-      <integer>-5</integer>
-      <key>public.kern2.MIS_uni018C_SECOND</key>
-      <integer>-5</integer>
-      <key>public.kern2.MIS_uni0234_SECOND</key>
-      <integer>-5</integer>
-      <key>public.kern2.PUNCT_braceleft</key>
-      <integer>-10</integer>
-      <key>public.kern2.PUNCT_braceright</key>
-      <integer>-10</integer>
-      <key>public.kern2.PUNCT_bracketright</key>
-      <integer>-20</integer>
-      <key>public.kern2.PUNCT_guilsinglleft</key>
-      <integer>-15</integer>
     </dict>
     <key>public.kern1.lat_z_uc_first.sc</key>
     <dict>
@@ -20981,19 +20314,19 @@
       <key>public.kern2.PUNCT_quotesinglbase</key>
       <integer>5</integer>
       <key>public.kern2.lat_a_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.lat_ae_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.lat_c_uc_second.sc</key>
-      <integer>-20</integer>
+      <integer>-19</integer>
       <key>public.kern2.lat_g_uc_second.sc</key>
-      <integer>-20</integer>
+      <integer>-19</integer>
       <key>public.kern2.lat_j_uc_second.sc</key>
-      <integer>15</integer>
+      <integer>14</integer>
       <key>public.kern2.lat_o_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.lat_q_uc.sc</key>
-      <integer>-20</integer>
+      <integer>-19</integer>
       <key>public.kern2.lat_v_uc.sc</key>
       <integer>10</integer>
       <key>public.kern2.lat_y_uc_second.sc</key>
@@ -21004,7 +20337,7 @@
       <key>public.kern2.lat_a_uc_second.sc</key>
       <integer>-10</integer>
       <key>public.kern2.lat_ae_uc_second.sc</key>
-      <integer>-20</integer>
+      <integer>-19</integer>
       <key>public.kern2.lat_j_uc_second.sc</key>
       <integer>-10</integer>
     </dict>
@@ -21078,13 +20411,13 @@
       <key>public.kern2.MIS_uni0234_SECOND</key>
       <integer>-5</integer>
       <key>public.kern2.lat_a_uc_second.sc</key>
-      <integer>-20</integer>
+      <integer>-19</integer>
       <key>public.kern2.lat_ae_uc_second.sc</key>
-      <integer>-35</integer>
+      <integer>-33</integer>
       <key>public.kern2.lat_j_uc_second.sc</key>
-      <integer>-40</integer>
+      <integer>-38</integer>
       <key>public.kern2.lat_x_uc.sc</key>
-      <integer>-15</integer>
+      <integer>-14</integer>
       <key>public.kern2.mis_uni01b7.sc</key>
       <integer>-5</integer>
       <key>public.kern2.mis_uni01b8.sc</key>
@@ -21122,15 +20455,15 @@
       <key>public.kern2.lat_q_uc.sc</key>
       <integer>-5</integer>
       <key>public.kern2.lat_t_uc_second.sc</key>
-      <integer>-40</integer>
+      <integer>-38</integer>
       <key>public.kern2.lat_v_uc.sc</key>
-      <integer>-45</integer>
+      <integer>-43</integer>
       <key>public.kern2.lat_w_uc.sc</key>
-      <integer>-20</integer>
+      <integer>-19</integer>
       <key>public.kern2.lat_y_uc_second.sc</key>
-      <integer>-50</integer>
+      <integer>-48</integer>
       <key>public.kern2.mis_uni021c.sc</key>
-      <integer>-50</integer>
+      <integer>-48</integer>
     </dict>
     <key>seven.osf</key>
     <dict>
