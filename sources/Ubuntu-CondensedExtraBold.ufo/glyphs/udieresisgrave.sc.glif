@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="udieresisgrave.sc" format="2">
-  <advance width="633"/>
-  <anchor x="317" y="0" name="bottom"/>
-  <anchor x="570" y="10" name="ogonek"/>
-  <anchor x="317" y="879" name="top"/>
-  <anchor x="613" y="589" name="topright"/>
+  <advance width="478"/>
+  <anchor x="240" y="0" name="bottom"/>
+  <anchor x="433" y="10" name="ogonek"/>
+  <anchor x="240" y="878" name="top"/>
+  <anchor x="466" y="588" name="topright"/>
   <outline>
     <component base="u.sc"/>
-    <component base="dieresis_grave.sc" xOffset="317"/>
+    <component base="dieresis_grave.sc" xOffset="240" yOffset="-1"/>
   </outline>
   <lib>
     <dict>
@@ -20,12 +20,37 @@
         <key>width</key>
         <integer>87</integer>
       </dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>u.sc</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>u.sc</string>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

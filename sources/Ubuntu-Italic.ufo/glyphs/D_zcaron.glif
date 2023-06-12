@@ -1,14 +1,46 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Dzcaron" format="2">
-  <advance width="1098"/>
+  <advance width="1102"/>
   <unicode hex="01C5"/>
+  <anchor x="226" y="0" name="bottom_1"/>
+  <anchor x="810" y="0" name="bottom_2"/>
+  <anchor x="309" y="347" name="center_1"/>
+  <anchor x="872" y="259" name="center_2"/>
+  <anchor x="394" y="674" name="top_1"/>
+  <anchor x="994" y="766" name="top_2"/>
   <outline>
     <component base="D"/>
-    <component base="z" xOffset="653"/>
-    <component base="caron" xOffset="713"/>
+    <component base="zcaron" xOffset="653"/>
   </outline>
   <lib>
     <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
@@ -25,17 +57,15 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>z</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>2</integer>
-          <key>name</key>
-          <string>caron</string>
+          <string>zcaron</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>D</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>z</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

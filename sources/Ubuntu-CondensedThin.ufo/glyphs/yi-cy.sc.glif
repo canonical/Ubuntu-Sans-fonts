@@ -1,19 +1,44 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="yi-cy.sc" format="2">
-  <advance width="218"/>
-  <anchor x="109" y="0" name="bottom"/>
-  <anchor x="196" y="10" name="ogonek"/>
-  <anchor x="109" y="731" name="top"/>
+  <advance width="170"/>
+  <anchor x="85" y="0" name="bottom"/>
+  <anchor x="153" y="10" name="ogonek"/>
+  <anchor x="85" y="731" name="top"/>
   <outline>
     <component base="i.sc"/>
-    <component base="dieresiscomb.sc" xOffset="109"/>
+    <component base="dieresiscomb.sc" xOffset="85"/>
   </outline>
   <lib>
     <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
       <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
       <string>i.sc</string>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

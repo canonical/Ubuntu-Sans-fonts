@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="scaron.sc" format="2">
-  <advance width="480"/>
-  <anchor x="238" y="0" name="bottom"/>
-  <anchor x="239" y="806" name="top"/>
+  <advance width="362"/>
+  <anchor x="175" y="0" name="bottom"/>
+  <anchor x="182" y="805" name="top"/>
   <outline>
     <component base="s.sc"/>
-    <component base="caroncomb.sc" xOffset="240"/>
+    <component base="caroncomb.sc" xOffset="183" yOffset="-1"/>
   </outline>
   <lib>
     <dict>
@@ -18,12 +18,37 @@
         <key>width</key>
         <real>84.5</real>
       </dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>s.sc</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>s.sc</string>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

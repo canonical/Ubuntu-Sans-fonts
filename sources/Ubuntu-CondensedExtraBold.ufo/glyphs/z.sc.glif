@@ -1,40 +1,63 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="z.sc" format="2">
-  <advance width="552"/>
-  <anchor x="276" y="0" name="bottom"/>
-  <anchor x="276" y="295" name="center"/>
-  <anchor x="276" y="589" name="top"/>
+  <advance width="406"/>
+  <anchor x="200" y="0" name="bottom"/>
+  <anchor x="200" y="294" name="center"/>
+  <anchor x="200" y="588" name="top"/>
   <outline>
     <contour>
-      <point x="36" y="0" type="line"/>
-      <point x="522" y="0" type="line"/>
-      <point x="522" y="127" type="line"/>
-      <point x="225" y="127" type="line"/>
-      <point x="307" y="257"/>
-      <point x="443" y="420"/>
-      <point x="512" y="487" type="curve"/>
-      <point x="512" y="589" type="line"/>
-      <point x="49" y="589" type="line"/>
-      <point x="49" y="462" type="line"/>
-      <point x="307" y="462" type="line"/>
-      <point x="205" y="340"/>
-      <point x="93" y="186"/>
-      <point x="36" y="88" type="curve"/>
+      <point x="24" y="0" type="line"/>
+      <point x="382" y="0" type="line"/>
+      <point x="382" y="119" type="line"/>
+      <point x="178" y="119" type="line"/>
+      <point x="221" y="210"/>
+      <point x="316" y="391"/>
+      <point x="375" y="483" type="curve"/>
+      <point x="375" y="588" type="line"/>
+      <point x="32" y="588" type="line"/>
+      <point x="32" y="469" type="line"/>
+      <point x="228" y="469" type="line"/>
+      <point x="191" y="412"/>
+      <point x="84" y="215"/>
+      <point x="24" y="92" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>RMXScaler</key>
       <dict>
-        <key>height</key>
-        <integer>85</integer>
         <key>weight</key>
-        <integer>-11</integer>
+        <integer>-65</integer>
         <key>width</key>
-        <integer>87</integer>
+        <integer>75</integer>
       </dict>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

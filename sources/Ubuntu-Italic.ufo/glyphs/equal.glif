@@ -1,19 +1,52 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="equal" format="2">
-  <advance width="574"/>
+  <advance width="564"/>
   <unicode hex="003D"/>
   <outline>
     <contour>
-      <point x="156" y="372" type="line"/>
-      <point x="598" y="372" type="line"/>
-      <point x="613" y="436" type="line"/>
-      <point x="172" y="436" type="line"/>
+      <point x="88" y="372" type="line"/>
+      <point x="530" y="372" type="line"/>
+      <point x="545" y="436" type="line"/>
+      <point x="104" y="436" type="line"/>
     </contour>
     <contour>
-      <point x="106" y="161" type="line"/>
-      <point x="548" y="161" type="line"/>
-      <point x="563" y="225" type="line"/>
-      <point x="121" y="225" type="line"/>
+      <point x="38" y="161" type="line"/>
+      <point x="480" y="161" type="line"/>
+      <point x="495" y="225" type="line"/>
+      <point x="53" y="225" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

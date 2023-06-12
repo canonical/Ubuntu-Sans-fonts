@@ -1,15 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="theta.sc" format="2">
-  <advance width="701"/>
-  <anchor x="351" y="0" name="bottom"/>
-  <anchor x="351" y="295" name="center"/>
-  <anchor x="631" y="10" name="ogonek"/>
-  <anchor x="351" y="776" name="top"/>
-  <anchor x="20" y="589" name="topleft"/>
-  <anchor x="681" y="589" name="topright"/>
+  <advance width="521"/>
+  <anchor x="260" y="0" name="bottom"/>
+  <anchor x="260" y="294" name="center"/>
+  <anchor x="473" y="10" name="ogonek"/>
+  <anchor x="260" y="588" name="top"/>
+  <anchor x="9" y="588" name="topleft"/>
+  <anchor x="511" y="588" name="topright"/>
   <outline>
+    <contour>
+      <point x="211" y="242" type="line"/>
+      <point x="311" y="242" type="line"/>
+      <point x="310" y="347" type="line"/>
+      <point x="211" y="347" type="line"/>
+    </contour>
     <component base="o.sc"/>
-    <component base="macroncomb.sc" xOffset="351"/>
   </outline>
   <lib>
     <dict>
@@ -21,6 +26,33 @@
         <integer>-11</integer>
         <key>width</key>
         <integer>87</integer>
+      </dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
       </dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>o.sc</string>

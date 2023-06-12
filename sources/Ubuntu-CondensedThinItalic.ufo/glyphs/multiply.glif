@@ -1,21 +1,54 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="multiply" format="2">
-  <advance width="434.1"/>
+  <advance width="420"/>
   <unicode hex="00D7"/>
   <outline>
     <contour>
-      <point x="154" y="173" type="line"/>
-      <point x="284" y="278" type="line"/>
-      <point x="373" y="163" type="line"/>
-      <point x="395" y="180" type="line"/>
-      <point x="308" y="297" type="line"/>
-      <point x="444" y="406" type="line"/>
-      <point x="425" y="428" type="line"/>
-      <point x="290" y="320" type="line"/>
-      <point x="204" y="432" type="line"/>
-      <point x="182" y="415" type="line"/>
-      <point x="269" y="302" type="line"/>
-      <point x="135" y="195" type="line"/>
+      <point x="85" y="173" type="line"/>
+      <point x="215" y="278" type="line"/>
+      <point x="304" y="163" type="line"/>
+      <point x="326" y="180" type="line"/>
+      <point x="239" y="297" type="line"/>
+      <point x="375" y="406" type="line"/>
+      <point x="356" y="428" type="line"/>
+      <point x="221" y="320" type="line"/>
+      <point x="135" y="432" type="line"/>
+      <point x="113" y="415" type="line"/>
+      <point x="200" y="302" type="line"/>
+      <point x="66" y="195" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

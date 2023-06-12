@@ -1,15 +1,42 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="upsilonpsiliperispomeni.sc" format="2">
-  <advance width="755"/>
-  <anchor x="391" y="575" name="top"/>
-  <anchor x="397" y="0" name="bottom"/>
-  <anchor x="172" y="580" name="topleft"/>
+  <advance width="647"/>
+  <anchor x="580" y="575" name="top"/>
+  <anchor x="438" y="0" name="bottom"/>
+  <anchor x="280" y="580" name="topleft"/>
   <outline>
-    <component base="omega.sc" xOffset="38"/>
-    <component base="psili.sc"/>
+    <component base="upsilon.sc" xOffset="227"/>
+    <component base="psiliperispomeni.sc"/>
   </outline>
   <lib>
     <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
@@ -18,15 +45,13 @@
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>omega.sc</string>
+          <string>upsilon.sc</string>
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>psili.sc</string>
+      <string>psiliperispomeni.sc</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>omega.sc</string>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <string>upsilon.sc</string>
     </dict>
   </lib>
 </glyph>

@@ -1,25 +1,60 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Tetse-cy" format="2">
-  <advance width="616"/>
+  <advance width="615"/>
   <unicode hex="04B4"/>
   <outline>
     <contour>
-      <point x="460" y="-185" type="line"/>
-      <point x="530" y="-185" type="line"/>
-      <point x="588" y="62" type="line"/>
-      <point x="532" y="62" type="line"/>
-      <point x="682" y="693" type="line"/>
-      <point x="610" y="693" type="line"/>
-      <point x="459" y="62" type="line"/>
-      <point x="213" y="62" type="line"/>
-      <point x="349" y="631" type="line"/>
-      <point x="465" y="631" type="line"/>
-      <point x="480" y="693" type="line"/>
-      <point x="175" y="693" type="line"/>
-      <point x="161" y="631" type="line"/>
-      <point x="278" y="631" type="line"/>
-      <point x="126" y="0" type="line"/>
-      <point x="504" y="0" type="line"/>
+      <point x="397" y="-185" type="line"/>
+      <point x="467" y="-185" type="line"/>
+      <point x="525" y="62" type="line"/>
+      <point x="469" y="62" type="line"/>
+      <point x="619" y="693" type="line"/>
+      <point x="547" y="693" type="line"/>
+      <point x="396" y="62" type="line"/>
+      <point x="150" y="62" type="line"/>
+      <point x="286" y="631" type="line"/>
+      <point x="402" y="631" type="line"/>
+      <point x="417" y="693" type="line"/>
+      <point x="112" y="693" type="line"/>
+      <point x="98" y="631" type="line"/>
+      <point x="215" y="631" type="line"/>
+      <point x="63" y="0" type="line"/>
+      <point x="441" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Tse-cy</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

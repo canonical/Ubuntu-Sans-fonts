@@ -1,32 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="wynn.sc" format="2">
-  <advance width="590"/>
+  <advance width="443"/>
   <outline>
     <contour>
-      <point x="90" y="-155" type="line"/>
-      <point x="165" y="-155" type="line"/>
-      <point x="165" y="1" type="line"/>
-      <point x="366" y="73"/>
-      <point x="533" y="173"/>
-      <point x="533" y="373" type="curve" smooth="yes"/>
-      <point x="533" y="513"/>
-      <point x="443" y="587"/>
-      <point x="282" y="587" type="curve" smooth="yes"/>
-      <point x="208" y="587"/>
-      <point x="129" y="561"/>
-      <point x="90" y="547" type="curve"/>
+      <point x="66" y="-155" type="line"/>
+      <point x="135" y="-155" type="line"/>
+      <point x="135" y="1" type="line"/>
+      <point x="282" y="73"/>
+      <point x="403" y="173"/>
+      <point x="403" y="375" type="curve" smooth="yes"/>
+      <point x="403" y="515"/>
+      <point x="336" y="590"/>
+      <point x="219" y="590" type="curve" smooth="yes"/>
+      <point x="165" y="590"/>
+      <point x="116" y="579"/>
+      <point x="66" y="550" type="curve"/>
     </contour>
     <contour>
-      <point x="165" y="72" type="curve"/>
-      <point x="165" y="502" type="line"/>
-      <point x="186" y="509"/>
-      <point x="224" y="524"/>
-      <point x="283" y="524" type="curve" smooth="yes"/>
-      <point x="391" y="524"/>
-      <point x="454" y="474"/>
-      <point x="454" y="377" type="curve" smooth="yes"/>
-      <point x="454" y="199"/>
-      <point x="313" y="131"/>
+      <point x="135" y="68" type="curve"/>
+      <point x="135" y="511" type="line"/>
+      <point x="158" y="523"/>
+      <point x="177" y="529"/>
+      <point x="217" y="529" type="curve" smooth="yes"/>
+      <point x="290" y="529"/>
+      <point x="331" y="476"/>
+      <point x="331" y="375" type="curve" smooth="yes"/>
+      <point x="331" y="198"/>
+      <point x="238" y="128"/>
     </contour>
   </outline>
   <lib>
@@ -40,6 +40,35 @@
         <key>width</key>
         <integer>89</integer>
       </dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>h.sc</string>
     </dict>
   </lib>
 </glyph>

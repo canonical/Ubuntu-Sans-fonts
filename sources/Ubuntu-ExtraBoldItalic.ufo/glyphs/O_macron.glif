@@ -2,31 +2,47 @@
 <glyph name="Omacron" format="2">
   <advance width="767"/>
   <unicode hex="014C"/>
+  <anchor x="282" y="0" name="bottom"/>
+  <anchor x="365" y="347" name="center"/>
+  <anchor x="569" y="10" name="ogonek"/>
+  <anchor x="492" y="886" name="top"/>
+  <anchor x="63" y="693" name="topleft"/>
+  <anchor x="790" y="693" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="macron" xOffset="199" yOffset="153"/>
+    <component base="macroncomb" xOffset="130" yOffset="161"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>O</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>macron</string>
-        </dict>
-      </array>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

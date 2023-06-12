@@ -1,40 +1,58 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sigma.sc" format="2">
-  <advance width="483"/>
+  <advance width="360"/>
   <outline>
     <contour>
-      <point x="48" y="0" type="line"/>
-      <point x="435" y="0" type="line"/>
-      <point x="435" y="31" type="line"/>
-      <point x="87" y="31" type="line"/>
-      <point x="137" y="109"/>
-      <point x="217" y="208"/>
-      <point x="299" y="304" type="curve"/>
-      <point x="232" y="385"/>
-      <point x="196" y="430"/>
-      <point x="101" y="544" type="curve"/>
-      <point x="432" y="544" type="line"/>
-      <point x="432" y="575" type="line"/>
-      <point x="59" y="575" type="line"/>
-      <point x="59" y="547" type="line"/>
-      <point x="123" y="468"/>
-      <point x="192" y="386"/>
-      <point x="259" y="304" type="curve"/>
-      <point x="174" y="206"/>
-      <point x="112" y="124"/>
-      <point x="48" y="29" type="curve"/>
+      <point x="30" y="0" type="line"/>
+      <point x="330" y="0" type="line"/>
+      <point x="330" y="30" type="line"/>
+      <point x="66" y="30" type="line"/>
+      <point x="115" y="126"/>
+      <point x="168" y="218"/>
+      <point x="225" y="304" type="curve"/>
+      <point x="168" y="386"/>
+      <point x="118" y="467"/>
+      <point x="77" y="545" type="curve"/>
+      <point x="328" y="545" type="line"/>
+      <point x="328" y="575" type="line"/>
+      <point x="39" y="575" type="line"/>
+      <point x="39" y="549" type="line"/>
+      <point x="84" y="466"/>
+      <point x="135" y="385"/>
+      <point x="190" y="304" type="curve"/>
+      <point x="133" y="214"/>
+      <point x="81" y="122"/>
+      <point x="30" y="28" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>RMXScaler</key>
+      <key>com.hugojourdan.ColorFlow</key>
       <dict>
-        <key>height</key>
-        <integer>83</integer>
-        <key>weight</key>
-        <integer>4</integer>
-        <key>width</key>
-        <real>84.5</real>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

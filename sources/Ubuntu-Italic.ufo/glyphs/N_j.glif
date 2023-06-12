@@ -1,13 +1,44 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Nj" format="2">
-  <advance width="927"/>
+  <advance width="911"/>
   <unicode hex="01CB"/>
+  <anchor x="289" y="0" name="bottom_1"/>
+  <anchor x="616" y="-185" name="bottom_2"/>
+  <anchor x="441" y="674" name="top_1"/>
+  <anchor x="904" y="746" name="top_2"/>
   <outline>
     <component base="N"/>
     <component base="j" xOffset="660"/>
   </outline>
   <lib>
     <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
@@ -27,6 +58,12 @@
           <string>j</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>N</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>j</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

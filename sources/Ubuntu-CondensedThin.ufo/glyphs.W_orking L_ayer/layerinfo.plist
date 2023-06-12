@@ -174,6 +174,8 @@
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.copyright</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.copyright.c2sc</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.currency</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dagger</key>
@@ -231,6 +233,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.eogonek</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.euro</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.euro.osf</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.exclamdown</key>
       <integer>4</integer>
@@ -300,6 +304,8 @@
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.paragraph</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.paragraph.c2sc</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.period</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.plusminus</key>
@@ -328,21 +334,29 @@
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.registered</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.registered.c2sc</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ring</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ring_acute</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.rupeeIndian</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.rupeeIndian.osf</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.scedilla</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.section</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.section.c2sc</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.semisoftsign-cy</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.slash</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.sterling</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.sterling.osf</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.tau</key>
       <integer>4</integer>
@@ -368,7 +382,13 @@
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.tugrik</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.tugrik.osf</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.two</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.two.osf</key>
+      <integer>12</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.two.tosf</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.uacute</key>
       <integer>4</integer>
@@ -383,6 +403,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.yat-cy</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.yen</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.yen.osf</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ygrave</key>
       <integer>4</integer>

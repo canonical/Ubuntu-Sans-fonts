@@ -1,44 +1,44 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zhe-cy.sc" format="2">
-  <advance width="898"/>
-  <anchor x="878" y="0" name="bottomright"/>
-  <anchor x="449" y="589" name="top"/>
+  <advance width="902"/>
+  <anchor x="880" y="0" name="bottomright"/>
+  <anchor x="451" y="589" name="top"/>
   <outline>
     <contour>
-      <point x="17" y="0" type="curve"/>
-      <point x="185" y="0" type="line"/>
-      <point x="260" y="109"/>
-      <point x="295" y="159"/>
-      <point x="375" y="257" type="curve"/>
-      <point x="375" y="0" type="line"/>
-      <point x="525" y="0" type="line"/>
-      <point x="525" y="257" type="line"/>
-      <point x="606" y="164"/>
-      <point x="624" y="130"/>
-      <point x="714" y="0" type="curve"/>
-      <point x="883" y="0" type="line"/>
-      <point x="811" y="126"/>
-      <point x="741" y="228"/>
-      <point x="651" y="310" type="curve"/>
-      <point x="745" y="409"/>
-      <point x="796" y="476"/>
-      <point x="883" y="589" type="curve"/>
-      <point x="701" y="589" type="line"/>
-      <point x="638" y="497"/>
-      <point x="601" y="457"/>
-      <point x="525" y="362" type="curve"/>
-      <point x="525" y="589" type="line"/>
-      <point x="375" y="589" type="line"/>
-      <point x="375" y="362" type="line"/>
-      <point x="290" y="463"/>
-      <point x="262" y="499"/>
-      <point x="198" y="589" type="curve"/>
-      <point x="15" y="589" type="line"/>
-      <point x="91" y="486"/>
-      <point x="149" y="410"/>
-      <point x="250" y="310" type="curve"/>
-      <point x="167" y="237"/>
-      <point x="87" y="119"/>
+      <point x="19" y="0" type="curve"/>
+      <point x="187" y="0" type="line"/>
+      <point x="262" y="109"/>
+      <point x="297" y="159"/>
+      <point x="377" y="257" type="curve"/>
+      <point x="377" y="0" type="line"/>
+      <point x="527" y="0" type="line"/>
+      <point x="527" y="257" type="line"/>
+      <point x="608" y="164"/>
+      <point x="626" y="130"/>
+      <point x="716" y="0" type="curve"/>
+      <point x="885" y="0" type="line"/>
+      <point x="813" y="126"/>
+      <point x="743" y="228"/>
+      <point x="653" y="310" type="curve"/>
+      <point x="747" y="409"/>
+      <point x="798" y="476"/>
+      <point x="885" y="589" type="curve"/>
+      <point x="703" y="589" type="line"/>
+      <point x="640" y="497"/>
+      <point x="603" y="457"/>
+      <point x="527" y="362" type="curve"/>
+      <point x="527" y="589" type="line"/>
+      <point x="377" y="589" type="line"/>
+      <point x="377" y="362" type="line"/>
+      <point x="292" y="463"/>
+      <point x="264" y="499"/>
+      <point x="200" y="589" type="curve"/>
+      <point x="17" y="589" type="line"/>
+      <point x="93" y="486"/>
+      <point x="151" y="410"/>
+      <point x="252" y="310" type="curve"/>
+      <point x="169" y="237"/>
+      <point x="89" y="119"/>
     </contour>
   </outline>
   <lib>
@@ -52,12 +52,37 @@
         <key>width</key>
         <integer>87</integer>
       </dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>=|k.sc</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>k.sc</string>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

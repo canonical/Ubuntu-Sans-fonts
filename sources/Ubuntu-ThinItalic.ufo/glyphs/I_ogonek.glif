@@ -1,32 +1,67 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Iogonek" format="2">
-  <advance width="213"/>
+  <advance width="212"/>
   <unicode hex="012E"/>
   <outline>
     <contour>
-      <point x="50" y="-186" type="curve" smooth="yes"/>
-      <point x="65" y="-186"/>
-      <point x="80" y="-184"/>
-      <point x="95" y="-179" type="curve"/>
-      <point x="100" y="-149" type="line"/>
-      <point x="86" y="-152"/>
-      <point x="74" y="-154"/>
-      <point x="65" y="-154" type="curve" smooth="yes"/>
-      <point x="39" y="-154"/>
-      <point x="23" y="-150"/>
-      <point x="23" y="-119" type="curve" smooth="yes"/>
-      <point x="23" y="-90"/>
-      <point x="56" y="-47"/>
-      <point x="125" y="0" type="curve"/>
-      <point x="291" y="693" type="line"/>
-      <point x="254" y="693" type="line"/>
-      <point x="88" y="0" type="line"/>
-      <point x="88" y="0" type="line"/>
-      <point x="18" y="-47"/>
-      <point x="-13" y="-92"/>
-      <point x="-13" y="-127" type="curve" smooth="yes"/>
-      <point x="-13" y="-164"/>
-      <point x="11" y="-186"/>
+      <point x="-12" y="-186" type="curve" smooth="yes"/>
+      <point x="3" y="-186"/>
+      <point x="18" y="-184"/>
+      <point x="33" y="-179" type="curve"/>
+      <point x="38" y="-149" type="line"/>
+      <point x="24" y="-152"/>
+      <point x="12" y="-154"/>
+      <point x="3" y="-154" type="curve" smooth="yes"/>
+      <point x="-23" y="-154"/>
+      <point x="-39" y="-150"/>
+      <point x="-39" y="-119" type="curve" smooth="yes"/>
+      <point x="-39" y="-90"/>
+      <point x="-6" y="-47"/>
+      <point x="63" y="0" type="curve"/>
+      <point x="229" y="693" type="line"/>
+      <point x="192" y="693" type="line"/>
+      <point x="26" y="0" type="line"/>
+      <point x="26" y="0" type="line"/>
+      <point x="-44" y="-47"/>
+      <point x="-75" y="-92"/>
+      <point x="-75" y="-127" type="curve" smooth="yes"/>
+      <point x="-75" y="-164"/>
+      <point x="-51" y="-186"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>I</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

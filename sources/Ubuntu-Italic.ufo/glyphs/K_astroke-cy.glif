@@ -1,36 +1,71 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Kastroke-cy" format="2">
-  <advance width="627"/>
+  <advance width="620"/>
   <unicode hex="049E"/>
   <outline>
     <contour>
-      <point x="88" y="0" type="line"/>
-      <point x="166" y="0" type="line"/>
-      <point x="246" y="338" type="line"/>
-      <point x="354" y="259"/>
-      <point x="437" y="142"/>
-      <point x="510" y="0" type="curve"/>
-      <point x="598" y="0" type="line"/>
-      <point x="547" y="115"/>
-      <point x="429" y="282"/>
-      <point x="335" y="356" type="curve"/>
-      <point x="461" y="454"/>
-      <point x="651" y="606"/>
-      <point x="745" y="693" type="curve"/>
-      <point x="644" y="693" type="line"/>
-      <point x="571" y="625"/>
-      <point x="384" y="470"/>
-      <point x="256" y="378" type="curve"/>
-      <point x="298" y="555" type="line"/>
-      <point x="390" y="555" type="line"/>
-      <point x="404" y="615" type="line"/>
-      <point x="313" y="615" type="line"/>
-      <point x="333" y="698" type="line"/>
-      <point x="255" y="698" type="line"/>
-      <point x="236" y="615" type="line"/>
-      <point x="165" y="615" type="line"/>
-      <point x="151" y="555" type="line"/>
-      <point x="221" y="555" type="line"/>
+      <point x="25" y="0" type="line"/>
+      <point x="103" y="0" type="line"/>
+      <point x="183" y="338" type="line"/>
+      <point x="291" y="259"/>
+      <point x="374" y="142"/>
+      <point x="447" y="0" type="curve"/>
+      <point x="535" y="0" type="line"/>
+      <point x="484" y="115"/>
+      <point x="366" y="282"/>
+      <point x="272" y="356" type="curve"/>
+      <point x="398" y="454"/>
+      <point x="588" y="606"/>
+      <point x="682" y="693" type="curve"/>
+      <point x="581" y="693" type="line"/>
+      <point x="508" y="625"/>
+      <point x="321" y="470"/>
+      <point x="193" y="378" type="curve"/>
+      <point x="235" y="555" type="line"/>
+      <point x="327" y="555" type="line"/>
+      <point x="341" y="615" type="line"/>
+      <point x="250" y="615" type="line"/>
+      <point x="270" y="698" type="line"/>
+      <point x="192" y="698" type="line"/>
+      <point x="173" y="615" type="line"/>
+      <point x="102" y="615" type="line"/>
+      <point x="88" y="555" type="line"/>
+      <point x="158" y="555" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ka-cy</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

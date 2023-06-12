@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tcommaaccent.sc" format="2">
-  <advance width="559"/>
-  <anchor x="280" y="-203" name="bottom"/>
-  <anchor x="280" y="295" name="center"/>
-  <anchor x="280" y="589" name="top"/>
+  <advance width="415"/>
+  <anchor x="205" y="-203" name="bottom"/>
+  <anchor x="208" y="294" name="center"/>
+  <anchor x="208" y="588" name="top"/>
   <outline>
     <component base="t.sc"/>
-    <component base="commaaccentcomb.sc" xOffset="280"/>
+    <component base="commaaccentcomb.sc" xOffset="205"/>
   </outline>
   <lib>
     <dict>
@@ -19,12 +19,37 @@
         <key>width</key>
         <integer>87</integer>
       </dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>t.sc</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>t.sc</string>
-      <key>public.markColor</key>
-      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

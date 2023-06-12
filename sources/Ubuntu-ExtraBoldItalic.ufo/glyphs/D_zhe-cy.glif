@@ -4,18 +4,55 @@
   <unicode hex="040F"/>
   <outline>
     <contour>
-      <point x="236" y="-185" type="line"/>
-      <point x="386" y="-185" type="line"/>
-      <point x="431" y="0" type="line"/>
-      <point x="630" y="0" type="line"/>
-      <point x="796" y="693" type="line"/>
-      <point x="640" y="693" type="line"/>
-      <point x="505" y="132" type="line"/>
-      <point x="267" y="132" type="line"/>
-      <point x="402" y="693" type="line"/>
-      <point x="246" y="693" type="line"/>
-      <point x="80" y="0" type="line"/>
-      <point x="281" y="0" type="line"/>
+      <point x="176" y="-185" type="line"/>
+      <point x="326" y="-185" type="line"/>
+      <point x="371" y="0" type="line"/>
+      <point x="570" y="0" type="line"/>
+      <point x="736" y="693" type="line"/>
+      <point x="580" y="693" type="line"/>
+      <point x="445" y="132" type="line"/>
+      <point x="207" y="132" type="line"/>
+      <point x="342" y="693" type="line"/>
+      <point x="186" y="693" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="221" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>En-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>En-cy</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

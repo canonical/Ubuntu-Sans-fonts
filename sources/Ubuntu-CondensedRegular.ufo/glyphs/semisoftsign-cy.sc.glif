@@ -1,46 +1,46 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="semisoftsign-cy.sc" format="2">
-  <advance width="573"/>
+  <advance width="459"/>
   <outline>
     <contour>
-      <point x="262" y="-5" type="curve" smooth="yes"/>
-      <point x="445" y="-5"/>
-      <point x="529" y="62"/>
-      <point x="529" y="182" type="curve" smooth="yes"/>
-      <point x="529" y="308"/>
-      <point x="438" y="368"/>
-      <point x="266" y="368" type="curve" smooth="yes"/>
-      <point x="244" y="368"/>
-      <point x="198" y="366"/>
-      <point x="177" y="363" type="curve"/>
-      <point x="177" y="457" type="line"/>
-      <point x="295" y="457" type="line"/>
-      <point x="295" y="513" type="line"/>
-      <point x="177" y="513" type="line"/>
-      <point x="177" y="580" type="line"/>
-      <point x="101" y="580" type="line"/>
-      <point x="101" y="513" type="line"/>
-      <point x="30" y="513" type="line"/>
-      <point x="30" y="457" type="line"/>
-      <point x="101" y="457" type="line"/>
-      <point x="101" y="11" type="line"/>
-      <point x="148" y="0"/>
-      <point x="211" y="-5"/>
+      <point x="211" y="-5" type="curve" smooth="yes"/>
+      <point x="352" y="-5"/>
+      <point x="424" y="62"/>
+      <point x="424" y="182" type="curve" smooth="yes"/>
+      <point x="424" y="306"/>
+      <point x="352" y="369"/>
+      <point x="218" y="369" type="curve" smooth="yes"/>
+      <point x="201" y="369"/>
+      <point x="169" y="367"/>
+      <point x="152" y="364" type="curve"/>
+      <point x="152" y="454" type="line"/>
+      <point x="256" y="454" type="line"/>
+      <point x="256" y="509" type="line"/>
+      <point x="152" y="509" type="line"/>
+      <point x="152" y="579" type="line"/>
+      <point x="83" y="579" type="line"/>
+      <point x="83" y="509" type="line"/>
+      <point x="15" y="509" type="line"/>
+      <point x="15" y="454" type="line"/>
+      <point x="83" y="454" type="line"/>
+      <point x="83" y="11" type="line"/>
+      <point x="122" y="0"/>
+      <point x="171" y="-5"/>
     </contour>
     <contour>
-      <point x="266" y="58" type="curve" smooth="yes"/>
-      <point x="236" y="58"/>
-      <point x="207" y="60"/>
-      <point x="177" y="64" type="curve"/>
-      <point x="177" y="300" type="line"/>
-      <point x="202" y="303"/>
-      <point x="233" y="305"/>
-      <point x="268" y="305" type="curve" smooth="yes"/>
-      <point x="374" y="305"/>
-      <point x="452" y="279"/>
-      <point x="452" y="182" type="curve" smooth="yes"/>
-      <point x="452" y="83"/>
-      <point x="367" y="58"/>
+      <point x="216" y="55" type="curve" smooth="yes"/>
+      <point x="187" y="55"/>
+      <point x="167" y="58"/>
+      <point x="152" y="60" type="curve"/>
+      <point x="152" y="304" type="line"/>
+      <point x="169" y="307"/>
+      <point x="195" y="309"/>
+      <point x="217" y="309" type="curve" smooth="yes"/>
+      <point x="297" y="309"/>
+      <point x="352" y="279"/>
+      <point x="352" y="182" type="curve" smooth="yes"/>
+      <point x="352" y="83"/>
+      <point x="289" y="55"/>
     </contour>
   </outline>
   <lib>
@@ -53,6 +53,33 @@
         <integer>-8</integer>
         <key>width</key>
         <integer>89</integer>
+      </dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
       </dict>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>=softsign-cy.sc</string>

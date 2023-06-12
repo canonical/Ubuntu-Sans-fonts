@@ -1,32 +1,47 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ograve" format="2">
-  <advance width="409.55"/>
+  <advance width="410"/>
   <unicode hex="00F2"/>
+  <anchor x="140" y="0" name="bottom"/>
+  <anchor x="202" y="258" name="center"/>
+  <anchor x="247" y="10" name="ogonek"/>
+  <anchor x="325" y="774" name="top"/>
+  <anchor x="389" y="516" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="grave" xOffset="17"/>
+    <component base="gravecomb" xOffset="-28"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>o</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>grave</string>
-        </dict>
-      </array>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

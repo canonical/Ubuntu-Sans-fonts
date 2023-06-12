@@ -5,24 +5,59 @@
   <unicode hex="2C66"/>
   <outline>
     <contour>
-      <point x="68" y="-43" type="line"/>
-      <point x="214" y="167" type="line"/>
-      <point x="174" y="0" type="line"/>
-      <point x="245" y="0" type="line"/>
-      <point x="319" y="305" type="line"/>
-      <point x="622" y="729" type="line"/>
-      <point x="589" y="748" type="line"/>
-      <point x="549" y="693" type="line"/>
-      <point x="189" y="693" type="line"/>
-      <point x="174" y="631" type="line"/>
-      <point x="326" y="631" type="line"/>
-      <point x="237" y="263" type="line"/>
-      <point x="34" y="-23" type="line"/>
+      <point x="5" y="-43" type="line"/>
+      <point x="151" y="167" type="line"/>
+      <point x="111" y="0" type="line"/>
+      <point x="182" y="0" type="line"/>
+      <point x="256" y="305" type="line"/>
+      <point x="559" y="729" type="line"/>
+      <point x="526" y="748" type="line"/>
+      <point x="486" y="693" type="line"/>
+      <point x="126" y="693" type="line"/>
+      <point x="111" y="631" type="line"/>
+      <point x="263" y="631" type="line"/>
+      <point x="174" y="263" type="line"/>
+      <point x="-29" y="-23" type="line"/>
     </contour>
     <contour>
-      <point x="342" y="401" type="line"/>
-      <point x="398" y="631" type="line"/>
-      <point x="502" y="631" type="line"/>
+      <point x="279" y="401" type="line"/>
+      <point x="335" y="631" type="line"/>
+      <point x="439" y="631" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>T</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

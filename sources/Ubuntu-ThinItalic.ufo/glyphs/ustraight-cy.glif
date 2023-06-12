@@ -4,23 +4,56 @@
   <unicode hex="04AF"/>
   <outline>
     <contour>
-      <point x="183" y="-185" type="line"/>
-      <point x="217" y="-185" type="line"/>
-      <point x="260" y="-6" type="line"/>
-      <point x="382" y="153"/>
-      <point x="490" y="322"/>
-      <point x="547" y="513" type="curve"/>
-      <point x="512" y="513" type="line"/>
-      <point x="461" y="346"/>
-      <point x="371" y="195"/>
-      <point x="252" y="34" type="curve"/>
-      <point x="214" y="207"/>
-      <point x="197" y="360"/>
-      <point x="197" y="513" type="curve"/>
-      <point x="162" y="513" type="line"/>
-      <point x="162" y="337"/>
-      <point x="189" y="164"/>
-      <point x="224" y="-8" type="curve"/>
+      <point x="121" y="-185" type="line"/>
+      <point x="155" y="-185" type="line"/>
+      <point x="198" y="-6" type="line"/>
+      <point x="320" y="153"/>
+      <point x="428" y="322"/>
+      <point x="485" y="513" type="curve"/>
+      <point x="450" y="513" type="line"/>
+      <point x="399" y="346"/>
+      <point x="309" y="195"/>
+      <point x="190" y="34" type="curve"/>
+      <point x="152" y="207"/>
+      <point x="135" y="360"/>
+      <point x="135" y="513" type="curve"/>
+      <point x="100" y="513" type="line"/>
+      <point x="100" y="337"/>
+      <point x="127" y="164"/>
+      <point x="162" y="-8" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

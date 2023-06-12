@@ -1,51 +1,88 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Astroke" format="2">
-  <advance width="714"/>
+  <advance width="724"/>
   <unicode hex="023A"/>
   <unicode hex="2C65"/>
   <outline>
     <contour>
-      <point x="260" y="-97" type="line"/>
-      <point x="401" y="151" type="line"/>
-      <point x="522" y="151" type="line"/>
-      <point x="526" y="102"/>
-      <point x="529" y="52"/>
-      <point x="532" y="0" type="curve"/>
-      <point x="689" y="0" type="line"/>
-      <point x="673" y="160"/>
-      <point x="648" y="361"/>
-      <point x="619" y="533" type="curve"/>
-      <point x="745" y="752" type="line"/>
-      <point x="671" y="787" type="line"/>
-      <point x="597" y="657" type="line"/>
-      <point x="589" y="693" type="line"/>
-      <point x="450" y="693" type="line"/>
-      <point x="311" y="501"/>
-      <point x="188" y="298"/>
-      <point x="15" y="0" type="curve"/>
-      <point x="178" y="0" type="line"/>
-      <point x="205" y="52"/>
-      <point x="235" y="102"/>
-      <point x="262" y="151" type="curve"/>
-      <point x="308" y="151" type="line"/>
-      <point x="187" y="-62" type="line"/>
+      <point x="205" y="-97" type="line"/>
+      <point x="346" y="151" type="line"/>
+      <point x="467" y="151" type="line"/>
+      <point x="471" y="102"/>
+      <point x="474" y="52"/>
+      <point x="477" y="0" type="curve"/>
+      <point x="634" y="0" type="line"/>
+      <point x="618" y="160"/>
+      <point x="593" y="361"/>
+      <point x="564" y="533" type="curve"/>
+      <point x="690" y="752" type="line"/>
+      <point x="616" y="787" type="line"/>
+      <point x="542" y="657" type="line"/>
+      <point x="534" y="693" type="line"/>
+      <point x="395" y="693" type="line"/>
+      <point x="256" y="501"/>
+      <point x="133" y="298"/>
+      <point x="-40" y="0" type="curve"/>
+      <point x="123" y="0" type="line"/>
+      <point x="150" y="52"/>
+      <point x="180" y="102"/>
+      <point x="207" y="151" type="curve"/>
+      <point x="253" y="151" type="line"/>
+      <point x="132" y="-62" type="line"/>
     </contour>
     <contour>
-      <point x="471" y="273" type="line"/>
-      <point x="507" y="336" type="line"/>
-      <point x="509" y="315"/>
-      <point x="510" y="294"/>
-      <point x="512" y="273" type="curve"/>
+      <point x="416" y="273" type="line"/>
+      <point x="452" y="336" type="line"/>
+      <point x="454" y="315"/>
+      <point x="455" y="294"/>
+      <point x="457" y="273" type="curve"/>
     </contour>
     <contour>
-      <point x="325" y="273" type="line"/>
-      <point x="376" y="364"/>
-      <point x="430" y="452"/>
-      <point x="486" y="541" type="curve"/>
-      <point x="489" y="520"/>
-      <point x="491" y="498"/>
-      <point x="494" y="477" type="curve"/>
-      <point x="378" y="273" type="line"/>
+      <point x="270" y="273" type="line"/>
+      <point x="321" y="364"/>
+      <point x="375" y="452"/>
+      <point x="431" y="541" type="curve"/>
+      <point x="434" y="520"/>
+      <point x="436" y="498"/>
+      <point x="439" y="477" type="curve"/>
+      <point x="323" y="273" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>A</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

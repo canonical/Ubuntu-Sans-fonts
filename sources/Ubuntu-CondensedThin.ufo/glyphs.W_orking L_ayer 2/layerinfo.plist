@@ -518,6 +518,8 @@
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ertick-cy</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ertick-cy.sc</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.eshreversedloop</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.estroke</key>
@@ -563,6 +565,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.hardsign-cy</key>
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.hryvnia</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.hryvnia.osf</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.hv</key>
       <integer>4</integer>
@@ -612,6 +616,10 @@
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.nine</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.nine.osf</key>
+      <integer>12</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.nine.tosf</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.nje-cy</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.notequal</key>
@@ -619,6 +627,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.nu</key>
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.numbersign</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.numbersign.c2sc</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.numero</key>
       <integer>4</integer>
@@ -682,13 +692,19 @@
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.registered</key>
       <integer>5</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.registered.c2sc</key>
+      <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.rho</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.rstroke</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ruble</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ruble.osf</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.section</key>
+      <integer>5</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.section.c2sc</key>
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.semisoftsign-cy</key>
       <integer>5</integer>
@@ -709,6 +725,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.tau</key>
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.tenge</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.tenge.osf</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.tetse-cy</key>
       <integer>4</integer>
@@ -733,6 +751,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.tshe-cy</key>
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.tugrik</key>
+      <integer>5</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.tugrik.osf</key>
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.two.numr</key>
       <integer>4</integer>

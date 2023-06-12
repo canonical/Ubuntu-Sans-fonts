@@ -1,32 +1,67 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kadescender-cy" format="2">
-  <advance width="481"/>
+  <advance width="479"/>
   <unicode hex="049B"/>
   <outline>
     <contour>
-      <point x="439" y="-143" type="line"/>
-      <point x="473" y="-143" type="line"/>
-      <point x="515" y="36" type="line"/>
-      <point x="464" y="36" type="line"/>
-      <point x="423" y="116"/>
-      <point x="339" y="217"/>
-      <point x="230" y="285" type="curve"/>
-      <point x="316" y="334"/>
-      <point x="450" y="447"/>
-      <point x="503" y="513" type="curve"/>
-      <point x="464" y="513" type="line"/>
-      <point x="423" y="465"/>
-      <point x="299" y="359"/>
-      <point x="195" y="294" type="curve"/>
-      <point x="248" y="513" type="line"/>
-      <point x="214" y="513" type="line"/>
-      <point x="90" y="0" type="line"/>
-      <point x="124" y="0" type="line"/>
-      <point x="190" y="274" type="line"/>
-      <point x="278" y="223"/>
-      <point x="376" y="145"/>
-      <point x="446" y="0" type="curve"/>
-      <point x="473" y="0" type="line"/>
+      <point x="375" y="-143" type="line"/>
+      <point x="409" y="-143" type="line"/>
+      <point x="451" y="36" type="line"/>
+      <point x="400" y="36" type="line"/>
+      <point x="359" y="116"/>
+      <point x="275" y="217"/>
+      <point x="166" y="285" type="curve"/>
+      <point x="252" y="334"/>
+      <point x="386" y="447"/>
+      <point x="439" y="513" type="curve"/>
+      <point x="400" y="513" type="line"/>
+      <point x="359" y="465"/>
+      <point x="235" y="359"/>
+      <point x="131" y="294" type="curve"/>
+      <point x="184" y="513" type="line"/>
+      <point x="150" y="513" type="line"/>
+      <point x="26" y="0" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="126" y="274" type="line"/>
+      <point x="214" y="223"/>
+      <point x="312" y="145"/>
+      <point x="382" y="0" type="curve"/>
+      <point x="409" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>en-cy</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

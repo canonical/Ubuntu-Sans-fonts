@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tbar.sc" format="2">
-  <advance width="477"/>
+  <advance width="358"/>
   <outline>
     <contour>
-      <point x="222" y="0" type="line"/>
-      <point x="256" y="0" type="line"/>
-      <point x="256" y="279" type="line"/>
-      <point x="356" y="279" type="line"/>
-      <point x="356" y="310" type="line"/>
-      <point x="256" y="310" type="line"/>
-      <point x="256" y="544" type="line"/>
-      <point x="446" y="544" type="line"/>
-      <point x="446" y="575" type="line"/>
-      <point x="31" y="575" type="line"/>
-      <point x="31" y="544" type="line"/>
-      <point x="222" y="544" type="line"/>
-      <point x="222" y="310" type="line"/>
-      <point x="122" y="310" type="line"/>
-      <point x="122" y="279" type="line"/>
-      <point x="222" y="279" type="line"/>
+      <point x="163" y="0" type="line"/>
+      <point x="195" y="0" type="line"/>
+      <point x="195" y="279" type="line"/>
+      <point x="270" y="279" type="line"/>
+      <point x="270" y="307" type="line"/>
+      <point x="195" y="307" type="line"/>
+      <point x="195" y="545" type="line"/>
+      <point x="335" y="545" type="line"/>
+      <point x="335" y="575" type="line"/>
+      <point x="23" y="575" type="line"/>
+      <point x="23" y="545" type="line"/>
+      <point x="163" y="545" type="line"/>
+      <point x="163" y="307" type="line"/>
+      <point x="88" y="307" type="line"/>
+      <point x="88" y="279" type="line"/>
+      <point x="163" y="279" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,6 +31,33 @@
         <integer>4</integer>
         <key>width</key>
         <real>84.5</real>
+      </dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
       </dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>t.sc</string>

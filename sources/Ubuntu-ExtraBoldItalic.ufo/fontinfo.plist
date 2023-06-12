@@ -15,12 +15,24 @@
     <key>guidelines</key>
     <array>
       <dict>
-        <key>angle</key>
-        <integer>90</integer>
-        <key>x</key>
-        <integer>0</integer>
         <key>y</key>
         <integer>300</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <real>76.5</real>
+        <key>x</key>
+        <integer>371</integer>
+        <key>y</key>
+        <integer>192</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>x</key>
+        <integer>489</integer>
+        <key>y</key>
+        <integer>687</integer>
       </dict>
     </array>
     <key>italicAngle</key>
@@ -104,6 +116,32 @@
     <real>0.04</real>
     <key>postscriptBlueShift</key>
     <integer>7</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>-16</integer>
+      <integer>0</integer>
+      <integer>526</integer>
+      <integer>542</integer>
+      <integer>693</integer>
+      <integer>709</integer>
+      <integer>776</integer>
+      <integer>792</integer>
+    </array>
+    <key>postscriptOtherBlues</key>
+    <array>
+      <integer>-201</integer>
+      <integer>-185</integer>
+    </array>
+    <key>postscriptStemSnapH</key>
+    <array>
+      <integer>137</integer>
+      <integer>128</integer>
+    </array>
+    <key>postscriptStemSnapV</key>
+    <array>
+      <integer>161</integer>
+      <integer>149</integer>
+    </array>
     <key>postscriptUnderlinePosition</key>
     <integer>-138</integer>
     <key>postscriptUnderlineThickness</key>
@@ -117,7 +155,7 @@
     <key>versionMajor</key>
     <integer>0</integer>
     <key>versionMinor</key>
-    <integer>866</integer>
+    <integer>869</integer>
     <key>xHeight</key>
     <integer>526</integer>
   </dict>

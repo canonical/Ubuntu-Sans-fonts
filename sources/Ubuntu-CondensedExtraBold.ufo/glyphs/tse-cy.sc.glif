@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tse-cy.sc" format="2">
-  <advance width="716"/>
+  <advance width="553"/>
   <outline>
     <contour>
-      <point x="550" y="-157" type="line"/>
-      <point x="696" y="-157" type="line"/>
-      <point x="696" y="128" type="line"/>
-      <point x="582" y="128" type="line"/>
-      <point x="582" y="589" type="line"/>
-      <point x="430" y="589" type="line"/>
-      <point x="430" y="128" type="line"/>
-      <point x="226" y="128" type="line"/>
-      <point x="226" y="589" type="line"/>
-      <point x="74" y="589" type="line"/>
-      <point x="74" y="0" type="line"/>
-      <point x="550" y="0" type="line"/>
+      <point x="405" y="-157" type="line"/>
+      <point x="535" y="-157" type="line"/>
+      <point x="535" y="117" type="line"/>
+      <point x="450" y="117" type="line"/>
+      <point x="450" y="588" type="line"/>
+      <point x="312" y="588" type="line"/>
+      <point x="312" y="117" type="line"/>
+      <point x="190" y="117" type="line"/>
+      <point x="190" y="588" type="line"/>
+      <point x="52" y="588" type="line"/>
+      <point x="52" y="0" type="line"/>
+      <point x="405" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -27,6 +27,33 @@
         <integer>-11</integer>
         <key>width</key>
         <integer>87</integer>
+      </dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
       </dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>h.sc</string>

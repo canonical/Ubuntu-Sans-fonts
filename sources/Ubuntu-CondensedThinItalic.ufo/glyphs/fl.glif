@@ -1,47 +1,84 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fl" format="2">
-  <advance width="535.6"/>
+  <advance width="537"/>
   <unicode hex="FB02"/>
   <outline>
     <contour>
-      <point x="19" y="-189" type="line"/>
-      <point x="72" y="-126"/>
-      <point x="97" y="-55"/>
-      <point x="119" y="39" type="curve" smooth="yes"/>
-      <point x="227" y="490" type="line"/>
-      <point x="357" y="490" type="line"/>
-      <point x="363" y="516" type="line"/>
-      <point x="232" y="516" type="line"/>
-      <point x="254" y="607" type="line" smooth="yes"/>
-      <point x="282" y="724"/>
-      <point x="330" y="752"/>
-      <point x="380" y="752" type="curve" smooth="yes"/>
-      <point x="406" y="752"/>
-      <point x="422" y="746"/>
-      <point x="442" y="740" type="curve"/>
-      <point x="453" y="766" type="line"/>
-      <point x="434" y="772"/>
-      <point x="416" y="776"/>
-      <point x="389" y="776" type="curve" smooth="yes"/>
-      <point x="336" y="776"/>
-      <point x="263" y="755"/>
-      <point x="228" y="609" type="curve" smooth="yes"/>
-      <point x="82" y="4" type="line" smooth="yes"/>
-      <point x="63" y="-76"/>
-      <point x="42" y="-122"/>
-      <point x="-4" y="-183" type="curve"/>
+      <point x="-43" y="-189" type="line"/>
+      <point x="10" y="-126"/>
+      <point x="35" y="-55"/>
+      <point x="57" y="39" type="curve" smooth="yes"/>
+      <point x="165" y="490" type="line"/>
+      <point x="295" y="490" type="line"/>
+      <point x="301" y="516" type="line"/>
+      <point x="170" y="516" type="line"/>
+      <point x="192" y="607" type="line" smooth="yes"/>
+      <point x="220" y="724"/>
+      <point x="268" y="752"/>
+      <point x="318" y="752" type="curve" smooth="yes"/>
+      <point x="344" y="752"/>
+      <point x="360" y="746"/>
+      <point x="380" y="740" type="curve"/>
+      <point x="391" y="766" type="line"/>
+      <point x="372" y="772"/>
+      <point x="354" y="776"/>
+      <point x="327" y="776" type="curve" smooth="yes"/>
+      <point x="274" y="776"/>
+      <point x="201" y="755"/>
+      <point x="166" y="609" type="curve" smooth="yes"/>
+      <point x="20" y="4" type="line" smooth="yes"/>
+      <point x="1" y="-76"/>
+      <point x="-20" y="-122"/>
+      <point x="-66" y="-183" type="curve"/>
     </contour>
     <contour>
-      <point x="509" y="-10" type="curve"/>
-      <point x="516" y="16" type="line"/>
-      <point x="418" y="34"/>
-      <point x="450" y="147"/>
-      <point x="465" y="216" type="curve" smooth="yes"/>
-      <point x="601" y="776" type="line"/>
-      <point x="571" y="770" type="line"/>
-      <point x="436" y="201" type="line" smooth="yes"/>
-      <point x="418" y="126"/>
-      <point x="393" y="14"/>
+      <point x="447" y="-10" type="curve"/>
+      <point x="454" y="16" type="line"/>
+      <point x="356" y="34"/>
+      <point x="388" y="147"/>
+      <point x="403" y="216" type="curve" smooth="yes"/>
+      <point x="539" y="776" type="line"/>
+      <point x="509" y="770" type="line"/>
+      <point x="374" y="201" type="line" smooth="yes"/>
+      <point x="356" y="126"/>
+      <point x="331" y="14"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>l</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

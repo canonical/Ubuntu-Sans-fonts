@@ -9,7 +9,7 @@
     <key>copyright</key>
     <string>Copyright 2011, 2022, 2023 Canonical Ltd. Licensed under the Ubuntu Font Licence 1.0</string>
     <key>descender</key>
-    <integer>-200</integer>
+    <integer>-185</integer>
     <key>familyName</key>
     <string>Ubuntu</string>
     <key>guidelines</key>
@@ -17,10 +17,72 @@
       <dict>
         <key>angle</key>
         <integer>0</integer>
+        <key>name</key>
+        <string> [locked]</string>
         <key>x</key>
-        <integer>354</integer>
+        <integer>-67</integer>
         <key>y</key>
-        <integer>668</integer>
+        <integer>575</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>name</key>
+        <string> [locked]</string>
+        <key>x</key>
+        <integer>15</integer>
+        <key>y</key>
+        <integer>585</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>name</key>
+        <string> [locked]</string>
+        <key>x</key>
+        <integer>-11</integer>
+        <key>y</key>
+        <integer>-10</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>x</key>
+        <integer>196</integer>
+        <key>y</key>
+        <integer>281</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>x</key>
+        <integer>243</integer>
+        <key>y</key>
+        <integer>-154</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>x</key>
+        <integer>134</integer>
+        <key>y</key>
+        <integer>682</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>x</key>
+        <integer>220</integer>
+        <key>y</key>
+        <integer>705</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>90</integer>
+        <key>x</key>
+        <integer>-200</integer>
+        <key>y</key>
+        <integer>-185</integer>
       </dict>
     </array>
     <key>italicAngle</key>
@@ -104,6 +166,34 @@
     <real>0.04</real>
     <key>postscriptBlueShift</key>
     <integer>7</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>-16</integer>
+      <integer>0</integer>
+      <integer>517</integer>
+      <integer>533</integer>
+      <integer>575</integer>
+      <integer>591</integer>
+      <integer>693</integer>
+      <integer>709</integer>
+      <integer>776</integer>
+      <integer>792</integer>
+    </array>
+    <key>postscriptOtherBlues</key>
+    <array>
+      <integer>-201</integer>
+      <integer>-185</integer>
+    </array>
+    <key>postscriptStemSnapH</key>
+    <array>
+      <integer>34</integer>
+      <integer>32</integer>
+    </array>
+    <key>postscriptStemSnapV</key>
+    <array>
+      <integer>38</integer>
+      <integer>34</integer>
+    </array>
     <key>postscriptUnderlinePosition</key>
     <integer>-138</integer>
     <key>postscriptUnderlineThickness</key>
@@ -117,7 +207,7 @@
     <key>versionMajor</key>
     <integer>0</integer>
     <key>versionMinor</key>
-    <integer>866</integer>
+    <integer>869</integer>
     <key>xHeight</key>
     <integer>517</integer>
   </dict>

@@ -1,27 +1,45 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="i" format="2">
-  <advance width="194.3"/>
+  <advance width="195"/>
   <unicode hex="0069"/>
+  <anchor x="36" y="0" name="bottom"/>
+  <anchor x="54" y="10" name="ogonek"/>
+  <anchor x="209" y="716" name="top"/>
   <outline>
-    <contour>
-      <point x="84" y="0" type="line"/>
-      <point x="111" y="0" type="line"/>
-      <point x="235" y="516" type="line"/>
-      <point x="207" y="516" type="line"/>
-    </contour>
-    <contour>
-      <point x="255" y="637" type="curve" smooth="yes"/>
-      <point x="272" y="637"/>
-      <point x="285" y="652"/>
-      <point x="285" y="670" type="curve" smooth="yes"/>
-      <point x="285" y="684"/>
-      <point x="273" y="696"/>
-      <point x="261" y="696" type="curve" smooth="yes"/>
-      <point x="241" y="696"/>
-      <point x="232" y="679"/>
-      <point x="232" y="663" type="curve" smooth="yes"/>
-      <point x="232" y="649"/>
-      <point x="241" y="637"/>
-    </contour>
+    <component base="idotless"/>
+    <component base="dotaccentcomb.i" xOffset="99"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

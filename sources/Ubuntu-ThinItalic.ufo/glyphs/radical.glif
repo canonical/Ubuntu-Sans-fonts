@@ -4,19 +4,52 @@
   <unicode hex="221A"/>
   <outline>
     <contour>
-      <point x="270" y="-15" type="curve"/>
-      <point x="312" y="-15" type="line"/>
-      <point x="727" y="783" type="line"/>
-      <point x="694" y="783" type="line"/>
-      <point x="297" y="18" type="line"/>
-      <point x="279" y="135"/>
-      <point x="257" y="270"/>
-      <point x="234" y="374" type="curve"/>
-      <point x="115" y="339" type="line"/>
-      <point x="117" y="314" type="line"/>
-      <point x="208" y="341" type="line"/>
-      <point x="231" y="246"/>
-      <point x="251" y="124"/>
+      <point x="208" y="-15" type="curve"/>
+      <point x="250" y="-15" type="line"/>
+      <point x="665" y="783" type="line"/>
+      <point x="632" y="783" type="line"/>
+      <point x="235" y="18" type="line"/>
+      <point x="217" y="135"/>
+      <point x="195" y="270"/>
+      <point x="172" y="374" type="curve"/>
+      <point x="53" y="339" type="line"/>
+      <point x="55" y="314" type="line"/>
+      <point x="146" y="341" type="line"/>
+      <point x="169" y="246"/>
+      <point x="189" y="124"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

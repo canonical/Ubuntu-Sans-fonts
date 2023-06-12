@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kabashkir-cy.sc" format="2">
-  <advance width="671"/>
+  <advance width="496"/>
   <outline>
     <contour>
-      <point x="188" y="0" type="line"/>
-      <point x="264" y="0" type="line"/>
-      <point x="264" y="278" type="line"/>
-      <point x="367" y="221"/>
-      <point x="487" y="107"/>
-      <point x="562" y="0" type="curve"/>
-      <point x="648" y="0" type="line"/>
-      <point x="590" y="102"/>
-      <point x="446" y="245"/>
-      <point x="342" y="310" type="curve"/>
-      <point x="430" y="387"/>
-      <point x="559" y="507"/>
-      <point x="629" y="580" type="curve"/>
-      <point x="539" y="580" type="line"/>
-      <point x="480" y="517"/>
-      <point x="354" y="401"/>
-      <point x="264" y="323" type="curve"/>
-      <point x="264" y="580" type="line"/>
-      <point x="27" y="580" type="line"/>
-      <point x="27" y="517" type="line"/>
-      <point x="188" y="517" type="line"/>
+      <point x="133" y="0" type="line"/>
+      <point x="202" y="0" type="line"/>
+      <point x="202" y="271" type="line"/>
+      <point x="266" y="222"/>
+      <point x="352" y="97"/>
+      <point x="399" y="0" type="curve"/>
+      <point x="476" y="0" type="line"/>
+      <point x="413" y="127"/>
+      <point x="329" y="239"/>
+      <point x="255" y="306" type="curve"/>
+      <point x="325" y="385"/>
+      <point x="395" y="476"/>
+      <point x="464" y="579" type="curve"/>
+      <point x="391" y="579" type="line"/>
+      <point x="325" y="482"/>
+      <point x="252" y="386"/>
+      <point x="202" y="328" type="curve"/>
+      <point x="202" y="579" type="line"/>
+      <point x="13" y="580" type="line"/>
+      <point x="13" y="520" type="line"/>
+      <point x="133" y="520" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -37,6 +37,35 @@
         <key>width</key>
         <integer>89</integer>
       </dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>hardsign-cy.sc</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>k.sc</string>
     </dict>

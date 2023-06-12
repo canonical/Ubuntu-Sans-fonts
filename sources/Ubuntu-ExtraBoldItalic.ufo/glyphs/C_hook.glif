@@ -4,45 +4,80 @@
   <unicode hex="0187"/>
   <outline>
     <contour>
-      <point x="406" y="-14" type="curve" smooth="yes"/>
-      <point x="502" y="-14"/>
-      <point x="564" y="3"/>
-      <point x="619" y="30" type="curve"/>
-      <point x="602" y="157" type="line"/>
-      <point x="555" y="136"/>
-      <point x="502" y="121"/>
-      <point x="438" y="121" type="curve" smooth="yes"/>
-      <point x="342" y="121"/>
-      <point x="289" y="173"/>
-      <point x="289" y="289" type="curve" smooth="yes"/>
-      <point x="289" y="444"/>
-      <point x="384" y="576"/>
-      <point x="536" y="576" type="curve" smooth="yes"/>
-      <point x="587" y="576"/>
-      <point x="626" y="567"/>
-      <point x="682" y="538" type="curve"/>
-      <point x="713" y="605" type="line" smooth="yes"/>
-      <point x="730" y="641"/>
-      <point x="756" y="659"/>
-      <point x="790" y="659" type="curve" smooth="yes"/>
-      <point x="807" y="659"/>
-      <point x="825" y="654"/>
-      <point x="846" y="645" type="curve"/>
-      <point x="903" y="764" type="line"/>
-      <point x="870" y="779"/>
-      <point x="835" y="786"/>
-      <point x="799" y="786" type="curve" smooth="yes"/>
-      <point x="735" y="786"/>
-      <point x="674" y="762"/>
-      <point x="639" y="698" type="curve"/>
-      <point x="608" y="706"/>
-      <point x="577" y="709"/>
-      <point x="546" y="709" type="curve" smooth="yes"/>
-      <point x="278" y="709"/>
-      <point x="128" y="488"/>
-      <point x="128" y="280" type="curve" smooth="yes"/>
-      <point x="128" y="99"/>
-      <point x="240" y="-14"/>
+      <point x="346" y="-14" type="curve" smooth="yes"/>
+      <point x="442" y="-14"/>
+      <point x="504" y="3"/>
+      <point x="559" y="30" type="curve"/>
+      <point x="542" y="157" type="line"/>
+      <point x="495" y="136"/>
+      <point x="442" y="121"/>
+      <point x="378" y="121" type="curve" smooth="yes"/>
+      <point x="282" y="121"/>
+      <point x="229" y="173"/>
+      <point x="229" y="289" type="curve" smooth="yes"/>
+      <point x="229" y="444"/>
+      <point x="324" y="576"/>
+      <point x="476" y="576" type="curve" smooth="yes"/>
+      <point x="527" y="576"/>
+      <point x="566" y="567"/>
+      <point x="622" y="538" type="curve"/>
+      <point x="653" y="605" type="line" smooth="yes"/>
+      <point x="670" y="641"/>
+      <point x="696" y="659"/>
+      <point x="730" y="659" type="curve" smooth="yes"/>
+      <point x="747" y="659"/>
+      <point x="765" y="654"/>
+      <point x="786" y="645" type="curve"/>
+      <point x="843" y="764" type="line"/>
+      <point x="810" y="779"/>
+      <point x="775" y="786"/>
+      <point x="739" y="786" type="curve" smooth="yes"/>
+      <point x="675" y="786"/>
+      <point x="614" y="762"/>
+      <point x="579" y="698" type="curve"/>
+      <point x="548" y="706"/>
+      <point x="517" y="709"/>
+      <point x="486" y="709" type="curve" smooth="yes"/>
+      <point x="218" y="709"/>
+      <point x="68" y="488"/>
+      <point x="68" y="280" type="curve" smooth="yes"/>
+      <point x="68" y="99"/>
+      <point x="180" y="-14"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>C</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,18 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="pe-cy.sc" format="2">
   <advance width="632"/>
-  <anchor x="612" y="0" name="bottomright"/>
   <outline>
-    <contour>
-      <point x="86" y="0" type="line"/>
-      <point x="162" y="0" type="line"/>
-      <point x="162" y="517" type="line"/>
-      <point x="470" y="517" type="line"/>
-      <point x="470" y="0" type="line"/>
-      <point x="546" y="0" type="line"/>
-      <point x="546" y="580" type="line"/>
-      <point x="86" y="580" type="line"/>
-    </contour>
+    <component base="pi.sc"/>
   </outline>
   <lib>
     <dict>
@@ -24,6 +14,33 @@
         <integer>-8</integer>
         <key>width</key>
         <integer>89</integer>
+      </dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
       </dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>h.sc</string>

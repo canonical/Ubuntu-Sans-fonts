@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.osf" format="2">
+  <advance width="439"/>
+  <outline>
+    <contour>
+      <point x="-9" y="0" type="curve"/>
+      <point x="341" y="0" type="line"/>
+      <point x="353" y="64" type="line"/>
+      <point x="86" y="64" type="line"/>
+      <point x="97" y="109"/>
+      <point x="177" y="173"/>
+      <point x="231" y="216" type="curve" smooth="yes"/>
+      <point x="307" y="276"/>
+      <point x="410" y="342"/>
+      <point x="410" y="460" type="curve" smooth="yes"/>
+      <point x="410" y="537"/>
+      <point x="355" y="591"/>
+      <point x="257" y="591" type="curve" smooth="yes"/>
+      <point x="177" y="591"/>
+      <point x="113" y="549"/>
+      <point x="83" y="522" type="curve"/>
+      <point x="111" y="471" type="line"/>
+      <point x="151" y="504"/>
+      <point x="198" y="526"/>
+      <point x="248" y="526" type="curve" smooth="yes"/>
+      <point x="295" y="526"/>
+      <point x="331" y="497"/>
+      <point x="331" y="445" type="curve" smooth="yes"/>
+      <point x="331" y="366"/>
+      <point x="273" y="329"/>
+      <point x="197" y="269" type="curve" smooth="yes"/>
+      <point x="88" y="183"/>
+      <point x="20" y="146"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

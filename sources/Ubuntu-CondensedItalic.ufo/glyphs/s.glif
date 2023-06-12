@@ -2,50 +2,81 @@
 <glyph name="s" format="2">
   <advance width="334"/>
   <unicode hex="0073"/>
+  <anchor x="125" y="0" name="bottom"/>
+  <anchor x="227" y="522" name="top"/>
   <outline>
     <contour>
-      <point x="153" y="-11" type="curve" smooth="yes"/>
-      <point x="258" y="-11"/>
-      <point x="336" y="60"/>
-      <point x="336" y="160" type="curve" smooth="yes"/>
-      <point x="336" y="216"/>
-      <point x="319" y="242"/>
-      <point x="266" y="286" type="curve" smooth="yes"/>
-      <point x="218" y="323"/>
-      <point x="202" y="344"/>
-      <point x="202" y="380" type="curve" smooth="yes"/>
-      <point x="202" y="438"/>
-      <point x="240" y="477"/>
-      <point x="299" y="477" type="curve" smooth="yes"/>
-      <point x="323" y="477"/>
-      <point x="349" y="472"/>
-      <point x="372" y="461" type="curve"/>
-      <point x="395" y="517" type="line"/>
-      <point x="375" y="527"/>
-      <point x="344" y="535"/>
-      <point x="307" y="535" type="curve" smooth="yes"/>
-      <point x="205" y="535"/>
-      <point x="133" y="463"/>
-      <point x="133" y="368" type="curve" smooth="yes"/>
-      <point x="133" y="312"/>
-      <point x="153" y="286"/>
-      <point x="204" y="246" type="curve" smooth="yes"/>
-      <point x="251" y="210"/>
-      <point x="266" y="189"/>
-      <point x="266" y="151" type="curve" smooth="yes"/>
-      <point x="266" y="91"/>
-      <point x="226" y="47"/>
-      <point x="160" y="47" type="curve" smooth="yes"/>
-      <point x="132" y="47"/>
-      <point x="98" y="55"/>
-      <point x="68" y="69" type="curve"/>
-      <point x="44" y="13" type="line"/>
-      <point x="74" y="-2"/>
-      <point x="115" y="-11"/>
+      <point x="90" y="-11" type="curve" smooth="yes"/>
+      <point x="195" y="-11"/>
+      <point x="273" y="60"/>
+      <point x="273" y="160" type="curve" smooth="yes"/>
+      <point x="273" y="216"/>
+      <point x="256" y="242"/>
+      <point x="203" y="286" type="curve" smooth="yes"/>
+      <point x="155" y="323"/>
+      <point x="139" y="344"/>
+      <point x="139" y="380" type="curve" smooth="yes"/>
+      <point x="139" y="438"/>
+      <point x="177" y="477"/>
+      <point x="236" y="477" type="curve" smooth="yes"/>
+      <point x="260" y="477"/>
+      <point x="286" y="472"/>
+      <point x="309" y="461" type="curve"/>
+      <point x="332" y="517" type="line"/>
+      <point x="312" y="527"/>
+      <point x="281" y="535"/>
+      <point x="244" y="535" type="curve" smooth="yes"/>
+      <point x="142" y="535"/>
+      <point x="70" y="463"/>
+      <point x="70" y="368" type="curve" smooth="yes"/>
+      <point x="70" y="312"/>
+      <point x="90" y="286"/>
+      <point x="141" y="246" type="curve" smooth="yes"/>
+      <point x="188" y="210"/>
+      <point x="203" y="189"/>
+      <point x="203" y="151" type="curve" smooth="yes"/>
+      <point x="203" y="91"/>
+      <point x="163" y="47"/>
+      <point x="97" y="47" type="curve" smooth="yes"/>
+      <point x="69" y="47"/>
+      <point x="35" y="55"/>
+      <point x="5" y="69" type="curve"/>
+      <point x="-19" y="13" type="line"/>
+      <point x="11" y="-2"/>
+      <point x="52" y="-11"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
       <key>ufoStretch.beamYPositionForStretchedGlyph</key>
       <real>103.47482</real>
     </dict>

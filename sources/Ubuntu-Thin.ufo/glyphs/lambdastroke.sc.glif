@@ -1,26 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lambdastroke.sc" format="2">
-  <advance width="540"/>
-  <anchor x="270" y="0" name="bottom"/>
-  <anchor x="270" y="776" name="top"/>
+  <advance width="549"/>
   <outline>
-    <contour>
-      <point x="24" y="0" type="curve"/>
-      <point x="60" y="0" type="line"/>
-      <point x="135" y="229"/>
-      <point x="187" y="355"/>
-      <point x="268" y="534" type="curve"/>
-      <point x="351" y="355"/>
-      <point x="404" y="225"/>
-      <point x="479" y="0" type="curve"/>
-      <point x="516" y="0" type="line"/>
-      <point x="443" y="211"/>
-      <point x="378" y="390"/>
-      <point x="282" y="575" type="curve"/>
-      <point x="255" y="575" type="line"/>
-      <point x="177" y="423"/>
-      <point x="109" y="258"/>
-    </contour>
+    <component base="lambda.sc"/>
   </outline>
   <lib>
     <dict>
@@ -32,6 +14,33 @@
         <integer>4</integer>
         <key>width</key>
         <real>84.5</real>
+      </dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
       </dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>a.sc</string>

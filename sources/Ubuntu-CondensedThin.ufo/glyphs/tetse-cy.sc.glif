@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tetse-cy.sc" format="2">
-  <advance width="716"/>
+  <advance width="539"/>
   <outline>
     <contour>
-      <point x="623" y="-154" type="line"/>
-      <point x="658" y="-154" type="line"/>
-      <point x="658" y="31" type="line"/>
-      <point x="617" y="31" type="line"/>
-      <point x="617" y="575" type="line"/>
-      <point x="583" y="575" type="line"/>
-      <point x="583" y="31" type="line"/>
-      <point x="242" y="31" type="line"/>
-      <point x="242" y="544" type="line"/>
-      <point x="417" y="544" type="line"/>
-      <point x="417" y="575" type="line"/>
-      <point x="30" y="575" type="line"/>
-      <point x="30" y="544" type="line"/>
-      <point x="208" y="544" type="line"/>
-      <point x="208" y="0" type="line"/>
-      <point x="623" y="0" type="line"/>
+      <point x="469" y="-154" type="line"/>
+      <point x="499" y="-154" type="line"/>
+      <point x="499" y="30" type="line"/>
+      <point x="466" y="30" type="line"/>
+      <point x="466" y="575" type="line"/>
+      <point x="434" y="575" type="line"/>
+      <point x="434" y="30" type="line"/>
+      <point x="180" y="30" type="line"/>
+      <point x="180" y="545" type="line"/>
+      <point x="305" y="545" type="line"/>
+      <point x="305" y="575" type="line"/>
+      <point x="23" y="575" type="line"/>
+      <point x="23" y="545" type="line"/>
+      <point x="148" y="545" type="line"/>
+      <point x="148" y="0" type="line"/>
+      <point x="469" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -32,6 +32,37 @@
         <key>width</key>
         <real>84.5</real>
       </dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>t.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>tse-cy.sc</string>
     </dict>
   </lib>
 </glyph>

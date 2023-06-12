@@ -1,20 +1,53 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="seven" format="2">
-  <advance width="569"/>
+  <advance width="564"/>
   <unicode hex="0037"/>
   <outline>
     <contour>
-      <point x="188" y="0" type="curve"/>
-      <point x="226" y="0" type="line"/>
-      <point x="308" y="252"/>
-      <point x="508" y="534"/>
-      <point x="637" y="661" type="curve"/>
-      <point x="644" y="693" type="line"/>
-      <point x="267" y="693" type="line"/>
-      <point x="261" y="659" type="line"/>
-      <point x="599" y="659" type="line"/>
-      <point x="469" y="545"/>
-      <point x="262" y="231"/>
+      <point x="124" y="0" type="curve"/>
+      <point x="162" y="0" type="line"/>
+      <point x="244" y="252"/>
+      <point x="444" y="534"/>
+      <point x="573" y="661" type="curve"/>
+      <point x="580" y="693" type="line"/>
+      <point x="203" y="693" type="line"/>
+      <point x="197" y="659" type="line"/>
+      <point x="535" y="659" type="line"/>
+      <point x="405" y="545"/>
+      <point x="198" y="231"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

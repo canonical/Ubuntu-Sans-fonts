@@ -1,22 +1,47 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lacute.sc" format="2">
-  <advance width="437"/>
-  <anchor x="259" y="0" name="bottom"/>
-  <anchor x="126" y="288" name="center"/>
-  <anchor x="109" y="794" name="top"/>
-  <anchor x="126" y="575" name="topright"/>
+  <advance width="325"/>
+  <anchor x="196" y="0" name="bottom"/>
+  <anchor x="101" y="288" name="center"/>
+  <anchor x="85" y="794" name="top"/>
+  <anchor x="101" y="575" name="topright"/>
   <outline>
     <component base="l.sc"/>
-    <component base="acutecomb.sc" xOffset="109"/>
+    <component base="acutecomb.sc" xOffset="85"/>
   </outline>
   <lib>
     <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>l.sc</string>
       <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
       <string>l.sc</string>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

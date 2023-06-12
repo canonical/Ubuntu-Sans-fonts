@@ -1,56 +1,56 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="chedescenderabkhasian-cy.sc" format="2">
-  <advance width="789"/>
+  <advance width="622"/>
   <outline>
     <contour>
-      <point x="394" y="-157" type="line"/>
-      <point x="540" y="-157" type="line"/>
-      <point x="540" y="-11" type="line"/>
-      <point x="619" y="-3"/>
-      <point x="680" y="26"/>
-      <point x="706" y="39" type="curve"/>
-      <point x="668" y="156" type="line"/>
-      <point x="639" y="144"/>
-      <point x="579" y="118"/>
-      <point x="511" y="118" type="curve" smooth="yes"/>
-      <point x="404" y="118"/>
-      <point x="356" y="148"/>
-      <point x="343" y="246" type="curve"/>
-      <point x="736" y="246" type="line"/>
-      <point x="739" y="261"/>
-      <point x="742" y="294"/>
-      <point x="742" y="304" type="curve" smooth="yes"/>
-      <point x="742" y="503"/>
-      <point x="631" y="602"/>
-      <point x="471" y="602" type="curve" smooth="yes"/>
-      <point x="336" y="602"/>
-      <point x="221" y="538"/>
-      <point x="190" y="379" type="curve"/>
-      <point x="143" y="390"/>
-      <point x="134" y="409"/>
-      <point x="134" y="428" type="curve" smooth="yes"/>
-      <point x="134" y="436"/>
-      <point x="135" y="447"/>
-      <point x="138" y="464" type="curve"/>
-      <point x="24" y="479" type="line"/>
-      <point x="18" y="461"/>
-      <point x="13" y="430"/>
-      <point x="13" y="408" type="curve" smooth="yes"/>
-      <point x="13" y="313"/>
-      <point x="77" y="275"/>
-      <point x="185" y="259" type="curve"/>
-      <point x="192" y="139"/>
-      <point x="255" y="34"/>
-      <point x="394" y="-1" type="curve"/>
+      <point x="332" y="-157" type="line"/>
+      <point x="462" y="-157" type="line"/>
+      <point x="462" y="-11" type="line"/>
+      <point x="504" y="-6"/>
+      <point x="541" y="8"/>
+      <point x="566" y="26" type="curve"/>
+      <point x="528" y="134" type="line"/>
+      <point x="501" y="115"/>
+      <point x="466" y="106"/>
+      <point x="434" y="106" type="curve" smooth="yes"/>
+      <point x="365" y="106"/>
+      <point x="323" y="148"/>
+      <point x="318" y="252" type="curve"/>
+      <point x="593" y="252" type="line"/>
+      <point x="594" y="265"/>
+      <point x="596" y="293"/>
+      <point x="596" y="308" type="curve" smooth="yes"/>
+      <point x="596" y="493"/>
+      <point x="530" y="602"/>
+      <point x="388" y="602" type="curve" smooth="yes"/>
+      <point x="269" y="602"/>
+      <point x="192" y="513"/>
+      <point x="175" y="360" type="curve"/>
+      <point x="132" y="364"/>
+      <point x="117" y="382"/>
+      <point x="117" y="411" type="curve" smooth="yes"/>
+      <point x="117" y="423"/>
+      <point x="120" y="437"/>
+      <point x="124" y="453" type="curve"/>
+      <point x="20" y="467" type="line"/>
+      <point x="15" y="452"/>
+      <point x="10" y="425"/>
+      <point x="10" y="400" type="curve" smooth="yes"/>
+      <point x="10" y="315"/>
+      <point x="72" y="256"/>
+      <point x="174" y="250" type="curve"/>
+      <point x="185" y="121"/>
+      <point x="241" y="34"/>
+      <point x="332" y="1" type="curve"/>
     </contour>
     <contour>
-      <point x="348" y="370" type="line"/>
-      <point x="359" y="433"/>
-      <point x="394" y="474"/>
-      <point x="470" y="474" type="curve" smooth="yes"/>
-      <point x="534" y="474"/>
-      <point x="577" y="437"/>
-      <point x="585" y="370" type="curve"/>
+      <point x="322" y="362" type="line"/>
+      <point x="322" y="445"/>
+      <point x="344" y="485"/>
+      <point x="388" y="485" type="curve" smooth="yes"/>
+      <point x="432" y="485"/>
+      <point x="453" y="445"/>
+      <point x="453" y="362" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -63,6 +63,33 @@
         <integer>-11</integer>
         <key>width</key>
         <integer>87</integer>
+      </dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
       </dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>=cheabkhasian-cy.sc</string>

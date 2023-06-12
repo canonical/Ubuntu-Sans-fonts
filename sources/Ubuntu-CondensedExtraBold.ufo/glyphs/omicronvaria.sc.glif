@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="omicronvaria.sc" format="2">
-  <advance width="853"/>
-  <anchor x="503" y="0" name="bottom"/>
-  <anchor x="503" y="295" name="center"/>
-  <anchor x="783" y="10" name="ogonek"/>
+  <advance width="683"/>
+  <anchor x="422" y="0" name="bottom"/>
+  <anchor x="422" y="294" name="center"/>
+  <anchor x="635" y="10" name="ogonek"/>
   <anchor x="254" y="589" name="topleft"/>
-  <anchor x="833" y="589" name="topright"/>
+  <anchor x="673" y="588" name="topright"/>
   <outline>
-    <component base="omicron.sc" xOffset="152"/>
+    <component base="omicron.sc" xOffset="162"/>
     <component base="grave_greek.sc"/>
   </outline>
   <lib>
@@ -20,6 +20,33 @@
         <integer>-11</integer>
         <key>width</key>
         <integer>87</integer>
+      </dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
       </dict>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
@@ -36,8 +63,6 @@
       <string>grave_greek.sc</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>o.sc</string>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
     </dict>
   </lib>
 </glyph>

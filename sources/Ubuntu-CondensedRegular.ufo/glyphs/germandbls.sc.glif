@@ -1,46 +1,46 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="germandbls.sc" format="2">
-  <advance width="571"/>
-  <anchor x="286" y="0" name="bottom"/>
-  <anchor x="286" y="800" name="top"/>
+  <advance width="447"/>
+  <anchor x="227" y="0" name="bottom"/>
+  <anchor x="227" y="797" name="top"/>
   <outline>
     <contour>
-      <point x="78" y="0" type="line"/>
-      <point x="152" y="0" type="line"/>
-      <point x="152" y="391" type="line" smooth="yes"/>
-      <point x="152" y="476"/>
-      <point x="218" y="533"/>
-      <point x="307" y="533" type="curve" smooth="yes"/>
-      <point x="348" y="533"/>
-      <point x="384" y="524"/>
-      <point x="418" y="507" type="curve"/>
-      <point x="282" y="277" type="line"/>
-      <point x="365" y="251"/>
-      <point x="441" y="223"/>
-      <point x="441" y="149" type="curve" smooth="yes"/>
-      <point x="441" y="93"/>
-      <point x="403" y="51"/>
-      <point x="347" y="51" type="curve" smooth="yes"/>
-      <point x="307" y="51"/>
-      <point x="269" y="54"/>
-      <point x="235" y="67" type="curve"/>
-      <point x="217" y="7" type="line"/>
-      <point x="260" y="-8"/>
-      <point x="306" y="-12"/>
-      <point x="350" y="-12" type="curve" smooth="yes"/>
-      <point x="449" y="-12"/>
-      <point x="519" y="54"/>
-      <point x="519" y="148" type="curve" smooth="yes"/>
-      <point x="519" y="224"/>
-      <point x="460" y="279"/>
-      <point x="381" y="310" type="curve"/>
-      <point x="511" y="529" type="line"/>
-      <point x="454" y="578"/>
-      <point x="377" y="596"/>
-      <point x="299" y="596" type="curve" smooth="yes"/>
-      <point x="172" y="596"/>
-      <point x="78" y="515"/>
-      <point x="78" y="395" type="curve" smooth="yes"/>
+      <point x="60" y="0" type="line"/>
+      <point x="129" y="0" type="line"/>
+      <point x="129" y="394" type="line" smooth="yes"/>
+      <point x="129" y="485"/>
+      <point x="167" y="529"/>
+      <point x="245" y="529" type="curve" smooth="yes"/>
+      <point x="272" y="529"/>
+      <point x="299" y="522"/>
+      <point x="323" y="505" type="curve"/>
+      <point x="225" y="279" type="line"/>
+      <point x="285" y="253"/>
+      <point x="341" y="224"/>
+      <point x="341" y="148" type="curve" smooth="yes"/>
+      <point x="341" y="92"/>
+      <point x="309" y="49"/>
+      <point x="262" y="49" type="curve" smooth="yes"/>
+      <point x="237" y="49"/>
+      <point x="212" y="52"/>
+      <point x="190" y="59" type="curve"/>
+      <point x="177" y="1" type="line"/>
+      <point x="206" y="-9"/>
+      <point x="235" y="-12"/>
+      <point x="266" y="-12" type="curve" smooth="yes"/>
+      <point x="351" y="-12"/>
+      <point x="413" y="54"/>
+      <point x="413" y="148" type="curve" smooth="yes"/>
+      <point x="413" y="226"/>
+      <point x="369" y="280"/>
+      <point x="311" y="310" type="curve"/>
+      <point x="406" y="525" type="line"/>
+      <point x="361" y="573"/>
+      <point x="300" y="590"/>
+      <point x="236" y="590" type="curve" smooth="yes"/>
+      <point x="135" y="590"/>
+      <point x="60" y="512"/>
+      <point x="60" y="397" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -53,6 +53,33 @@
         <integer>-8</integer>
         <key>width</key>
         <integer>89</integer>
+      </dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

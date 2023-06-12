@@ -1,31 +1,66 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Fhook" format="2">
-  <advance width="517"/>
+  <advance width="516"/>
   <unicode hex="0191"/>
   <outline>
     <contour>
-      <point x="-3" y="-187" type="curve" smooth="yes"/>
-      <point x="123" y="-187"/>
-      <point x="150" y="-61"/>
-      <point x="166" y="5" type="curve" smooth="yes"/>
-      <point x="243" y="326" type="line"/>
-      <point x="518" y="326" type="line"/>
-      <point x="535" y="393" type="line"/>
-      <point x="258" y="393" type="line"/>
-      <point x="314" y="626" type="line"/>
-      <point x="625" y="626" type="line"/>
-      <point x="641" y="693" type="line"/>
-      <point x="253" y="693" type="line"/>
-      <point x="77" y="-39" type="line" smooth="yes"/>
-      <point x="64" y="-90"/>
-      <point x="41" y="-122"/>
-      <point x="-5" y="-122" type="curve" smooth="yes"/>
-      <point x="-18" y="-122"/>
-      <point x="-33" y="-120"/>
-      <point x="-49" y="-114" type="curve"/>
-      <point x="-70" y="-177" type="line"/>
-      <point x="-46" y="-184"/>
-      <point x="-23" y="-187"/>
+      <point x="-66" y="-187" type="curve" smooth="yes"/>
+      <point x="60" y="-187"/>
+      <point x="87" y="-61"/>
+      <point x="103" y="5" type="curve" smooth="yes"/>
+      <point x="180" y="326" type="line"/>
+      <point x="455" y="326" type="line"/>
+      <point x="472" y="393" type="line"/>
+      <point x="195" y="393" type="line"/>
+      <point x="251" y="626" type="line"/>
+      <point x="562" y="626" type="line"/>
+      <point x="578" y="693" type="line"/>
+      <point x="190" y="693" type="line"/>
+      <point x="14" y="-39" type="line" smooth="yes"/>
+      <point x="1" y="-90"/>
+      <point x="-22" y="-122"/>
+      <point x="-68" y="-122" type="curve" smooth="yes"/>
+      <point x="-81" y="-122"/>
+      <point x="-96" y="-120"/>
+      <point x="-112" y="-114" type="curve"/>
+      <point x="-133" y="-177" type="line"/>
+      <point x="-109" y="-184"/>
+      <point x="-86" y="-187"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>F</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

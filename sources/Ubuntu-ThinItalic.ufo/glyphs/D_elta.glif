@@ -1,26 +1,63 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Delta" format="2">
-  <advance width="584"/>
+  <advance width="594"/>
   <unicode hex="0394"/>
   <outline>
     <contour>
-      <point x="28" y="0" type="curve"/>
-      <point x="589" y="0" type="line"/>
-      <point x="558" y="279"/>
-      <point x="521" y="498"/>
-      <point x="491" y="693" type="curve"/>
-      <point x="451" y="693" type="line"/>
-      <point x="313" y="485"/>
-      <point x="147" y="225"/>
+      <point x="-34" y="0" type="curve"/>
+      <point x="527" y="0" type="line"/>
+      <point x="496" y="279"/>
+      <point x="459" y="498"/>
+      <point x="429" y="693" type="curve"/>
+      <point x="389" y="693" type="line"/>
+      <point x="251" y="485"/>
+      <point x="85" y="225"/>
     </contour>
     <contour>
-      <point x="82" y="32" type="line"/>
-      <point x="168" y="190"/>
-      <point x="317" y="437"/>
-      <point x="464" y="654" type="curve"/>
-      <point x="484" y="524"/>
-      <point x="534" y="154"/>
-      <point x="549" y="32" type="curve"/>
+      <point x="20" y="32" type="line"/>
+      <point x="106" y="190"/>
+      <point x="255" y="437"/>
+      <point x="402" y="654" type="curve"/>
+      <point x="422" y="524"/>
+      <point x="472" y="154"/>
+      <point x="487" y="32" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Alpha</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Alpha</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

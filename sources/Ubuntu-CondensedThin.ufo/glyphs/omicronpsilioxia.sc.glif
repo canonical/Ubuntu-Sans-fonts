@@ -1,17 +1,44 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="omicronpsilioxia.sc" format="2">
-  <advance width="816"/>
-  <anchor x="481" y="0" name="bottom"/>
-  <anchor x="481" y="288" name="center"/>
-  <anchor x="749" y="10" name="ogonek"/>
+  <advance width="652"/>
+  <anchor x="399" y="0" name="bottom"/>
+  <anchor x="399" y="288" name="center"/>
+  <anchor x="604" y="10" name="ogonek"/>
   <anchor x="266" y="575" name="topleft"/>
-  <anchor x="796" y="575" name="topright"/>
+  <anchor x="640" y="575" name="topright"/>
   <outline>
     <component base="omicron.sc" xOffset="146"/>
     <component base="psilioxia.sc"/>
   </outline>
   <lib>
     <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
@@ -27,8 +54,6 @@
       <string>psilioxia.sc</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>o.sc</string>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
     </dict>
   </lib>
 </glyph>

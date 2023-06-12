@@ -1,36 +1,73 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Tretroflexhook" format="2">
-  <advance width="463"/>
+  <advance width="464"/>
   <unicode hex="01AE"/>
   <unicode hex="0288"/>
   <outline>
     <contour>
-      <point x="276" y="-188" type="curve" smooth="yes"/>
-      <point x="300" y="-188"/>
-      <point x="324" y="-185"/>
-      <point x="349" y="-176" type="curve"/>
-      <point x="357" y="-63" type="line"/>
-      <point x="346" y="-66"/>
-      <point x="332" y="-68"/>
-      <point x="321" y="-68" type="curve" smooth="yes"/>
-      <point x="304" y="-68"/>
-      <point x="295" y="-61"/>
-      <point x="295" y="-43" type="curve" smooth="yes"/>
-      <point x="295" y="-36"/>
-      <point x="296" y="-28"/>
-      <point x="299" y="-18" type="curve" smooth="yes"/>
-      <point x="441" y="574" type="line"/>
-      <point x="579" y="574" type="line"/>
-      <point x="607" y="693" type="line"/>
-      <point x="188" y="693" type="line"/>
-      <point x="160" y="574" type="line"/>
-      <point x="299" y="574" type="line"/>
-      <point x="161" y="-2" type="line" smooth="yes"/>
-      <point x="156" y="-23"/>
-      <point x="153" y="-43"/>
-      <point x="153" y="-62" type="curve" smooth="yes"/>
-      <point x="153" y="-135"/>
-      <point x="193" y="-188"/>
+      <point x="213" y="-188" type="curve" smooth="yes"/>
+      <point x="237" y="-188"/>
+      <point x="261" y="-185"/>
+      <point x="286" y="-176" type="curve"/>
+      <point x="294" y="-63" type="line"/>
+      <point x="283" y="-66"/>
+      <point x="269" y="-68"/>
+      <point x="258" y="-68" type="curve" smooth="yes"/>
+      <point x="241" y="-68"/>
+      <point x="232" y="-61"/>
+      <point x="232" y="-43" type="curve" smooth="yes"/>
+      <point x="232" y="-36"/>
+      <point x="233" y="-28"/>
+      <point x="236" y="-18" type="curve" smooth="yes"/>
+      <point x="378" y="574" type="line"/>
+      <point x="516" y="574" type="line"/>
+      <point x="544" y="693" type="line"/>
+      <point x="125" y="693" type="line"/>
+      <point x="97" y="574" type="line"/>
+      <point x="236" y="574" type="line"/>
+      <point x="98" y="-2" type="line" smooth="yes"/>
+      <point x="93" y="-23"/>
+      <point x="90" y="-43"/>
+      <point x="90" y="-62" type="curve" smooth="yes"/>
+      <point x="90" y="-135"/>
+      <point x="130" y="-188"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>T</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>
