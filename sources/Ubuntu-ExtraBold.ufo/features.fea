@@ -73,14 +73,7 @@ feature salt;
 
 feature ccmp {
 # automatic
-lookup ccmp_Other_1 {
-	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb caroncomb circumflexcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
-	@CombiningNonTopAccents = [cedillacomb dotbelowcomb macronbelowcomb ogonekcomb verticallinebelowcomb];
-	sub [i j]' @CombiningTopAccents by [idotless jdotless];
-	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
-} ccmp_Other_1;
-
-lookup ccmp_Other_2 {
+lookup ccmp_DFLT_1 {
 	lookupflag 0;
 	sub dieresis acute by dieresis_acute;
 	sub dieresis breve by dieresis_breve;
@@ -88,7 +81,14 @@ lookup ccmp_Other_2 {
 	sub dieresis macron by dieresis_macron;
 	sub ring acute by ring_acute;
 	sub tilde macron by tilde_macron;
-} ccmp_Other_2;
+} ccmp_DFLT_1;
+
+lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb caroncomb circumflexcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+	lookupflag UseMarkFilteringSet @CombiningTopAccents;
+	sub i' @CombiningTopAccents by idotless;
+	sub j' @CombiningTopAccents by jdotless;
+} ccmp_Other_1;
 
 lookup ccmp_latn_1 {
 	sub fi by f i;

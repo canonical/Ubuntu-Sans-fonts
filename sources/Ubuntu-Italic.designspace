@@ -12,7 +12,6 @@
     </axis>
   </axes>
   <sources>
-  
     <source filename="Ubuntu-ThinItalic.ufo" name="Ubuntu Thin Italic" familyname="Ubuntu" stylename="Thin">
       <location>
         <dimension name="Width" xvalue="100"/>
@@ -30,7 +29,7 @@
         <dimension name="Weight" xvalue="400"/>
       </location>
     </source>
-    <source filename="Ubuntu-ExtraBoldItalic.ufo" name="Ubuntu Extra Bold Italic" familyname="Ubuntu" stylename="Extra Bold Italic">
+    <source filename="Ubuntu-ExtraBoldItalic.ufo" name="Ubuntu ExtraBold Italic" familyname="Ubuntu" stylename="ExtraBold Italic">
       <location>
         <dimension name="Width" xvalue="100"/>
         <dimension name="Weight" xvalue="800"/>
@@ -42,7 +41,7 @@
         <dimension name="Weight" xvalue="400"/>
       </location>
     </source>
-    <source filename="Ubuntu-CondensedExtraBoldItalic.ufo" familyname="Ubuntu" stylename="Condensed Extra Bold Italic">
+    <source filename="Ubuntu-CondensedExtraBoldItalic.ufo" familyname="Ubuntu" stylename="Condensed ExtraBold Italic">
       <location>
         <dimension name="Width" xvalue="75"/>
         <dimension name="Weight" xvalue="800"/>
@@ -158,11 +157,11 @@
     
     
     <instance 
-        name="Ubuntu Extra Bold Italic" 
+        name="Ubuntu ExtraBold Italic" 
         familyname="Ubuntu" 
-        stylename="Extra Bold Italic" 
+        stylename="ExtraBold Italic" 
         filename="../instance_ufo/Ubuntu-ExtraBoldItalic.ufo" 
-        stylemapfamilyname="Ubuntu Extra Bold" 
+        stylemapfamilyname="Ubuntu ExtraBold" 
         stylemapstylename="italic"
     >
       <location>
@@ -210,7 +209,7 @@
     </instance>
     <instance 
         name="Ubuntu Condensed Italic" 
-        familyname="Ubuntu" 
+        familyname="Ubuntu Condensed" 
         stylename="Condensed Italic" 
         filename="../instance_ufo/UbuntuCondensed-Italic.ufo" 
         stylemapfamilyname="Ubuntu Condensed" 
@@ -240,7 +239,7 @@
     </instance>
     <instance 
         name="Ubuntu Condensed Bold Italic" 
-        familyname="Ubuntu" 
+        familyname="Ubuntu Condensed" 
         stylename="Condensed Bold Italic" 
         filename="../instance_ufo/UbuntuCondensed-BoldItalic.ufo" 
         stylemapfamilyname="Ubuntu Condensed" 
@@ -256,11 +255,11 @@
     
     
     <instance 
-        name="Ubuntu Condensed Extra Bold Italic" 
+        name="Ubuntu Condensed ExtraBold Italic" 
         familyname="Ubuntu Condensed" 
-        stylename="Condensed Extra Bold Italic" 
+        stylename="Condensed ExtraBold Italic" 
         filename="../instance_ufo/UbuntuCondensed-ExtraBoldItalic.ufo" 
-        stylemapfamilyname="Ubuntu Condensed Extra Bold" 
+        stylemapfamilyname="Ubuntu Condensed ExtraBold" 
         stylemapstylename="italic"
     >
       <location>
