@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idotless_ogonekcomb.sc" format="2">
+  <advance width="300"/>
+  <anchor x="150" y="0" name="bottom"/>
+  <anchor x="225" y="0" name="ogonek"/>
+  <anchor x="150" y="589" name="top"/>
+  <outline>
+    <component base="iogonek.sc"/>
+  </outline>
+</glyph>

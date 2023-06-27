@@ -1,48 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="jstroke" format="2">
-  <advance width="376"/>
+  <advance width="300"/>
   <unicode hex="0249"/>
+  <anchor x="-18" y="-185" name="bottom"/>
+  <anchor x="169" y="282" name="center"/>
+  <anchor x="289" y="786" name="top"/>
   <outline>
-    <contour>
-      <point x="-10" y="-185" type="curve" smooth="yes"/>
-      <point x="115" y="-185"/>
-      <point x="178" y="-119"/>
-      <point x="210" y="19" type="curve" smooth="yes"/>
-      <point x="261" y="234" type="line"/>
-      <point x="332" y="234" type="line"/>
-      <point x="354" y="327" type="line"/>
-      <point x="284" y="327" type="line"/>
-      <point x="332" y="526" type="line"/>
-      <point x="183" y="526" type="line"/>
-      <point x="135" y="327" type="line"/>
-      <point x="61" y="327" type="line"/>
-      <point x="39" y="234" type="line"/>
-      <point x="113" y="234" type="line"/>
-      <point x="62" y="23" type="line"/>
-      <point x="51" y="-30"/>
-      <point x="28" y="-59"/>
-      <point x="-19" y="-59" type="curve" smooth="yes"/>
-      <point x="-42" y="-59"/>
-      <point x="-58" y="-55"/>
-      <point x="-77" y="-48" type="curve"/>
-      <point x="-115" y="-166" type="line"/>
-      <point x="-86" y="-177"/>
-      <point x="-47" y="-185"/>
-    </contour>
-    <contour>
-      <point x="278" y="590" type="curve" smooth="yes"/>
-      <point x="333" y="590"/>
-      <point x="381" y="635"/>
-      <point x="381" y="691" type="curve" smooth="yes"/>
-      <point x="381" y="742"/>
-      <point x="341" y="766"/>
-      <point x="300" y="766" type="curve" smooth="yes"/>
-      <point x="245" y="766"/>
-      <point x="197" y="721"/>
-      <point x="197" y="665" type="curve" smooth="yes"/>
-      <point x="197" y="614"/>
-      <point x="237" y="590"/>
-    </contour>
+    <component base="j"/>
+    <component base="strokeshortcomb" xOffset="-28"/>
   </outline>
   <lib>
     <dict>

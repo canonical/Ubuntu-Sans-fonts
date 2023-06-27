@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idotbelow" format="2">
+  <advance width="195"/>
+  <unicode hex="1ECB"/>
+  <anchor x="-7" y="-177" name="bottom"/>
+  <anchor x="102" y="273" name="center"/>
+  <anchor x="50" y="0" name="ogonek"/>
+  <anchor x="209" y="716" name="top"/>
+  <outline>
+    <component base="i"/>
+    <component base="dotbelowcomb" xOffset="-202"/>
+  </outline>
+</glyph>

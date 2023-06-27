@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idotless_tildebelowcomb" format="2">
+  <advance width="220"/>
+  <anchor x="110" y="-188" name="bottom"/>
+  <anchor x="110" y="273" name="center"/>
+  <anchor x="127" y="0" name="ogonek"/>
+  <anchor x="110" y="513" name="top"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="tildebelowcomb" xOffset="-39"/>
+  </outline>
+</glyph>

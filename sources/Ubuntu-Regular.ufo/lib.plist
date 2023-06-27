@@ -2178,7 +2178,20 @@
       <string>double_grave.sc</string>
       <string>ijacute.sc</string>
       <string>Tdotbelow</string>
+      <string>idotless_dotbelowcomb</string>
+      <string>idotless_ogonekcomb</string>
+      <string>idotless_tildebelowcomb</string>
+      <string>idotbelow</string>
+      <string>istroke</string>
+      <string>itildebelow</string>
       <string>tdotbelow</string>
+      <string>istroke.dotless</string>
+      <string>jstroke.dotless</string>
+      <string>idotless_dotbelowcomb.sc</string>
+      <string>idotless_ogonekcomb.sc</string>
+      <string>idotless_tildebelowcomb.sc</string>
+      <string>istroke.sc</string>
+      <string>itildebelow.sc</string>
       <string>tdotbelow.sc</string>
       <string>ertick-cy.sc</string>
       <string>exclam.c2sc</string>
@@ -2224,6 +2237,8 @@
       <string>tugrik.osf</string>
       <string>yen.osf</string>
       <string>percent.osf</string>
+      <string>tildebelowcomb</string>
+      <string>strokeshortcomb</string>
       <string>dotaccentcomb.i</string>
     </array>
     <key>public.postscriptNames</key>
@@ -3590,10 +3605,24 @@
       <string>uni04E5</string>
       <key>idieresis-cy.sc</key>
       <string>uni04E5.sc</string>
+      <key>idotbelow</key>
+      <string>uni1ECB</string>
       <key>idotless</key>
       <string>dotlessi</string>
       <key>idotless.sc</key>
       <string>dotlessi.sc</string>
+      <key>idotless_dotbelowcomb</key>
+      <string>dotlessi_dotbelowcomb</string>
+      <key>idotless_dotbelowcomb.sc</key>
+      <string>dotlessi_dotbelowcomb.sc</string>
+      <key>idotless_ogonekcomb</key>
+      <string>uni01310328</string>
+      <key>idotless_ogonekcomb.sc</key>
+      <string>uni01310328.sc</string>
+      <key>idotless_tildebelowcomb</key>
+      <string>uni01310330</string>
+      <key>idotless_tildebelowcomb.sc</key>
+      <string>uni01310330.sc</string>
       <key>ie-cy</key>
       <string>uni0435</string>
       <key>ie-cy.sc</key>
@@ -3692,6 +3721,16 @@
       <string>uni1FD0</string>
       <key>iotavrachy.sc</key>
       <string>uni1FD0.sc</string>
+      <key>istroke</key>
+      <string>uni0268</string>
+      <key>istroke.dotless</key>
+      <string>uni0268.dotless</string>
+      <key>istroke.sc</key>
+      <string>uni0268.sc</string>
+      <key>itildebelow</key>
+      <string>uni1E2D</string>
+      <key>itildebelow.sc</key>
+      <string>uni1E2D.sc</string>
       <key>izhitsa-cy</key>
       <string>uni0475</string>
       <key>izhitsa-cy.sc</key>
@@ -3708,6 +3747,8 @@
       <string>uni0458.sc</string>
       <key>jstroke</key>
       <string>uni0249</string>
+      <key>jstroke.dotless</key>
+      <string>uni0249.dotless</string>
       <key>jstroke.sc</key>
       <string>uni0249.sc</string>
       <key>ka-cy</key>
@@ -4148,6 +4189,8 @@
       <string>uni044C.sc</string>
       <key>sswashtail</key>
       <string>uni023F</string>
+      <key>strokeshortcomb</key>
+      <string>uni0335</string>
       <key>tcedilla</key>
       <string>uni0163</string>
       <key>tcedilla.sc</key>
@@ -4192,6 +4235,8 @@
       <string>three_fraction_seven</string>
       <key>threesuperior</key>
       <string>uni00B3</string>
+      <key>tildebelowcomb</key>
+      <string>uni0330</string>
       <key>tonefive</key>
       <string>uni01BD</string>
       <key>tonefive.sc</key>
