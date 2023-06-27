@@ -2,9 +2,9 @@
 <glyph name="istroke.dotless" format="2">
   <advance width="225"/>
   <anchor x="49" y="0" name="bottom"/>
-  <anchor x="115" y="275" name="center"/>
   <anchor x="85" y="0" name="ogonek"/>
   <anchor x="175" y="522" name="top"/>
+  <anchor x="115" y="275" name="center"/>
   <outline>
     <component base="idotless"/>
     <component base="strokeshortcomb" xOffset="-5"/>
