@@ -3,11 +3,12 @@
   <advance width="276"/>
   <unicode hex="0129"/>
   <anchor x="138" y="0" name="bottom"/>
-  <anchor x="248" y="10" name="ogonek"/>
+  <anchor x="138" y="279" name="center"/>
+  <anchor x="207" y="0" name="ogonek"/>
   <anchor x="137" y="754" name="top"/>
   <outline>
     <component base="idotless"/>
-    <component base="tildecomb" xOffset="138"/>
+    <component base="tildecomb" xOffset="-4"/>
   </outline>
   <lib>
     <dict>

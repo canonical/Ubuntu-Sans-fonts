@@ -28,9 +28,6 @@ numbersign
 @OmegaSub.alt = [ Omegaprosgegrammeni.alt Omegapsiliprosgegrammeni.alt Omegadasiaprosgegrammeni.alt Omegapsilivariaprosgegrammeni.alt Omegadasiavariaprosgegrammeni.alt Omegapsilioxiaprosgegrammeni.alt Omegadasiaoxiaprosgegrammeni.alt Omegapsiliperispomeniprosgegrammeni.alt Omegadasiaperispomeniprosgegrammeni.alt
 ];
 
-# Prefix: External features
-
-
 # Prefix: Languagesystems
 # automatic
 languagesystem DFLT dflt;
@@ -72,7 +69,6 @@ feature salt;
 } aalt;
 
 feature ccmp {
-# automatic
 lookup ccmp_DFLT_1 {
 	lookupflag 0;
 	sub dieresis acute by dieresis_acute;
@@ -83,14 +79,18 @@ lookup ccmp_DFLT_1 {
 	sub tilde macron by tilde_macron;
 } ccmp_DFLT_1;
 
-lookup ccmp_Other_1 {
-	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb caroncomb circumflexcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
-	lookupflag UseMarkFilteringSet @CombiningTopAccents;
-	sub i' @CombiningTopAccents by idotless;
-	sub j' @CombiningTopAccents by jdotless;
-} ccmp_Other_1;
+
+lookup ccmp_soft_dotted {
+    @CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb caroncomb circumflexcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+    lookupflag UseMarkFilteringSet @CombiningTopAccents;
+    sub [i j idotbelow iogonek itildebelow istroke jstroke i-cy je-cy]' @CombiningTopAccents by [idotless jdotless idotless_dotbelowcomb idotless_ogonekcomb idotless_tildebelowcomb istroke.dotless jstroke.dotless idotless jdotless];
+} ccmp_soft_dotted;
 
 lookup ccmp_latn_1 {
+	sub itildebelow by i tildebelowcomb;
+} ccmp_latn_1;
+
+lookup ccmp_latn_2 {
 	sub fi by f i;
 	sub fl by f l;
 	sub lj by l j;
@@ -102,10 +102,11 @@ lookup ccmp_latn_1 {
 	sub dzcaron by d zcaron;
 	sub Dzcaron by D zcaron;
 	sub DZcaron by D Zcaron;
-} ccmp_latn_1;
+} ccmp_latn_2;
 
 script latn;
 lookup ccmp_latn_1;
+lookup ccmp_latn_2;
 
 } ccmp;
 
@@ -171,6 +172,7 @@ feature locl {
         sub  l.sc' periodcentered' l by ldot.sc;
     } locl_latn_CAT;	
     
+
 } locl;
 
 feature subs {
@@ -471,12 +473,12 @@ sub Cstroke by cstroke.sc;
 sub D by d.sc;
 sub DZ by dz.sc;
 sub DZcaron by dzcaron.sc;
-sub Eth by eth.sc;
 sub Dcaron by dcaron.sc;
 sub Dcroat by dcroat.sc;
 sub Dtopbar by dtopbar.sc;
 sub Dz by dz.sc;
 sub Dzcaron by dzcaron.sc;
+sub Eth by eth.sc;
 sub E by e.sc;
 sub Eacute by eacute.sc;
 sub Ebreve by ebreve.sc;
@@ -508,7 +510,6 @@ sub H by h.sc;
 sub Hbar by hbar.sc;
 sub Hcaron by hcaron.sc;
 sub Hcircumflex by hcircumflex.sc;
-sub Hwair by hv.sc;
 sub I by i.sc;
 sub IJ by ij.sc;
 sub Iacute by iacute.sc;
@@ -521,6 +522,7 @@ sub Igrave by igrave.sc;
 sub Iinvertedbreve by iinvertedbreve.sc;
 sub Imacron by imacron.sc;
 sub Iogonek by iogonek.sc;
+sub Istroke by istroke.sc;
 sub Itilde by itilde.sc;
 sub J by j.sc;
 sub Jcircumflex by jcircumflex.sc;
@@ -546,7 +548,6 @@ sub Ncaron by ncaron.sc;
 sub Ncommaaccent by ncommaaccent.sc;
 sub Ngrave by ngrave.sc;
 sub Nj by nj.sc;
-sub Nlongrightleg by nlegrightlong.sc;
 sub Ntilde by ntilde.sc;
 sub Eng by eng.sc;
 sub O by o.sc;
@@ -980,12 +981,12 @@ sub cdotaccent by cdotaccent.sc;
 sub chook by chook.sc;
 sub cstroke by cstroke.sc;
 sub d by d.sc;
-sub eth by eth.sc;
 sub dcaron by dcaron.sc;
 sub dcroat by dcroat.sc;
 sub dtopbar by dtopbar.sc;
 sub dz by dz.sc;
 sub dzcaron by dzcaron.sc;
+sub eth by eth.sc;
 sub e by e.sc;
 sub eacute by eacute.sc;
 sub ebreve by ebreve.sc;
@@ -1023,6 +1024,9 @@ sub hcircumflex by hcircumflex.sc;
 sub hv by hv.sc;
 sub i by i.sc;
 sub idotless by idotless.sc;
+sub idotless_dotbelowcomb by idotless_dotbelowcomb.sc;
+sub idotless_ogonekcomb by idotless_ogonekcomb.sc;
+sub idotless_tildebelowcomb by idotless_tildebelowcomb.sc;
 sub iacute by iacute.sc;
 sub ibreve by ibreve.sc;
 sub icaron by icaron.sc;
@@ -1031,10 +1035,12 @@ sub idblgrave by idblgrave.sc;
 sub idieresis by idieresis.sc;
 sub igrave by igrave.sc;
 sub iinvertedbreve by iinvertedbreve.sc;
-sub ij by ij.sc;
 sub imacron by imacron.sc;
 sub iogonek by iogonek.sc;
+sub istroke by istroke.sc;
 sub itilde by itilde.sc;
+sub itildebelow by itildebelow.sc;
+sub ij by ij.sc;
 sub j by j.sc;
 sub jdotless by jdotless.sc;
 sub jcircumflex by jcircumflex.sc;
@@ -1112,6 +1118,7 @@ sub tbar by tbar.sc;
 sub tcaron by tcaron.sc;
 sub tcedilla by tcedilla.sc;
 sub tcommaaccent by tcommaaccent.sc;
+sub tdotbelow by tdotbelow.sc;
 sub thook by thook.sc;
 sub tonefive by tonefive.sc;
 sub tonesix by tonesix.sc;
@@ -1419,6 +1426,7 @@ sub dotaccentcomb by dotaccentcomb.sc;
 sub gravecomb by gravecomb.sc;
 sub acutecomb by acutecomb.sc;
 sub hungarumlautcomb by hungarumlautcomb.sc;
+sub caroncomb.alt by caroncomb.alt.sc;
 sub circumflexcomb by circumflexcomb.sc;
 sub caroncomb by caroncomb.sc;
 sub brevecomb by brevecomb.sc;
@@ -1426,7 +1434,6 @@ sub ringcomb by ringcomb.sc;
 sub tildecomb by tildecomb.sc;
 sub macroncomb by macroncomb.sc;
 sub brevecomb.cyr by brevecomb.cyr.sc;
-sub caroncomb.alt by caroncomb.alt.sc;
 sub breveinvertedcomb by breveinvertedcomb.sc;
 sub commaaccentcomb by commaaccentcomb.sc;
 sub dieresis_grave by dieresis_grave.sc;
@@ -1437,6 +1444,8 @@ sub tilde_macron by tilde_macron.sc;
 sub dot_macron by dot_macron.sc;
 sub double_grave by double_grave.sc;
 sub ijacute by ijacute.sc;
+sub istroke.dotless by istroke.sc;
+sub jstroke.dotless by jstroke.sc;
 
 } smcp;
 
