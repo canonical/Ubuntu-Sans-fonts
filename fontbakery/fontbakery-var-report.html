@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+                <html lang="en">
+                    <head>
+                        <meta charset="utf-8">
+                        <title>Fontbakery Check Report</title>
+                        <style>
+                            
+            html {
+                font-family: sans-serif;
+            }
+
+            h2 {
+                margin-top: 2em;
+            }
+
+            h3 {
+                margin-bottom: 1px;
+            }
+
+            table {
+                border-collapse: collapse;
+            }
+
+            th,
+            td {
+                border: 1px solid #ddd;
+                padding: 0.5em
+            }
+
+            tr:nth-child(even) {
+                background-color: #f2f2f2;
+            }
+
+            tr {
+                text-align: left;
+            }
+
+            ul {
+                margin-top: 0;
+            }
+
+            .details_item {
+                list-style: none;
+                display: flex;
+                align-items: baseline;
+            }
+
+            .details_indicator {
+                flex: 0 0 5em;
+                font-weight: bold;
+                padding-right: 0.5em;
+                text-align: right;
+            }
+
+            .details_text {
+                flex: 1 0;
+            }
+            
+                        </style>
+                    </head>
+                    <body>
+                    <h1>Fontbakery Technical Report</h1>
+<div>If you think a check is flawed or have an idea for a check, please  file an issue at <a href='https://github.com/googlefonts/fontbakery/issues'>https://github.com/googlefonts/fontbakery/issues</a> and remember to include a pointer to the repo and branch you're checking.</div>
+<h2>Summary</h2>
+            <table>
+            <tr>
+                <th>💥 ERROR</th>
+                <th>🔥 FAIL</th>
+                <th>⚠️ WARN</th>
+                <th>⏩ SKIP</th>
+                <th>ℹ️ INFO</th>
+                <th>✅ PASS</th>
+            </tr>
+            <tr>
+                <td>0</td>
+                <td>8</td>
+                <td>16</td>
+                <td>196</td>
+                <td>17</td>
+                <td>238</td>
+            </tr>
+            <tr>
+                <td>0%</td>
+                <td>2%</td>
+                <td>5%</td>
+                <td>57%</td>
+                <td>5%</td>
+                <td>69%</td>
+            </tr>
+            </table>
+            
+<p><strong>Note:</strong> The following loglevels were omitted in this report: SKIP, INFO, PASS, DEBUG</p>
+<h2>&lt;Section: Google Fonts&gt; 🔥🔥🔥🔥🔥🔥🔥🔥⚠️⚠️⚠️⚠️⚠️⚠️⚠️⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️</h2>
+<h3>Ensure files are not too large.</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/file_size&gt;</div>
+
+<details><summary>⚠️ <strong>fonts/variable/Ubuntu[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Font file is 1.0Mb; ideally it should be less than 1.0Mb [code: large-font]</p>
+</span></li></ul></div></details>
+<h3>Version format is correct in 'name' table?</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/name/version_format&gt;</div>
+
+<details><summary>🔥 <strong>fonts/variable/Ubuntu-Italic[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>The NameID.VERSION_STRING (nameID=5) value must follow the pattern &quot;Version X.Y&quot; with X.Y greater than or equal to 1.000. Current version string is: &quot;Version 0.869&quot; [code: bad-version-strings]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/variable/Ubuntu[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>The NameID.VERSION_STRING (nameID=5) value must follow the pattern &quot;Version X.Y&quot; with X.Y greater than or equal to 1.000. Current version string is: &quot;Version 0.869&quot; [code: bad-version-strings]</p>
+</span></li></ul></div></details>
+<h3>Copyright notices match canonical pattern in fonts</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/font_copyright&gt;</div>
+
+<details><summary>🔥 <strong>fonts/variable/Ubuntu-Italic[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Name Table entry: Copyright notices should match a pattern similar to: &quot;Copyright 2019 The Familyname Project Authors (git url)&quot;
+But instead we have got:
+&quot;Copyright 2011, 2022, 2023 Canonical Ltd. Licensed under the Ubuntu Font Licence 1.0&quot; [code: bad-notice-format]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/variable/Ubuntu[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Name Table entry: Copyright notices should match a pattern similar to: &quot;Copyright 2019 The Familyname Project Authors (git url)&quot;
+But instead we have got:
+&quot;Copyright 2011, 2022, 2023 Canonical Ltd. Licensed under the Ubuntu Font Licence 1.0&quot; [code: bad-notice-format]</p>
+</span></li></ul></div></details>
+<h3>Glyphs are similiar to Google Fonts version?</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/production_glyphs_similarity&gt;</div>
+
+<details><summary>⚠️ <strong>fonts/variable/Ubuntu-Italic[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Following glyphs differ greatly from Google Fonts version:
+* A
+* AE
+* AEacute
+* Aacute
+* Abreve
+* Acircumflex
+* Adieresis
+* Agrave
+* Alpha
+* Alphatonos and 959 more.</p>
+<p>Use -F or --full-lists to disable shortening of long lists.</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/variable/Ubuntu[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Following glyphs differ greatly from Google Fonts version:
+* A
+* AE
+* AEacute
+* Aacute
+* Abreve
+* Acircumflex
+* Adieresis
+* Agrave
+* Alpha
+* Alphatonos and 959 more.</p>
+<p>Use -F or --full-lists to disable shortening of long lists.</p>
+</span></li></ul></div></details>
+<h3>Check a font's STAT table contains compulsory Axis Values.</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/STAT&gt;</div>
+
+<details><summary>🔥 <strong>fonts/variable/Ubuntu-Italic[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Compulsory STAT Axis Values are incorrect:</p>
+<p>| Name | Axis | Current Value | Current Flags | Current LinkedValue | Expected Value | Expected Flags | Expected LinkedValue |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Normal | wdth | 100.0 | 2 | None | 100.0 | 2 | None |
+| Condensed | wdth | 75.0 | 0 | None | 75.0 | 0 | None |
+| SemiCondensed | wdth | N/A | N/A | N/A | 87.5 | 0 | None |
+| Thin | wght | 100.0 | 0 | None | 100.0 | 0 | None |
+| ExtraLight | wght | N/A | N/A | N/A | 200.0 | 0 | None |
+| Light | wght | 300.0 | 0 | None | 300.0 | 0 | None |
+| Regular | wght | 400.0 | 2 | 700.0 | 400.0 | 2 | 700.0 |
+| Medium | wght | 500.0 | 0 | None | 500.0 | 0 | None |
+| SemiBold | wght | N/A | N/A | N/A | 600.0 | 0 | None |
+| Bold | wght | 700.0 | 0 | None | 700.0 | 0 | None |
+| ExtraBold | wght | 800.0 | 0 | None | 800.0 | 0 | None |
+[code: bad-axis-values]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/variable/Ubuntu[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Compulsory STAT Axis Values are incorrect:</p>
+<p>| Name | Axis | Current Value | Current Flags | Current LinkedValue | Expected Value | Expected Flags | Expected LinkedValue |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Normal | wdth | 100.0 | 2 | None | 100.0 | 2 | None |
+| Condensed | wdth | 75.0 | 0 | None | 75.0 | 0 | None |
+| SemiCondensed | wdth | N/A | N/A | N/A | 87.5 | 0 | None |
+| Thin | wght | 100.0 | 0 | None | 100.0 | 0 | None |
+| ExtraLight | wght | N/A | N/A | N/A | 200.0 | 0 | None |
+| Light | wght | 300.0 | 0 | None | 300.0 | 0 | None |
+| Regular | wght | 400.0 | 2 | 700.0 | 400.0 | 2 | 700.0 |
+| Medium | wght | 500.0 | 0 | None | 500.0 | 0 | None |
+| SemiBold | wght | N/A | N/A | N/A | 600.0 | 0 | None |
+| Bold | wght | 700.0 | 0 | None | 700.0 | 0 | None |
+| ExtraBold | wght | 800.0 | 0 | None | 800.0 | 0 | None |
+[code: bad-axis-values]</p>
+</span></li></ul></div></details>
+<h3>Check variable font instances</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/fvar_instances&gt;</div>
+
+<details><summary>🔥 <strong>fonts/variable/Ubuntu-Italic[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>fvar instances are incorrect:</p>
+<ul>
+<li>Add missing instances</li>
+<li>Delete additional instances</li>
+</ul>
+<p>| Name | current | expected |
+| :--- | :--- | :--- |
+| Condensed Light Italic | wdth=75.0, wght=300.0 | N/A |
+| Condensed Italic | wdth=75.0, wght=400.0 | N/A |
+| Condensed ExtraBold Italic | wdth=75.0, wght=800.0 | N/A |
+| Condensed Thin Italic | wdth=75.0, wght=100.0 | N/A |
+| Condensed Medium Italic | wdth=75.0, wght=500.0 | N/A |
+| Condensed Bold Italic | wdth=75.0, wght=700.0 | N/A |
+| Thin Italic | wdth=100.0, wght=100.0 | wdth=100.0, wght=100.0 |
+| ExtraLight Italic | N/A | wdth=100.0, wght=200.0 |
+| Light Italic | wdth=100.0, wght=300.0 | wdth=100.0, wght=300.0 |
+| Italic | wdth=100.0, wght=400.0 | wdth=100.0, wght=400.0 |
+| Medium Italic | wdth=100.0, wght=500.0 | wdth=100.0, wght=500.0 |
+| SemiBold Italic | N/A | wdth=100.0, wght=600.0 |
+| Bold Italic | wdth=100.0, wght=700.0 | wdth=100.0, wght=700.0 |
+| ExtraBold Italic | wdth=100.0, wght=800.0 | wdth=100.0, wght=800.0 | [code: bad-fvar-instances]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/variable/Ubuntu[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>fvar instances are incorrect:</p>
+<ul>
+<li>Add missing instances</li>
+<li>Delete additional instances</li>
+</ul>
+<p>| Name | current | expected |
+| :--- | :--- | :--- |
+| Condensed Thin | wdth=75.0, wght=100.0 | N/A |
+| Condensed ExtraBold | wdth=75.0, wght=800.0 | N/A |
+| Condensed Light | wdth=75.0, wght=300.0 | N/A |
+| Condensed Regular | wdth=75.0, wght=400.0 | N/A |
+| Condensed Medium | wdth=75.0, wght=500.0 | N/A |
+| Condensed Bold | wdth=75.0, wght=700.0 | N/A |
+| Thin | wdth=100.0, wght=100.0 | wdth=100.0, wght=100.0 |
+| ExtraLight | N/A | wdth=100.0, wght=200.0 |
+| Light | wdth=100.0, wght=300.0 | wdth=100.0, wght=300.0 |
+| Regular | wdth=100.0, wght=400.0 | wdth=100.0, wght=400.0 |
+| Medium | wdth=100.0, wght=500.0 | wdth=100.0, wght=500.0 |
+| SemiBold | N/A | wdth=100.0, wght=600.0 |
+| Bold | wdth=100.0, wght=700.0 | wdth=100.0, wght=700.0 |
+| ExtraBold | wdth=100.0, wght=800.0 | wdth=100.0, wght=800.0 | [code: bad-fvar-instances]</p>
+</span></li></ul></div></details>
+<h3>Is there kerning info for non-ligated sequences?</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/kerning_for_non_ligated_sequences&gt;</div>
+
+<details><summary>⚠️ <strong>fonts/variable/Ubuntu-Italic[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>GPOS table lacks kerning info for the following non-ligated sequences:</p>
+<pre><code>- f + f
+
+- f + i
+
+- i + f
+
+- f + l
+
+- l + f 
+
+- i + l [code: lacks-kern-info]
+</code></pre>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/variable/Ubuntu[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>GPOS table lacks kerning info for the following non-ligated sequences:</p>
+<pre><code>- f + f
+
+- f + i
+
+- i + f
+
+- f + l
+
+- l + f 
+
+- i + l [code: lacks-kern-info]
+</code></pre>
+</span></li></ul></div></details>
+<h3>Ensure fonts have ScriptLangTags declared on the 'meta' table.</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/meta/script_lang_tags&gt;</div>
+
+<details><summary>⚠️ <strong>fonts/variable/Ubuntu-Italic[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This font file does not have a 'meta' table. [code: lacks-meta-table]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/variable/Ubuntu[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This font file does not have a 'meta' table. [code: lacks-meta-table]</p>
+</span></li></ul></div></details>
+<h2>&lt;Section: Universal&gt; ⚠️⚠️⚠️⚠️⚠️⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩ℹ️ℹ️ℹ️ℹ️</h2>
+<h3>Check font contains no unreachable glyphs</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/unreachable_glyphs&gt;</div>
+
+<details><summary>⚠️ <strong>fonts/variable/Ubuntu-Italic[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs could not be reached by codepoint or substitution rules:</p>
+<pre><code>- IJacute
+
+- NULL
+
+- ampersand.001
+
+- eight_fraction_nine
+
+- five_fraction_nine
+
+- five_fraction_seven
+
+- four_fraction_nine
+
+- four_fraction_seven
+
+- ijacute
+
+- seven_fraction_nine 
+
+- 5 more.
+</code></pre>
+<p>Use -F or --full-lists to disable shortening of long lists.
+[code: unreachable-glyphs]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/variable/Ubuntu[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs could not be reached by codepoint or substitution rules:</p>
+<pre><code>- IJacute
+
+- eight_fraction_nine
+
+- five_fraction_nine
+
+- five_fraction_seven
+
+- four_fraction_nine
+
+- four_fraction_seven
+
+- ijacute
+
+- seven_fraction_nine
+
+- six_fraction_seven
+
+- three_fraction_seven
+
+- two_fraction_nine 
+
+- two_fraction_seven
+</code></pre>
+<p>[code: unreachable-glyphs]</p>
+</span></li></ul></div></details>
+<h3>Does the font contain a soft hyphen?</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/soft_hyphen&gt;</div>
+
+<details><summary>⚠️ <strong>fonts/variable/Ubuntu-Italic[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This font has a 'Soft Hyphen' character. [code: softhyphen]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/variable/Ubuntu[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This font has a 'Soft Hyphen' character. [code: softhyphen]</p>
+</span></li></ul></div></details>
+<h3>Detect any interpolation issues in the font.</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/interpolation_issues&gt;</div>
+
+<details><summary>⚠️ <strong>fonts/variable/Ubuntu-Italic[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Interpolation issues were found in the font: 	- Contour 1 start point differs in glyph 'zero' between location &lt;fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x119c74cd0&gt; and location &lt;fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x119d44df0&gt;</p>
+<pre><code>- Contour 1 start point differs in glyph 'o' between location &lt;fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x119c74cd0&gt; and location &lt;fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x119d44df0&gt;
+
+- Contour 1 start point differs in glyph 'ohorn' between location &lt;fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x119c74cd0&gt; and location &lt;fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x119d44df0&gt;
+
+- Contour 1 start point differs in glyph 'uni01A3' between location &lt;fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x119c74cd0&gt; and location &lt;fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x119d44df0&gt;
+
+- Contour 1 start point differs in glyph 'uni01EB' between location &lt;fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x119c74cd0&gt; and location &lt;fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x119d44df0&gt;
+
+- Contour 1 start point differs in glyph 'yucy' between location &lt;fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x119c74cd0&gt; and location &lt;fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x119d44df0&gt; 
+
+- Contour order differs in glyph 'ijacute': [0, 1, 2, 3] in &lt;fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x119c74cd0&gt;, [0, 1, 3, 2] in &lt;fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x119d459c0&gt;. [code: interpolation-issues]
+</code></pre>
+</span></li></ul></div></details>
+<h2>&lt;Section: fontbakery.profiles.gdef&gt; ⚠️⚠️⚠️⚠️</h2>
+<h3>Check glyphs in mark glyph class are non-spacing.</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/gdef_spacing_marks&gt;</div>
+
+<details><summary>⚠️ <strong>fonts/variable/Ubuntu-Italic[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following spacing glyphs may be in the GDEF mark glyph class by mistake:
+acute.asc (unencoded), caron.asc (unencoded), circumflex.asc (unencoded), dieresis_acute (unencoded), dieresis_acute.cap (unencoded), dieresis_breve (unencoded), dieresis_breve.cap (unencoded), dieresis_grave (unencoded), dieresis_grave.cap (unencoded), dieresis_macron (unencoded) and 19 more.</p>
+<p>Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/variable/Ubuntu[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following spacing glyphs may be in the GDEF mark glyph class by mistake:
+acute_greek.sc (unencoded), dieresistonos (U+0385), grave_greek.sc (unencoded), tonos (U+0384), tonos.sc (unencoded), uni1FBE (U+1FBE), uni1FBF (U+1FBF), uni1FBF.sc (unencoded), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1) and 17 more.</p>
+<p>Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]</p>
+</span></li></ul></div></details>
+<h3>Check GDEF mark glyph class doesn't have characters that are not marks.</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/gdef_non_mark_chars&gt;</div>
+
+<details><summary>⚠️ <strong>fonts/variable/Ubuntu-Italic[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following non-mark characters should not be in the GDEF mark glyph class:
+U+0384, U+0385, U+1FBE, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 7 more.</p>
+<p>Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/variable/Ubuntu[wdth,wght].ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following non-mark characters should not be in the GDEF mark glyph class:
+U+0384, U+0385, U+1FBE, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 6 more.</p>
+<p>Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]</p>
+</span></li></ul></div></details>
+                    </body>
+                </html>
