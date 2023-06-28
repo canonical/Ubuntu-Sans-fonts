@@ -3,9 +3,11 @@
   <advance width="501"/>
   <anchor x="62" y="0" name="bottom_1"/>
   <anchor x="206" y="-185" name="bottom_2"/>
-  <anchor x="102" y="10" name="ogonek"/>
+  <anchor x="128" y="275" name="center_1"/>
+  <anchor x="387" y="275" name="center_2"/>
+  <anchor x="98" y="0" name="ogonek"/>
   <anchor x="186" y="518" name="top_1"/>
-  <anchor x="439" y="518" name="top_2"/>
+  <anchor x="442" y="518" name="top_2"/>
   <outline>
     <component base="idotless"/>
     <component base="jdotless" xOffset="250"/>

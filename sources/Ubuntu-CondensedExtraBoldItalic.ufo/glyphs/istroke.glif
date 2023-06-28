@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="istroke" format="2">
+  <advance width="274"/>
+  <unicode hex="0268"/>
+  <anchor x="71" y="0" name="bottom"/>
+  <anchor x="140" y="279" name="center"/>
+  <anchor x="143" y="0" name="ogonek"/>
+  <anchor x="259" y="784" name="top"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="dotaccentcomb.i" xOffset="135"/>
+    <component base="strokeshortcomb" xOffset="-7"/>
+  </outline>
+</glyph>

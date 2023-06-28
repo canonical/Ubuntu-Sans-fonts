@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="istroke.sc" format="2">
+  <advance width="300"/>
+  <anchor x="150" y="0" name="bottom"/>
+  <anchor x="150" y="295" name="center"/>
+  <anchor x="226" y="0" name="ogonek"/>
+  <anchor x="150" y="589" name="top"/>
+  <outline>
+    <component base="i.sc"/>
+    <component base="strokeshortcomb" xOffset="-27" yOffset="14"/>
+  </outline>
+</glyph>
