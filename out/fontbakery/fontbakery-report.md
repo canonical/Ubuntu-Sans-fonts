@@ -34,11 +34,7 @@ Fontbakery version: 0.8.13
   - Ubuntu-Italic.ttf (nameID 1)
   - Ubuntu-ThinItalic.ttf (nameID 16)
   - Ubuntu-Light.ttf (nameID 16) [code: inconsistent-family-name]
-</div></details><br></div></details><details><summary><b>[10] UbuntuCondensed-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
-
-
-* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.869; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
-</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[9] UbuntuCondensed-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -128,11 +124,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 * ⚠ **WARN** The following glyphs have colinear vectors:
 
 	* uni2713 (U+2713): L<<230.0,229.0>--<238.0,240.0>> -> L<<238.0,240.0>--<512.0,615.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[11] UbuntuCondensed-LightItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
-
-
-* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.869; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
-</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[10] UbuntuCondensed-LightItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -228,14 +220,8 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 
 * ⚠ **WARN** The following glyphs have colinear vectors:
 
-	* uni2713 (U+2713): L<<102.0,353.0>--<253.0,172.0>> -> L<<253.0,172.0>--<256.0,168.0>> 
-
-	* uni2713 (U+2713): L<<256.0,168.0>--<259.0,172.0>> -> L<<259.0,172.0>--<550.0,573.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[12] UbuntuCondensed-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
-
-
-* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.869; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
-</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+	* uni2713 (U+2713): L<<251.0,166.0>--<254.0,171.0>> -> L<<254.0,171.0>--<544.0,573.0>> [code: found-colinear-vectors]
+</div></details><br></div></details><details><summary><b>[11] UbuntuCondensed-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -371,11 +357,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* uni2713 (U+2713): L<<234.0,171.0>--<237.0,175.0>> -> L<<237.0,175.0>--<520.0,567.0>> 
 
 	* uni2713 (U+2713): L<<88.0,349.0>--<231.0,175.0>> -> L<<231.0,175.0>--<234.0,171.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[11] Ubuntu-Medium.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
-
-
-* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.869; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
-</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[10] Ubuntu-Medium.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -483,11 +465,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni2713 (U+2713): L<<264.0,192.0>--<273.0,203.0>> -> L<<273.0,203.0>--<621.0,588.0>> 
 
 	* uni2713 (U+2713): L<<85.0,371.0>--<255.0,202.0>> -> L<<255.0,202.0>--<264.0,192.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[12] UbuntuCondensed-Thin.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
-
-
-* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.869; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
-</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] UbuntuCondensed-Thin.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -614,11 +592,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* uni2713 (U+2713): L<<230.0,157.0>--<234.0,163.0>> -> L<<234.0,163.0>--<536.0,586.0>> 
 
 	* uni2713 (U+2713): L<<75.0,361.0>--<226.0,163.0>> -> L<<226.0,163.0>--<230.0,157.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[11] Ubuntu-Thin.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
-
-
-* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.869; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
-</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[10] Ubuntu-Thin.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -718,11 +692,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni01EB (U+01EB): B<<243.0,-116.0>-<243.0,-62.0>-<313.0,-5.0>>/B<<313.0,-5.0>-<311.0,-6.0>-<306.0,-6.5>> = 12.590382945535127 
 
 	* uni01ED (U+01ED): B<<243.0,-116.0>-<243.0,-62.0>-<313.0,-5.0>>/B<<313.0,-5.0>-<311.0,-6.0>-<306.0,-6.5>> = 12.590382945535127 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[11] Ubuntu-LightItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
-
-
-* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.869; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
-</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[10] Ubuntu-LightItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -830,11 +800,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni2713 (U+2713): L<<104.0,353.0>--<292.0,171.0>> -> L<<292.0,171.0>--<296.0,167.0>> 
 
 	* uni2713 (U+2713): L<<296.0,167.0>--<300.0,171.0>> -> L<<300.0,171.0>--<666.0,573.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[12] UbuntuCondensed-Light.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
-
-
-* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.869; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
-</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] UbuntuCondensed-Light.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -961,11 +927,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* uni2713 (U+2713): L<<233.0,166.0>--<236.0,171.0>> -> L<<236.0,171.0>--<525.0,573.0>> 
 
 	* uni2713 (U+2713): L<<84.0,353.0>--<229.0,171.0>> -> L<<229.0,171.0>--<233.0,166.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[11] Ubuntu-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
-
-
-* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.869; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
-</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[10] Ubuntu-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -1073,11 +1035,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni2713 (U+2713): L<<264.0,170.0>--<268.0,174.0>> -> L<<268.0,174.0>--<626.0,567.0>> 
 
 	* uni2713 (U+2713): L<<80.0,349.0>--<260.0,174.0>> -> L<<260.0,174.0>--<264.0,170.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[12] Ubuntu-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
-
-
-* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.869; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
-</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] Ubuntu-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -1188,10 +1146,6 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 
 	* sterling (U+00A3) contains a short segment L<<266.0,281.0>--<266.0,279.0>>
 
-	* registered (U+00AE) contains a short segment B<<406.0,298.0>-<402.0,297.0>-<398.0,297.0>>
-
-	* registered (U+00AE) contains a short segment B<<398.0,297.0>-<394.0,297.0>-<390.0,297.0>>
-
 	* Ccedilla (U+00C7) contains a short segment B<<419.0,-13.0>-<416.0,-20.0>-<413.0,-26.5>>
 
 	* Ccedilla (U+00C7) contains a short segment B<<413.0,-26.5>-<410.0,-33.0>-<408.0,-39.0>>
@@ -1200,9 +1154,13 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 
 	* ccedilla (U+00E7) contains a short segment B<<326.0,-26.0>-<323.0,-33.0>-<321.0,-39.0>>
 
-	* Eogonek (U+0118) contains a short segment B<<517.0,-118.0>-<526.0,-118.0>-<538.0,-116.5>> 
+	* Eogonek (U+0118) contains a short segment B<<517.0,-118.0>-<526.0,-118.0>-<538.0,-116.5>>
 
-	* 83 more.
+	* eogonek (U+0119) contains a short segment B<<348.0,-12.0>-<341.0,-13.0>-<334.0,-13.0>>
+
+	* eogonek (U+0119) contains a short segment B<<334.0,-13.0>-<327.0,-13.0>-<320.0,-13.0>> 
+
+	* 81 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-short-segments]
 </div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
@@ -1213,11 +1171,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* uni2713 (U+2713): L<<264.0,222.0>--<279.0,240.0>> -> L<<279.0,240.0>--<615.0,615.0>> 
 
 	* uni2713 (U+2713): L<<91.0,401.0>--<249.0,239.0>> -> L<<249.0,239.0>--<264.0,222.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[10] Ubuntu-ExtraBoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
-
-
-* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.869; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
-</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[9] Ubuntu-ExtraBoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -1309,11 +1263,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni2713 (U+2713): L<<124.0,418.0>--<275.0,261.0>> -> L<<275.0,261.0>--<294.0,239.0>> 
 
 	* uni2713 (U+2713): L<<294.0,239.0>--<312.0,262.0>> -> L<<312.0,262.0>--<641.0,631.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[12] UbuntuCondensed-ExtraBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
-
-
-* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.869; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
-</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] UbuntuCondensed-ExtraBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -1440,11 +1390,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* uni2713 (U+2713): L<<229.0,248.0>--<238.0,261.0>> -> L<<238.0,261.0>--<509.0,631.0>> 
 
 	* uni2713 (U+2713): L<<91.0,419.0>--<220.0,261.0>> -> L<<220.0,261.0>--<229.0,248.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[10] UbuntuCondensed-Italic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
-
-
-* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.869; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
-</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[9] UbuntuCondensed-Italic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -1536,11 +1482,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni2713 (U+2713): L<<105.0,349.0>--<248.0,175.0>> -> L<<248.0,175.0>--<251.0,171.0>> 
 
 	* uni2713 (U+2713): L<<251.0,171.0>--<254.0,175.0>> -> L<<254.0,175.0>--<537.0,567.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[11] UbuntuCondensed-ThinItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
-
-
-* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.869; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
-</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[9] UbuntuCondensed-ThinItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -1602,11 +1544,7 @@ Use -F or --full-lists to disable shortening of long lists.
 
 The following glyphs do not have the recommended number of contours:
 
-	- Glyph name: uni01AA	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni0249	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni01AA	Contours detected: 3	Expected: 2 
+	- Glyph name: uni0249	Contours detected: 3	Expected: 2 
 
 	- Glyph name: uni0249	Contours detected: 3	Expected: 2
  [code: contour-count]
@@ -1633,32 +1571,10 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 
 * ⚠ **WARN** The following glyphs have colinear vectors:
 
-	* uni2713 (U+2713): L<<265.0,163.0>--<268.0,167.0>> -> L<<268.0,167.0>--<577.0,586.0>> 
+	* uni2713 (U+2713): L<<251.0,157.0>--<255.0,163.0>> -> L<<255.0,163.0>--<557.0,586.0>> 
 
-	* uni2713 (U+2713): L<<95.0,362.0>--<262.0,167.0>> -> L<<262.0,167.0>--<265.0,163.0>> [code: found-colinear-vectors]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have jaggy segments:
-
-	* Gammalatin (U+0194): B<<114.0,66.0>-<149.0,116.0>-<209.0,190.0>>/L<<209.0,190.0>--<197.0,181.0>> = 14.094589455409091
-
-	* Gammalatin (U+0263): B<<114.0,66.0>-<149.0,116.0>-<209.0,190.0>>/L<<209.0,190.0>--<197.0,181.0>> = 14.094589455409091
-
-	* uni00B5 (U+00B5): B<<78.5,22.0>-<48.0,48.0>-<52.0,100.0>>/B<<52.0,100.0>-<49.0,74.0>-<46.0,50.0>> = 2.1832393001825783
-
-	* uni01AA (U+01AA): L<<78.0,-158.0>--<77.0,-164.0>>/B<<77.0,-164.0>-<79.0,-157.0>-<78.5,-158.0>> = 6.483073692897262
-
-	* uni024A (U+024A): L<<393.0,-88.0>--<448.0,141.0>>/B<<448.0,141.0>-<429.0,105.0>-<400.0,71.5>> = 14.318900547059075
-
-	* uni03BC (U+03BC): B<<78.5,22.0>-<48.0,48.0>-<52.0,100.0>>/B<<52.0,100.0>-<49.0,74.0>-<46.0,50.0>> = 2.1832393001825783 
-
-	* uni0414 (U+0414): L<<269.0,664.0>--<269.0,665.0>>/B<<269.0,665.0>-<236.0,528.0>-<209.0,426.0>> = 13.543176642444742 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[11] UbuntuCondensed-BoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
-
-
-* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.869; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
-</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+	* uni2713 (U+2713): L<<96.0,361.0>--<247.0,163.0>> -> L<<247.0,163.0>--<251.0,157.0>> [code: found-colinear-vectors]
+</div></details><br></div></details><details><summary><b>[10] UbuntuCondensed-BoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -1758,11 +1674,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni01EA (U+01EA): B<<169.5,-63.5>-<189.0,-36.0>-<225.0,-9.0>>/B<<225.0,-9.0>-<224.0,-10.0>-<221.0,-10.0>> = 8.13010235415596 
 
 	* uni01EC (U+01EC): B<<169.5,-63.5>-<189.0,-36.0>-<225.0,-9.0>>/B<<225.0,-9.0>-<224.0,-10.0>-<221.0,-10.0>> = 8.13010235415596 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[12] Ubuntu-MediumItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
-
-
-* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.869; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
-</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] Ubuntu-MediumItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -1887,7 +1799,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 
 	* m (U+006D) contains a short segment B<<490.0,387.0>-<491.0,376.0>-<491.0,365.0>> 
 
-	* 82 more.
+	* 81 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-short-segments]
 </div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
@@ -1902,11 +1814,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* uni2713 (U+2713): L<<113.0,371.0>--<283.0,202.0>> -> L<<283.0,202.0>--<292.0,192.0>> 
 
 	* uni2713 (U+2713): L<<292.0,192.0>--<301.0,203.0>> -> L<<301.0,203.0>--<649.0,588.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[11] UbuntuCondensed-MediumItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
-
-
-* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.869; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
-</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[10] UbuntuCondensed-MediumItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -2005,11 +1913,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni2713 (U+2713): L<<112.0,372.0>--<251.0,203.0>> -> L<<251.0,203.0>--<256.0,196.0>> 
 
 	* uni2713 (U+2713): L<<256.0,196.0>--<261.0,203.0>> -> L<<261.0,203.0>--<540.0,588.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[12] UbuntuCondensed-Medium.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
-
-
-* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.869; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
-</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] UbuntuCondensed-Medium.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -2136,11 +2040,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* uni2713 (U+2713): L<<232.0,196.0>--<237.0,203.0>> -> L<<237.0,203.0>--<516.0,588.0>> 
 
 	* uni2713 (U+2713): L<<89.0,372.0>--<227.0,203.0>> -> L<<227.0,203.0>--<232.0,196.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[11] Ubuntu-ExtraBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
-
-
-* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.869; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
-</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[10] Ubuntu-ExtraBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -2260,11 +2160,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* uni2713 (U+2713): L<<264.0,239.0>--<282.0,262.0>> -> L<<282.0,262.0>--<611.0,631.0>> 
 
 	* uni2713 (U+2713): L<<94.0,418.0>--<245.0,261.0>> -> L<<245.0,261.0>--<264.0,239.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[11] UbuntuCondensed-ExtraBoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
-
-
-* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.869; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
-</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[10] UbuntuCondensed-ExtraBoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -2363,11 +2259,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni2713 (U+2713): L<<127.0,419.0>--<256.0,261.0>> -> L<<256.0,261.0>--<265.0,248.0>> 
 
 	* uni2713 (U+2713): L<<265.0,248.0>--<274.0,261.0>> -> L<<274.0,261.0>--<545.0,631.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[12] Ubuntu-BoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
-
-
-* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.869; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
-</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] Ubuntu-BoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -2486,13 +2378,13 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 
 	* m (U+006D) contains a short segment B<<514.5,379.5>-<515.0,371.0>-<515.0,363.0>>
 
-	* registered (U+00AE) contains a short segment B<<415.0,298.0>-<412.0,297.0>-<408.5,297.0>>
+	* Ccedilla (U+00C7) contains a short segment B<<348.0,-14.0>-<342.0,-22.0>-<337.0,-29.5>>
 
-	* registered (U+00AE) contains a short segment B<<408.5,297.0>-<405.0,297.0>-<403.0,297.0>>
+	* Ccedilla (U+00C7) contains a short segment B<<337.0,-29.5>-<332.0,-37.0>-<329.0,-43.0>>
 
-	* Ccedilla (U+00C7) contains a short segment B<<348.0,-14.0>-<342.0,-22.0>-<337.0,-29.5>> 
+	* ccedilla (U+00E7) contains a short segment B<<266.0,-29.0>-<261.0,-37.0>-<258.0,-43.0>> 
 
-	* 83 more.
+	* 81 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-short-segments]
 </div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
@@ -2507,11 +2399,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* uni2713 (U+2713): L<<120.0,401.0>--<278.0,239.0>> -> L<<278.0,239.0>--<293.0,222.0>> 
 
 	* uni2713 (U+2713): L<<293.0,222.0>--<308.0,240.0>> -> L<<308.0,240.0>--<644.0,615.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[12] Ubuntu-Italic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
-
-
-* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.869; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
-</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] Ubuntu-Italic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -2647,11 +2535,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* uni2713 (U+2713): L<<107.0,349.0>--<287.0,174.0>> -> L<<287.0,174.0>--<291.0,170.0>> 
 
 	* uni2713 (U+2713): L<<291.0,170.0>--<295.0,174.0>> -> L<<295.0,174.0>--<653.0,567.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[11] Ubuntu-ThinItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
-
-
-* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.869; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
-</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[10] Ubuntu-ThinItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -2753,11 +2637,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni023F (U+023F): B<<239.5,-151.5>-<249.0,-150.0>-<250.0,-147.0>>/L<<250.0,-147.0>--<244.0,-181.0>> = 8.426969021480636 
 
 	* uni03BC (U+03BC): B<<112.5,22.0>-<78.0,50.0>-<76.0,93.0>>/B<<76.0,93.0>-<72.0,70.0>-<69.5,52.5>> = 12.528807709151492 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[12] Ubuntu-Light.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
-
-
-* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.869; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
-</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] Ubuntu-Light.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -2875,8 +2755,8 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 50 | 222 | 2897 | 169 | 2175 | 0 |
-| 0% | 1% | 4% | 53% | 3% | 39% | 0% |
+| 0 | 26 | 221 | 2897 | 169 | 2200 | 0 |
+| 0% | 0% | 4% | 53% | 3% | 40% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
