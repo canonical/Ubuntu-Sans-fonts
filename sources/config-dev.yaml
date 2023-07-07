@@ -15,6 +15,8 @@ stat:
         values:
           - name: Condensed
             value: 75
+          - name: SemiCondensed
+            value: 87.5
           - name: Normal
             value: 100
             flags: 2
@@ -23,6 +25,8 @@ stat:
         values:
           - name: Thin
             value: 100
+          - name: ExtraLight
+            value: 200
           - name: Light
             value: 300
           - name: Regular
@@ -31,6 +35,8 @@ stat:
             flags: 2
           - name: Medium
             value: 500
+          - name: SemiBold
+            value: 600
           - name: Bold
             value: 700
           - name: ExtraBold
@@ -48,6 +54,8 @@ stat:
         values:
           - name: Condensed
             value: 75
+          - name: SemiCondensed
+            value: 87.5
           - name: Normal
             value: 100
             flags: 2
@@ -56,6 +64,8 @@ stat:
         values:
           - name: Thin
             value: 100
+          - name: ExtraLight
+            value: 200
           - name: Light
             value: 300
           - name: Regular
@@ -64,6 +74,8 @@ stat:
             flags: 2
           - name: Medium
             value: 500
+          - name: SemiBold
+            value: 600
           - name: Bold
             value: 700
           - name: ExtraBold
