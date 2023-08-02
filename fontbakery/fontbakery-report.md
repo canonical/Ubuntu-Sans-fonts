@@ -103,29 +103,9 @@ Use -F or --full-lists to disable shortening of long lists.
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- IJacute
-
-	- eight_fraction_nine
-
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
+	- IJacute 
 
 	- ijacute
-
-	- seven_fraction_nine
-
-	- six_fraction_seven
-
-	- three_fraction_seven
-
-	- two_fraction_nine 
-
-	- two_fraction_seven
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -215,23 +195,9 @@ But instead we have got:
 
 	- ampersand.001
 
-	- eight_fraction_nine
+	- ijacute 
 
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
-
-	- ijacute
-
-	- seven_fraction_nine 
-
-	- 5 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- uni030C.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -362,29 +328,9 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- IJacute
-
-	- eight_fraction_nine
-
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
+	- IJacute 
 
 	- ijacute
-
-	- seven_fraction_nine
-
-	- six_fraction_seven
-
-	- three_fraction_seven
-
-	- two_fraction_nine 
-
-	- two_fraction_seven
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -503,29 +449,9 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- IJacute
-
-	- eight_fraction_nine
-
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
+	- IJacute 
 
 	- ijacute
-
-	- seven_fraction_nine
-
-	- six_fraction_seven
-
-	- three_fraction_seven
-
-	- two_fraction_nine 
-
-	- two_fraction_seven
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -659,23 +585,9 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	- ampersand.001
 
-	- eight_fraction_nine
+	- ijacute 
 
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
-
-	- ijacute
-
-	- seven_fraction_nine 
-
-	- 5 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- uni030C.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -765,23 +677,9 @@ But instead we have got:
 
 	- ampersand.001
 
-	- eight_fraction_nine
+	- ijacute 
 
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
-
-	- ijacute
-
-	- seven_fraction_nine 
-
-	- 5 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- uni030C.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -871,23 +769,9 @@ But instead we have got:
 
 	- ampersand.001
 
-	- eight_fraction_nine
+	- ijacute 
 
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
-
-	- ijacute
-
-	- seven_fraction_nine 
-
-	- 5 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- uni030C.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -994,23 +878,9 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 	- ampersand.001
 
-	- eight_fraction_nine
+	- ijacute 
 
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
-
-	- ijacute
-
-	- seven_fraction_nine 
-
-	- 5 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- uni030C.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -1101,29 +971,9 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- IJacute
-
-	- eight_fraction_nine
-
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
+	- IJacute 
 
 	- ijacute
-
-	- seven_fraction_nine
-
-	- six_fraction_seven
-
-	- three_fraction_seven
-
-	- two_fraction_nine 
-
-	- two_fraction_seven
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -1251,29 +1101,9 @@ Use -F or --full-lists to disable shortening of long lists.
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- IJacute
-
-	- eight_fraction_nine
-
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
+	- IJacute 
 
 	- ijacute
-
-	- seven_fraction_nine
-
-	- six_fraction_seven
-
-	- three_fraction_seven
-
-	- two_fraction_nine 
-
-	- two_fraction_seven
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -1401,29 +1231,9 @@ Use -F or --full-lists to disable shortening of long lists.
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- IJacute
-
-	- eight_fraction_nine
-
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
+	- IJacute 
 
 	- ijacute
-
-	- seven_fraction_nine
-
-	- six_fraction_seven
-
-	- three_fraction_seven
-
-	- two_fraction_nine 
-
-	- two_fraction_seven
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -1557,23 +1367,9 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	- ampersand.001
 
-	- eight_fraction_nine
+	- ijacute 
 
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
-
-	- ijacute
-
-	- seven_fraction_nine 
-
-	- 5 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- uni030C.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -1707,23 +1503,9 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	- ampersand.001
 
-	- eight_fraction_nine
+	- ijacute 
 
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
-
-	- ijacute
-
-	- seven_fraction_nine 
-
-	- 5 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- uni030C.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -1845,23 +1627,9 @@ But instead we have got:
 
 	- ampersand.001
 
-	- eight_fraction_nine
+	- ijacute 
 
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
-
-	- ijacute
-
-	- seven_fraction_nine 
-
-	- 5 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- uni030C.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -1945,29 +1713,9 @@ But instead we have got:
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- IJacute
-
-	- eight_fraction_nine
-
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
+	- IJacute 
 
 	- ijacute
-
-	- seven_fraction_nine
-
-	- six_fraction_seven
-
-	- three_fraction_seven
-
-	- two_fraction_nine 
-
-	- two_fraction_seven
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -2059,29 +1807,9 @@ But instead we have got:
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- IJacute
-
-	- eight_fraction_nine
-
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
+	- IJacute 
 
 	- ijacute
-
-	- seven_fraction_nine
-
-	- six_fraction_seven
-
-	- three_fraction_seven
-
-	- two_fraction_nine 
-
-	- two_fraction_seven
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -2200,29 +1928,9 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- IJacute
-
-	- eight_fraction_nine
-
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
+	- IJacute 
 
 	- ijacute
-
-	- seven_fraction_nine
-
-	- six_fraction_seven
-
-	- three_fraction_seven
-
-	- two_fraction_nine 
-
-	- two_fraction_seven
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -2345,23 +2053,9 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 	- ampersand.001
 
-	- eight_fraction_nine
+	- ijacute 
 
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
-
-	- ijacute
-
-	- seven_fraction_nine 
-
-	- 5 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- uni030C.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -2450,29 +2144,9 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- IJacute
-
-	- eight_fraction_nine
-
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
+	- IJacute 
 
 	- ijacute
-
-	- seven_fraction_nine
-
-	- six_fraction_seven
-
-	- three_fraction_seven
-
-	- two_fraction_nine 
-
-	- two_fraction_seven
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -2591,29 +2265,9 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- IJacute
-
-	- eight_fraction_nine
-
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
+	- IJacute 
 
 	- ijacute
-
-	- seven_fraction_nine
-
-	- six_fraction_seven
-
-	- three_fraction_seven
-
-	- two_fraction_nine 
-
-	- two_fraction_seven
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -2747,23 +2401,9 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	- ampersand.001
 
-	- eight_fraction_nine
+	- ijacute 
 
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
-
-	- ijacute
-
-	- seven_fraction_nine 
-
-	- 5 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- uni030C.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -2879,29 +2519,9 @@ But instead we have got:
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- IJacute
-
-	- eight_fraction_nine
-
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
+	- IJacute 
 
 	- ijacute
-
-	- seven_fraction_nine
-
-	- six_fraction_seven
-
-	- three_fraction_seven
-
-	- two_fraction_nine 
-
-	- two_fraction_seven
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -2999,23 +2619,9 @@ But instead we have got:
 
 	- ampersand.001
 
-	- eight_fraction_nine
+	- ijacute 
 
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
-
-	- ijacute
-
-	- seven_fraction_nine 
-
-	- 5 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- uni030C.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -3112,23 +2718,9 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 	- ampersand.001
 
-	- eight_fraction_nine
+	- ijacute 
 
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
-
-	- ijacute
-
-	- seven_fraction_nine 
-
-	- 5 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- uni030C.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -3218,23 +2810,9 @@ But instead we have got:
 
 	- ampersand.001
 
-	- eight_fraction_nine
+	- ijacute 
 
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
-
-	- ijacute
-
-	- seven_fraction_nine 
-
-	- 5 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- uni030C.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -3334,29 +2912,9 @@ Use -F or --full-lists to disable shortening of long lists.
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- IJacute
-
-	- eight_fraction_nine
-
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
+	- IJacute 
 
 	- ijacute
-
-	- seven_fraction_nine
-
-	- six_fraction_seven
-
-	- three_fraction_seven
-
-	- two_fraction_nine 
-
-	- two_fraction_seven
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -3460,29 +3018,9 @@ Use -F or --full-lists to disable shortening of long lists.
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- IJacute
-
-	- eight_fraction_nine
-
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
+	- IJacute 
 
 	- ijacute
-
-	- seven_fraction_nine
-
-	- six_fraction_seven
-
-	- three_fraction_seven
-
-	- two_fraction_nine 
-
-	- two_fraction_seven
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -3572,23 +3110,9 @@ But instead we have got:
 
 	- ampersand.001
 
-	- eight_fraction_nine
+	- ijacute 
 
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
-
-	- ijacute
-
-	- seven_fraction_nine 
-
-	- 5 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- uni030C.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -3680,29 +3204,9 @@ But instead we have got:
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- IJacute
-
-	- eight_fraction_nine
-
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
+	- IJacute 
 
 	- ijacute
-
-	- seven_fraction_nine
-
-	- six_fraction_seven
-
-	- three_fraction_seven
-
-	- two_fraction_nine 
-
-	- two_fraction_seven
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -3825,23 +3329,9 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 	- ampersand.001
 
-	- eight_fraction_nine
+	- ijacute 
 
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
-
-	- ijacute
-
-	- seven_fraction_nine 
-
-	- 5 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- uni030C.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -3938,23 +3428,9 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 	- ampersand.001
 
-	- eight_fraction_nine
+	- ijacute 
 
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
-
-	- ijacute
-
-	- seven_fraction_nine 
-
-	- 5 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- uni030C.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -4038,29 +3514,9 @@ But instead we have got:
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- IJacute
-
-	- eight_fraction_nine
-
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
+	- IJacute 
 
 	- ijacute
-
-	- seven_fraction_nine
-
-	- six_fraction_seven
-
-	- three_fraction_seven
-
-	- two_fraction_nine 
-
-	- two_fraction_seven
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
