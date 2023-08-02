@@ -439,7 +439,6 @@ sub percent by percent.osf;
 } onum;
 
 feature c2sc {
-# automatic
 sub A by a.sc;
 sub Aacute by aacute.sc;
 sub Abreve by abreve.sc;
@@ -947,6 +946,8 @@ sub commaaccentcomb by commaaccentcomb.sc;
 sub brevecomb.cyr by brevecomb.cyr.sc;
 sub ijacute by ijacute.sc;
 
+
+sub Ereversed by eturned.sc;
 } c2sc;
 
 feature smcp {
