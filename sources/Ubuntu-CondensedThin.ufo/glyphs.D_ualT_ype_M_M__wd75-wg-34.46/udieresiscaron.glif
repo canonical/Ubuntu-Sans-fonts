@@ -8,7 +8,7 @@
   <anchor x="433.243" y="513.311" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="dieresis_breve" xOffset="72.294"/>
+    <component base="dieresiscomb_caroncomb" xOffset="72.294"/>
   </outline>
   <lib>
     <dict>
@@ -28,7 +28,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>dieresis_breve</string>
+          <string>dieresiscomb_caroncomb</string>
         </dict>
       </array>
     </dict>

@@ -10,7 +10,7 @@
   <anchor x="562" y="693" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="double_grave" xOffset="99" yOffset="154"/>
+    <component base="double_gravecomb" xOffset="99" yOffset="154"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>double_grave</string>
+          <string>double_gravecomb</string>
         </dict>
       </array>
     </dict>

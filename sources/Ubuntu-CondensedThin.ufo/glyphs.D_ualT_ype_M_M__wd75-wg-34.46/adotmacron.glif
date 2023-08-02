@@ -7,7 +7,7 @@
   <anchor x="208.638" y="513.311" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="dot_macron" xOffset="61.328"/>
+    <component base="dotaccentcomb_macroncomb" xOffset="61.328"/>
   </outline>
   <lib>
     <dict>
@@ -27,7 +27,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>dot_macron</string>
+          <string>dotaccentcomb_macroncomb</string>
         </dict>
       </array>
     </dict>

@@ -94,7 +94,7 @@
       </dict>
     </dict>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>3204</string>
+    <string>3208</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Export Mac Name Table Entries</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.customParameter.GSFont.Family Alignment Zones</key>
@@ -144,7 +144,7 @@
     <key>com.schriftgestaltung.customParameter.GSFont.Use Extension Kerning</key>
     <true/>
     <key>com.schriftgestaltung.customParameter.GSFont.Variable Font Origin</key>
-    <string>master01</string>
+    <string>6683B560-9132-4014-A565-8D1AD0697E0C</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Write DisplayStrings</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.customParameter.GSFont.Write lastChange</key>
@@ -2251,7 +2251,12 @@
       <string>oxia</string>
       <string>perispomeni</string>
       <string>dieresiscomb</string>
+      <string>dieresiscomb_gravecomb</string>
+      <string>dieresiscomb_acutecomb</string>
+      <string>dieresiscomb_caroncomb</string>
+      <string>dieresiscomb_macroncomb</string>
       <string>dotaccentcomb</string>
+      <string>dotaccentcomb_macron</string>
       <string>gravecomb</string>
       <string>acutecomb</string>
       <string>hungarumlautcomb</string>
@@ -2260,7 +2265,9 @@
       <string>caroncomb</string>
       <string>brevecomb</string>
       <string>ringcomb</string>
+      <string>ringcomb_acutecomb</string>
       <string>tildecomb</string>
+      <string>tildecomb_macroncomb</string>
       <string>macroncomb</string>
       <string>dblgravecomb</string>
       <string>breveinvertedcomb</string>
@@ -2273,6 +2280,9 @@
       <string>tildebelowcomb</string>
       <string>macronbelowcomb</string>
       <string>strokeshortcomb</string>
+      <string>dieresiscomb_gravecomb.cap</string>
+      <string>dieresiscomb_acutecomb.cap</string>
+      <string>dieresiscomb_caroncomb.cap</string>
       <string>brevecomb.cyr</string>
       <string>dotaccentcomb.i</string>
       <string>firsttonechinese</string>
@@ -3128,6 +3138,20 @@
       <string>uni1FED</string>
       <key>dieresiscomb</key>
       <string>uni0308</string>
+      <key>dieresiscomb_acutecomb</key>
+      <string>uni03080301</string>
+      <key>dieresiscomb_acutecomb.cap</key>
+      <string>uni03080301.cap</string>
+      <key>dieresiscomb_caroncomb</key>
+      <string>uni0308030C</string>
+      <key>dieresiscomb_caroncomb.cap</key>
+      <string>uni0308030C.cap</string>
+      <key>dieresiscomb_gravecomb</key>
+      <string>uni03080300</string>
+      <key>dieresiscomb_gravecomb.cap</key>
+      <string>uni03080300.cap</string>
+      <key>dieresiscomb_macroncomb</key>
+      <string>uni03080304</string>
       <key>divisionslash</key>
       <string>uni2215</string>
       <key>dje-cy</key>
@@ -3136,6 +3160,8 @@
       <string>uni0307</string>
       <key>dotaccentcomb.i</key>
       <string>uni0307.i</string>
+      <key>dotaccentcomb_macron</key>
+      <string>uni030700AF</string>
       <key>dottedCircle</key>
       <string>uni25CC</string>
       <key>dtopbar</key>
@@ -3654,6 +3680,8 @@
       <string>uni1FE4</string>
       <key>ringcomb</key>
       <string>uni030A</string>
+      <key>ringcomb_acutecomb</key>
+      <string>uni030A0301</string>
       <key>rinvertedbreve</key>
       <string>uni0213</string>
       <key>rstroke</key>
@@ -3738,6 +3766,8 @@
       <string>uni00B3</string>
       <key>tildebelowcomb</key>
       <string>uni0330</string>
+      <key>tildecomb_macroncomb</key>
+      <string>uni03030304</string>
       <key>tonefive</key>
       <string>uni01BD</string>
       <key>tonesix</key>

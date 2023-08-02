@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="schwadieresis-cy.sc" format="2">
-  <advance width="464"/>
+  <advance width="400"/>
   <anchor x="232" y="0" name="bottom"/>
+  <anchor x="39" y="10" name="ogonek"/>
   <anchor x="211" y="758" name="top"/>
+  <anchor x="384" y="579" name="topleft"/>
   <outline>
     <component base="schwa-cy.sc"/>
     <component base="dieresiscomb.sc" xOffset="211"/>

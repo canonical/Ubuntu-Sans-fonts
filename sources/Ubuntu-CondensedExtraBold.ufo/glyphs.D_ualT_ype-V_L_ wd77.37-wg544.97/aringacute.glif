@@ -7,7 +7,7 @@
   <anchor x="234.072" y="525.228" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="ring_acute" xOffset="107.11"/>
+    <component base="ringcomb_acutecomb" xOffset="107.11"/>
   </outline>
   <lib>
     <dict>
@@ -27,7 +27,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>ring_acute</string>
+          <string>ringcomb_acutecomb</string>
         </dict>
       </array>
     </dict>

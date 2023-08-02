@@ -7,7 +7,7 @@
   <anchor x="296" y="522" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="ring_acute" xOffset="79" yOffset="8"/>
+    <component base="ringcomb_acutecomb" xOffset="79" yOffset="8"/>
   </outline>
   <lib>
     <dict>
@@ -54,7 +54,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>ring_acute</string>
+          <string>ringcomb_acutecomb</string>
         </dict>
       </array>
       <key>public.markColor</key>

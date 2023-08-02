@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb_gravecomb.sc" format="2">
+  <anchor x="0" y="580" name="_top"/>
+  <anchor x="0" y="816" name="top"/>
+  <outline>
+    <contour>
+      <point x="12" y="649" type="line"/>
+      <point x="50" y="683" type="line"/>
+      <point x="-49" y="816" type="line"/>
+      <point x="-96" y="770" type="line"/>
+    </contour>
+    <contour>
+      <point x="-135" y="613" type="curve" smooth="yes"/>
+      <point x="-108" y="613"/>
+      <point x="-87" y="633"/>
+      <point x="-87" y="663" type="curve" smooth="yes"/>
+      <point x="-87" y="693"/>
+      <point x="-108" y="713"/>
+      <point x="-135" y="713" type="curve" smooth="yes"/>
+      <point x="-162" y="713"/>
+      <point x="-183" y="693"/>
+      <point x="-183" y="663" type="curve" smooth="yes"/>
+      <point x="-183" y="633"/>
+      <point x="-162" y="613"/>
+    </contour>
+    <contour>
+      <point x="135" y="613" type="curve" smooth="yes"/>
+      <point x="162" y="613"/>
+      <point x="183" y="633"/>
+      <point x="183" y="663" type="curve" smooth="yes"/>
+      <point x="183" y="693"/>
+      <point x="162" y="713"/>
+      <point x="135" y="713" type="curve" smooth="yes"/>
+      <point x="108" y="713"/>
+      <point x="87" y="693"/>
+      <point x="87" y="663" type="curve" smooth="yes"/>
+      <point x="87" y="633"/>
+      <point x="108" y="613"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

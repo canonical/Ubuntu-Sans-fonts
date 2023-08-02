@@ -1286,27 +1286,27 @@
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dieresis</key>
       <integer>2</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.dieresis_acute</key>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dieresiscomb_acutecomb</key>
       <integer>2</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.dieresis_acute.cap</key>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dieresiscomb_acutecomb.cap</key>
       <integer>2</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.dieresis_acute.sc</key>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dieresiscomb_acutecomb.sc</key>
       <integer>2</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.dieresis_breve</key>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dieresiscomb_caroncomb</key>
       <integer>2</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.dieresis_breve.cap</key>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dieresiscomb_caroncomb.cap</key>
       <integer>2</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.dieresis_breve.sc</key>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dieresiscomb_caroncomb.sc</key>
       <integer>2</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.dieresis_grave</key>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dieresiscomb_gravecomb</key>
       <integer>2</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.dieresis_grave.cap</key>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dieresiscomb_gravecomb.cap</key>
       <integer>2</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.dieresis_grave.sc</key>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dieresiscomb_gravecomb.sc</key>
       <integer>2</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.dieresis_macron</key>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dieresiscomb_macroncomb</key>
       <integer>2</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.dieresis_macron.sc</key>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dieresiscomb_macroncomb.sc</key>
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dieresistonos</key>
       <integer>2</integer>
@@ -1320,15 +1320,15 @@
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dollar.osf</key>
       <integer>2</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.dot_macron</key>
-      <integer>2</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.dot_macron.sc</key>
-      <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dotaccent</key>
       <integer>2</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.double_grave</key>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dotaccentcomb_macroncomb</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dotaccentcomb_macroncomb.sc</key>
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.double_grave.sc</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.double_gravecomb</key>
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dtopbar</key>
       <integer>2</integer>
@@ -2228,7 +2228,7 @@
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ring</key>
       <integer>2</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.ring_acute</key>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ringcomb_acutecomb</key>
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.rinvertedbreve</key>
       <integer>2</integer>
@@ -2388,9 +2388,9 @@
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.tilde</key>
       <integer>2</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.tilde_macron</key>
+      <key>com.schriftgestaltung.layerOrderInGlyph.tildecomb_macroncomb</key>
       <integer>2</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.tilde_macron.sc</key>
+      <key>com.schriftgestaltung.layerOrderInGlyph.tildecomb_macroncomb.sc</key>
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.tonefive</key>
       <integer>2</integer>

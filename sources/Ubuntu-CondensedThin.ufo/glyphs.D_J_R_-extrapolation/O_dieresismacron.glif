@@ -10,7 +10,7 @@
   <anchor x="562" y="693" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="dieresis_macron" xOffset="132" yOffset="180"/>
+    <component base="dieresiscomb_macroncomb" xOffset="132" yOffset="180"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>dieresis_macron</string>
+          <string>dieresiscomb_macroncomb</string>
         </dict>
       </array>
     </dict>

@@ -8,7 +8,7 @@
   <anchor x="557.94" y="693" name="topright"/>
   <outline>
     <component base="U"/>
-    <component base="dieresis_macron" xOffset="127.758" yOffset="146.521"/>
+    <component base="dieresiscomb_macroncomb" xOffset="127.758" yOffset="146.521"/>
   </outline>
   <lib>
     <dict>
@@ -28,7 +28,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>dieresis_macron</string>
+          <string>dieresiscomb_macroncomb</string>
         </dict>
       </array>
     </dict>

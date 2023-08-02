@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="schwa-cy.sc" format="2">
-  <advance width="652"/>
+  <advance width="550"/>
   <anchor x="318" y="589" name="top"/>
   <anchor x="326" y="0" name="bottom"/>
+  <anchor x="55" y="10" name="ogonek"/>
+  <anchor x="530" y="589" name="topleft"/>
   <outline>
     <component base="eturned.sc"/>
   </outline>

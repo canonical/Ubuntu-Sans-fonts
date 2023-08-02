@@ -9,7 +9,7 @@
   <anchor x="469.579" y="525.228" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="tilde_macron" xOffset="88.157"/>
+    <component base="tildecomb_macroncomb" xOffset="88.157"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>tilde_macron</string>
+          <string>tildecomb_macroncomb</string>
         </dict>
       </array>
     </dict>

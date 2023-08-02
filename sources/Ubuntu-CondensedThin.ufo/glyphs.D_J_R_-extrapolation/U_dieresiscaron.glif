@@ -8,7 +8,7 @@
   <anchor x="502" y="693" name="topright"/>
   <outline>
     <component base="U"/>
-    <component base="dieresis_breve.cap" xOffset="110"/>
+    <component base="dieresiscomb_caroncomb.cap" xOffset="110"/>
   </outline>
   <lib>
     <dict>
@@ -28,7 +28,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>dieresis_breve.cap</string>
+          <string>dieresiscomb_caroncomb.cap</string>
         </dict>
       </array>
     </dict>

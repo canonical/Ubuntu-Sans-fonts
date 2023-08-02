@@ -1306,22 +1306,22 @@
       <integer>7</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dieresis</key>
       <integer>6</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.dieresis_acute</key>
-      <integer>7</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.dieresis_acute.cap</key>
-      <integer>6</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.dieresis_breve</key>
-      <integer>6</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.dieresis_breve.cap</key>
-      <integer>6</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.dieresis_grave</key>
-      <integer>6</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.dieresis_grave.cap</key>
-      <integer>6</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.dieresis_macron</key>
-      <integer>7</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dieresiscomb</key>
       <integer>5</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dieresiscomb_acutecomb</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dieresiscomb_acutecomb.cap</key>
+      <integer>6</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dieresiscomb_caroncomb</key>
+      <integer>6</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dieresiscomb_caroncomb.cap</key>
+      <integer>6</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dieresiscomb_gravecomb</key>
+      <integer>6</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dieresiscomb_gravecomb.cap</key>
+      <integer>6</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dieresiscomb_macroncomb</key>
+      <integer>7</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dieresistonos</key>
       <integer>6</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.divide</key>
@@ -1334,14 +1334,14 @@
       <integer>6</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dollar.osf</key>
       <integer>3</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.dot_macron</key>
-      <integer>6</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dotaccent</key>
       <integer>6</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dotaccentcomb</key>
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dotaccentcomb.i</key>
       <integer>3</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dotaccentcomb_macron</key>
+      <integer>6</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dotbelowcomb</key>
       <integer>3</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dottedCircle</key>
@@ -2258,10 +2258,10 @@
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ring</key>
       <integer>5</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.ring_acute</key>
-      <integer>6</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ringcomb</key>
       <integer>5</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ringcomb_acutecomb</key>
+      <integer>6</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.rinvertedbreve</key>
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.rstroke</key>
@@ -2430,12 +2430,12 @@
       <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.tilde</key>
       <integer>6</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.tilde_macron</key>
-      <integer>6</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.tildebelowcomb</key>
       <integer>3</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.tildecomb</key>
       <integer>5</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.tildecomb_macroncomb</key>
+      <integer>6</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.tonefive</key>
       <integer>6</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.tonesix</key>

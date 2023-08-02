@@ -6,7 +6,7 @@
   <anchor x="180.876" y="525.228" name="top"/>
   <outline>
     <component base="r"/>
-    <component base="double_grave" xOffset="3.112"/>
+    <component base="double_gravecomb" xOffset="3.112"/>
   </outline>
   <lib>
     <dict>
@@ -26,7 +26,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>double_grave</string>
+          <string>double_gravecomb</string>
         </dict>
       </array>
     </dict>

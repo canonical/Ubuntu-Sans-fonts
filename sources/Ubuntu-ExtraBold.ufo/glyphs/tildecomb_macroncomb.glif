@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb_macroncomb" format="2">
+  <anchor x="0" y="526" name="_top"/>
+  <anchor x="0" y="820" name="top"/>
+  <outline>
+    <contour>
+      <point x="-101" y="588" type="line"/>
+      <point x="-90" y="608"/>
+      <point x="-77" y="625"/>
+      <point x="-54" y="625" type="curve" smooth="yes"/>
+      <point x="-37" y="625"/>
+      <point x="-21" y="619"/>
+      <point x="-5" y="612" type="curve" smooth="yes"/>
+      <point x="14" y="604"/>
+      <point x="33" y="596"/>
+      <point x="54" y="596" type="curve" smooth="yes"/>
+      <point x="107" y="596"/>
+      <point x="142" y="648"/>
+      <point x="156" y="683" type="curve"/>
+      <point x="102" y="718" type="line"/>
+      <point x="91" y="698"/>
+      <point x="77" y="681"/>
+      <point x="54" y="681" type="curve" smooth="yes"/>
+      <point x="38" y="681"/>
+      <point x="23" y="687"/>
+      <point x="8" y="693" type="curve" smooth="yes"/>
+      <point x="-12" y="701"/>
+      <point x="-31" y="711"/>
+      <point x="-53" y="711" type="curve" smooth="yes"/>
+      <point x="-106" y="711"/>
+      <point x="-145" y="668"/>
+      <point x="-156" y="632" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-130" y="740" type="line"/>
+      <point x="130" y="740" type="line"/>
+      <point x="130" y="820" type="line"/>
+      <point x="-130" y="820" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

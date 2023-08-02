@@ -8,7 +8,7 @@
   <anchor x="20" y="693" name="topleft"/>
   <outline>
     <component base="E"/>
-    <component base="double_grave" xOffset="31.915" yOffset="154.328"/>
+    <component base="double_gravecomb" xOffset="31.915" yOffset="154.328"/>
   </outline>
   <lib>
     <dict>
@@ -28,7 +28,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>double_grave</string>
+          <string>double_gravecomb</string>
         </dict>
       </array>
     </dict>
