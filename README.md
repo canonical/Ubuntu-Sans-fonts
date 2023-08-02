@@ -24,13 +24,13 @@ A monospaced/fixed-width variant, **Ubuntu Mono**, is available in a separate re
 
 ![Sample Image](documentation/image1.png)
 
-## About
+## Releases
 
-Description of you and/or organisation goes here.
+You can find recent releases and release candidates in the ["Releases" tab](https://github.com/canonical/Ubuntu-fonts/releases).
 
 ## Building
 
-Fonts are built automatically by GitHub Actions - take a look in the "Actions" tab for the latest build.
+Fonts are built automatically by GitHub Actions - take a look in the ["Actions" tab](https://github.com/canonical/Ubuntu-fonts/actions) for the latest build.
 
 If you want to build fonts manually on your own computer:
 
@@ -41,15 +41,14 @@ If you want to build fonts manually on your own computer:
 
 The proof files and QA tests are also available automatically via GitHub Actions - look at https://canonical.github.io/Ubuntu-fonts.
 
+It is possible to generate custom styles directly from the variable fonts using [fontTools instancer.](https://fonttools.readthedocs.io/en/latest/varLib/instancer.html). For example, the following generates a custom style that is a close match to Ubuntu Mono’s original weight:
+
+```fonttools varLib.instancer Ubuntu[wdth,wght].ttf wdth=100 wght=473```
+
+
 ## Changelog
 
-When you update your font (new version or new release), please report all notable changes here, with a date.
-[Font Versioning](https://github.com/googlefonts/gf-docs/tree/main/Spec#font-versioning) is based on semver. 
-Changelog example:
-
-**26 May 2021. Version 2.13**
-- MAJOR Font turned to a variable font.
-- SIGNIFICANT New Stylistic sets added.
+See [FONTLOG.txt](FONTLOG.txt) for a summary of updates.
 
 ## License
 
