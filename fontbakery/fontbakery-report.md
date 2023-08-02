@@ -46,7 +46,21 @@ Fontbakery version: 0.8.13
   - UbuntuCondensed-Bold.ttf (nameID 1)
   - UbuntuCondensed-ExtraBoldItalic.ttf (nameID 16)
   - UbuntuCondensed-MediumItalic.ttf (nameID 16) [code: inconsistent-family-name]
-</div></details><br></div></details><details><summary><b>[10] Ubuntu-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] Ubuntu-Regular.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -154,7 +168,21 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni2713 (U+2713): L<<264.0,170.0>--<268.0,174.0>> -> L<<268.0,174.0>--<626.0,567.0>> 
 
 	* uni2713 (U+2713): L<<80.0,349.0>--<260.0,174.0>> -> L<<260.0,174.0>--<264.0,170.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[10] Ubuntu-LExtraLightItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking file is named canonically. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/canonical_filename">com.google.fonts/check/canonical_filename</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] Ubuntu-LExtraLightItalic.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>🔥 <b>FAIL:</b> Checking file is named canonically. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/canonical_filename">com.google.fonts/check/canonical_filename</a>)</summary><div>
 
 
 * 🔥 **FAIL** Expected "Ubuntu-ExtraLightItalic.ttf. Got Ubuntu-LExtraLightItalic.ttf. [code: bad-filename]
@@ -250,7 +278,21 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni2713 (U+2713): L<<100.0,358.0>--<296.0,169.0>> -> L<<296.0,169.0>--<300.0,165.0>> 
 
 	* uni2713 (U+2713): L<<300.0,165.0>--<304.0,169.0>> -> L<<304.0,169.0>--<680.0,580.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[10] Ubuntu-SemiBoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] Ubuntu-SemiBoldItalic.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -354,7 +396,21 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni01EA (U+01EA): B<<218.0,-130.0>-<218.0,-68.0>-<306.0,-10.0>>/B<<306.0,-10.0>-<304.0,-11.0>-<300.0,-11.0>> = 6.823462399033457 
 
 	* uni01EC (U+01EC): B<<218.0,-130.0>-<218.0,-68.0>-<306.0,-10.0>>/B<<306.0,-10.0>-<304.0,-11.0>-<300.0,-11.0>> = 6.823462399033457 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[11] UbuntuCondensed-Thin.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[12] UbuntuCondensed-Thin.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -481,7 +537,21 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* uni2713 (U+2713): L<<230.0,157.0>--<234.0,163.0>> -> L<<234.0,163.0>--<536.0,586.0>> 
 
 	* uni2713 (U+2713): L<<75.0,361.0>--<226.0,163.0>> -> L<<226.0,163.0>--<230.0,157.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[11] UbuntuCondensed-Light.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[12] UbuntuCondensed-Light.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -608,7 +678,21 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* uni2713 (U+2713): L<<233.0,166.0>--<236.0,171.0>> -> L<<236.0,171.0>--<525.0,573.0>> 
 
 	* uni2713 (U+2713): L<<84.0,353.0>--<229.0,171.0>> -> L<<229.0,171.0>--<233.0,166.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[10] Ubuntu-LightItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] Ubuntu-LightItalic.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -716,7 +800,21 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni2713 (U+2713): L<<104.0,353.0>--<292.0,171.0>> -> L<<292.0,171.0>--<296.0,167.0>> 
 
 	* uni2713 (U+2713): L<<296.0,167.0>--<300.0,171.0>> -> L<<300.0,171.0>--<666.0,573.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[9] UbuntuCondensed-ThinItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[10] UbuntuCondensed-ThinItalic.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -808,7 +906,21 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni2713 (U+2713): L<<251.0,157.0>--<255.0,163.0>> -> L<<255.0,163.0>--<557.0,586.0>> 
 
 	* uni2713 (U+2713): L<<96.0,361.0>--<247.0,163.0>> -> L<<247.0,163.0>--<251.0,157.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[10] Ubuntu-ThinItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] Ubuntu-ThinItalic.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -910,7 +1022,21 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni023F (U+023F): B<<239.5,-151.5>-<249.0,-150.0>-<250.0,-147.0>>/L<<250.0,-147.0>--<244.0,-181.0>> = 8.426969021480636 
 
 	* uni03BC (U+03BC): B<<112.5,22.0>-<78.0,50.0>-<76.0,93.0>>/B<<76.0,93.0>-<72.0,70.0>-<69.5,52.5>> = 12.528807709151492 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[10] UbuntuCondensed-ExtraLightItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] UbuntuCondensed-ExtraLightItalic.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -1009,7 +1135,21 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni2713 (U+2713): L<<251.0,162.0>--<255.0,167.0>> -> L<<255.0,167.0>--<550.0,580.0>> 
 
 	* uni2713 (U+2713): L<<99.0,357.0>--<247.0,167.0>> -> L<<247.0,167.0>--<251.0,162.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[11] UbuntuCondensed-ExtraBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[12] UbuntuCondensed-ExtraBold.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -1136,7 +1276,21 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* uni2713 (U+2713): L<<229.0,248.0>--<238.0,261.0>> -> L<<238.0,261.0>--<509.0,631.0>> 
 
 	* uni2713 (U+2713): L<<91.0,419.0>--<220.0,261.0>> -> L<<220.0,261.0>--<229.0,248.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[11] UbuntuCondensed-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[12] UbuntuCondensed-Regular.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -1272,7 +1426,21 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* uni2713 (U+2713): L<<234.0,171.0>--<237.0,175.0>> -> L<<237.0,175.0>--<520.0,567.0>> 
 
 	* uni2713 (U+2713): L<<88.0,349.0>--<231.0,175.0>> -> L<<231.0,175.0>--<234.0,171.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[11] Ubuntu-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[12] Ubuntu-Bold.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -1408,7 +1576,21 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* uni2713 (U+2713): L<<264.0,222.0>--<279.0,240.0>> -> L<<279.0,240.0>--<615.0,615.0>> 
 
 	* uni2713 (U+2713): L<<91.0,401.0>--<249.0,239.0>> -> L<<249.0,239.0>--<264.0,222.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[11] Ubuntu-Italic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[12] Ubuntu-Italic.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -1544,7 +1726,21 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* uni2713 (U+2713): L<<107.0,349.0>--<287.0,174.0>> -> L<<287.0,174.0>--<291.0,170.0>> 
 
 	* uni2713 (U+2713): L<<291.0,170.0>--<295.0,174.0>> -> L<<295.0,174.0>--<653.0,567.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[11] Ubuntu-BoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[12] Ubuntu-BoldItalic.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -1684,7 +1880,21 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* uni2713 (U+2713): L<<120.0,401.0>--<278.0,239.0>> -> L<<278.0,239.0>--<293.0,222.0>> 
 
 	* uni2713 (U+2713): L<<293.0,222.0>--<308.0,240.0>> -> L<<308.0,240.0>--<644.0,615.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[10] Ubuntu-Thin.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] Ubuntu-Thin.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -1784,7 +1994,21 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni01EB (U+01EB): B<<243.0,-116.0>-<243.0,-62.0>-<313.0,-5.0>>/B<<313.0,-5.0>-<311.0,-6.0>-<306.0,-6.5>> = 12.590382945535127 
 
 	* uni01ED (U+01ED): B<<243.0,-116.0>-<243.0,-62.0>-<313.0,-5.0>>/B<<313.0,-5.0>-<311.0,-6.0>-<306.0,-6.5>> = 12.590382945535127 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[9] Ubuntu-SemiBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[10] Ubuntu-SemiBold.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -1876,7 +2100,21 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni2713 (U+2713): L<<264.0,207.0>--<276.0,221.0>> -> L<<276.0,221.0>--<618.0,601.0>> 
 
 	* uni2713 (U+2713): L<<88.0,386.0>--<252.0,221.0>> -> L<<252.0,221.0>--<264.0,207.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[11] UbuntuCondensed-ExtraLight.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[12] UbuntuCondensed-ExtraLight.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -2001,7 +2239,21 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 * ⚠ **WARN** The following glyphs have colinear vectors:
 
 	* uni2713 (U+2713): L<<231.0,162.0>--<235.0,167.0>> -> L<<235.0,167.0>--<531.0,580.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[10] UbuntuCondensed-LightItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] UbuntuCondensed-LightItalic.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -2098,7 +2350,21 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 * ⚠ **WARN** The following glyphs have colinear vectors:
 
 	* uni2713 (U+2713): L<<251.0,166.0>--<254.0,171.0>> -> L<<254.0,171.0>--<544.0,573.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[11] UbuntuCondensed-SemiBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[12] UbuntuCondensed-SemiBold.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -2225,7 +2491,21 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* uni2713 (U+2713): L<<231.0,212.0>--<238.0,221.0>> -> L<<238.0,221.0>--<514.0,601.0>> 
 
 	* uni2713 (U+2713): L<<90.0,387.0>--<225.0,221.0>> -> L<<225.0,221.0>--<231.0,212.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[11] UbuntuCondensed-Medium.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[12] UbuntuCondensed-Medium.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -2352,7 +2632,21 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* uni2713 (U+2713): L<<232.0,196.0>--<237.0,203.0>> -> L<<237.0,203.0>--<516.0,588.0>> 
 
 	* uni2713 (U+2713): L<<89.0,372.0>--<227.0,203.0>> -> L<<227.0,203.0>--<232.0,196.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[11] Ubuntu-MediumItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[12] Ubuntu-MediumItalic.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -2492,7 +2786,21 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* uni2713 (U+2713): L<<113.0,371.0>--<283.0,202.0>> -> L<<283.0,202.0>--<292.0,192.0>> 
 
 	* uni2713 (U+2713): L<<292.0,192.0>--<301.0,203.0>> -> L<<301.0,203.0>--<649.0,588.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[10] Ubuntu-ExtraLight.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] Ubuntu-ExtraLight.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -2592,7 +2900,21 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni01EB (U+01EB): B<<255.5,-61.0>-<273.0,-34.0>-<305.0,-7.0>>/B<<305.0,-7.0>-<303.0,-8.0>-<299.5,-8.5>> = 13.590948447841294 
 
 	* uni01ED (U+01ED): B<<255.5,-61.0>-<273.0,-34.0>-<305.0,-7.0>>/B<<305.0,-7.0>-<303.0,-8.0>-<299.5,-8.5>> = 13.590948447841294 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[9] UbuntuCondensed-Italic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[10] UbuntuCondensed-Italic.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -2684,7 +3006,21 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni2713 (U+2713): L<<105.0,349.0>--<248.0,175.0>> -> L<<248.0,175.0>--<251.0,171.0>> 
 
 	* uni2713 (U+2713): L<<251.0,171.0>--<254.0,175.0>> -> L<<254.0,175.0>--<537.0,567.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[10] UbuntuCondensed-SemiBoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] UbuntuCondensed-SemiBoldItalic.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -2783,7 +3119,21 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni2713 (U+2713): L<<117.0,387.0>--<252.0,221.0>> -> L<<252.0,221.0>--<259.0,212.0>> 
 
 	* uni2713 (U+2713): L<<259.0,212.0>--<265.0,221.0>> -> L<<265.0,221.0>--<541.0,601.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[9] Ubuntu-ExtraBoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[10] Ubuntu-ExtraBoldItalic.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -2875,7 +3225,21 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni2713 (U+2713): L<<124.0,418.0>--<275.0,261.0>> -> L<<275.0,261.0>--<294.0,239.0>> 
 
 	* uni2713 (U+2713): L<<294.0,239.0>--<312.0,262.0>> -> L<<312.0,262.0>--<641.0,631.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[10] Ubuntu-Medium.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] Ubuntu-Medium.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -2983,7 +3347,21 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni2713 (U+2713): L<<264.0,192.0>--<273.0,203.0>> -> L<<273.0,203.0>--<621.0,588.0>> 
 
 	* uni2713 (U+2713): L<<85.0,371.0>--<255.0,202.0>> -> L<<255.0,202.0>--<264.0,192.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[11] Ubuntu-Light.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[12] Ubuntu-Light.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -3095,7 +3473,21 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni2713 (U+2713): L<<264.0,167.0>--<268.0,171.0>> -> L<<268.0,171.0>--<635.0,573.0>> 
 
 	* uni2713 (U+2713): L<<72.0,353.0>--<260.0,171.0>> -> L<<260.0,171.0>--<264.0,167.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[10] UbuntuCondensed-BoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] UbuntuCondensed-BoldItalic.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -3195,7 +3587,21 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni01EA (U+01EA): B<<169.5,-63.5>-<189.0,-36.0>-<225.0,-9.0>>/B<<225.0,-9.0>-<224.0,-10.0>-<221.0,-10.0>> = 8.13010235415596 
 
 	* uni01EC (U+01EC): B<<169.5,-63.5>-<189.0,-36.0>-<225.0,-9.0>>/B<<225.0,-9.0>-<224.0,-10.0>-<221.0,-10.0>> = 8.13010235415596 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[9] UbuntuCondensed-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[10] UbuntuCondensed-Bold.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -3285,7 +3691,21 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 * ⚠ **WARN** The following glyphs have colinear vectors:
 
 	* uni2713 (U+2713): L<<230.0,229.0>--<238.0,240.0>> -> L<<238.0,240.0>--<512.0,615.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[10] UbuntuCondensed-ExtraBoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] UbuntuCondensed-ExtraBoldItalic.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -3384,7 +3804,21 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni2713 (U+2713): L<<127.0,419.0>--<256.0,261.0>> -> L<<256.0,261.0>--<265.0,248.0>> 
 
 	* uni2713 (U+2713): L<<265.0,248.0>--<274.0,261.0>> -> L<<274.0,261.0>--<545.0,631.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[10] UbuntuCondensed-MediumItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] UbuntuCondensed-MediumItalic.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -3483,7 +3917,21 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni2713 (U+2713): L<<112.0,372.0>--<251.0,203.0>> -> L<<251.0,203.0>--<256.0,196.0>> 
 
 	* uni2713 (U+2713): L<<256.0,196.0>--<261.0,203.0>> -> L<<261.0,203.0>--<540.0,588.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[10] Ubuntu-ExtraBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] Ubuntu-ExtraBold.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+
+
+* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
+		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
+
+		You can exclude this check with the command line option:
+		-x com.google.fonts/check/fontdata_namecheck
+
+		Or you can wait until the service is available again.
+		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
+
+		Original error message:
+		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -3609,7 +4057,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 36 | 293 | 3871 | 225 | 2920 | 0 |
+| 32 | 36 | 293 | 3871 | 193 | 2920 | 0 |
 | 0% | 0% | 4% | 53% | 3% | 40% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
