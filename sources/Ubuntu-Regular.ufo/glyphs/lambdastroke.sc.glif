@@ -2,6 +2,12 @@
 <glyph name="lambdastroke.sc" format="2">
   <advance width="587"/>
   <outline>
+    <contour>
+      <point x="548" y="301" type="line"/>
+      <point x="277" y="212" type="line"/>
+      <point x="297" y="156" type="line"/>
+      <point x="568" y="245" type="line"/>
+    </contour>
     <component base="lambda.sc"/>
   </outline>
   <lib>
@@ -46,6 +52,8 @@
       <string>a.sc</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>a.sc</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fl.sc" format="2">
+  <advance width="666"/>
+  <anchor x="174" y="0" name="bottom_1"/>
+  <anchor x="537" y="0" name="bottom_2"/>
+  <anchor x="442" y="288" name="center"/>
+  <anchor x="174" y="575" name="top_1"/>
+  <anchor x="426" y="575" name="top_2"/>
+  <anchor x="442" y="575" name="topright"/>
+  <outline>
+    <component base="f.sc"/>
+    <component base="l.sc" xOffset="341"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>f.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>l.sc</string>
+    </dict>
+  </lib>
+</glyph>

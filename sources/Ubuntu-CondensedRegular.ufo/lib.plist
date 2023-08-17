@@ -2193,6 +2193,7 @@
       <string>tdotbelow</string>
       <string>istroke.dotless</string>
       <string>jstroke.dotless</string>
+      <string>Idotaccent.c2sc</string>
       <string>idotless_dotbelowcomb.sc</string>
       <string>idotless_ogonekcomb.sc</string>
       <string>idotless_tildebelowcomb.sc</string>
@@ -2200,6 +2201,9 @@
       <string>istroke.sc</string>
       <string>itildebelow.sc</string>
       <string>tdotbelow.sc</string>
+      <string>i.locl.sc</string>
+      <string>fi.sc</string>
+      <string>fl.sc</string>
       <string>ertick-cy.sc</string>
       <string>exclam.c2sc</string>
       <string>exclamdown.c2sc</string>
@@ -4525,5 +4529,10 @@
       <key>zswashtail</key>
       <string>uni0240</string>
     </dict>
+    <key>public.skipExportGlyphs</key>
+    <array>
+      <string>ezhtail.sc</string>
+      <string>lambdastroke.sc</string>
+    </array>
   </dict>
 </plist>

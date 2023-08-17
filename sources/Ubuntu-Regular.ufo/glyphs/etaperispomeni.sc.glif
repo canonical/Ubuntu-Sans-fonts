@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="etaperispomeni.sc" format="2">
-  <advance width="913"/>
-  <anchor x="20" y="580" name="topleft"/>
+  <advance width="623"/>
+  <anchor x="20" y="575" name="topleft"/>
   <anchor x="312" y="0" name="bottom"/>
   <anchor x="312" y="290" name="center"/>
   <outline>
     <component base="eta.sc"/>
-    <component base="iota" xOffset="654"/>
+    <component base="perispomeni" xOffset="124" yOffset="62"/>
   </outline>
   <lib>
     <dict>

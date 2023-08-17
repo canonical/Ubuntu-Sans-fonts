@@ -881,6 +881,7 @@ sub Omegapsilioxiaprosgegrammeni by omegapsilioxiaypogegrammeni.sc;
 sub Omegadasiaoxiaprosgegrammeni by omegadasiaoxiaypogegrammeni.sc;
 sub Omegapsiliperispomeniprosgegrammeni by omegapsiliperispomeniypogegrammeni.sc;
 sub Omegadasiaperispomeniprosgegrammeni by omegadasiaperispomeniypogegrammeni.sc;
+
 sub exclam by exclam.c2sc;
 sub exclamdown by exclamdown.c2sc;
 sub question by question.c2sc;
@@ -914,6 +915,8 @@ sub paragraph by paragraph.c2sc;
 sub section by section.c2sc;
 sub copyright by copyright.c2sc;
 sub registered by registered.c2sc;
+sub Idotaccent by Idotaccent.c2sc;
+
 sub tonos by tonos.sc;
 sub psili by psili.sc;
 sub dasia by dasia.sc;
@@ -948,6 +951,7 @@ sub ijacute by ijacute.sc;
 
 
 sub Ereversed by eturned.sc;
+
 } c2sc;
 
 feature smcp {
@@ -1008,7 +1012,6 @@ sub eturned by eturned.sc;
 sub ezh by ezh.sc;
 sub ezhcaron by ezhcaron.sc;
 sub ezhreversed by ezhreversed.sc;
-sub ezhtail by ezhtail.sc;
 sub f by f.sc;
 sub g by g.sc;
 sub gacute by gacute.sc;
@@ -1056,7 +1059,6 @@ sub kgreenlandic by kgreenlandic.sc;
 sub khook by khook.sc;
 sub l by l.sc;
 sub lacute by lacute.sc;
-sub lambdastroke by lambdastroke.sc;
 sub lbar by lbar.sc;
 sub lcaron by lcaron.sc;
 sub lcommaaccent by lcommaaccent.sc;
@@ -1169,7 +1171,9 @@ sub zcaron by zcaron.sc;
 sub zdotaccent by zdotaccent.sc;
 sub zhook by zhook.sc;
 sub zstroke by zstroke.sc;
-sub i.locl by i.sc;
+sub i.locl by i.locl.sc;
+sub fi by fi.sc;
+sub fl by fl.sc;
 sub a-cy by a-cy.sc;
 sub be-cy by be-cy.sc;
 sub ve-cy by ve-cy.sc;

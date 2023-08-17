@@ -1,7 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_i" format="2">
   <advance width="578"/>
+  <anchor x="109" y="0" name="bottom_1"/>
+  <anchor x="468" y="0" name="bottom_2"/>
   <anchor x="289" y="0" name="caret_1"/>
+  <anchor x="109" y="776" name="top_1"/>
+  <anchor x="468" y="776" name="top_2"/>
   <outline>
     <contour>
       <point x="90" y="0" type="line"/>

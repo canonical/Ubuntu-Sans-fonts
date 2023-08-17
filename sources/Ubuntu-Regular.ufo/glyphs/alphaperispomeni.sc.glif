@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="alphaperispomeni.sc" format="2">
-  <advance width="846"/>
-  <anchor x="20" y="580" name="topleft"/>
+  <advance width="587"/>
+  <anchor x="20" y="575" name="topleft"/>
   <anchor x="294" y="0" name="bottom"/>
   <anchor x="528" y="10" name="ogonek"/>
   <outline>
     <component base="alpha.sc"/>
-    <component base="iota" xOffset="587"/>
+    <component base="perispomeni" xOffset="106" yOffset="62"/>
   </outline>
   <lib>
     <dict>
