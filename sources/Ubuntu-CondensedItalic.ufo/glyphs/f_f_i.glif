@@ -1,8 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_f_i" format="2">
   <advance width="813"/>
-  <anchor x="273" y="0" name="caret_1"/>
-  <anchor x="541" y="0" name="caret_2"/>
+  <anchor x="129" y="0" name="bottom_1"/>
+  <anchor x="419" y="0" name="bottom_2"/>
+  <anchor x="641" y="0" name="bottom_3"/>
+  <anchor x="271" y="0" name="caret_1"/>
+  <anchor x="542" y="0" name="caret_2"/>
+  <anchor x="336" y="776" name="top_1"/>
+  <anchor x="626" y="776" name="top_2"/>
   <outline>
     <component base="f"/>
     <component base="fi" xOffset="295"/>

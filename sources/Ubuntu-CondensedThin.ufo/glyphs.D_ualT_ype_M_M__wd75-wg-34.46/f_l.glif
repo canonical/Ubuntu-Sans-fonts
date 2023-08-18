@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_l" format="2">
-  <advance width="484"/>
+  <advance width="465"/>
   <anchor x="120.277" y="0" name="bottom_1"/>
   <anchor x="363.503" y="0" name="bottom_2"/>
   <anchor x="241.89" y="0" name="caret_1"/>
@@ -10,29 +10,6 @@
   <anchor x="463.78" y="776" name="topright"/>
   <outline>
     <component base="f"/>
-    <component base="l" xOffset="280.915"/>
+    <component base="l" xOffset="263"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>f</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>l</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

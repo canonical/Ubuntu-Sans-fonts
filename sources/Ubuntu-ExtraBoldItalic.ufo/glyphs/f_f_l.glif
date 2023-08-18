@@ -1,8 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_f_l" format="2">
   <advance width="1163"/>
+  <anchor x="219" y="0" name="bottom_1"/>
+  <anchor x="639" y="0" name="bottom_2"/>
+  <anchor x="915" y="0" name="bottom_3"/>
   <anchor x="389" y="0" name="caret_1"/>
   <anchor x="774" y="0" name="caret_2"/>
+  <anchor x="373" y="776" name="top_1"/>
+  <anchor x="786" y="776" name="top_2"/>
+  <anchor x="1075" y="776" name="top_3"/>
+  <anchor x="1191" y="776" name="topright"/>
   <outline>
     <component base="f"/>
     <component base="fl" xOffset="419"/>

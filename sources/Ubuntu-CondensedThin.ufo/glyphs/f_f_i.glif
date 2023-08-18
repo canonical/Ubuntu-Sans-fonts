@@ -1,19 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_f_i" format="2">
   <advance width="722"/>
-  <anchor x="149" y="0" name="bottom_1"/>
-  <anchor x="419" y="0" name="bottom_2"/>
+  <anchor x="98" y="0" name="bottom_1"/>
+  <anchor x="363" y="0" name="bottom_2"/>
   <anchor x="624" y="0" name="bottom_3"/>
   <anchor x="233" y="0" name="caret_1"/>
   <anchor x="507" y="0" name="caret_2"/>
-  <anchor x="148" y="776" name="top_1"/>
-  <anchor x="420" y="776" name="top_2"/>
-  <anchor x="624" y="272" name="center"/>
-  <anchor x="640" y="0" name="ogonek"/>
+  <anchor x="183" y="776" name="top_1"/>
+  <anchor x="455" y="776" name="top_2"/>
   <outline>
     <component base="f"/>
-    <component base="f" xOffset="263"/>
-    <component base="i" xOffset="526"/>
+    <component base="f_i" xOffset="263"/>
   </outline>
   <lib>
     <dict>
@@ -44,33 +41,10 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>f</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>f</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>2</integer>
-          <key>name</key>
-          <string>i</string>
-        </dict>
-      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>f_i</string>
     </dict>
   </lib>
 </glyph>
