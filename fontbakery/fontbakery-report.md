@@ -42,7 +42,7 @@ Fontbakery version: 0.8.13
   - UbuntuCondensed-Bold.ttf (nameID 1)
   - UbuntuCondensed-SemiBoldItalic.ttf (nameID 16)
   - UbuntuCondensed-SemiBold.ttf (nameID 16) [code: inconsistent-family-name]
-</div></details><br></div></details><details><summary><b>[11] Ubuntu-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[9] Ubuntu-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -112,20 +112,6 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 acute_greek.sc (unencoded), dieresistonos (U+0385), grave_greek.sc (unencoded), tonos (U+0384), tonos.sc (unencoded), uni1FBE (U+1FBE), uni1FBF (U+1FBF), uni1FBF.sc (unencoded), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1) and 17 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
-
-
-* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
-	 U+0384, U+0385, U+1FBE, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 6 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Are any segments inordinately short? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_short_segments">com.google.fonts/check/outline_short_segments</a>)</summary><div>
 
 
@@ -162,7 +148,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* uni2713 (U+2713): L<<264.0,222.0>--<279.0,240.0>> -> L<<279.0,240.0>--<615.0,615.0>> 
 
 	* uni2713 (U+2713): L<<91.0,401.0>--<249.0,239.0>> -> L<<249.0,239.0>--<264.0,222.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[10] Ubuntu-LightItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[8] Ubuntu-LightItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -234,20 +220,6 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 acute.asc (unencoded), caron.asc (unencoded), circumflex.asc (unencoded), dieresistonos (U+0385), tonos (U+0384), uni1FBE (U+1FBE), uni1FBF (U+1FBF), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1), uni1FCD (U+1FCD) and 10 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
-
-
-* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
-	 U+0384, U+0385, U+1FBE, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 7 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
 
 
@@ -256,7 +228,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni2713 (U+2713): L<<104.0,353.0>--<292.0,171.0>> -> L<<292.0,171.0>--<296.0,167.0>> 
 
 	* uni2713 (U+2713): L<<296.0,167.0>--<300.0,171.0>> -> L<<300.0,171.0>--<666.0,573.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[10] UbuntuCondensed-MediumItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[8] UbuntuCondensed-MediumItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -319,20 +291,6 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 acute.asc (unencoded), caron.asc (unencoded), circumflex.asc (unencoded), dieresistonos (U+0385), tonos (U+0384), uni1FBE (U+1FBE), uni1FBF (U+1FBF), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1), uni1FCD (U+1FCD) and 10 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
-
-
-* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
-	 U+0384, U+0385, U+1FBE, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 7 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
 
 
@@ -341,7 +299,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni2713 (U+2713): L<<112.0,372.0>--<251.0,203.0>> -> L<<251.0,203.0>--<256.0,196.0>> 
 
 	* uni2713 (U+2713): L<<256.0,196.0>--<261.0,203.0>> -> L<<261.0,203.0>--<540.0,588.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[11] Ubuntu-Light.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[9] Ubuntu-Light.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -415,20 +373,6 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 acute_greek.sc (unencoded), dieresistonos (U+0385), grave_greek.sc (unencoded), tonos (U+0384), tonos.sc (unencoded), uni1FBE (U+1FBE), uni1FBF (U+1FBF), uni1FBF.sc (unencoded), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1) and 17 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
-
-
-* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
-	 U+0384, U+0385, U+1FBE, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 6 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
 
 
@@ -437,7 +381,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni2713 (U+2713): L<<264.0,167.0>--<268.0,171.0>> -> L<<268.0,171.0>--<635.0,573.0>> 
 
 	* uni2713 (U+2713): L<<72.0,353.0>--<260.0,171.0>> -> L<<260.0,171.0>--<264.0,167.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[11] UbuntuCondensed-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[9] UbuntuCondensed-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -507,20 +451,6 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 acute_greek.sc (unencoded), dieresistonos (U+0385), grave_greek.sc (unencoded), tonos (U+0384), tonos.sc (unencoded), uni1FBE (U+1FBE), uni1FBF (U+1FBF), uni1FBF.sc (unencoded), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1) and 17 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
-
-
-* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
-	 U+0384, U+0385, U+1FBE, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 6 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Are any segments inordinately short? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_short_segments">com.google.fonts/check/outline_short_segments</a>)</summary><div>
 
 
@@ -557,7 +487,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* uni2713 (U+2713): L<<234.0,171.0>--<237.0,175.0>> -> L<<237.0,175.0>--<520.0,567.0>> 
 
 	* uni2713 (U+2713): L<<88.0,349.0>--<231.0,175.0>> -> L<<231.0,175.0>--<234.0,171.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[11] UbuntuCondensed-Medium.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[9] UbuntuCondensed-Medium.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -618,20 +548,6 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 acute_greek.sc (unencoded), dieresistonos (U+0385), grave_greek.sc (unencoded), tonos (U+0384), tonos.sc (unencoded), uni1FBE (U+1FBE), uni1FBF (U+1FBF), uni1FBF.sc (unencoded), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1) and 17 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
-
-
-* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
-	 U+0384, U+0385, U+1FBE, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 6 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Are any segments inordinately short? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_short_segments">com.google.fonts/check/outline_short_segments</a>)</summary><div>
 
 
@@ -668,7 +584,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* uni2713 (U+2713): L<<232.0,196.0>--<237.0,203.0>> -> L<<237.0,203.0>--<516.0,588.0>> 
 
 	* uni2713 (U+2713): L<<89.0,372.0>--<227.0,203.0>> -> L<<227.0,203.0>--<232.0,196.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[10] Ubuntu-Medium.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[8] Ubuntu-Medium.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -738,20 +654,6 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 acute_greek.sc (unencoded), dieresistonos (U+0385), grave_greek.sc (unencoded), tonos (U+0384), tonos.sc (unencoded), uni1FBE (U+1FBE), uni1FBF (U+1FBF), uni1FBF.sc (unencoded), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1) and 17 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
-
-
-* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
-	 U+0384, U+0385, U+1FBE, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 6 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
 
 
@@ -760,7 +662,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni2713 (U+2713): L<<264.0,192.0>--<273.0,203.0>> -> L<<273.0,203.0>--<621.0,588.0>> 
 
 	* uni2713 (U+2713): L<<85.0,371.0>--<255.0,202.0>> -> L<<255.0,202.0>--<264.0,192.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[11] UbuntuCondensed-Thin.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[9] UbuntuCondensed-Thin.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -821,20 +723,6 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 acute_greek.sc (unencoded), dieresistonos (U+0385), grave_greek.sc (unencoded), tonos (U+0384), tonos.sc (unencoded), uni1FBE (U+1FBE), uni1FBF (U+1FBF), uni1FBF.sc (unencoded), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1) and 17 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
-
-
-* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
-	 U+0384, U+0385, U+1FBE, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 6 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Are any segments inordinately short? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_short_segments">com.google.fonts/check/outline_short_segments</a>)</summary><div>
 
 
@@ -871,7 +759,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* uni2713 (U+2713): L<<230.0,157.0>--<234.0,163.0>> -> L<<234.0,163.0>--<536.0,586.0>> 
 
 	* uni2713 (U+2713): L<<75.0,361.0>--<226.0,163.0>> -> L<<226.0,163.0>--<230.0,157.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[10] UbuntuCondensed-ExtraLightItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[8] UbuntuCondensed-ExtraLightItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -934,20 +822,6 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 acute.asc (unencoded), caron.asc (unencoded), circumflex.asc (unencoded), dieresistonos (U+0385), tonos (U+0384), uni1FBE (U+1FBE), uni1FBF (U+1FBF), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1), uni1FCD (U+1FCD) and 10 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
-
-
-* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
-	 U+0384, U+0385, U+1FBE, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 7 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
 
 
@@ -956,7 +830,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni2713 (U+2713): L<<251.0,162.0>--<255.0,167.0>> -> L<<255.0,167.0>--<550.0,580.0>> 
 
 	* uni2713 (U+2713): L<<99.0,357.0>--<247.0,167.0>> -> L<<247.0,167.0>--<251.0,162.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[10] Ubuntu-Thin.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[8] Ubuntu-Thin.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -1010,20 +884,6 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 acute_greek.sc (unencoded), dieresistonos (U+0385), grave_greek.sc (unencoded), tonos (U+0384), tonos.sc (unencoded), uni1FBE (U+1FBE), uni1FBF (U+1FBF), uni1FBF.sc (unencoded), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1) and 17 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
-
-
-* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
-	 U+0384, U+0385, U+1FBE, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 6 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
 
 
@@ -1040,7 +900,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni01EB (U+01EB): B<<243.0,-116.0>-<243.0,-62.0>-<313.0,-5.0>>/B<<313.0,-5.0>-<311.0,-6.0>-<306.0,-6.5>> = 12.590382945535127 
 
 	* uni01ED (U+01ED): B<<243.0,-116.0>-<243.0,-62.0>-<313.0,-5.0>>/B<<313.0,-5.0>-<311.0,-6.0>-<306.0,-6.5>> = 12.590382945535127 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[11] Ubuntu-Italic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[9] Ubuntu-Italic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -1112,20 +972,6 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 acute.asc (unencoded), caron.asc (unencoded), circumflex.asc (unencoded), dieresistonos (U+0385), tonos (U+0384), uni1FBE (U+1FBE), uni1FBF (U+1FBF), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1), uni1FCD (U+1FCD) and 10 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
-
-
-* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
-	 U+0384, U+0385, U+1FBE, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 7 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Are any segments inordinately short? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_short_segments">com.google.fonts/check/outline_short_segments</a>)</summary><div>
 
 
@@ -1162,7 +1008,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* uni2713 (U+2713): L<<107.0,349.0>--<287.0,174.0>> -> L<<287.0,174.0>--<291.0,170.0>> 
 
 	* uni2713 (U+2713): L<<291.0,170.0>--<295.0,174.0>> -> L<<295.0,174.0>--<653.0,567.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[11] Ubuntu-SemiBoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[9] Ubuntu-SemiBoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -1218,20 +1064,6 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 acute.asc (unencoded), caron.asc (unencoded), circumflex.asc (unencoded), dieresistonos (U+0385), tonos (U+0384), uni1FBE (U+1FBE), uni1FBF (U+1FBF), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1), uni1FCD (U+1FCD) and 10 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
-
-
-* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
-	 U+0384, U+0385, U+1FBE, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 7 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Are any segments inordinately short? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_short_segments">com.google.fonts/check/outline_short_segments</a>)</summary><div>
 
 
@@ -1280,7 +1112,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* uni01EA (U+01EA): B<<218.0,-130.0>-<218.0,-68.0>-<306.0,-10.0>>/B<<306.0,-10.0>-<304.0,-11.0>-<300.0,-11.0>> = 6.823462399033457 
 
 	* uni01EC (U+01EC): B<<218.0,-130.0>-<218.0,-68.0>-<306.0,-10.0>>/B<<306.0,-10.0>-<304.0,-11.0>-<300.0,-11.0>> = 6.823462399033457 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[11] UbuntuCondensed-ExtraBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[9] UbuntuCondensed-ExtraBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -1341,20 +1173,6 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 acute_greek.sc (unencoded), dieresistonos (U+0385), grave_greek.sc (unencoded), tonos (U+0384), tonos.sc (unencoded), uni1FBE (U+1FBE), uni1FBF (U+1FBF), uni1FBF.sc (unencoded), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1) and 17 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
-
-
-* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
-	 U+0384, U+0385, U+1FBE, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 6 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Are any segments inordinately short? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_short_segments">com.google.fonts/check/outline_short_segments</a>)</summary><div>
 
 
@@ -1391,7 +1209,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* uni2713 (U+2713): L<<229.0,248.0>--<238.0,261.0>> -> L<<238.0,261.0>--<509.0,631.0>> 
 
 	* uni2713 (U+2713): L<<91.0,419.0>--<220.0,261.0>> -> L<<220.0,261.0>--<229.0,248.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[11] UbuntuCondensed-Light.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[9] UbuntuCondensed-Light.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -1452,20 +1270,6 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 acute_greek.sc (unencoded), dieresistonos (U+0385), grave_greek.sc (unencoded), tonos (U+0384), tonos.sc (unencoded), uni1FBE (U+1FBE), uni1FBF (U+1FBF), uni1FBF.sc (unencoded), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1) and 17 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
-
-
-* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
-	 U+0384, U+0385, U+1FBE, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 6 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Are any segments inordinately short? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_short_segments">com.google.fonts/check/outline_short_segments</a>)</summary><div>
 
 
@@ -1502,7 +1306,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* uni2713 (U+2713): L<<233.0,166.0>--<236.0,171.0>> -> L<<236.0,171.0>--<525.0,573.0>> 
 
 	* uni2713 (U+2713): L<<84.0,353.0>--<229.0,171.0>> -> L<<229.0,171.0>--<233.0,166.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[9] Ubuntu-ExtraLightItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[7] Ubuntu-ExtraLightItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -1558,20 +1362,6 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 acute.asc (unencoded), caron.asc (unencoded), circumflex.asc (unencoded), dieresistonos (U+0385), tonos (U+0384), uni1FBE (U+1FBE), uni1FBF (U+1FBF), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1), uni1FCD (U+1FCD) and 10 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
-
-
-* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
-	 U+0384, U+0385, U+1FBE, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 7 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
 
 
@@ -1580,7 +1370,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni2713 (U+2713): L<<100.0,358.0>--<296.0,169.0>> -> L<<296.0,169.0>--<300.0,165.0>> 
 
 	* uni2713 (U+2713): L<<300.0,165.0>--<304.0,169.0>> -> L<<304.0,169.0>--<680.0,580.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[10] UbuntuCondensed-ExtraBoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[8] UbuntuCondensed-ExtraBoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -1643,20 +1433,6 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 acute.asc (unencoded), caron.asc (unencoded), circumflex.asc (unencoded), dieresistonos (U+0385), tonos (U+0384), uni1FBE (U+1FBE), uni1FBF (U+1FBF), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1), uni1FCD (U+1FCD) and 10 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
-
-
-* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
-	 U+0384, U+0385, U+1FBE, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 7 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
 
 
@@ -1665,7 +1441,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni2713 (U+2713): L<<127.0,419.0>--<256.0,261.0>> -> L<<256.0,261.0>--<265.0,248.0>> 
 
 	* uni2713 (U+2713): L<<265.0,248.0>--<274.0,261.0>> -> L<<274.0,261.0>--<545.0,631.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[10] Ubuntu-SemiBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[8] Ubuntu-SemiBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -1719,20 +1495,6 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 acute_greek.sc (unencoded), dieresistonos (U+0385), grave_greek.sc (unencoded), tonos (U+0384), tonos.sc (unencoded), uni1FBE (U+1FBE), uni1FBF (U+1FBF), uni1FBF.sc (unencoded), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1) and 17 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
-
-
-* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
-	 U+0384, U+0385, U+1FBE, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 6 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Are any segments inordinately short? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_short_segments">com.google.fonts/check/outline_short_segments</a>)</summary><div>
 
 
@@ -1769,7 +1531,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* uni2713 (U+2713): L<<264.0,207.0>--<276.0,221.0>> -> L<<276.0,221.0>--<618.0,601.0>> 
 
 	* uni2713 (U+2713): L<<88.0,386.0>--<252.0,221.0>> -> L<<252.0,221.0>--<264.0,207.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[9] UbuntuCondensed-Italic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[7] UbuntuCondensed-Italic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -1825,20 +1587,6 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 acute.asc (unencoded), caron.asc (unencoded), circumflex.asc (unencoded), dieresistonos (U+0385), tonos (U+0384), uni1FBE (U+1FBE), uni1FBF (U+1FBF), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1), uni1FCD (U+1FCD) and 10 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
-
-
-* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
-	 U+0384, U+0385, U+1FBE, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 7 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
 
 
@@ -1847,7 +1595,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni2713 (U+2713): L<<105.0,349.0>--<248.0,175.0>> -> L<<248.0,175.0>--<251.0,171.0>> 
 
 	* uni2713 (U+2713): L<<251.0,171.0>--<254.0,175.0>> -> L<<254.0,175.0>--<537.0,567.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[11] UbuntuCondensed-ExtraLight.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[9] UbuntuCondensed-ExtraLight.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -1908,20 +1656,6 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 acute_greek.sc (unencoded), dieresistonos (U+0385), grave_greek.sc (unencoded), tonos (U+0384), tonos.sc (unencoded), uni1FBE (U+1FBE), uni1FBF (U+1FBF), uni1FBF.sc (unencoded), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1) and 17 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
-
-
-* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
-	 U+0384, U+0385, U+1FBE, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 6 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Are any segments inordinately short? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_short_segments">com.google.fonts/check/outline_short_segments</a>)</summary><div>
 
 
@@ -1956,7 +1690,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 * ⚠ **WARN** The following glyphs have colinear vectors:
 
 	* uni2713 (U+2713): L<<231.0,162.0>--<235.0,167.0>> -> L<<235.0,167.0>--<531.0,580.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[10] Ubuntu-ExtraLight.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[8] Ubuntu-ExtraLight.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -2010,20 +1744,6 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 acute_greek.sc (unencoded), dieresistonos (U+0385), grave_greek.sc (unencoded), tonos (U+0384), tonos.sc (unencoded), uni1FBE (U+1FBE), uni1FBF (U+1FBF), uni1FBF.sc (unencoded), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1) and 17 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
-
-
-* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
-	 U+0384, U+0385, U+1FBE, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 6 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
 
 
@@ -2040,7 +1760,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni01EB (U+01EB): B<<255.5,-61.0>-<273.0,-34.0>-<305.0,-7.0>>/B<<305.0,-7.0>-<303.0,-8.0>-<299.5,-8.5>> = 13.590948447841294 
 
 	* uni01ED (U+01ED): B<<255.5,-61.0>-<273.0,-34.0>-<305.0,-7.0>>/B<<305.0,-7.0>-<303.0,-8.0>-<299.5,-8.5>> = 13.590948447841294 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[9] Ubuntu-ExtraBoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[7] Ubuntu-ExtraBoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -2096,20 +1816,6 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 acute.asc (unencoded), caron.asc (unencoded), circumflex.asc (unencoded), dieresistonos (U+0385), tonos (U+0384), uni1FBE (U+1FBE), uni1FBF (U+1FBF), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1), uni1FCD (U+1FCD) and 10 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
-
-
-* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
-	 U+0384, U+0385, U+1FBE, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 7 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
 
 
@@ -2118,7 +1824,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni2713 (U+2713): L<<124.0,418.0>--<275.0,261.0>> -> L<<275.0,261.0>--<294.0,239.0>> 
 
 	* uni2713 (U+2713): L<<294.0,239.0>--<312.0,262.0>> -> L<<312.0,262.0>--<641.0,631.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[10] UbuntuCondensed-LightItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[8] UbuntuCondensed-LightItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -2181,27 +1887,13 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 acute.asc (unencoded), caron.asc (unencoded), circumflex.asc (unencoded), dieresistonos (U+0385), tonos (U+0384), uni1FBE (U+1FBE), uni1FBF (U+1FBF), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1), uni1FCD (U+1FCD) and 10 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
-
-
-* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
-	 U+0384, U+0385, U+1FBE, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 7 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
 
 
 * ⚠ **WARN** The following glyphs have colinear vectors:
 
 	* uni2713 (U+2713): L<<251.0,166.0>--<254.0,171.0>> -> L<<254.0,171.0>--<544.0,573.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[9] UbuntuCondensed-ThinItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[7] UbuntuCondensed-ThinItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -2257,20 +1949,6 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 acute.asc (unencoded), caron.asc (unencoded), circumflex.asc (unencoded), dieresistonos (U+0385), tonos (U+0384), uni1FBE (U+1FBE), uni1FBF (U+1FBF), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1), uni1FCD (U+1FCD) and 10 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
-
-
-* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
-	 U+0384, U+0385, U+1FBE, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 7 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
 
 
@@ -2279,7 +1957,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni2713 (U+2713): L<<251.0,157.0>--<255.0,163.0>> -> L<<255.0,163.0>--<557.0,586.0>> 
 
 	* uni2713 (U+2713): L<<96.0,361.0>--<247.0,163.0>> -> L<<247.0,163.0>--<251.0,157.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[10] Ubuntu-ExtraBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[8] Ubuntu-ExtraBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -2333,20 +2011,6 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 acute_greek.sc (unencoded), dieresistonos (U+0385), grave_greek.sc (unencoded), tonos (U+0384), tonos.sc (unencoded), uni1FBE (U+1FBE), uni1FBF (U+1FBF), uni1FBF.sc (unencoded), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1) and 17 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
-
-
-* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
-	 U+0384, U+0385, U+1FBE, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 6 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Are any segments inordinately short? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_short_segments">com.google.fonts/check/outline_short_segments</a>)</summary><div>
 
 
@@ -2383,7 +2047,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* uni2713 (U+2713): L<<264.0,239.0>--<282.0,262.0>> -> L<<282.0,262.0>--<611.0,631.0>> 
 
 	* uni2713 (U+2713): L<<94.0,418.0>--<245.0,261.0>> -> L<<245.0,261.0>--<264.0,239.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[11] Ubuntu-BoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[9] Ubuntu-BoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -2455,20 +2119,6 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 acute.asc (unencoded), caron.asc (unencoded), circumflex.asc (unencoded), dieresistonos (U+0385), tonos (U+0384), uni1FBE (U+1FBE), uni1FBF (U+1FBF), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1), uni1FCD (U+1FCD) and 10 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
-
-
-* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
-	 U+0384, U+0385, U+1FBE, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 7 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Are any segments inordinately short? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_short_segments">com.google.fonts/check/outline_short_segments</a>)</summary><div>
 
 
@@ -2509,7 +2159,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* uni2713 (U+2713): L<<120.0,401.0>--<278.0,239.0>> -> L<<278.0,239.0>--<293.0,222.0>> 
 
 	* uni2713 (U+2713): L<<293.0,222.0>--<308.0,240.0>> -> L<<308.0,240.0>--<644.0,615.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[10] UbuntuCondensed-BoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[8] UbuntuCondensed-BoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -2565,20 +2215,6 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 acute.asc (unencoded), caron.asc (unencoded), circumflex.asc (unencoded), dieresistonos (U+0385), tonos (U+0384), uni1FBE (U+1FBE), uni1FBF (U+1FBF), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1), uni1FCD (U+1FCD) and 10 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
-
-
-* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
-	 U+0384, U+0385, U+1FBE, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 7 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
 
 
@@ -2595,7 +2231,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni01EA (U+01EA): B<<169.5,-63.5>-<189.0,-36.0>-<225.0,-9.0>>/B<<225.0,-9.0>-<224.0,-10.0>-<221.0,-10.0>> = 8.13010235415596 
 
 	* uni01EC (U+01EC): B<<169.5,-63.5>-<189.0,-36.0>-<225.0,-9.0>>/B<<225.0,-9.0>-<224.0,-10.0>-<221.0,-10.0>> = 8.13010235415596 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[10] UbuntuCondensed-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[8] UbuntuCondensed-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -2649,20 +2285,6 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 acute_greek.sc (unencoded), dieresistonos (U+0385), grave_greek.sc (unencoded), tonos (U+0384), tonos.sc (unencoded), uni1FBE (U+1FBE), uni1FBF (U+1FBF), uni1FBF.sc (unencoded), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1) and 17 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
-
-
-* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
-	 U+0384, U+0385, U+1FBE, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 6 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Are any segments inordinately short? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_short_segments">com.google.fonts/check/outline_short_segments</a>)</summary><div>
 
 
@@ -2697,7 +2319,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 * ⚠ **WARN** The following glyphs have colinear vectors:
 
 	* uni2713 (U+2713): L<<230.0,229.0>--<238.0,240.0>> -> L<<238.0,240.0>--<512.0,615.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[10] Ubuntu-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[8] Ubuntu-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -2767,20 +2389,6 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 acute_greek.sc (unencoded), dieresistonos (U+0385), grave_greek.sc (unencoded), tonos (U+0384), tonos.sc (unencoded), uni1FBE (U+1FBE), uni1FBF (U+1FBF), uni1FBF.sc (unencoded), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1) and 17 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
-
-
-* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
-	 U+0384, U+0385, U+1FBE, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 6 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
 
 
@@ -2789,7 +2397,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni2713 (U+2713): L<<264.0,170.0>--<268.0,174.0>> -> L<<268.0,174.0>--<626.0,567.0>> 
 
 	* uni2713 (U+2713): L<<80.0,349.0>--<260.0,174.0>> -> L<<260.0,174.0>--<264.0,170.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[10] UbuntuCondensed-SemiBoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[8] UbuntuCondensed-SemiBoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -2852,20 +2460,6 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 acute.asc (unencoded), caron.asc (unencoded), circumflex.asc (unencoded), dieresistonos (U+0385), tonos (U+0384), uni1FBE (U+1FBE), uni1FBF (U+1FBF), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1), uni1FCD (U+1FCD) and 10 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
-
-
-* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
-	 U+0384, U+0385, U+1FBE, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 7 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
 
 
@@ -2874,7 +2468,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 	* uni2713 (U+2713): L<<117.0,387.0>--<252.0,221.0>> -> L<<252.0,221.0>--<259.0,212.0>> 
 
 	* uni2713 (U+2713): L<<259.0,212.0>--<265.0,221.0>> -> L<<265.0,221.0>--<541.0,601.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[11] UbuntuCondensed-SemiBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[9] UbuntuCondensed-SemiBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -2935,20 +2529,6 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 acute_greek.sc (unencoded), dieresistonos (U+0385), grave_greek.sc (unencoded), tonos (U+0384), tonos.sc (unencoded), uni1FBE (U+1FBE), uni1FBF (U+1FBF), uni1FBF.sc (unencoded), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1) and 17 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
-
-
-* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
-	 U+0384, U+0385, U+1FBE, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 6 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Are any segments inordinately short? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_short_segments">com.google.fonts/check/outline_short_segments</a>)</summary><div>
 
 
@@ -2985,7 +2565,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* uni2713 (U+2713): L<<231.0,212.0>--<238.0,221.0>> -> L<<238.0,221.0>--<514.0,601.0>> 
 
 	* uni2713 (U+2713): L<<90.0,387.0>--<225.0,221.0>> -> L<<225.0,221.0>--<231.0,212.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[11] Ubuntu-MediumItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[9] Ubuntu-MediumItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -3057,20 +2637,6 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 acute.asc (unencoded), caron.asc (unencoded), circumflex.asc (unencoded), dieresistonos (U+0385), tonos (U+0384), uni1FBE (U+1FBE), uni1FBF (U+1FBF), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1), uni1FCD (U+1FCD) and 10 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
-
-
-* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
-	 U+0384, U+0385, U+1FBE, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 7 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Are any segments inordinately short? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_short_segments">com.google.fonts/check/outline_short_segments</a>)</summary><div>
 
 
@@ -3111,7 +2677,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* uni2713 (U+2713): L<<113.0,371.0>--<283.0,202.0>> -> L<<283.0,202.0>--<292.0,192.0>> 
 
 	* uni2713 (U+2713): L<<292.0,192.0>--<301.0,203.0>> -> L<<301.0,203.0>--<649.0,588.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[10] Ubuntu-ThinItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[8] Ubuntu-ThinItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -3167,20 +2733,6 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 acute.asc (unencoded), caron.asc (unencoded), circumflex.asc (unencoded), dieresistonos (U+0385), tonos (U+0384), uni1FBE (U+1FBE), uni1FBF (U+1FBF), uni1FC0 (U+1FC0), uni1FC1 (U+1FC1), uni1FCD (U+1FCD) and 8 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
-
-
-* ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
-	 U+0384, U+0385, U+1FBE, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 7 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
 
 
@@ -3205,8 +2757,8 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 34 | 296 | 3865 | 225 | 2925 | 0 |
-| 0% | 0% | 4% | 53% | 3% | 40% | 0% |
+| 0 | 34 | 232 | 3865 | 225 | 2989 | 0 |
+| 0% | 0% | 3% | 53% | 3% | 41% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
