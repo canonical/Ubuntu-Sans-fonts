@@ -2,11 +2,11 @@ from fontParts.world import OpenFont
 import os
 
 fileNames = [
-'Ubuntu-CondensedThin.ufo',
-'Ubuntu-CondensedExtraBold.ufo',
-'Ubuntu-CondensedExtraBoldItalic.ufo',
-'Ubuntu-CondensedLight.ufo',
-'Ubuntu-CondensedLightItalic.ufo',
+'UbuntuSans-CondensedThin.ufo',
+'UbuntuSans-CondensedExtraBold.ufo',
+'UbuntuSans-CondensedExtraBoldItalic.ufo',
+'UbuntuSans-CondensedLight.ufo',
+'UbuntuSans-CondensedLightItalic.ufo',
 ]
 
 basePath = os.path.split(os.path.split(__file__)[0])[0]
