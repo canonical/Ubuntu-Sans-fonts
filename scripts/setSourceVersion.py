@@ -40,8 +40,8 @@ if len(sys.argv) > 1 and sys.argv[1] in ['help', '-h']:
 	
 else:
 	if len(sys.argv) < 2:
-		f = OpenFont(os.path.join(basePath,'sources/Ubuntu-Light.ufo'))
-		print('Version from Ubuntu-Light.ufo: ', f.info.versionMajor, f.info.versionMinor)
+		f = OpenFont(os.path.join(basePath,'sources/UbuntuSans-Light.ufo'))
+		print('Version from UbuntuSans-Light.ufo: ', f.info.versionMajor, f.info.versionMinor)
 		versionString = str(f.info.versionMajor) + '.' + str(f.info.versionMinor)
 	
 
@@ -52,8 +52,8 @@ else:
 			bumpAmount = sys.argv[2]
 		except:
 			bumpAmount = 1
-		f = OpenFont(os.path.join(basePath,'sources/Ubuntu-Light.ufo'))
-		print('Version from Ubuntu-Light.ufo: ', f.info.versionMajor, f.info.versionMinor)
+		f = OpenFont(os.path.join(basePath,'sources/UbuntuSans-Light.ufo'))
+		print('Version from UbuntuSans-Light.ufo: ', f.info.versionMajor, f.info.versionMinor)
 		versionString = str(f.info.versionMajor) + '.' + str(f.info.versionMinor + bumpAmount)
 		print(versionString)
 		f.close()

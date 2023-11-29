@@ -1,14 +1,14 @@
 sources:
-  - Ubuntu.designspace
-  - Ubuntu-Italic.designspace
+  - UbuntuSans.designspace
+  - UbuntuSans-Italic.designspace
 axisOrder:
   - wdth
   - wght
   - ital
-familyName: Ubuntu
+familyName: UbuntuSans
 buildWebfont: false
 stat:
-  Ubuntu[wdth,wght].ttf:
+  UbuntuSans[wdth,wght].ttf:
       - name: Width
         tag: wdth
         values:
@@ -47,7 +47,7 @@ stat:
           value: 0
           linkedValue: 1
           flags: 2
-  Ubuntu-Italic[wdth,wght].ttf:
+  UbuntuSans-Italic[wdth,wght].ttf:
       - name: Width
         tag: wdth
         values:

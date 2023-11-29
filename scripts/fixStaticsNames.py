@@ -28,7 +28,7 @@ def fixStaticNames(fontPath):
     print (fontPath)
 
     if "Condensed" in get_name_record(ttFont, 6):
-        new_familyName = "Ubuntu Condensed"
+        new_familyName = "Ubuntu Sans Condensed"
         new_subFamilyName = get_name_record(ttFont, 17, 2).replace("Condensed", "").lstrip().rstrip()
         new_subFamilyName = new_subFamilyName if new_subFamilyName != "" else 'Regular'
         new_fullname = new_familyName + " " + new_subFamilyName
