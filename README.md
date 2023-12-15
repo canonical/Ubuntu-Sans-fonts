@@ -1,4 +1,4 @@
-# Ubuntu Font Family
+# Ubuntu Sans Font Family
 
 [![][Fontbakery]](https://canonical.github.io/Ubuntu-Sans-fonts/fontbakery/fontbakery-report.html)
 [![][Universal]](https://canonical.github.io/Ubuntu-Sans-fonts/fontbakery/fontbakery-report.html)
