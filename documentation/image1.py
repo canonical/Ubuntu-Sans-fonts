@@ -16,9 +16,9 @@ import argparse
 
 # Constants, these are the main "settings" for the image
 WIDTH, HEIGHT, MARGIN, FRAMES = 2048, 2048, 128, 1
-FONT_PATH = "fonts/variable/Ubuntu[wdth,wght].ttf"
+FONT_PATH = "fonts/variable/UbuntuSans[wdth,wght].ttf"
 FONT_LICENSE = "Ubuntu Font License"
-AUXILIARY_FONT = "Helvetica"
+AUXILIARY_FONT = "fonts/variable/UbuntuSans[wdth,wght].ttf"
 AUXILIARY_FONT_SIZE = 48
 BIG_TEXT = "Aa"
 BIG_TEXT_FONT_SIZE = 1024
@@ -110,6 +110,7 @@ def draw_divider_lines():
 def draw_auxiliary_text():
     # Setup
     font(AUXILIARY_FONT)
+    fontVariations(wdth=70)
     fontSize(AUXILIARY_FONT_SIZE)
     POS_TOP_LEFT = (MARGIN, HEIGHT - MARGIN * 1.5)
     POS_TOP_RIGHT = (WIDTH - MARGIN, HEIGHT - MARGIN * 1.5)
