@@ -10431,10 +10431,17 @@
     </dict>
     <key>public.kern1.PUNCT_quoteleft</key>
     <dict>
+      <key>public.kern2.FIG_fourALT</key>
+      <integer>-80</integer>
       <key>public.kern2.PUNCT_Questiondown</key>
       <integer>-64</integer>
       <key>public.kern2.PUNCT_questiondown</key>
       <integer>-74</integer>
+    </dict>
+    <key>public.kern1.PUNCT_quotesingle</key>
+    <dict>
+      <key>public.kern2.FIG_fourALT</key>
+      <integer>-75</integer>
     </dict>
     <key>public.kern1.cyr_afii10017_uc.sc</key>
     <dict>
