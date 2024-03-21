@@ -11,8 +11,8 @@
   <outline>
     <component base="idotless"/>
     <component base="jdotless" xOffset="224"/>
-    <component base="acutecomb" xOffset="337"/>
     <component base="acutecomb" xOffset="112"/>
+    <component base="acutecomb" xOffset="337"/>
   </outline>
   <lib>
     <dict>
@@ -45,6 +45,14 @@
       </dict>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>acutecomb</string>
+        </dict>
         <dict>
           <key>alignment</key>
           <integer>-1</integer>
